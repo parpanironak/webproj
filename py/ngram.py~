@@ -38,7 +38,6 @@ outdirpath = outf
 deletedir(outdirpath)
 
 wikilines = glob.glob(dirpath+u"*")
-print len(wikilines)
 dirpath
 for infile in wikilines:
     outfilepath = outdirpath + infile.split("\\")[2];

@@ -108,4 +108,4 @@ def start(srcpath, destpath):
         processfile(srcf, destf)
 
 
-processfile("1.txt","1.out_3")
+processfile("wikitext/'03_Bonnie_&_Clyde","1.out_1")
