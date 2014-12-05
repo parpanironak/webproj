@@ -1,5 +1,9 @@
 package edu.nyu.cs.cs2580;
 
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
 /**
  Porter stemmer in Java. The original paper is in
 
@@ -538,14 +542,17 @@ class PorterStemming {
   }
 
   public String stem(String s) {
-    String lower = s.trim().toLowerCase();
-    add(lower.toCharArray(), lower.length());
-    stem();
-    String d = this.toString().trim();
-    if(d.equals("")) {
-      return null;
+    if(s != null && !s.equals("")) {
+      String lower = s.toLowerCase().trim();
+      add(lower.toCharArray(), lower.length());
+      stem();
+      String d = this.toString().trim();
+      if(d.equals("")) {
+        return null;
+      }
+      return d;
     }
-    return d;
+    return null;
     //System.out.println(this.toString());
   }
   
@@ -580,15 +587,42 @@ class PorterStemming {
     Stopwords stWords = new Stopwords();
     //System.out.println(s.stem(args[0] + ' ' + args[1] + ' ' + args[2]));
     //System.out.println(stWords.removeStopWords(args[0] + ' ' + args[1] + ' ' + args[2]));
-    for (int i = 0; i < args.length; i++) {
+    BufferedReader br = null;
+    int i = 0;
+    String[] allStrings = new String[10000];
+    try {
+      br = new BufferedReader(new FileReader(args[0]));
+    } catch (FileNotFoundException e1) {
+      // TODO Auto-generated catch block
+      e1.printStackTrace();
+    }
+    try {
+        StringBuilder sb = new StringBuilder();
+        String line = br.readLine();
+
+        while (line != null) {
+            sb.append(line);
+            sb.append(System.lineSeparator());
+            allStrings[i] = line;
+            line = br.readLine();
+            i++;
+        }
+        String everything = sb.toString();
+    }
+    catch(Exception e) {
+      
+    }
+    for (String str:allStrings) {
       /*String lower = args[i].toLowerCase();
       s.add(lower.toCharArray(), lower.length());
       s.stem();
       System.out.println(s.toString());*/
-      String string = s.stem(args[i]);
-      System.out.println(string);
-      string = stWords.removeStopWords(string);
-      System.out.println(string);
+      String string = s.stem(str);
+      //System.out.println(string);
+      if(string != null) {
+        string = stWords.removeStopWords(string);
+      }
+      //System.out.println(string);
       if(string != null) {
         string = stWords.removeStemmedStopWords(string);
         System.out.println(string);

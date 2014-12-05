@@ -19,7 +19,7 @@ public class trietest {
 		t.put("RC244", "RC244");
 		t.put("RC2345", "RC2345");
 	
-		System.out.println(t.prefixMap("RC23"));
+		System.out.println(t.prefixMap("ro"));
 		
 	}
 }

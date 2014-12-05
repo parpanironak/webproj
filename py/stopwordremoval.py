@@ -1,6 +1,7 @@
 from __future__ import print_function
 from glob import glob
 import re
+import os
 
 from stemming.porter2 import step_0, step_1a, step_1b, step_1c, get_r1, get_r2, exceptional_early_exit_post_1a, exceptional_forms, capitalize_consonant_ys, normalize_ys
 
@@ -41,7 +42,9 @@ stopwords = set([u"&","a", "as", "able", "about", "above", "according", "accordi
        "welcome", "well", "went", "were", "werent", "what", "whats", "whatever", "when", "whence", "whenever", "where", "wheres", "whereafter",
        "whereas", "whereby", "wherein", "whereupon", "wherever", "whether", "which", "while", "whither", "who", "whos", "whoever", "whole", "whom",
        "whose", "why", "will", "willing", "wish", "with", "within", "without", "wont", "wonder", "would", "would", "wouldnt", "yes", "yet", "you",
-       "youd", "youll", "youre", "youve", "your", "yours", "yourself", "yourselves", "zero"])
+       "youd", "youll", "youre", "youve", "your", "yours", "yourself", "yourselves", "zero",
+        "http","upload","wikimedia","org","wikipedia"
+       ])
 
 
 def stem(word):
@@ -52,13 +55,13 @@ def stem(word):
     r1 = get_r1(word)
     r2 = get_r2(word)
     word = step_0(word)
-    word = step_1a(word)
+    #word = step_1a(word)
 
     # handle some more exceptional forms
     if word in exceptional_early_exit_post_1a:
         return word
 
-    word = step_1b(word, r1)
+    #word = step_1b(word, r1)
     word = normalize_ys(word)
     return word
 
@@ -67,17 +70,26 @@ def deletedir(path):
     for f in filelist:
         os.remove(path+f)
 
+
+def is_number(s):
+    try:
+        float(s)
+        return True
+    except ValueError:
+        return False
+
 def removestopwords(sent):
     sent = sent.lower()
     newsent = ""
     for i in sent.split():
-         i = stem(i)
-         if i not in stopwords:
-            if len(i) > 2:
-                if newsent == "":
-                    newsent = i
-                else:
-                    newsent = newsent + ' ' + i
+        #i = stem(i)
+        if not is_number(i):
+            if i not in stopwords :
+                if len(i) > 2:
+                    if newsent == "":
+                        newsent = i
+                    else:
+                        newsent = newsent + ' ' + i
 
     return newsent
 
@@ -87,7 +99,10 @@ def processfile(src, dest):
     destf = open(dest, 'a+')
 
     for line in srcf:
+        line = line.lower()
+        line = re.sub(r"['][dms]{0,1}", "", line)
         line = re.sub(r"[']", "", line)
+        line = re.sub(r"[*]", "", line)
         line = removestopwords(line)
         if len(line) > 1:
             print(line, file=destf)
@@ -97,7 +112,8 @@ def processfile(src, dest):
 
 def start(srcpath, destpath):
     deletedir(destpath)
-    filelist = glob.glob(srcpath+u"*")
+
+    filelist = glob(srcpath+u"*")
 
     for f in filelist:
         filename = f.split('\\')[2];
@@ -108,4 +124,8 @@ def start(srcpath, destpath):
         processfile(srcf, destf)
 
 
+<<<<<<< HEAD
 processfile("1.txt","1.out_3")
+=======
+start(u"D:\\wikitextonly\\", u"D:\\wikitext\\")
+>>>>>>> 7f2670d9ea25094b7e1862de21cd6b273c6cd275
