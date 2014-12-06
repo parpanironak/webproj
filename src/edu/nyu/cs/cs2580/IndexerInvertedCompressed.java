@@ -12,13 +12,10 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.BitSet;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.ArrayList;
-import java.util.Map;
 import java.util.Scanner;
 import java.util.Vector;
 
@@ -136,15 +133,19 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
   private HashMap<String,PostingList> index = new HashMap<String,PostingList>();
   private HashMap<String,SkipPointer> skippointermap = new HashMap<String, SkipPointer>();
 
-  private HashMap<Integer,String> stringIdToWordMap = new HashMap<Integer,String>();
-  private List<HashMap<Integer,LinkedHashMap<Integer,Integer>>> auxilliaryIndex = new ArrayList<HashMap<Integer,LinkedHashMap<Integer,Integer>>>();
   
+  private HashMap<String,Integer> skipnumberlist = new HashMap<String,Integer>();
+  private HashMap<String,Integer> posinpostinglist = new HashMap<String,Integer>();
+  private HashMap<String,Integer> lastdocinserted = new HashMap<String,Integer>();
+  private HashMap<String,Integer> allWords = new HashMap<String,Integer>();
+  
+  private HashMap<Integer,String> stringIdToWordMap = new HashMap<Integer,String>();
+ 
   ArrayList<Double> pagerank = null;
   ArrayList<Integer> numviews = null;
   
   private int skipSteps;
-  private int maxDocs;
-
+  
   public IndexerInvertedCompressed(Options options) {
     super(options);
     System.out.println("Using Indexer: " + this.getClass().getSimpleName());
@@ -155,12 +156,15 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
   public void constructIndex() throws IOException 
   {
 	    long x = (System.currentTimeMillis());
-	    maxDocs = _options.maxDocs;
-	    
 	    CorpusAnalyzer analyzer = CorpusAnalyzer.Factory.getCorpusAnalyzerByOption(SearchEngine.OPTIONS);
 	    pagerank = (ArrayList<Double>)analyzer.load();
 	    LogMiner miner = LogMiner.Factory.getLogMinerByOption(SearchEngine.OPTIONS);
 	    numviews = (ArrayList<Integer>)miner.load();
+	    
+	    skipnumberlist = new HashMap<String,Integer>();
+	    posinpostinglist = new HashMap<String,Integer>();
+	    lastdocinserted = new HashMap<String,Integer>();
+	    allWords = new HashMap<String,Integer>();
 	    
 	    skipSteps = _options.skips;
 	    try {
@@ -249,7 +253,6 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
 	    this.stringIdToWordMap = (HashMap<Integer, String>) reader.readObject();
 	    reader.close();
 	
-	    this.maxDocs = _options.maxDocs;
 	    x = (System.currentTimeMillis() - x)/1000/60;
 	    System.out.println("Time to load:" + x + " mins.");
   }
@@ -437,24 +440,17 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
     String corpusDirectoryString = _options._corpusPrefix;
     System.out.println("Construct index from: " + corpusDirectoryString);
 
-    HashMap<String,Integer> skipnumberlist = new HashMap<String,Integer>();
-    HashMap<String,Integer> posinpostinglist = new HashMap<String,Integer>();
-    HashMap<String,Integer> lastdocinserted = new HashMap<String,Integer>();
-    HashMap<String,Integer> allWords = new HashMap<String,Integer>();
-
     final File corpusDirectory = new File(corpusDirectoryString);
     int i = 0;
-    int docIdIndex = 0;
-    String auxilliaryIndexFilePrefix = _options._indexPrefix + _options._aux_index_file;
-    
-    auxilliaryIndex.add(new HashMap<Integer,LinkedHashMap<Integer,Integer>>());
     
     for (final File fileEntry : corpusDirectory.listFiles()) 
     {
 
       if(i == 100)
         break;
+      
       //i++;
+      
       if (!fileEntry.isDirectory()) 
       {
         String url = fileEntry.getName();
@@ -464,7 +460,6 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
         Element head = doc.select("h1[id=firstHeading]").first();
         if(head != null && head.text() != null) 
         {
-          //System.out.println(head.text().trim());
           title = head.text().trim();
           sb.append(title.toLowerCase());
           sb.append(' ');
@@ -474,20 +469,9 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
         for (Element elem : content_text) 
         {
           Elements paras = elem.getElementsByTag("p");
-          //            Elements headers = elem.getElementsByTag("h2");
-          //  
-          //            for (Element header : headers) 
-          //            {
-          //              Element firsthead = header.getElementsByClass("mw-headline").first();
-          //              if(firsthead != null) 
-          //              {
-          //                sb.append(firsthead.text());
-          //                sb.append(' ');
-          //              }
-          //            }
+          
           for (Element para : paras) 
           {
-            //System.out.println(para.text().trim());
             if(para.text() != null) 
             {
               sb.append(para.text());
@@ -497,50 +481,54 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
         } 
         doc = null;
         int docid = createDocument(title, url);
-        processDocument(docid, sb.toString().toLowerCase().replaceAll("[^a-zA-Z0-9 ]", " "),
-            skipnumberlist, 
-            posinpostinglist, 
-            lastdocinserted,
-            allWords,
-            docIdIndex);
-
-
-        /*if(docid % 1000 == 0)
-        {
-          System.out.println(docid);
-          //System.gc();
-        }*/
-
-        if((docid + 1) % maxDocs == 0) {
-          //System.out.println("Storing index for doc id " + (docIdIndex * maxDocs) + " to " + docid);
-          String auxilliaryIndexFile = auxilliaryIndexFilePrefix + "_" + docIdIndex;
-          ObjectOutputStream writer = new ObjectOutputStream(
-              new FileOutputStream(auxilliaryIndexFile));
-          writer.writeObject(auxilliaryIndex.get(docIdIndex));
-          writer.close();
-          auxilliaryIndex.get(docIdIndex).clear();
-          auxilliaryIndex.add(new HashMap<Integer,LinkedHashMap<Integer,Integer>>());
-          docIdIndex++;
-        }
+        processDocument(docid, sb.toString().toLowerCase().replaceAll("[^a-zA-Z0-9 ]", " "));
         
         if((docid+1)%_options.indexdocsplit == 0)
           flushIndex(docid/_options.indexdocsplit);
       }
     }
-    if(auxilliaryIndex.size() > 0) {
-      //System.out.println("Storing index for doc id " 
-      //    + (docIdIndex * maxDocs) + " to " + _documents.size());
-      String auxilliaryIndexFile = auxilliaryIndexFilePrefix + "_" + docIdIndex;
-      ObjectOutputStream writer = new ObjectOutputStream(
-          new FileOutputStream(auxilliaryIndexFile));
-      writer.writeObject(auxilliaryIndex.get(docIdIndex));
-      writer.close();
-      auxilliaryIndex.get(docIdIndex).clear();
-      //auxilliaryIndex = new ArrayList<LinkedHashMap<Integer,Integer>>();
-    }
-    allWords.clear();
     if(index.size() != 0)
       flushIndex(_numDocs/_options.indexdocsplit);
+  }
+  
+  
+  public void simpleparse() throws IOException
+  {
+	  String corpusDirectoryString = _options._corpusPrefix;
+	    System.out.println("Construct index from: " + corpusDirectoryString);
+	    
+	    final File corpusDirectory = new File(corpusDirectoryString);
+
+	    
+	    for (final File fileEntry : corpusDirectory.listFiles()) 
+	    {
+	    	Scanner sc = new Scanner(fileEntry);
+	    	StringBuilder sb = new StringBuilder(); 
+	    	if(sc.hasNext())
+	    	{	
+	    		String title = sc.nextLine();
+	    		String url = fileEntry.getName();
+	    		
+	    		int docid = createDocument(title, url);
+	    		while(sc.hasNext())
+	    		{	
+	    			sb.append(sc.nextLine());
+	    			sb.append(' ');
+	    		}
+	    		
+	    		processDocument(docid, sb.toString().trim());
+	    		
+	    		if((docid+1)%_options.indexdocsplit == 0)
+	    		{
+	    			flushIndex(docid/_options.indexdocsplit);
+	    		}
+	    	}
+	    	sc.close();    	
+	    	
+	    }
+	    
+	    if(index.size() != 0)
+	        flushIndex(_numDocs/_options.indexdocsplit);
   }
   
   private void flushIndex(int id) throws FileNotFoundException, IOException
@@ -573,22 +561,12 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
     return docid;
   }
 
-  private void processDocument(int docid, String content,
-      HashMap<String,Integer> skipnumberlist, 
-      HashMap<String,Integer> posinpostinglist, 
-      HashMap<String,Integer> lastdocinserted,
-      HashMap<String,Integer> allWords,
-      int indexIndex) 
+  private void processDocument(int docid, String content) 
   {
     HashMap<String, List<Integer>> tokens = new HashMap<String, List<Integer>>();
     //double normfactor = 0; 
 
-    int totalwords = readTermVector(docid, content,
-        skipnumberlist, 
-        posinpostinglist, 
-        lastdocinserted,
-        allWords,
-        indexIndex);
+    int totalwords = readTermVector(docid, content);
 
     //updateIndex(tokens, docid);   
 
@@ -596,20 +574,12 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
     d.set_numwords(totalwords);
     for(String token: tokens.keySet()) 
     {
-      //        int x = tokens.get(token).get(0);
-      //        normfactor += x * x;
       index.get(token).increaseCorpusDocFreqency();
     }     
   }
 
 
-  private int readTermVector(int docid, String content,
-      HashMap<String,Integer> skipnumberlist, 
-      HashMap<String,Integer> posinpostinglist, 
-      HashMap<String,Integer> lastdocinserted,
-      HashMap<String,Integer> allWords,
-      int indexIndex
-      ) 
+  private int readTermVector(int docid, String content) 
   {
     HashMap<String, List<Integer>> tokens = new HashMap<String, List<Integer>>();
 
@@ -678,36 +648,13 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
       wordcount++;
     }
     s.close();
-    //sort the map based on value and store
-    //in linked hashmap in that order
-    List<Map.Entry<Integer, Integer>> entries =
-        new ArrayList<Map.Entry<Integer, Integer>>(stringToCountMap.entrySet());
-    Collections.sort(entries, new Comparator<Map.Entry<Integer, Integer>>() {
-      public int compare(Map.Entry<Integer, Integer> a, Map.Entry<Integer, Integer> b){
-        //intentionally comparing b to a to sort in decreasing order
-        return b.getValue().compareTo(a.getValue());
-      }
-    });
-
-    stringToCountMap.clear();
-    stringToCountMap = new LinkedHashMap<Integer,Integer>();
-    for(Map.Entry<Integer, Integer> entry:entries) {
-      stringToCountMap.put(entry.getKey(),entry.getValue());
-    }
-    auxilliaryIndex.get(indexIndex).put(docid,stringToCountMap);
-    updateIndex(tokens, docid,
-        skipnumberlist, 
-        posinpostinglist, 
-        lastdocinserted);
+    
+    updateIndex(tokens, docid);
 
     return wordcount-1;
   }
 
-  private void updateIndex( HashMap<String,List<Integer>> tokens, int docid,
-      HashMap<String,Integer> skipnumberlist, 
-      HashMap<String,Integer> posinpostinglist, 
-      HashMap<String,Integer> lastdocinserted
-      ) 
+  private void updateIndex( HashMap<String,List<Integer>> tokens, int docid) 
   {
     for(String word : tokens.keySet()) 
     {

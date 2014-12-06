@@ -308,7 +308,8 @@ public class LogSimulation {
 				  int n = (int)(phrases.size() * docsamplefactor);
 				  sample(counts, phrases, n, selectedcounts, selectedphrases);
 				  
-
+			
+				  
 				  String filename = fileentry.getName();
 				  int fileid = linkdocid_map.get(filename);
 				  int views = numviews.get(fileid);
