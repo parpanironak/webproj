@@ -282,6 +282,10 @@ public class LogSimulation {
 				ArrayList<String> selectedphrases  = new ArrayList<String>();
 				ArrayList<Integer> selectedcounts = new ArrayList<Integer>();
 				
+				ArrayList<String> selectedphrases2  = new ArrayList<String>();
+				ArrayList<Integer> selectedcounts2 = new ArrayList<Integer>();
+				
+				
 				loadFile(fileentry, phrases, counts);
 				
 				if(phrases.size() > 0) {
@@ -295,10 +299,10 @@ public class LogSimulation {
 				  
 				  ArrayList<Integer> viewdistribution = getEmptyList(selectedcounts.size());
 				  
-				  fixedviews = (int)((fixedviews * selectedcounts.size() * 1.0)/(maxtopdocs));
+				  int fixedviews1 = (int)((fixedviews * selectedcounts.size() * 1.0)/(maxtopdocs))/2;
 				  
 				  if(selectedcounts.size() > 0) {
-					    simulate(fixedviews, viewdistribution, selectedcounts);
+					    simulate(fixedviews1, viewdistribution, selectedcounts);
 					    //updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
 				  }
 				  
@@ -306,19 +310,28 @@ public class LogSimulation {
 				  
 				  
 				  int n = (int)(phrases.size() * docsamplefactor);
-				  sample(counts, phrases, n, selectedcounts, selectedphrases);
+				  sample(counts, phrases, n, selectedcounts2, selectedphrases2);
 
-				  while(viewdistribution.size()<selectedcounts.size())
-				  {
-				    viewdistribution.add(0);
+				  ArrayList<Integer> viewdistribution2 = getEmptyList(selectedcounts2.size());
+				  
+				  int fixedviews2 = 2*selectedcounts2.size() < fixedviews/2 ? 2*selectedcounts2.size() : fixedviews/2;
+				  
+				  if(selectedcounts.size() > 0) {
+					    simulate(fixedviews2, viewdistribution2, selectedcounts2);
+					    //updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
 				  }
-
+				  
+				  
 				  String filename = fileentry.getName();
 				  int fileid = linkdocid_map.get(filename);
 				  int views = numviews.get(fileid);
 				  
 				  totalViews += views;
 
+				  selectedphrases.addAll(selectedphrases2);
+				  selectedcounts.addAll(selectedcounts2);
+				  viewdistribution.addAll(viewdistribution2);
+				  
 				  if(selectedcounts.size() > 0) {
 				    simulate(views, viewdistribution, selectedcounts);
 				    updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
@@ -367,8 +380,8 @@ public class LogSimulation {
 		try {
 			simulation.startsimulation("D:/files/", 
 					"D:/logs.txt",
-					10,
-					10,
+					15,
+					20,
 					90,
 					0.001,
 					0.3);
