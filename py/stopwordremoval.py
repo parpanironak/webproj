@@ -81,15 +81,16 @@ def is_number(s):
 def removestopwords(sent):
     sent = sent.lower()
     newsent = ""
-    for i in sent.split():
-        #i = stem(i)
-        if not is_number(i):
-            if i not in stopwords :
-                if len(i) > 2:
-                    if newsent == "":
-                        newsent = i
-                    else:
-                        newsent = newsent + ' ' + i
+    for word in sent.split():
+        #word = re.sub(r"[^a-zA-Z0-9","",word)
+        if not is_number(word):
+            if word not in stopwords :
+                if not re.match("[^a-zA-Z0-9\-\*\+]",word):
+                    if len(word) > 2:
+                        if newsent == "":
+                            newsent = word
+                        else:
+                            newsent = newsent + ' ' + word
 
     return newsent
 
