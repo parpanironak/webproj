@@ -25,30 +25,53 @@ def writetofile(ngrams, opfile):
                 print(ng, file=the_file)
     except Exception:
         print("cannot write %s" % opfile)
+        
+def writeToFile(sorted_words, opfile):
+    try:
+        the_file = open(opfile, 'a+')
+        for t in sorted_words:
+            print(t[0] + '\t' + str(t[1]), file=the_file)
+        the_file.close()
+    except Exception:
+        print("cannot write %s" % opfile)
+        print(traceback.format_exc())
 
 import sys
+import collections
+import operator
+import traceback
 
-inf = sys.argv[0]
-outf = sys.argv[1]
-n = int(sys.argv[2])
+inf = sys.argv[1]
+outf = sys.argv[2]
+maxN = int(sys.argv[3])
 
 dirpath = inf
 outdirpath = outf
 
+if not os.path.exists(outdirpath):
+    os.makedirs(outdirpath)
 deletedir(outdirpath)
 
 wikilines = glob.glob(dirpath+u"*")
-print len(wikilines)
-dirpath
-for infile in wikilines:
-    outfilepath = outdirpath + infile.split("\\")[2];
-    in_file = None
+print(len(wikilines))
 
+for infile in wikilines:
+    allNames = infile.split("/")
+    outfilepath = outdirpath + allNames[len(allNames)-1]
+    #print(outfilepath)
+    in_file = None
     try:
+        allWords = collections.defaultdict(int)
         in_file = open(infile, 'r');
         for line in in_file:
-            ng = getngramlist(n, line)
-            writetofile(ng, outfilepath)
+            for n in range(1,maxN+1):
+                ng = getngramlist(n, line)
+                for phrase in ng:
+                    allWords[phrase] = allWords[phrase] + 1
+                #writetofile(ng, outfilepath)
+        in_file.close();
+        sorted_words = sorted(allWords.items(), key=operator.itemgetter(1), reverse=True)
+        writeToFile(sorted_words, outfilepath)
 
     except Exception:
         print("cannot open %s" % infile)

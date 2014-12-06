@@ -5,10 +5,11 @@ import glob
 import os
 import re
 
-dirpath = u"D:\\wiki\\"
-opdirpath = u"D:\\wikitextonly\\"
-errorfile = u"D:\\error.txt"
+dirpath = u"data/wiki/"
+opdirpath = u"data/wikitextlinux/"
+errorfile = u"data/errors.txt"
 wiki = glob.glob(dirpath+u"*")
+print(len(wiki))
 error = open(errorfile, 'w+')
 
 def deletedir(path):
@@ -21,8 +22,8 @@ deletedir(opdirpath);
 for file in wiki:
 
     filepath = file;
-    file = file.split('\\')[2];
-    opfilepath = opdirpath + file;
+    allNames = file.split("/")
+    opfilepath = opdirpath + allNames[len(allNames)-1]
     soup = None
     try:
         soup = bs(open(filepath))

@@ -116,16 +116,14 @@ def start(srcpath, destpath):
     filelist = glob(srcpath+u"*")
 
     for f in filelist:
-        filename = f.split('\\')[2];
+        allNames = f.split("/")
+        filename = allNames[len(allNames)-1]
 
-        srcf = srcpath + "\\" + filename
-        destf = destpath + "\\" + filename
+        srcf = srcpath + filename
+        destf = destpath + filename
 
         processfile(srcf, destf)
 
 
-<<<<<<< HEAD
-processfile("1.txt","1.out_3")
-=======
-start(u"D:\\wikitextonly\\", u"D:\\wikitext\\")
->>>>>>> 7f2670d9ea25094b7e1862de21cd6b273c6cd275
+#processfile("1.txt","1.out_3")
+start('data/wikitextlinux/','data/wikitext/')
