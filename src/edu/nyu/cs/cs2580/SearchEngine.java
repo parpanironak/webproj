@@ -233,7 +233,7 @@ public class SearchEngine {
     Indexer indexer = Indexer.Factory.getIndexerByOption(SearchEngine.OPTIONS);
     Check(indexer != null,
         "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
-    //indexer.constructIndex();
+    indexer.constructIndex();
     QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
     qindexer.constructIndex();
   }
@@ -255,7 +255,7 @@ public class SearchEngine {
     // Establish the serving environment
     InetSocketAddress addr = new InetSocketAddress(SearchEngine.PORT);
     HttpServer server = HttpServer.create(addr, -1);
-    server.createContext("/", handler);
+    server.createContext("/search", handler);
     server.createContext("/instant",instantHandler);
     server.setExecutor(Executors.newCachedThreadPool());
     server.start();

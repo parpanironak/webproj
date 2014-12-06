@@ -365,8 +365,8 @@ public class LogSimulation {
 			e1.printStackTrace();
 		}
 		try {
-			simulation.startsimulation("D:/files/", 
-					"D:/logs.txt",
+			simulation.startsimulation("data/ngramswikitext", 
+					"data/simulatedlogs.txt",
 					10,
 					10,
 					90,

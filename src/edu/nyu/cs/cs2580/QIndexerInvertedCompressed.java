@@ -182,7 +182,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   
   
       
-      File f = new File(_options._indexPrefix + "totalwordsincorpus.long");
+      File f = new File(_options._indexPrefix + "qtotalwordsincorpus.long");
       FileWriter fw = new FileWriter(f.getAbsoluteFile());
       BufferedWriter bw = new BufferedWriter(fw);
       bw.write(Long.toString(totalwordsincorpus));
@@ -198,17 +198,17 @@ public class QIndexerInvertedCompressed implements Serializable{
       
       ObjectOutputStream writer = null;
   
-      indexFile = _options._indexPrefix + "skippointer.map";
+      indexFile = _options._indexPrefix + "qskippointer.map";
       writer = new ObjectOutputStream(new FileOutputStream(indexFile));
       writer.writeObject(this.skippointermap);
       writer.close();
   
-      indexFile = _options._indexPrefix + "doc.list";
+      indexFile = _options._indexPrefix + "qdoc.list";
       writer = new ObjectOutputStream(new FileOutputStream(indexFile));
       writer.writeObject(this._documents);
       writer.close();
   
-      indexFile = _options._indexPrefix + "wordids.map";
+      indexFile = _options._indexPrefix + "qwordids.map";
       writer = new ObjectOutputStream(new FileOutputStream(indexFile));
       writer.writeObject(this.stringIdToWordMap);
       writer.close();
@@ -227,7 +227,7 @@ public class QIndexerInvertedCompressed implements Serializable{
       System.out.println("Load index from: " + indexFile);
       this.skipSteps = _options.skips;
   
-      Scanner sc = new Scanner(new File(_options._indexPrefix + "totalwordsincorpus.long"));
+      Scanner sc = new Scanner(new File(_options._indexPrefix + "qtotalwordsincorpus.long"));
       this.totalwordsincorpus = sc.nextLong();
       this._numDocs = sc.nextInt();
       this.totalnumviews = sc.nextLong();
@@ -240,12 +240,12 @@ public class QIndexerInvertedCompressed implements Serializable{
       this._documents = (Vector<QDocument>) reader.readObject();
       reader.close();
   
-      indexFile = _options._indexPrefix + "skippointer.map";
+      indexFile = _options._indexPrefix + "qskippointer.map";
       reader = new ObjectInputStream(new FileInputStream(indexFile));
       this.skippointermap = (HashMap<String, SkipPointer>) reader.readObject();
       reader.close();
   
-      indexFile = _options._indexPrefix + "wordids.map";
+      indexFile = _options._indexPrefix + "qwordids.map";
       reader = new ObjectInputStream(new FileInputStream(indexFile));
       this.stringIdToWordMap = (HashMap<Integer, String>) reader.readObject();
       reader.close();
