@@ -378,17 +378,10 @@ public class LogSimulation {
 			e1.printStackTrace();
 		}
 		try {
-<<<<<<< HEAD
 			simulation.startsimulation("data/ngramswikitext", 
 					"data/simulatedlogs.txt",
-					10,
-					10,
-=======
-			simulation.startsimulation("D:/files/", 
-					"D:/logs.txt",
 					15,
 					20,
->>>>>>> 3cde0ebdf4e014494f253217614ef9e955aaf322
 					90,
 					0.001,
 					0.3);
