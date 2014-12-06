@@ -334,6 +334,7 @@ public class QIndexerInvertedCompressed implements Serializable{
     }
 
     QDocument doci = getQDocument(getDoc(docids[0]));
+    doci.setPosting(returnposting);
     return doci;
   }
   
