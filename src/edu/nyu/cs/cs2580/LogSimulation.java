@@ -208,12 +208,67 @@ public class LogSimulation {
 		
 	}
 	
-	public void startsimulation(String srcdir, String destfile) throws IOException
+	public void selectTopPhrases(ArrayList<String> phrases,
+			ArrayList<Integer> counts,
+			int percent,
+			int maxdocs,
+			ArrayList<String> selectedphrases,
+			ArrayList<Integer> selectedcounts)
+	{
+		if(maxdocs > ((percent/100.0)*counts.size()))
+		{
+			maxdocs = (int) (Math.ceil((percent/100.0)*counts.size()));
+		}
+		
+		for(int i = 0; i < maxdocs; i ++)
+		{
+			int count = counts.remove(0);
+			String phrase = phrases.remove(0);
+			
+			selectedcounts.add(count);
+			selectedphrases.add(phrase);
+		}
+	}
+	
+	public void removeBottomPhrases(ArrayList<String> phrases, 
+			ArrayList<Integer> counts, 
+			double probability)
+	{
+		int totalfreq = 0;
+		
+		for(int count : counts)
+		{
+			totalfreq += count;
+		}
+		
+		int mincount = (int)(probability * totalfreq);
+		
+		int i = 0;
+		for(; i < phrases.size(); i++)
+		{
+			int count = counts.get(i);
+			
+			if(mincount > count)
+				break;
+		}
+		
+		for(; i < phrases.size();)
+		{
+			counts.remove(i);
+			phrases.remove(i);
+		}
+	}
+	
+	public void startsimulation(String srcdir, 
+			String destfile, 
+			int topdocspercent, 
+			int maxtopdocs,
+			int fixedviews,
+			double removeprobability,
+			double docsamplefactor) throws IOException
 	{
 		File dir = new File(srcdir);
-		
 		int mkdf = 0;
-		
 		HashMap<String, Pair> logs = new HashMap<String, LogSimulation.Pair>();
 		
 		long totalViews = 0;
@@ -228,11 +283,31 @@ public class LogSimulation {
 				ArrayList<Integer> selectedcounts = new ArrayList<Integer>();
 				
 				loadFile(fileentry, phrases, counts);
-				///
+				
 				if(phrases.size() > 0) {
-				  int n = (int)(phrases.size() * 0.5);
-				  sample(counts, phrases, n, selectedcounts, selectedphrases);
+					
+				  selectTopPhrases(phrases,
+						  counts, 
+						  topdocspercent, 
+						  maxtopdocs, 
+						  selectedphrases, 
+						  selectedcounts);
+				  
 				  ArrayList<Integer> viewdistribution = getEmptyList(selectedcounts.size());
+				  
+				  fixedviews = (int)((fixedviews * selectedcounts.size() * 1.0)/(maxtopdocs));
+				  
+				  if(selectedcounts.size() > 0) {
+					    simulate(fixedviews, viewdistribution, selectedcounts);
+					    updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
+				  }
+				  
+				  removeBottomPhrases(phrases, counts, removeprobability);
+				  
+				  
+				  int n = (int)(phrases.size() * docsamplefactor);
+				  sample(counts, phrases, n, selectedcounts, selectedphrases);
+				  
 
 				  String filename = fileentry.getName();
 				  int fileid = linkdocid_map.get(filename);
@@ -242,7 +317,6 @@ public class LogSimulation {
 
 				  if(selectedcounts.size() > 0) {
 				    simulate(views, viewdistribution, selectedcounts);
-
 				    updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
 				  }
 				}
@@ -251,56 +325,53 @@ public class LogSimulation {
 				  break;
 				}
 			}
+			
+			File dest = new File(destfile);
+			FileWriter fw = new FileWriter(dest.getAbsoluteFile(),false);
+			BufferedWriter bw = new BufferedWriter(fw);
+			Set<String> keys = logs.keySet();
+			for(String key: keys)
+			{
+			  Pair p = logs.get(key);
+			  //if(p.getNumviews() > 0) {
+			    bw.write(key);
+			    bw.write('\t');
+			    bw.write(Integer.toString(p.getFrequency()));
+			    bw.write('\t');
+			    bw.write(Integer.toString(p.getNumviews()));
+			    bw.newLine();
+			  //}
+			}
+			System.out.println(totalViews);
+			bw.close();
 		}
 		else
 		{
 			System.out.println("not a directory");
-		}
-		
-		File dest = new File(destfile);
-		FileWriter fw = new FileWriter(dest.getAbsoluteFile(),false);
-		BufferedWriter bw = new BufferedWriter(fw);
-		Set<String> keys = logs.keySet();
-		for(String key: keys)
-		{
-		  Pair p = logs.get(key);
-		  //if(p.getNumviews() > 0) {
-		    bw.write(key);
-		    bw.write('\t');
-		    bw.write(Integer.toString(p.getFrequency()));
-		    bw.write('\t');
-		    bw.write(Integer.toString(p.getNumviews()));
-		    bw.newLine();
-		  //}
-		}
-		System.out.println(totalViews);
-		bw.close();
-		
-		
+		}		
 	}
 	public static void main(String[] args) throws FileNotFoundException {
-		ArrayList<String> phrases  = new ArrayList<String>();
-		ArrayList<Integer> counts = new ArrayList<Integer>();
-		ArrayList<String> selectedphrases  = new ArrayList<String>();
-		ArrayList<Integer> selectedcounts = new ArrayList<Integer>();
 		
-		//loadFile(new File("D:/abc.txt"), phrases, counts);
-		
-		//sample(counts, phrases, 5, selectedcounts, selectedphrases);
 		LogSimulation simulation = new LogSimulation();
 		try {
-      simulation.loadNumviews("data/index/numviews.nv");
-      simulation.loadLinkDocidMap("data/wiki/");
-    } catch (ClassNotFoundException | IOException e1) {
-      // TODO Auto-generated catch block
-      e1.printStackTrace();
-    }
+			simulation.loadNumviews("data/index/numviews.nv");
+			simulation.loadLinkDocidMap("data/wiki/");
+		} catch (ClassNotFoundException | IOException e1) {
+		// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
 		try {
-      simulation.startsimulation("data/ngramswikitext", "data/simulatedlogs.txt");
-    } catch (IOException e) {
-      // TODO Auto-generated catch block
-      e.printStackTrace();
-    }
+			simulation.startsimulation("data/ngramswikitext", 
+					"data/simulatedlogs.txt",
+					10,
+					10,
+					90,
+					0.001,
+					0.3);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 
 }
