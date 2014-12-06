@@ -285,7 +285,7 @@ public class LogSimulation {
 				loadFile(fileentry, phrases, counts);
 				
 				if(phrases.size() > 0) {
-					
+				  
 				  selectTopPhrases(phrases,
 						  counts, 
 						  topdocspercent, 
@@ -308,6 +308,10 @@ public class LogSimulation {
 				  int n = (int)(phrases.size() * docsamplefactor);
 				  sample(counts, phrases, n, selectedcounts, selectedphrases);
 				  
+				  while(viewdistribution.size()<selectedcounts.size())
+				  {
+				    viewdistribution.add(0);
+				  }
 
 				  String filename = fileentry.getName();
 				  int fileid = linkdocid_map.get(filename);
