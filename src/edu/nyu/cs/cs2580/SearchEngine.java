@@ -250,11 +250,13 @@ public class SearchEngine {
     //It suggests queries when users type partial queries
     QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
     qindexer.loadIndex();
+    InstantQueryHandler instantHandler = new InstantQueryHandler(qindexer);
 
     // Establish the serving environment
     InetSocketAddress addr = new InetSocketAddress(SearchEngine.PORT);
     HttpServer server = HttpServer.create(addr, -1);
     server.createContext("/", handler);
+    server.createContext("/instant",instantHandler);
     server.setExecutor(Executors.newCachedThreadPool());
     server.start();
     System.out.println(

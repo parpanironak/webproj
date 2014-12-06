@@ -1,12 +1,14 @@
 package edu.nyu.cs.cs2580;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 
 public class QDocument implements Serializable {
   private int _docid;
   private int _numviews;
   private String content;
   private int frequency;
+  private ArrayList<Integer> posting = new ArrayList<Integer>();
   
   public QDocument(int docId) {
     this._docid = docId;
@@ -35,5 +37,11 @@ public class QDocument implements Serializable {
   }
   public void setFrequency(int frequency) {
     this.frequency = frequency;
+  }
+  public ArrayList<Integer> getPosting() {
+    return posting;
+  }
+  public void setPosting(ArrayList<Integer> posting) {
+    this.posting = posting;
   }
 }
