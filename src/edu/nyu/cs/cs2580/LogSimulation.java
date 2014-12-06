@@ -196,7 +196,8 @@ public class LogSimulation {
 			int count = counts.get(i);
 			if(logs.containsKey(phrase))
 			{
-				logs.get(phrase).add(view, count);
+				Pair p = logs.get(phrase);
+				p.add(view, count);
 			}
 			else
 			{
@@ -211,8 +212,11 @@ public class LogSimulation {
 	{
 		File dir = new File(srcdir);
 		
+		int mkdf = 0;
 		
 		HashMap<String, Pair> logs = new HashMap<String, LogSimulation.Pair>();
+		
+		long totalViews = 0;
 		
 		if(dir.isDirectory())
 		{
@@ -225,17 +229,27 @@ public class LogSimulation {
 				
 				loadFile(fileentry, phrases, counts);
 				///
-				int n = (int)(phrases.size() * 0.5);
-				sample(counts, phrases, n, selectedcounts, selectedphrases);
-				ArrayList<Integer> viewdistribution = getEmptyList(selectedcounts.size());
-				
-				String filename = fileentry.getName();
-				int fileid = linkdocid_map.get(filename);
-				int views = numviews.get(fileid);
-				
-				simulate(views, viewdistribution, selectedcounts);
-				
-				updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
+				if(phrases.size() > 0) {
+				  int n = (int)(phrases.size() * 0.5);
+				  sample(counts, phrases, n, selectedcounts, selectedphrases);
+				  ArrayList<Integer> viewdistribution = getEmptyList(selectedcounts.size());
+
+				  String filename = fileentry.getName();
+				  int fileid = linkdocid_map.get(filename);
+				  int views = numviews.get(fileid);
+				  
+				  totalViews += views;
+
+				  if(selectedcounts.size() > 0) {
+				    simulate(views, viewdistribution, selectedcounts);
+
+				    updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
+				  }
+				}
+				//mkdf++;
+				if(mkdf == 100) {
+				  break;
+				}
 			}
 		}
 		else
@@ -244,19 +258,22 @@ public class LogSimulation {
 		}
 		
 		File dest = new File(destfile);
-		FileWriter fw = new FileWriter(dest.getAbsoluteFile(),true);
+		FileWriter fw = new FileWriter(dest.getAbsoluteFile(),false);
 		BufferedWriter bw = new BufferedWriter(fw);
 		Set<String> keys = logs.keySet();
 		for(String key: keys)
 		{
-			Pair p = logs.get(key);
-			bw.write(key);
-			bw.write('\t');
-			bw.write(p.getFrequency());
-			bw.write('\t');
-			bw.write(p.getNumviews());
-			bw.newLine();		
+		  Pair p = logs.get(key);
+		  //if(p.getNumviews() > 0) {
+		    bw.write(key);
+		    bw.write('\t');
+		    bw.write(Integer.toString(p.getFrequency()));
+		    bw.write('\t');
+		    bw.write(Integer.toString(p.getNumviews()));
+		    bw.newLine();
+		  //}
 		}
+		System.out.println(totalViews);
 		bw.close();
 		
 		
@@ -267,9 +284,23 @@ public class LogSimulation {
 		ArrayList<String> selectedphrases  = new ArrayList<String>();
 		ArrayList<Integer> selectedcounts = new ArrayList<Integer>();
 		
-		loadFile(new File("D:/abc.txt"), phrases, counts);
+		//loadFile(new File("D:/abc.txt"), phrases, counts);
 		
-		sample(counts, phrases, 5, selectedcounts, selectedphrases);
+		//sample(counts, phrases, 5, selectedcounts, selectedphrases);
+		LogSimulation simulation = new LogSimulation();
+		try {
+      simulation.loadNumviews("data/index/numviews.nv");
+      simulation.loadLinkDocidMap("data/wiki/");
+    } catch (ClassNotFoundException | IOException e1) {
+      // TODO Auto-generated catch block
+      e1.printStackTrace();
+    }
+		try {
+      simulation.startsimulation("data/ngramswikitext", "data/simulatedlogs.txt");
+    } catch (IOException e) {
+      // TODO Auto-generated catch block
+      e.printStackTrace();
+    }
 	}
 
 }
