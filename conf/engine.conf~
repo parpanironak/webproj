@@ -54,4 +54,4 @@ indexdoclevelsplit: 5500
 
 query_log_file: data/simulatedlogs.txt
 qindexdocsplitprefix: qindex_
-qindexdoclevelsplit: 400000
+qindexdoclevelsplit: 5500

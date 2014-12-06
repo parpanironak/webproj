@@ -85,7 +85,7 @@ def removestopwords(sent):
         #word = re.sub(r"[^a-zA-Z0-9","",word)
         if not is_number(word):
             if word not in stopwords :
-                if not re.match("[^a-zA-Z0-9\-\*\+]",word):
+                if not matcher.search(word):
                     if len(word) > 2:
                         if newsent == "":
                             newsent = word
@@ -127,4 +127,5 @@ def start(srcpath, destpath):
 
 
 #processfile("1.txt","1.out_3")
+matcher = re.compile("[^a-zA-Z0-9\-\*\+]")
 start('data/wikitextlinux/','data/wikitext/')

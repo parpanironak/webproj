@@ -3,6 +3,7 @@ package edu.nyu.cs.cs2580;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.io.Serializable;
 import java.net.InetSocketAddress;
 import java.security.NoSuchAlgorithmException;
 import java.util.HashMap;
@@ -44,7 +45,7 @@ public class SearchEngine {
    * Stores all the options and configurations used in our search engine.
    * For simplicity, all options are publicly accessible.
    */
-  public static class Options {
+  public static class Options implements Serializable {
     // The parent path where the corpus resides.
     // HW1: We have only one file, corpus.csv.
     // HW2/HW3: We have a partial Wikipedia dump.
@@ -85,6 +86,11 @@ public class SearchEngine {
     public String indexdocsplitprefix = null;
     public int indexdocsplit = 1000000;
     public int _iterations = 0;
+    
+    //All variables after this are used for the project (query completion)
+    public String _query_log_file=null;
+    public String qindexdocsplitprefix = null;
+    public int qindexdocsplit = 1000000;
     
     /**
      * Constructor for options.
@@ -144,6 +150,9 @@ public class SearchEngine {
       indexdocsplit = Integer.parseInt(options.get("indexdoclevelsplit"));
       indexdocsplitprefix = options.get("indexdocsplitprefix");
       _iterations = Integer.parseInt(options.get("iterations"));
+      _query_log_file = options.get("query_log_file");
+      qindexdocsplit = Integer.parseInt(options.get("qindexdoclevelsplit"));
+      qindexdocsplitprefix = options.get("qindexdocsplitprefix");
     }
   }
   public static Options OPTIONS = null;
@@ -224,7 +233,9 @@ public class SearchEngine {
     Indexer indexer = Indexer.Factory.getIndexerByOption(SearchEngine.OPTIONS);
     Check(indexer != null,
         "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
-    indexer.constructIndex();
+    //indexer.constructIndex();
+    QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
+    qindexer.constructIndex();
   }
   
   private static void startServing() throws IOException, ClassNotFoundException {
@@ -234,6 +245,11 @@ public class SearchEngine {
         "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
     indexer.loadIndex();
     QueryHandler handler = new QueryHandler(SearchEngine.OPTIONS, indexer);
+    
+    //This indexer indexes query suggestions
+    //It suggests queries when users type partial queries
+    QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
+    qindexer.loadIndex();
 
     // Establish the serving environment
     InetSocketAddress addr = new InetSocketAddress(SearchEngine.PORT);

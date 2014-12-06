@@ -285,7 +285,7 @@ public class LogSimulation {
 				loadFile(fileentry, phrases, counts);
 				
 				if(phrases.size() > 0) {
-					
+				  
 				  selectTopPhrases(phrases,
 						  counts, 
 						  topdocspercent, 
@@ -299,7 +299,7 @@ public class LogSimulation {
 				  
 				  if(selectedcounts.size() > 0) {
 					    simulate(fixedviews, viewdistribution, selectedcounts);
-					    updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
+					    //updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
 				  }
 				  
 				  removeBottomPhrases(phrases, counts, removeprobability);
@@ -307,9 +307,12 @@ public class LogSimulation {
 				  
 				  int n = (int)(phrases.size() * docsamplefactor);
 				  sample(counts, phrases, n, selectedcounts, selectedphrases);
-				  
-			
-				  
+
+				  while(viewdistribution.size()<selectedcounts.size())
+				  {
+				    viewdistribution.add(0);
+				  }
+
 				  String filename = fileentry.getName();
 				  int fileid = linkdocid_map.get(filename);
 				  int views = numviews.get(fileid);
@@ -362,8 +365,8 @@ public class LogSimulation {
 			e1.printStackTrace();
 		}
 		try {
-			simulation.startsimulation("data/ngramswikitext", 
-					"data/simulatedlogs.txt",
+			simulation.startsimulation("D:/files/", 
+					"D:/logs.txt",
 					10,
 					10,
 					90,
