@@ -24,6 +24,9 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Vector;
 
+import org.ardverk.collection.PatriciaTrie;
+import org.ardverk.collection.StringKeyAnalyzer;
+
 import edu.nyu.cs.cs2580.Compress.Compression;
 import edu.nyu.cs.cs2580.Compress.GammaCompression;
 import edu.nyu.cs.cs2580.SkipPointer.SkipPointer;
@@ -45,6 +48,8 @@ public class QIndexerInvertedCompressed implements Serializable{
   protected long _totalTermFrequency = 0;
   protected long totalwordsincorpus = 0;
   protected long totalnumviews = 0;
+  
+  protected PatriciaTrie<String, Double> trie = new PatriciaTrie<String, Double>(StringKeyAnalyzer.INSTANCE);
   
   public class PostingList implements Serializable
   {
@@ -143,7 +148,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   }
 
   private Vector<QDocument> _documents = new Vector<QDocument>();
-  private HashMap<String,PostingList> index = new HashMap<String,PostingList>();
+  protected HashMap<String,PostingList> index = new HashMap<String,PostingList>();
   private HashMap<String,SkipPointer> skippointermap = new HashMap<String, SkipPointer>();
 
   private HashMap<Integer,String> stringIdToWordMap = new HashMap<Integer,String>();
@@ -207,6 +212,11 @@ public class QIndexerInvertedCompressed implements Serializable{
       writer = new ObjectOutputStream(new FileOutputStream(indexFile));
       writer.writeObject(this.stringIdToWordMap);
       writer.close();
+      
+      indexFile = _options._indexPrefix + "qtrie.map";
+      writer = new ObjectOutputStream(new FileOutputStream(indexFile));
+      writer.writeObject(this.trie);
+      writer.close();
   
       System.out.println("Index File Created!");
       x = (System.currentTimeMillis() - x)/1000/60;
@@ -242,6 +252,11 @@ public class QIndexerInvertedCompressed implements Serializable{
       indexFile = _options._indexPrefix + "qwordids.map";
       reader = new ObjectInputStream(new FileInputStream(indexFile));
       this.stringIdToWordMap = (HashMap<Integer, String>) reader.readObject();
+      reader.close();
+      
+      indexFile = _options._indexPrefix + "qtrie.map";
+      reader = new ObjectInputStream(new FileInputStream(indexFile));
+      this.trie = (PatriciaTrie<String, Double>) reader.readObject();
       reader.close();
   
       x = (System.currentTimeMillis() - x)/1000/60;
@@ -545,6 +560,15 @@ public class QIndexerInvertedCompressed implements Serializable{
       }
 
       word = text;
+      //update trie
+      if(trie.get(word) != null) {
+        //this word is present in the trie
+        trie.put(word, trie.get(word) + 1);
+      }
+      else {
+        trie.put(word, 1.0);
+      }
+      
       totalwordsincorpus++;
 
       if(index.containsKey(word))

@@ -8,18 +8,17 @@ import org.ardverk.collection.StringKeyAnalyzer;
 public class trietest {
 	public static void main(String[] args) {
 		@SuppressWarnings("deprecation")
-		PatriciaTrie<String, String> t = new PatriciaTrie<String, String>(StringKeyAnalyzer.INSTANCE);
+		PatriciaTrie<String, Double> t = new PatriciaTrie<String, Double>(StringKeyAnalyzer.INSTANCE);
 		
-		t.put("ronak", "ronak");
-		t.put("ronald", "ronald");
-		t.put("rat", "rat");
-		t.put("robert", "robert");
-		t.put("bat", "bat");
-		t.put("batman", "batman");
-		t.put("RC244", "RC244");
-		t.put("RC2345", "RC2345");
+		t.put("ronak", 100.0);
+		t.put("ronald", 90.0);
+		t.put("rat", 50.0);
+		t.put("robert", 200.0);
+		t.put("bat", 44.0);
+		t.put("batman", 440.0);
 	
-		System.out.println(t.prefixMap("ro"));
-		
+		System.out.println(t.prefixMap("r"));
+		System.out.println(t.containsKey("ronak"));
+		//System.out.println(t.select("ron"));
 	}
 }
