@@ -273,7 +273,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   
       int deno = _options.qindexdocsplit;
   
-      for(int i = 1; i < _numDocs/deno; i++)
+      /*for(int i = 1; i < _numDocs/deno; i++)
       {
           HashMap<String, PostingList> temp = null;
           reader = new ObjectInputStream(new FileInputStream(partialindexfile + i));
@@ -291,7 +291,7 @@ public class QIndexerInvertedCompressed implements Serializable{
                 this.index.put(token, temp.get(token));
               }
           }
-      }
+      }*/
   }
 
   public QDocument getDoc(int docid) {
@@ -450,11 +450,12 @@ public class QIndexerInvertedCompressed implements Serializable{
             lastdocinserted,
             allWords,
             docIdIndex);
-        if((docid+1)%_options.qindexdocsplit == 0)
-          flushIndex(docid/_options.qindexdocsplit);
+//        if((docid+1)%_options.qindexdocsplit == 0)
+//          flushIndex(docid/_options.qindexdocsplit);
       } while(line != null);
       if(index.size() != 0)
-        flushIndex(_numDocs/_options.qindexdocsplit);
+        //flushIndex(_numDocs/_options.qindexdocsplit);
+        flushIndex(0);
     } finally {
       br.close();
     }

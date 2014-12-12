@@ -15,7 +15,7 @@ import edu.nyu.cs.cs2580.QueryHandler.CgiArguments;
 public class InstantQueryHandler implements HttpHandler {
 
   private QIndexerInvertedCompressed qindexer;
-  private int numQueryResults = 5;
+  private int numQueryResults = 10;
 
   public InstantQueryHandler(QIndexerInvertedCompressed qindexer) {
     this.qindexer = qindexer;
