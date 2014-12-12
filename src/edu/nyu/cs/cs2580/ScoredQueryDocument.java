@@ -33,7 +33,8 @@ public class ScoredQueryDocument implements Comparable<ScoredQueryDocument> {
 public JSONObject asJsonResult() {
       JSONObject obj = new JSONObject();
       obj.put("docid", new Integer(_doc.getDocId()));
-      obj.put("title", new Double(_doc.getContent()));
+      obj.put("title", _doc.getContent());
+      obj.put("frequency", _doc.getFrequency());
       obj.put("score", new Double(_score));
       obj.put("nviews", new Double(_doc.getNumViews()));
       return obj;

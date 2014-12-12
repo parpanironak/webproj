@@ -147,9 +147,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   private HashMap<String,SkipPointer> skippointermap = new HashMap<String, SkipPointer>();
 
   private HashMap<Integer,String> stringIdToWordMap = new HashMap<Integer,String>();
-  
-  ArrayList<Double> pagerank = null;
-  ArrayList<Integer> numviews = null;
+
   
   private int skipSteps;
 
@@ -164,9 +162,7 @@ public class QIndexerInvertedCompressed implements Serializable{
       long x = (System.currentTimeMillis());
       
       CorpusAnalyzer analyzer = CorpusAnalyzer.Factory.getCorpusAnalyzerByOption(SearchEngine.OPTIONS);
-      pagerank = (ArrayList<Double>)analyzer.load();
       LogMiner miner = LogMiner.Factory.getLogMinerByOption(SearchEngine.OPTIONS);
-      numviews = (ArrayList<Integer>)miner.load();
       
       skipSteps = _options.skips;
       try {
@@ -193,8 +189,7 @@ public class QIndexerInvertedCompressed implements Serializable{
       bw.newLine();
       bw.close();
       
-      String indexFile = _options._indexPrefix + _options._index_file;
-      System.out.println("Store index to: " + indexFile);
+      String indexFile = null;
       
       ObjectOutputStream writer = null;
   
@@ -223,8 +218,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   public void loadIndex() throws IOException, ClassNotFoundException 
   {
       long x = (System.currentTimeMillis());
-      String indexFile = _options._indexPrefix + _options._index_file;    
-      System.out.println("Load index from: " + indexFile);
+      String indexFile = null;
       this.skipSteps = _options.skips;
   
       Scanner sc = new Scanner(new File(_options._indexPrefix + "qtotalwordsincorpus.long"));
@@ -235,7 +229,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   
       merge();
   
-      indexFile = _options._indexPrefix + "doc.list";
+      indexFile = _options._indexPrefix + "qdoc.list";
       ObjectInputStream reader = new ObjectInputStream(new FileInputStream(indexFile));
       this._documents = (Vector<QDocument>) reader.readObject();
       reader.close();
@@ -341,6 +335,8 @@ public class QIndexerInvertedCompressed implements Serializable{
   public QDocument getQDocument(QDocument d) {
     QDocument di = new QDocument(d.getDocId());
     di.setNumViews(d.getNumViews());
+    di.setContent(d.getContent());
+    di.setFrequency(d.getFrequency());
     return di;
   }
 
@@ -528,12 +524,9 @@ public class QIndexerInvertedCompressed implements Serializable{
     {
       String word = s.next();
       
-      String text = Stopwords.removeStopWords(word);
+      //String text = Stopwords.removeStopWords(word);
+      String text = word;
       if(text != null) {
-        text = stemmer.stem(text);
-        if(text == null) {
-          continue;
-        }
         //take care of auxilliary structure HERE
         if(!allWords.containsKey(text)) {
           int stringId = allWords.size();

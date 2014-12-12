@@ -24,6 +24,22 @@ public class QueryRanker {
   
   public Vector<ScoredQueryDocument> runQuery(Query query, int numResults) {
     Vector<ScoredQueryDocument> results = new Vector<ScoredQueryDocument>();
+    Queue<ScoredQueryDocument> rankQueue = new PriorityQueue<ScoredQueryDocument>();
+    QDocument doc = null;
+    int docid = -1;
+    while ((doc = qindexer.nextDoc(query, docid)) != null) {
+      rankQueue.add(new ScoredQueryDocument(doc, doc.getFrequency()));
+      if (rankQueue.size() > numResults) {
+        rankQueue.poll();
+      }
+      docid = doc.getDocId();
+    }
+
+    ScoredQueryDocument scoredDoc = null;
+    while ((scoredDoc = rankQueue.poll()) != null) {
+      results.add(scoredDoc);
+    }
+    Collections.sort(results, Collections.reverseOrder());
     return results;
   }
 }

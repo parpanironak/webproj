@@ -73,8 +73,8 @@ public class InstantQueryHandler implements HttpHandler {
     if (uriPath == null || uriQuery == null) {
       respondWithMsg(exchange, "Something wrong with the URI!");
     }
-    if (!uriPath.equals("/search")) {
-      respondWithMsg(exchange, "Only /search is handled!");
+    if (!uriPath.equals("/instant")) {
+      respondWithMsg(exchange, "Only /instant is handled!");
     }
     System.out.println("Query: " + uriQuery);
 
