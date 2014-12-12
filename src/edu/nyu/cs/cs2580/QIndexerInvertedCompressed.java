@@ -50,6 +50,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   protected long totalnumviews = 0;
   
   protected PatriciaTrie<String, Double> trie = new PatriciaTrie<String, Double>(StringKeyAnalyzer.INSTANCE);
+  private HashMap<String,HashMap<String,Double>> coOccurrenceMap = new HashMap<String,HashMap<String,Double>>();
   
   public class PostingList implements Serializable
   {
@@ -192,6 +193,8 @@ public class QIndexerInvertedCompressed implements Serializable{
       bw.newLine();
       bw.write(Long.toString(totalnumviews));
       bw.newLine();
+      bw.write(Long.toString(_totalTermFrequency));
+      bw.newLine();
       bw.close();
       
       String indexFile = null;
@@ -217,10 +220,45 @@ public class QIndexerInvertedCompressed implements Serializable{
       writer = new ObjectOutputStream(new FileOutputStream(indexFile));
       writer.writeObject(this.trie);
       writer.close();
+      
+      loadCoOccurrence();
+      
+      indexFile = _options._indexPrefix + "cooccurrences.map";
+      writer = new ObjectOutputStream(new FileOutputStream(indexFile));
+      writer.writeObject(this.coOccurrenceMap);
+      writer.close();
   
       System.out.println("Index File Created!");
       x = (System.currentTimeMillis() - x)/1000/60;
       System.out.println("Time to Construct:" + x + " mins.");
+  }
+  
+  
+  private void loadCoOccurrence() throws IOException {
+    String coOccFileName = "data/cooccurrences.txt";
+    BufferedReader br = new BufferedReader(new FileReader(coOccFileName));
+    try {
+      String line = null;
+      do {
+        line = br.readLine();
+        if(line == null) {
+          continue;
+        }
+        Scanner sc = new Scanner(line);
+        sc.useDelimiter("\t");
+        String word1 = sc.next();
+        String word2 = sc.next();
+        double coOccVal = Double.parseDouble(sc.next());
+        if(!coOccurrenceMap.containsKey(word1)) {
+          HashMap<String,Double> wordCoOccMap = new HashMap<String,Double>();
+          coOccurrenceMap.put(word1, wordCoOccMap);
+        }
+        coOccurrenceMap.get(word1).put(word2,coOccVal);
+      } while(line != null);
+    }
+    finally {
+      br.close();
+    }
   }
 
 
@@ -235,6 +273,7 @@ public class QIndexerInvertedCompressed implements Serializable{
       this.totalwordsincorpus = sc.nextLong();
       this._numDocs = sc.nextInt();
       this.totalnumviews = sc.nextLong();
+      this._totalTermFrequency = sc.nextLong();
       sc.close();
   
       merge();
@@ -257,6 +296,11 @@ public class QIndexerInvertedCompressed implements Serializable{
       indexFile = _options._indexPrefix + "qtrie.map";
       reader = new ObjectInputStream(new FileInputStream(indexFile));
       this.trie = (PatriciaTrie<String, Double>) reader.readObject();
+      reader.close();
+      
+      indexFile = _options._indexPrefix + "cooccurrences.map";
+      reader = new ObjectInputStream(new FileInputStream(indexFile));
+      this.coOccurrenceMap = (HashMap<String, HashMap<String,Double>>) reader.readObject();
       reader.close();
   
       x = (System.currentTimeMillis() - x)/1000/60;
@@ -480,6 +524,7 @@ public class QIndexerInvertedCompressed implements Serializable{
     doc.setFrequency(frequency);
     doc.setNumViews(views);
     totalnumviews += views;
+    _totalTermFrequency += frequency;
     
     _documents.add(doc);      
     ++_numDocs;
@@ -858,5 +903,17 @@ public class QIndexerInvertedCompressed implements Serializable{
       int item = list.get(i);
       list.set(i,item - number);
     }
+  }
+  
+  public double getCoOccurrence(String word1, String word2) {
+    HashMap<String,Double> wordCoOccMap = coOccurrenceMap.get(word1);
+    if(wordCoOccMap == null) {
+      return 0.0;
+    }
+    Double d = coOccurrenceMap.get(word1).get(word2);
+    if(d == null) {
+      d = 0.0;
+    }
+    return d;
   }
 }

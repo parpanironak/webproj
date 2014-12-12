@@ -89,7 +89,7 @@ public class InstantQueryHandler implements HttpHandler {
 
     // Processing the query.
     Query processedQuery = new QueryPhrase(cgiArgs._query);
-    processedQuery.processQuery();
+    processedQuery.processQuery(true);
 
     Vector<ScoredQueryDocument> scoredQueryDocs = null;
     if(processedQuery._tokens.size() > 0)
