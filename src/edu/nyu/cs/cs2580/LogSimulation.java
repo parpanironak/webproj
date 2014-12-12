@@ -273,12 +273,12 @@ public class LogSimulation {
 		
 		long totalViews = 0;
 		
-		int count = 0;
+		//int count = 0;
 		if(dir.isDirectory())
 		{
 			for(final File fileentry : dir.listFiles())
 			{
-				System.out.println(count++);
+				//System.out.println(count++);
 				ArrayList<String> phrases  = new ArrayList<String>();
 				ArrayList<Integer> counts = new ArrayList<Integer>();
 				ArrayList<String> selectedphrases  = new ArrayList<String>();
