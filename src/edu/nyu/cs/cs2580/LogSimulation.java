@@ -273,10 +273,12 @@ public class LogSimulation {
 		
 		long totalViews = 0;
 		
+		//int count = 0;
 		if(dir.isDirectory())
 		{
 			for(final File fileentry : dir.listFiles())
 			{
+				//System.out.println(count++);
 				ArrayList<String> phrases  = new ArrayList<String>();
 				ArrayList<Integer> counts = new ArrayList<Integer>();
 				ArrayList<String> selectedphrases  = new ArrayList<String>();
@@ -316,7 +318,7 @@ public class LogSimulation {
 				  
 				  int fixedviews2 = 2*selectedcounts2.size() < fixedviews/2 ? 2*selectedcounts2.size() : fixedviews/2;
 				  
-				  if(selectedcounts.size() > 0) {
+				  if(selectedcounts2.size() > 0) {
 					    simulate(fixedviews2, viewdistribution2, selectedcounts2);
 					    //updateLogs(selectedphrases, selectedcounts, viewdistribution, logs);
 				  }
@@ -372,17 +374,30 @@ public class LogSimulation {
 		LogSimulation simulation = new LogSimulation();
 		try {
 			simulation.loadNumviews("data/index/numviews.nv");
-			simulation.loadLinkDocidMap("data/wiki/");
+			simulation.loadLinkDocidMap("D:/ngramswikitext");
 		} catch (ClassNotFoundException | IOException e1) {
 		// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
+//		try {
+//			simulation.startsimulation("data/ngramswikitext", 
+//					"data/simulatedlogs.txt",
+//					15,
+//					10,
+//					60,
+//					0.001,
+//					0.3);
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+		
 		try {
-			simulation.startsimulation("data/ngramswikitext", 
+			simulation.startsimulation("D:/ngramswikitext", 
 					"data/simulatedlogs.txt",
 					15,
-					20,
-					90,
+					15,
+					60,
 					0.001,
 					0.3);
 		} catch (IOException e) {
