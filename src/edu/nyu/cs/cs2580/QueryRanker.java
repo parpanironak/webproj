@@ -48,53 +48,54 @@ public class QueryRanker {
       //This is a partial word
       //We should try to complete this word and use
       //top few completions
-      Map<String,Double> possibleCompletions = qindexer.trie.prefixMap(query._tokens.get(query._tokens.size()-1));
-      Comparator<Map.Entry<String,Double>> cmp = new Comparator<Map.Entry<String,Double>>() {
+    String lastWord = query._tokens.get(query._tokens.size()-1);
+    Map<String,Double> possibleCompletions = qindexer.trie.prefixMap(lastWord);
+    Comparator<Map.Entry<String,Double>> cmp = new Comparator<Map.Entry<String,Double>>() {
 
-        @Override
-        public int compare(Entry<String, Double> entry1,
-            Entry<String, Double> entry2) {
-          double d = entry1.getValue() - entry2.getValue();
-          if(d < 0) {
-            return 1;
-          }
-          else if (d > 0) {
-            return -1;
-          }
-          return 0;
+      @Override
+      public int compare(Entry<String, Double> entry1,
+          Entry<String, Double> entry2) {
+        double d = entry1.getValue() - entry2.getValue();
+        if(d < 0) {
+          return 1;
         }
-        
-      };
-      List<Map.Entry<String,Double>> mapEntries = new ArrayList<Map.Entry<String,Double>>();
-      for(Map.Entry<String, Double> entry:possibleCompletions.entrySet()) {
-        mapEntries.add(entry);
-      }
-      Collections.sort(mapEntries,cmp);
-      int numSugg = mapEntries.size();
-      if(numSugg > numSuggestionsFromTrie) {
-        numSugg = numSuggestionsFromTrie;
-      }
-      int i = 0;
-      Set<Integer> allDocIds = new HashSet<Integer>();
-      for(Map.Entry<String, Double> entry:mapEntries) {
-        String word = entry.getKey();
-        QDocument doc = null;
-        int docid = -1;
-        Query q = new QueryPhrase(query,word);
-        while((doc = qindexer.nextDoc(q, docid)) != null) {
-          ScoredQueryDocument scoredDoc = new ScoredQueryDocument(doc, doc.getFrequency());
-          docid = doc.getDocId();
-          if(!allDocIds.contains(docid)) {
-            results.add(scoredDoc);
-            allDocIds.add(docid);
-          }
+        else if (d > 0) {
+          return -1;
         }
+        return 0;
       }
-    //}
-    Collections.sort(results, Collections.reverseOrder());
-    for(int j=results.size()-1;j>=numResults;j--) {
-      results.remove(j);
+
+    };
+    List<Map.Entry<String,Double>> mapEntries = new ArrayList<Map.Entry<String,Double>>();
+    for(Map.Entry<String, Double> entry:possibleCompletions.entrySet()) {
+      mapEntries.add(entry);
     }
-    return results;
+    Collections.sort(mapEntries,cmp);
+    int numSugg = mapEntries.size();
+    if(numSugg > numSuggestionsFromTrie) {
+      numSugg = numSuggestionsFromTrie;
+    }
+    int i = 0;
+    Set<Integer> allDocIds = new HashSet<Integer>();
+    for(Map.Entry<String, Double> entry:mapEntries) {
+      String word = entry.getKey();
+      QDocument doc = null;
+      int docid = -1;
+      Query q = new QueryPhrase(query,word);
+      while((doc = qindexer.nextDoc(q, docid)) != null) {
+        ScoredQueryDocument scoredDoc = new ScoredQueryDocument(doc, doc.getFrequency());
+        docid = doc.getDocId();
+        if(!allDocIds.contains(docid)) {
+          results.add(scoredDoc);
+          allDocIds.add(docid);
+        }
+      }
+    }
+    //}
+  Collections.sort(results, Collections.reverseOrder());
+  for(int j=results.size()-1;j>=numResults;j--) {
+    results.remove(j);
+  }
+  return results;
   }
 }
