@@ -113,7 +113,8 @@ app.directive('autocomplete', function() {
 	  };
 	  
 	  $scope.searchrange = function(start, end){
-	  	if($scope.searchParam){ 
+	  	console.log($scope.username)
+		if($scope.searchParam){ 
 			if($scope.onSearchRange)
             	$scope.onSearchRange($scope.searchParam, start, end);
 		}
@@ -273,6 +274,7 @@ app.directive('autocomplete', function() {
 		  <input\
             	type="text"\
             	class="form-control"\
+				ng-model="username"\
             	/>\
 		</div>\
         <div class="autocomplete {{ attrs.class }}" id="{{ attrs.id }}">\

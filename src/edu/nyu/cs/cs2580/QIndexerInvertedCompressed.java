@@ -164,13 +164,9 @@ public class QIndexerInvertedCompressed implements Serializable{
     this._options = options;
   }
 
-  @SuppressWarnings("unchecked")
   public void constructIndex() throws IOException 
   {
       long x = (System.currentTimeMillis());
-      
-      CorpusAnalyzer analyzer = CorpusAnalyzer.Factory.getCorpusAnalyzerByOption(SearchEngine.OPTIONS);
-      LogMiner miner = LogMiner.Factory.getLogMinerByOption(SearchEngine.OPTIONS);
       
       skipSteps = _options.skips;
       try {
@@ -250,6 +246,7 @@ public class QIndexerInvertedCompressed implements Serializable{
         sc.useDelimiter("\t");
         String word1 = sc.next();
         String word2 = sc.next();
+        sc.close();
         double coOccVal = Double.parseDouble(sc.next());
         if(!coOccurrenceMap.containsKey(word1)) {
           HashMap<String,Double> wordCoOccMap = new HashMap<String,Double>();
@@ -278,12 +275,14 @@ public class QIndexerInvertedCompressed implements Serializable{
       this._totalTermFrequency = sc.nextLong();
       sc.close();
   
-      merge();
-  
       indexFile = _options._indexPrefix + "qdoc.list";
       ObjectInputStream reader = new ObjectInputStream(new FileInputStream(indexFile));
       this._documents = (Vector<QDocument>) reader.readObject();
       reader.close();
+      
+      merge();
+  
+      
   
       indexFile = _options._indexPrefix + "qskippointer.map";
       reader = new ObjectInputStream(new FileInputStream(indexFile));
@@ -317,7 +316,7 @@ public class QIndexerInvertedCompressed implements Serializable{
       this.index = (HashMap<String, QIndexerInvertedCompressed.PostingList>)reader.readObject();
       reader.close();
   
-      int deno = _options.qindexdocsplit;
+      //int deno = _options.qindexdocsplit;
   
       /*for(int i = 1; i < _numDocs/deno; i++)
       {
@@ -338,6 +337,22 @@ public class QIndexerInvertedCompressed implements Serializable{
               }
           }
       }*/
+      
+      for(QDocument doc : _documents)
+      {
+    	  String content = doc.getContent();
+    	  String terms[] = content.split(" ");
+    	  
+    	  double idf = 0.0;
+    	  
+    	  for(String term : terms)
+    	  {
+    		  int docfreq = index.get(term).getCorpusDocFrequency();
+    		  idf = idf + (Math.log(_numDocs*1.0/(docfreq+1)));
+    	  }
+    	  
+    	  doc.setIdf(idf);
+       }
   }
 
   public QDocument getDoc(int docid) {
@@ -489,6 +504,7 @@ public class QIndexerInvertedCompressed implements Serializable{
         String phrase = sc.next();
         int frequency = Integer.parseInt(sc.next());
         int views = Integer.parseInt(sc.next());
+        sc.close();
         int docid = createDocument(phrase, frequency, views);
         processDocument(docid, phrase,
             skipnumberlist, 
@@ -553,13 +569,8 @@ public class QIndexerInvertedCompressed implements Serializable{
         allWords,
         indexIndex);
 
-    //updateIndex(tokens, docid);   
-
-    QDocument d = _documents.get(docid);
     for(String token: tokens.keySet()) 
     {
-      //        int x = tokens.get(token).get(0);
-      //        normfactor += x * x;
       index.get(token).increaseCorpusDocFreqency();
     }     
   }
@@ -580,7 +591,7 @@ public class QIndexerInvertedCompressed implements Serializable{
     int wordcount = 1;
 
     HashMap<String, Integer> lastwordpos = new HashMap<String, Integer>();
-    PorterStemming stemmer = new PorterStemming();
+    
     LinkedHashMap<Integer,Integer> stringToCountMap = new LinkedHashMap<Integer,Integer>();
 
     while (s.hasNext()) 
@@ -620,10 +631,11 @@ public class QIndexerInvertedCompressed implements Serializable{
       totalwordsincorpus++;
 
       if(index.containsKey(word))
-        index.get(word).increaseCorpusTermFreqency();
+      {
+    	  index.get(word).increaseCorpusTermFreqency();
+      }
       else
       {
-
         PostingList p = new PostingList();
         index.put(word, p);
         p.increaseCorpusTermFreqency();

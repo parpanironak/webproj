@@ -5,6 +5,7 @@ import java.io.OutputStream;
 import java.util.Vector;
 
 import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
 
 import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
@@ -74,14 +75,18 @@ public class InstantQueryHandler implements HttpHandler {
     response.append(response.length() > 0 ? "\n" : "");
   }
 
-  private void constructJSONOutput(final Vector<ScoredQueryDocument> docs,
+  @SuppressWarnings("unchecked")
+private void constructJSONOutput(final Vector<ScoredQueryDocument> docs,
       StringBuffer response) {
     JSONArray arr = new JSONArray();
     for (ScoredQueryDocument doc : docs) 
     {
       arr.add(doc.asJsonResult());
     }
-    response.append(arr.toString());
+    JSONObject obj = new JSONObject();
+  	obj.put("total", 0);
+  	obj.put("data", arr);
+    response.append(obj.toString());
   }
 
   @Override

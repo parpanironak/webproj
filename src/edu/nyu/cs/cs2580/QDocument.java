@@ -4,11 +4,16 @@ import java.io.Serializable;
 import java.util.ArrayList;
 
 public class QDocument implements Serializable {
+  /**
+	 * 
+	 */
+  private static final long serialVersionUID = 8656316343742944006L;
   private int _docid;
   private int _numviews;
   private String content;
   private int frequency;
   private ArrayList<Integer> posting = new ArrayList<Integer>();
+  private double idf = 0.0;
   
   public QDocument(int docId) {
     this._docid = docId;
@@ -44,4 +49,12 @@ public class QDocument implements Serializable {
   public void setPosting(ArrayList<Integer> posting) {
     this.posting = posting;
   }
+
+public double getIdf() {
+	return idf;
+}
+
+public void setIdf(double idf) {
+	this.idf = idf;
+}
 }
