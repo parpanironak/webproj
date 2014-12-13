@@ -7,6 +7,7 @@ app.controller('MyCtrl', function($scope, $http){
   $scope.query = ""
   $scope.data = []
   $scope.total = 0
+  $scope.username = "";
   $scope.next = {start:0, end:-1, query:""}
   $scope.prev = {start:0, end:-1, query:""}
   $scope.nextflag = true
@@ -18,10 +19,14 @@ app.controller('MyCtrl', function($scope, $http){
 	if(typedthings.length > 0)
     {
 		var temp = ""
-		if(user!== 'undefined' && user.length > 0)
-			temp = "http://localhost:25809/instant?query="+typedthings+"&username="+user;
-		else
+		
+		
+		if(user == 'undefined')
 			temp = "http://localhost:25809/instant?query="+typedthings
+		else if(user.length <= 0)
+			temp = "http://localhost:25809/instant?query="+typedthings 
+		else
+			temp = "http://localhost:25809/instant?query="+typedthings+"&username="+user;
 		
 		$http.get(temp).success(function(response) 
 		{$scope.suggest = response.data});
@@ -59,10 +64,12 @@ app.controller('MyCtrl', function($scope, $http){
 	if(query.length > 0)
 	{
 		var temp = ""
-		if(user!== 'undefined' && user.length > 0)
-			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end+"&username="+user;
-		else
+		if(user == 'undefined')
 			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end;
+		else if(user.length < 0)
+			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end;
+		else
+			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end+"&username="+user;			
 				
     	$http.get(temp).success(
 		function(response) 
