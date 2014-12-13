@@ -2,6 +2,7 @@ package edu.nyu.cs.cs2580;
 
 import java.io.IOException;
 import java.io.OutputStream;
+import java.util.HashMap;
 import java.util.Vector;
 
 import com.sun.net.httpserver.Headers;
@@ -49,6 +50,8 @@ class QueryHandler implements HttpHandler {
     public enum OutputFormat {
       TEXT, HTML,
     }
+    
+    public String uname = null;
 
     public OutputFormat _outputFormat = OutputFormat.TEXT;
 
@@ -84,7 +87,10 @@ class QueryHandler implements HttpHandler {
             // Ignored, search engine should never fail upon invalid
             // user input.
           }
-        } else if (key.equals("ranker")) {
+        } else if (key.equals("username")) {
+          uname = val;
+        }
+        else if (key.equals("ranker")) {
           try {
             _rankerType = RankerType.valueOf(val.toUpperCase());
           } catch (IllegalArgumentException e) {
@@ -137,9 +143,12 @@ class QueryHandler implements HttpHandler {
   // we are not worried about thread-safety here, the Indexer class must take
   // care of thread-safety.
   private Indexer _indexer;
+  
+  private QIndexerInvertedCompressed qindexer;
 
-  public QueryHandler(Options options, Indexer indexer) {
+  public QueryHandler(Options options, Indexer indexer, QIndexerInvertedCompressed qindexer) {
     _indexer = indexer;
+    this.qindexer = qindexer;
   }
 
   private void respondWithMsg(HttpExchange exchange, final String message)
@@ -227,6 +236,24 @@ class QueryHandler implements HttpHandler {
 	   // Processing the query.
 	   Query processedQuery = new QueryPhrase(cgiArgs._query);
 	   processedQuery.processQuery();
+	   
+	   String userName = cgiArgs.uname;
+	    if(userName != null && !userName.equals("")) {
+	      if(!qindexer.userData.containsKey(userName)) {
+	        HashMap<String,Integer> userQueryDetails = new HashMap<String,Integer>();
+	        userQueryDetails.put(processedQuery._query, 1);
+	        qindexer.userData.put(userName,userQueryDetails);
+	      }
+	      else {
+	        HashMap<String,Integer> userQueryDetails = qindexer.userData.get(userName);
+	        if(userQueryDetails.containsKey(processedQuery._query)) {
+	          userQueryDetails.put(processedQuery._query, userQueryDetails.get(processedQuery._query) + 1);
+	        }
+	        else {
+	          userQueryDetails.put(processedQuery._query, 1);
+	        }
+	      }
+	    }
 	    
 	   Vector<ScoredDocument> scoredDocs = null;
 	   Count c = new Count();

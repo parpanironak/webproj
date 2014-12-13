@@ -10,12 +10,45 @@ import com.sun.net.httpserver.Headers;
 import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 
-import edu.nyu.cs.cs2580.QueryHandler.CgiArguments;
-
 public class InstantQueryHandler implements HttpHandler {
+  
+  public static class CgiArguments {
+    // The raw user query
+    public String _query = "";
+    
+    // The output format.
+    public enum OutputFormat {
+      TEXT, HTML,
+    }
+    
+    public String uname = null;
+    public int numQueryResults = 10;
+
+    public OutputFormat _outputFormat = OutputFormat.TEXT;
+
+    public CgiArguments(String uriQuery) {
+      String[] params = uriQuery.split("&");
+      for (String param : params) {
+        String[] keyval = param.split("=", 2);
+        if (keyval.length < 2) {
+          continue;
+        }
+        String key = keyval[0].toLowerCase();
+        String val = keyval[1];
+        if (key.equals("query")) {
+          _query = val;
+        }
+        else if (key.equals("username")) {
+          uname = val;
+        }
+        else if (key.equals("numqueryresults")) {
+          numQueryResults = Integer.parseInt(val);
+        }
+      } // End of iterating over params
+    }
+  }
 
   private QIndexerInvertedCompressed qindexer;
-  private int numQueryResults = 5;
 
   public InstantQueryHandler(QIndexerInvertedCompressed qindexer) {
     this.qindexer = qindexer;
@@ -85,16 +118,16 @@ public class InstantQueryHandler implements HttpHandler {
     }
 
     // Create the ranker.
-    QueryRanker ranker = new QueryRanker(SearchEngine.OPTIONS, cgiArgs, qindexer);
+    QueryRanker ranker = new QueryRanker(qindexer);
 
     // Processing the query.
     Query processedQuery = new QueryPhrase(cgiArgs._query);
-    processedQuery.processQuery();
+    processedQuery.processQuery(true);
 
     Vector<ScoredQueryDocument> scoredQueryDocs = null;
     if(processedQuery._tokens.size() > 0)
       scoredQueryDocs = ranker.runQuery(processedQuery,
-          numQueryResults);
+          cgiArgs);
     else
       scoredQueryDocs = new Vector<ScoredQueryDocument>();
 

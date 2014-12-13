@@ -99,7 +99,12 @@ def processfile(src, dest):
     srcf = open(src, 'r')
     destf = open(dest, 'a+')
 
+    flag = True
     for line in srcf:
+        if flag:
+            flag = False
+            print(line, file=destf)
+            continue
         line = line.lower()
         line = re.sub(r"['][dms]{0,1}", "", line)
         line = re.sub(r"[']", "", line)
@@ -127,5 +132,5 @@ def start(srcpath, destpath):
 
 
 #processfile("1.txt","1.out_3")
-matcher = re.compile("[^a-zA-Z0-9\-\*\+]")
+matcher = re.compile("[^a-zA-Z]")
 start('data/wikitextlinux/','data/wikitext/')

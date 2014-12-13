@@ -62,8 +62,12 @@ for infile in wikilines:
     in_file = None
     try:
         allWords = collections.defaultdict(int)
-        in_file = open(infile, 'r');
+        in_file = open(infile, 'r')
+        flag = True
         for line in in_file:
+            if flag:
+                flag = False
+                continue
             for n in range(1,maxN+1):
                 ng = getngramlist(n, line)
                 for phrase in ng:

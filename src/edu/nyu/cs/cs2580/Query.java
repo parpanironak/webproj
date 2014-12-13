@@ -31,4 +31,15 @@ public class Query {
     }
     s.close();
   }
+  
+  public void processQuery(boolean flag) {
+    if (_query == null) {
+      return;
+    }
+    Scanner s = new Scanner(_query);
+    while (s.hasNext()) {
+      _tokens.add(s.next());
+    }
+    s.close();
+  }
 }

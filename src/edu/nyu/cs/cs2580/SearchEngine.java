@@ -234,23 +234,23 @@ public class SearchEngine {
     Check(indexer != null,
         "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
     indexer.constructIndex();
-    //QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
-    //qindexer.constructIndex();
+    QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
+    qindexer.constructIndex();
   }
   
   private static void startServing() throws IOException, ClassNotFoundException {
-    // Create the handler and its associated indexer.
-    Indexer indexer = Indexer.Factory.getIndexerByOption(SearchEngine.OPTIONS);
-    Check(indexer != null,
-        "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
-    indexer.loadIndex();
-    QueryHandler handler = new QueryHandler(SearchEngine.OPTIONS, indexer);
-    
     //This indexer indexes query suggestions
     //It suggests queries when users type partial queries
     QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
     //qindexer.loadIndex();
     InstantQueryHandler instantHandler = new InstantQueryHandler(qindexer);
+    
+    // Create the handler and its associated indexer.
+    Indexer indexer = Indexer.Factory.getIndexerByOption(SearchEngine.OPTIONS);
+    Check(indexer != null,
+        "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
+    indexer.loadIndex();
+    QueryHandler handler = new QueryHandler(SearchEngine.OPTIONS, indexer,qindexer);
 
     // Establish the serving environment
     InetSocketAddress addr = new InetSocketAddress(SearchEngine.PORT);

@@ -374,16 +374,29 @@ public class LogSimulation {
 		LogSimulation simulation = new LogSimulation();
 		try {
 			simulation.loadNumviews("data/index/numviews.nv");
-			simulation.loadLinkDocidMap("D:/ngramswikitext");
+			simulation.loadLinkDocidMap("data/wiki");
 		} catch (ClassNotFoundException | IOException e1) {
 		// TODO Auto-generated catch block
 			e1.printStackTrace();
 		}
+		try {
+			simulation.startsimulation("data/ngramswikitext", 
+					"data/simulatedlogs.txt",
+					15,
+					10,
+					60,
+					0.001,
+					0.25);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 //		try {
-//			simulation.startsimulation("data/ngramswikitext", 
+//			simulation.startsimulation("D:/ngramswikitext", 
 //					"data/simulatedlogs.txt",
 //					15,
-//					10,
+//					15,
 //					60,
 //					0.001,
 //					0.3);
@@ -391,19 +404,6 @@ public class LogSimulation {
 //			// TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}
-		
-		try {
-			simulation.startsimulation("D:/ngramswikitext", 
-					"data/simulatedlogs.txt",
-					15,
-					15,
-					60,
-					0.001,
-					0.3);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 	}
 
 }

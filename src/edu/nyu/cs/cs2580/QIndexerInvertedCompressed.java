@@ -24,6 +24,9 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Vector;
 
+import org.ardverk.collection.PatriciaTrie;
+import org.ardverk.collection.StringKeyAnalyzer;
+
 import edu.nyu.cs.cs2580.Compress.Compression;
 import edu.nyu.cs.cs2580.Compress.GammaCompression;
 import edu.nyu.cs.cs2580.SkipPointer.SkipPointer;
@@ -45,6 +48,11 @@ public class QIndexerInvertedCompressed implements Serializable{
   protected long _totalTermFrequency = 0;
   protected long totalwordsincorpus = 0;
   protected long totalnumviews = 0;
+  
+  protected HashMap<String,HashMap<String,Integer>> userData = new HashMap<String,HashMap<String,Integer>>();
+  
+  protected PatriciaTrie<String, Double> trie = new PatriciaTrie<String, Double>(StringKeyAnalyzer.INSTANCE);
+  private HashMap<String,HashMap<String,Double>> coOccurrenceMap = new HashMap<String,HashMap<String,Double>>();
   
   public class PostingList implements Serializable
   {
@@ -143,7 +151,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   }
 
   private Vector<QDocument> _documents = new Vector<QDocument>();
-  private HashMap<String,PostingList> index = new HashMap<String,PostingList>();
+  protected HashMap<String,PostingList> index = new HashMap<String,PostingList>();
   private HashMap<String,SkipPointer> skippointermap = new HashMap<String, SkipPointer>();
 
   private HashMap<Integer,String> stringIdToWordMap = new HashMap<Integer,String>();
@@ -187,6 +195,8 @@ public class QIndexerInvertedCompressed implements Serializable{
       bw.newLine();
       bw.write(Long.toString(totalnumviews));
       bw.newLine();
+      bw.write(Long.toString(_totalTermFrequency));
+      bw.newLine();
       bw.close();
       
       String indexFile = null;
@@ -207,10 +217,50 @@ public class QIndexerInvertedCompressed implements Serializable{
       writer = new ObjectOutputStream(new FileOutputStream(indexFile));
       writer.writeObject(this.stringIdToWordMap);
       writer.close();
+      
+      indexFile = _options._indexPrefix + "qtrie.map";
+      writer = new ObjectOutputStream(new FileOutputStream(indexFile));
+      writer.writeObject(this.trie);
+      writer.close();
+      
+      loadCoOccurrence();
+      
+      indexFile = _options._indexPrefix + "cooccurrences.map";
+      writer = new ObjectOutputStream(new FileOutputStream(indexFile));
+      writer.writeObject(this.coOccurrenceMap);
+      writer.close();
   
       System.out.println("Index File Created!");
       x = (System.currentTimeMillis() - x)/1000/60;
       System.out.println("Time to Construct:" + x + " mins.");
+  }
+  
+  
+  private void loadCoOccurrence() throws IOException {
+    String coOccFileName = "data/cooccurrences.txt";
+    BufferedReader br = new BufferedReader(new FileReader(coOccFileName));
+    try {
+      String line = null;
+      do {
+        line = br.readLine();
+        if(line == null) {
+          continue;
+        }
+        Scanner sc = new Scanner(line);
+        sc.useDelimiter("\t");
+        String word1 = sc.next();
+        String word2 = sc.next();
+        double coOccVal = Double.parseDouble(sc.next());
+        if(!coOccurrenceMap.containsKey(word1)) {
+          HashMap<String,Double> wordCoOccMap = new HashMap<String,Double>();
+          coOccurrenceMap.put(word1, wordCoOccMap);
+        }
+        coOccurrenceMap.get(word1).put(word2,coOccVal);
+      } while(line != null);
+    }
+    finally {
+      br.close();
+    }
   }
 
 
@@ -225,6 +275,7 @@ public class QIndexerInvertedCompressed implements Serializable{
       this.totalwordsincorpus = sc.nextLong();
       this._numDocs = sc.nextInt();
       this.totalnumviews = sc.nextLong();
+      this._totalTermFrequency = sc.nextLong();
       sc.close();
   
       merge();
@@ -243,6 +294,16 @@ public class QIndexerInvertedCompressed implements Serializable{
       reader = new ObjectInputStream(new FileInputStream(indexFile));
       this.stringIdToWordMap = (HashMap<Integer, String>) reader.readObject();
       reader.close();
+      
+      indexFile = _options._indexPrefix + "qtrie.map";
+      reader = new ObjectInputStream(new FileInputStream(indexFile));
+      this.trie = (PatriciaTrie<String, Double>) reader.readObject();
+      reader.close();
+      
+      indexFile = _options._indexPrefix + "cooccurrences.map";
+      reader = new ObjectInputStream(new FileInputStream(indexFile));
+      this.coOccurrenceMap = (HashMap<String, HashMap<String,Double>>) reader.readObject();
+      reader.close();
   
       x = (System.currentTimeMillis() - x)/1000/60;
       System.out.println("Time to load:" + x + " mins.");
@@ -258,7 +319,7 @@ public class QIndexerInvertedCompressed implements Serializable{
   
       int deno = _options.qindexdocsplit;
   
-      for(int i = 1; i < _numDocs/deno; i++)
+      /*for(int i = 1; i < _numDocs/deno; i++)
       {
           HashMap<String, PostingList> temp = null;
           reader = new ObjectInputStream(new FileInputStream(partialindexfile + i));
@@ -276,7 +337,7 @@ public class QIndexerInvertedCompressed implements Serializable{
                 this.index.put(token, temp.get(token));
               }
           }
-      }
+      }*/
   }
 
   public QDocument getDoc(int docid) {
@@ -435,11 +496,12 @@ public class QIndexerInvertedCompressed implements Serializable{
             lastdocinserted,
             allWords,
             docIdIndex);
-        if((docid+1)%_options.qindexdocsplit == 0)
-          flushIndex(docid/_options.qindexdocsplit);
+//        if((docid+1)%_options.qindexdocsplit == 0)
+//          flushIndex(docid/_options.qindexdocsplit);
       } while(line != null);
       if(index.size() != 0)
-        flushIndex(_numDocs/_options.qindexdocsplit);
+        //flushIndex(_numDocs/_options.qindexdocsplit);
+        flushIndex(0);
     } finally {
       br.close();
     }
@@ -464,6 +526,7 @@ public class QIndexerInvertedCompressed implements Serializable{
     doc.setFrequency(frequency);
     doc.setNumViews(views);
     totalnumviews += views;
+    _totalTermFrequency += frequency;
     
     _documents.add(doc);      
     ++_numDocs;
@@ -545,6 +608,15 @@ public class QIndexerInvertedCompressed implements Serializable{
       }
 
       word = text;
+      //update trie
+      if(trie.get(word) != null) {
+        //this word is present in the trie
+        trie.put(word, trie.get(word) + 1);
+      }
+      else {
+        trie.put(word, 1.0);
+      }
+      
       totalwordsincorpus++;
 
       if(index.containsKey(word))
@@ -833,5 +905,17 @@ public class QIndexerInvertedCompressed implements Serializable{
       int item = list.get(i);
       list.set(i,item - number);
     }
+  }
+  
+  public double getCoOccurrence(String word1, String word2) {
+    HashMap<String,Double> wordCoOccMap = coOccurrenceMap.get(word1);
+    if(wordCoOccMap == null) {
+      return 0.0;
+    }
+    Double d = coOccurrenceMap.get(word1).get(word2);
+    if(d == null) {
+      d = 0.0;
+    }
+    return d;
   }
 }

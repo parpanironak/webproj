@@ -14,14 +14,14 @@ public class Stopwords {
   public static Set<String> stemmedStopWordSet = stemStringSet(stopWordSet);
   
   public static boolean isStopword(String word) {
-    if(word.length() < 2) return true;
+    //if(word.length() < 2) return true;
     if(word.charAt(0) >= '0' && word.charAt(0) <= '9') return true; //remove numbers, "25th", etc
     if(stopWordSet.contains(word)) return true;
     else return false;
   }
   
   public static boolean isStemmedStopword(String word) {
-    if(word.length() < 2) return true;
+    //if(word.length() < 2) return true;
     if(word.charAt(0) >= '0' && word.charAt(0) <= '9') return true; //remove numbers, "25th", etc
     String stemmed = stemString(word);
     if(stopWordSet.contains(stemmed)) return true;
