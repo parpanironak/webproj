@@ -18,12 +18,12 @@ app.controller('MyCtrl', function($scope, $http){
 	if(typedthings.length > 0)
     {
 		var temp = ""
-		if(user.length > 0)
+		if(user!== 'undefined' && user.length > 0)
 			temp = "http://localhost:25809/instant?query="+typedthings+"&username="+user;
 		else
 			temp = "http://localhost:25809/instant?query="+typedthings
 		
-		$http.get().success(function(response) 
+		$http.get(temp).success(function(response) 
 		{$scope.suggest = response.data});
 	}
 	else
@@ -59,7 +59,7 @@ app.controller('MyCtrl', function($scope, $http){
 	if(query.length > 0)
 	{
 		var temp = ""
-		if(user.length > 0)
+		if(user!== 'undefined' && user.length > 0)
 			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end+"&username="+user;
 		else
 			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end;
