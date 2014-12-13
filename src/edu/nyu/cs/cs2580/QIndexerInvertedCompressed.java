@@ -246,8 +246,8 @@ public class QIndexerInvertedCompressed implements Serializable{
         sc.useDelimiter("\t");
         String word1 = sc.next();
         String word2 = sc.next();
-        sc.close();
         double coOccVal = Double.parseDouble(sc.next());
+        sc.close();
         if(!coOccurrenceMap.containsKey(word1)) {
           HashMap<String,Double> wordCoOccMap = new HashMap<String,Double>();
           coOccurrenceMap.put(word1, wordCoOccMap);
