@@ -100,10 +100,13 @@ public class QueryPhrase extends Query {
     {
       if(i%2 == 0 && tokens[i].length() > 0)
       {
-        Scanner sc = new Scanner(tokens[i]);
-        while (sc.hasNext()) {
-          String s = sc.next();
-          s = Stopwords.removeStopWords(s);
+        String[] tok = tokens[i].split(" ");
+        int j = 0;
+        while(j < tok.length) {
+          String s = tok[j];
+          if(j != tok.length - 1) {
+            s = Stopwords.removeStopWords(s);
+          }
           if(s != null) {
             //String string = stemmer.stem(s);
             String string = s;
@@ -111,16 +114,19 @@ public class QueryPhrase extends Query {
               _tokens.add(string.trim());
             }
           }
+          j++;
         }
-        sc.close();
       }
       else if(tokens[i].length() > 0)
       {
-        Scanner sc = new Scanner(tokens[i].trim());
         StringBuilder sb = new StringBuilder();
-        while (sc.hasNext()) {
-          String s = sc.next();
-          s = Stopwords.removeStopWords(s);
+        String[] tok = tokens[i].split(" ");
+        int j = 0;
+        while(j < tok.length) {
+          String s = tok[j];
+          if(j != tok.length - 1) {
+            s = Stopwords.removeStopWords(s);
+          }
           if(s != null) {
             //String string = stemmer.stem(s);
             String string = s;
@@ -129,9 +135,8 @@ public class QueryPhrase extends Query {
               sb.append(' ');
             }
           }
+          j++;
         }
-        sc.close();
-
         _tokens.add(sb.toString().trim());
       }
     }

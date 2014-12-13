@@ -3,30 +3,24 @@ package edu.nyu.cs.cs2580;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
-import java.util.PriorityQueue;
-import java.util.Queue;
 import java.util.Set;
-import java.util.SortedMap;
 import java.util.Vector;
 
 import edu.nyu.cs.cs2580.InstantQueryHandler.CgiArguments;
-import edu.nyu.cs.cs2580.SearchEngine.Options;
 
 public class QueryRanker {
   
   private QIndexerInvertedCompressed qindexer;
-  private int numSuggestionsFromTrie = 20;
-  private double lambda1 = 0.2;
+  private int numSuggestionsFromTrie = 10;
+  private double lambda1 = 0.3;
   private double lambda2 = 9000;
-  private double lambda3 = 999;
-  private double lambda4 = 0.6;
-  private double lambda5 = 0.2;
+  private double lambda3 = 998;
+  private double lambda4 = 1.1;
+  private double lambda5 = 0.6;
   
   protected QueryRanker(QIndexerInvertedCompressed qindexer) {
     this.qindexer = qindexer;
@@ -52,6 +46,12 @@ public class QueryRanker {
           return -1;
         }
         else if (coOcc1 < coOcc2) {
+          return 1;
+        }
+        if(entry1.getValue() > entry2.getValue()) {
+          return -1;
+        }
+        else if (entry1.getValue() < entry2.getValue()) {
           return 1;
         }
         return 0;
@@ -107,10 +107,10 @@ public class QueryRanker {
         if(!allDocIds.contains(docid)) {
           ScoredQueryDocument scoredDoc = null;
           if(doc.getContent().startsWith(queryString.substring(1,queryString.length()-1))) {
-            scoredDoc = new ScoredQueryDocument(doc, getScore(doc,true,true));
+            scoredDoc = new ScoredQueryDocument(doc, getScore(doc,true,true,cgiArgs));
           }
           else {
-            scoredDoc = new ScoredQueryDocument(doc, getScore(doc,true,false));
+            scoredDoc = new ScoredQueryDocument(doc, getScore(doc,true,false,cgiArgs));
           }
           results.add(scoredDoc);
           allDocIds.add(docid);
@@ -123,7 +123,7 @@ public class QueryRanker {
         //Not as a phrase, so no lambda1
         docid = doc.getDocId();
         if(!allDocIds.contains(docid)) {
-          ScoredQueryDocument scoredDoc = new ScoredQueryDocument(doc, getScore(doc,false,false));
+          ScoredQueryDocument scoredDoc = new ScoredQueryDocument(doc, getScore(doc,false,false,cgiArgs));
           results.add(scoredDoc);
           allDocIds.add(docid);
         }
@@ -142,13 +142,17 @@ public class QueryRanker {
     return results;
   }
   
-  private double getScore(QDocument doc,boolean isPhrase,boolean startsWithPhrase) {
+  private double getScore(QDocument doc,boolean isPhrase,boolean startsWithPhrase,CgiArguments cgiArgs) {
     double score = lambda2 * doc.getFrequency() / qindexer._totalTermFrequency + lambda3 * doc.getNumViews() / qindexer.totalnumviews;
     if(isPhrase) {
       score += lambda1;
     }
     if(startsWithPhrase) {
       score += lambda4;
+    }
+    if(qindexer.userData.get(cgiArgs.uname) != null) {
+      if(qindexer.userData.get(cgiArgs.uname).containsKey(doc.getContent()))
+        score += lambda5 * (0.5 + Math.log(qindexer.userData.get(cgiArgs.uname).get(doc.getContent())));
     }
     return score;
   }

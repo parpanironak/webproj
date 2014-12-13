@@ -168,7 +168,7 @@ public class IndexerInvertedCompressed extends Indexer implements Serializable{
 	    
 	    skipSteps = _options.skips;
 	    try {
-	      parse();
+	      simpleparse();
 	    } catch (Exception e) {
 	      // TODO Auto-generated catch block
 	      e.printStackTrace();

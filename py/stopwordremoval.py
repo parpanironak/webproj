@@ -132,5 +132,5 @@ def start(srcpath, destpath):
 
 
 #processfile("1.txt","1.out_3")
-matcher = re.compile("[^a-zA-Z0-9]")
+matcher = re.compile("[^a-zA-Z]")
 start('data/wikitextlinux/','data/wikitext/')

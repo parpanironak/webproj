@@ -63,7 +63,7 @@ for file in wiki:
             p = re.sub(r"\[[0-9]*\]", "", p)
             p = re.sub(r"(\d+),(\d+)", r"\1\2", p)
             p = re.sub(r'\[|\]', "", p)
-            p = re.sub(r"_|\n", " ", p)
+            p = re.sub(r"_|\-|\+|\*|\n", " ", p)
             p = re.split('[.,";:?/()!\n]+',p)
             for line in p:
                 line = line.strip()
