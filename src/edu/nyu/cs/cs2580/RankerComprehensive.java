@@ -24,11 +24,12 @@ public class RankerComprehensive extends Ranker
   }
   
   @Override
-  public Vector<ScoredDocument> runQuery(Query query, int numResults) {
+  public Vector<ScoredDocument> runQuery(Query query, int numResults, Count c, int start, int end) {
     Queue<ScoredDocument> rankQueue = new PriorityQueue<ScoredDocument>();
     //int x = _indexer.documentTermFrequency("web", "world wide web");
     //System.out.println(x);
-   
+    if(end == -1)
+    	end = 10;
     Document doc = null;
     
     int docid = -1;
@@ -85,7 +86,8 @@ public class RankerComprehensive extends Ranker
 		    double numviewval=doc.getNumViews()/(_indexer.totalnumviews/10213);
 		    totalscore += pagerankval*weight_pagerank + numviewval*weight_numviews;
 		    rankQueue.add(new ScoredDocument(doc, totalscore));
-		    if (rankQueue.size() > numResults) {
+		    c.count ++;
+		    if (rankQueue.size() > end) {
 		    	rankQueue.poll();
 		    }
 		    docid = doc._docid;

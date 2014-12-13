@@ -20,7 +20,7 @@ public class RankerFavorite extends Ranker
   }
   
   @Override
-  public Vector<ScoredDocument> runQuery(Query query, int numResults) {
+  public Vector<ScoredDocument> runQuery(Query query, int numResults, Count c, int start, int end) {
     Queue<ScoredDocument> rankQueue = new PriorityQueue<ScoredDocument>();
     //int x = _indexer.documentTermFrequency("web", "world wide web");
     //System.out.println(x);
@@ -77,6 +77,7 @@ public class RankerFavorite extends Ranker
 		    	totalscore += Math.log(1 + (1.0 - lambda) * scorecomp1 + lambda * scorecomp2);
 		    }
 		    rankQueue.add(new ScoredDocument(doc, totalscore));
+		    c.count++;
 		    if (rankQueue.size() > numResults) {
 		    	rankQueue.poll();
 		    }
