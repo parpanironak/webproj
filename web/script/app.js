@@ -46,8 +46,11 @@ app.controller('MyCtrl', function($scope, $http){
 			});
   }
   
-  $scope.searchrequestrange = function(query, start, end){
-	  
+  $scope.searchrequestrange = function(query, start, end, user){
+	
+
+		console.log(user)	
+	
   	console.log("Suggestion selected: " + query);
 	if(query.length > 0)
     	$http.get("http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end).success(
