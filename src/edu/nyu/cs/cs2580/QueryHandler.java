@@ -35,6 +35,8 @@ class QueryHandler implements HttpHandler {
 
     private int _numDocs = 10;
     private int _numTerms = 10;
+    private int start = 0;
+    private int end = -1;
 
     // The type of the ranker we will be using.
     public enum RankerType {
@@ -96,9 +98,39 @@ class QueryHandler implements HttpHandler {
             // Ignored, search engine should never fail upon invalid
             // user input.
           }
+        } else if (key.equals("start")) {
+            try {
+                setStart(Integer.parseInt(val));
+              } catch (NumberFormatException e) {
+                // Ignored, search engine should never fail upon invalid
+                // user input.
+              }
+        } else if (key.equals("end")) {
+            try {
+                setEnd(Integer.parseInt(val));
+              } catch (NumberFormatException e) {
+                // Ignored, search engine should never fail upon invalid
+                // user input.
+              }
         }
       } // End of iterating over params
     }
+
+	public int getEnd() {
+		return end;
+	}
+
+	public void setEnd(int end) {
+		this.end = end;
+	}
+
+	public int getStart() {
+		return start;
+	}
+
+	public void setStart(int start) {
+		this.start = start;
+	}
   }
 
   // For accessing the underlying documents to be used by the Ranker. Since
@@ -133,14 +165,23 @@ class QueryHandler implements HttpHandler {
 
   @SuppressWarnings("unchecked")
   private void constructJSONOutput(final Vector<ScoredDocument> docs,
-	      								StringBuffer response) 
+	      								StringBuffer response, Count c, int start) 
   {
 	    JSONArray arr = new JSONArray();
+	    int i = 0;
 	  	for (ScoredDocument doc : docs) 
-	  	{
+	  	{	
+	  		if(i < start)
+	  		{
+	  			i++;
+	  			continue;
+	  		}
 	  		arr.add(doc.asJsonResult());
 	    }
-	  	response.append(arr.toString());
+	  	JSONObject obj = new JSONObject();
+	  	obj.put("total", c.count);
+	  	obj.put("data", arr);
+	  	response.append(obj.toString());
   }
   
   public void handle(HttpExchange exchange) throws IOException 
@@ -188,16 +229,17 @@ class QueryHandler implements HttpHandler {
 	   processedQuery.processQuery();
 	    
 	   Vector<ScoredDocument> scoredDocs = null;
+	   Count c = new Count();
 	   if(processedQuery._tokens.size() > 0)
 		   scoredDocs = ranker.runQuery(processedQuery,
-	          cgiArgs._numResults);
+	          cgiArgs._numResults, c, cgiArgs.getStart(), cgiArgs.getEnd());
 	   else
 	    	scoredDocs = new Vector<ScoredDocument>();
 	
 	   StringBuffer response = new StringBuffer();
 	   switch (cgiArgs._outputFormat) {
 	      	case TEXT:
-	      		constructJSONOutput(scoredDocs, response);
+	      		constructJSONOutput(scoredDocs, response, c, cgiArgs.getStart());
 	      		break;
 	      	case HTML:
 	      		// @CS2580: Plug in your HTML output

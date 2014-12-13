@@ -233,9 +233,9 @@ public class SearchEngine {
     Indexer indexer = Indexer.Factory.getIndexerByOption(SearchEngine.OPTIONS);
     Check(indexer != null,
         "Indexer " + SearchEngine.OPTIONS._indexerType + " not found!");
-    //indexer.constructIndex();
-    QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
-    qindexer.constructIndex();
+    indexer.constructIndex();
+    //QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
+    //qindexer.constructIndex();
   }
   
   private static void startServing() throws IOException, ClassNotFoundException {
@@ -249,7 +249,7 @@ public class SearchEngine {
     //This indexer indexes query suggestions
     //It suggests queries when users type partial queries
     QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
-    qindexer.loadIndex();
+    //qindexer.loadIndex();
     InstantQueryHandler instantHandler = new InstantQueryHandler(qindexer);
 
     // Establish the serving environment
