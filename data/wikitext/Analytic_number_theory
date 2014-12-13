@@ -1,0 +1,196 @@
+Analytic number theory
+
+analytic number theory
+mathematics
+analytic number theory branch number theory methods mathematical analysis solve problems integers
+begun dirichlet introduction dirichlet functions give proof dirichlet theorem arithmetic progressions
+major milestone subject prime number theorem
+analytic number theory split major parts
+divided type problems attempt solve fundamental differences technique
+multiplicative number theory deals distribution prime numbers
+estimating number primes interval
+includes prime number theorem dirichlet theorem primes arithmetic progressions
+additive number theory concerned additive structure integers
+goldbach conjecture number greater sum primes
+main results additive number theory solution waring problem
+developments analytic number theory refinements earlier techniques
+reduce error terms widen applicability
+circle method hardy littlewood conceived applying power series unit circle complex plane
+thought terms finite exponential sums
+unit circle
+power series truncated
+diophantine approximation auxiliary functions generating coefficients constructed pigeonhole involve complex variables
+fields diophantine approximation transcendence theory expanded
+point techniques applied mordell conjecture
+biggest technical change development sieve methods tool
+multiplicative problems
+combinatorial nature
+varied
+extremal branch combinatorial theory return greatly influenced analytic number theory quantitative upper lower bounds
+recent development probabilistic number theory
+tools probability theory estimate distribution number theoretic functions
+prime divisors number
+great theorems results analytic number theory tend exact structural results integers
+algebraic geometrical tools
+give approximate bounds estimates number theoretical functions
+examples illustrate
+euclid showed infinite number primes difficult find efficient method determining number prime
+large number
+related easier problem determine asymptotic distribution prime numbers
+rough description primes smaller number
+gauss
+computing large list primes
+conjectured number primes equal large number close integral
+bernhard riemann complex analysis special meromorphic function riemann zeta function derive analytic expression number primes equal real
+remarkably
+main term riemann formula integral
+lending substantial weight gauss conjecture
+riemann found error terms expression
+manner primes distributed
+closely related complex zeros zeta function
+riemann ideas information zeros zeta function
+jacques hadamard charles jean poussin managed complete proof gauss conjecture
+proved
+remarkable result prime number theorem
+central result analytic number theory
+loosely speaking
+states large number
+number primes equal
+log
+generally
+question asked number primes arithmetic progression integer
+applications analytic techniques number theory
+dirichlet proved arithmetic progression coprime infinitely primes
+prime number theorem generalised problem
+letting
+coprime
+deep wide ranging conjectures number theory proofs difficult current techniques
+twin prime conjecture asks infinitely primes prime
+assumption conjecture proven recently
+daniel goldston
+pintz
+cem
+infinitely primes prime positive
+important problems additive number theory waring problem
+asks
+write positive integer sum bounded number kth powers
+case squares
+answered lagrange
+proved positive integer sum squares
+general case proved hilbert
+algebraic techniques gave explicit bounds
+important breakthrough application analytic tools problem hardy littlewood
+techniques circle method
+give explicit upper bounds function
+smallest number kth powers needed
+vinogradov bound
+diophantine problems concerned integer solutions polynomial equations
+study distribution solutions
+counting solutions measure
+size
+height
+important gauss circle problem
+asks integers points
+satisfy
+geometrical terms
+circle centered origin plane radius
+problem asks integer lattice points lie inside circle
+hard prove answer image
+math
+png
+image
+math
+png image
+math
+png
+difficult part great achievement analytic number theory obtaining specific upper bounds error
+shown gauss image
+math
+png
+general
+error term unit circle
+properly
+closed unit disk
+replaced dilates bounded planar region piecewise smooth boundary
+replacing unit circle unit square
+error term general problem large linear function
+error bound form image
+math
+png image
+math
+png case circle significant improvement
+attain
+showed image
+math
+png
+hardy landau showed image
+math
+png
+goal show fixed image
+math
+png exists real number image
+math
+png image
+math
+png
+huxley showed image
+math
+png
+published result
+tools multiplicative number theory dirichlet series
+functions complex variable defined infinite series
+depending choice coefficients image
+math
+png
+series converge
+half plane
+cases
+series converge
+holomorphic function defines analytically continued meromorphic function entire complex plane
+utility functions multiplicative problems formal identity
+coefficients product dirichlet series multiplicative convolutions original coefficients
+techniques partial summation tauberian theorems information coefficients analytic information dirichlet series
+common method estimating multiplicative function express dirichlet series
+product simpler dirichlet series convolution identities
+examine series complex function convert analytic information back information original function
+euler showed fundamental theorem arithmetic implies
+euler proof prime numbers makes divergence term left hand side
+called harmonic series
+purely analytic result
+euler analytical arguments purpose studying properties integers
+specifically constructing generating power series
+beginning analytic number theory
+riemann considered function complex values showed function extended meromorphic function entire plane simple pole
+function riemann zeta function denoted
+plethora literature function function special case general dirichlet functions
+analytic number theorists interested error approximations prime number theorem
+case
+error smaller
+riemann formula
+shows error term approximation expressed terms zeros zeta function
+paper
+riemann conjectured
+trivial
+zeros lie line image
+math
+png provided proof statement
+famous long standing conjecture riemann hypothesis deep implications number theory
+fact
+important theorems proved assumption hypothesis true
+assumption riemann hypothesis
+error term prime number theorem image
+math
+png
+early century
+hardy littlewood proved results zeta function attempt prove riemann hypothesis
+fact
+hardy proved infinitely zeros zeta function critical line
+led theorems describing density zeros critical line
+specialized aspects books
+topics reached book form depth
+examples
+montgomery pair correlation conjecture work initiated
+results goldston
+pintz yilidrim small gaps primes
+iii
+theorem showing arbitrarily long arithmetic progressions primes exist

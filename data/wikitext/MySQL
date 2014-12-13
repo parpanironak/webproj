@@ -1,0 +1,300 @@
+MySQL
+
+mysql
+mysql
+pron
+officially
+called
+sequel
+world open source relational database management system
+rdbms
+runs server providing multi user access number databases
+named founder michael widenius daughter
+sql phrase stands structured query language
+mysql development project made source code terms gnu general public license
+variety proprietary agreements
+mysql owned sponsored single profit firm
+swedish company mysql
+owned oracle corporation
+mysql popular choice database web applications
+central component widely lamp open source web application software stack
+amp stacks
+lamp acronym
+linux
+apache
+mysql
+perl
+php
+python
+free software open source projects require full featured database management system mysql
+commercial
+paid editions
+offer additional functionality
+applications mysql databases include
+joomla
+wordpress
+phpbb
+mybb
+drupal software
+mysql high profile
+large scale world wide web products
+including
+google
+searches
+facebook
+twitter
+flickr
+nokia
+youtube
+mysql relational database management system
+rdbms
+ships gui tools administer mysql databases manage data contained databases
+users included command line tools
+mysql
+front ends
+desktop software web applications create manage mysql databases
+build database structures
+back data
+inspect status
+work data records
+official set mysql front end tools
+mysql workbench actively developed oracle
+freely
+official mysql workbench free integrated environment developed mysql
+enables users graphically administer mysql databases visually design database structures
+mysql workbench replaces previous package software
+mysql gui tools
+similar party packages
+considered authoritative mysql front end
+mysql workbench users manage database design modeling
+sql development
+replacing mysql query browser
+database administration
+replacing mysql administrator
+mysql workbench editions
+regular free open source community edition downloaded mysql website
+proprietary standard edition extends improves feature set community edition
+party proprietary free graphical administration applications
+front ends
+integrate mysql enable users work database structure data visually
+front ends
+alphabetical order
+proprietary mysql front ends include dbforge studio mysql
+dbstudio
+epictetus
+oracle sql developer
+schemabank
+sqlpro sql client
+toad data modeler
+mysql ships command line tools
+main interface ysql client
+parties developed tools manage
+optimize
+monitor backup mysql server
+listed
+tools work nix type operating systems
+windows
+mysql works system platforms
+including aix
+bsdi
+freebsd
+ecomstation
+irix
+linux
+mac
+microsoft windows
+netbsd
+novell netware
+openbsd
+opensolaris
+warp
+qnx
+solaris
+symbian
+sunos
+sco openserver
+sco unixware
+sanos
+port mysql openvms exists
+mysql written
+sql parser written yacc
+home brewed lexical analyzer
+programming languages language specific apis include libraries accessing mysql databases
+include mysql connector
+net integration microsoft visual studio
+languages commonly
+jdbc driver java
+addition
+odbc interface called myodbc additional programming languages support odbc interface communicate mysql database
+asp coldfusion
+htsql url based query method ships mysql adapter
+allowing direct interaction mysql database web client structured urls
+april
+mysql offered mysql
+variants
+open source mysql community server commercial enterprise server
+mysql
+offered licences
+common code base include features
+developers release monthly versions mysql server
+sources obtained mysql website mysql bazaar repository
+gpl license
+sql databases
+mysql comply full sql standard implemented functionality
+including foreign key references storage engines tandard innodb
+triggers limited action
+timing
+maximum insert insert table
+triggers views
+mysql
+transactional relational databases
+strongly limited hard disk performance
+true terms write latency
+recent appearance affordable consumer grade sata interface solid state drives offer mechanical latency
+fivefold speedup drive raid array smaller investment
+mysql built installed manually source code
+tedious commonly installed binary package special customizations required
+linux distributions package management system download install mysql minimal effort
+configuration required adjust security optimization settings
+mysql began low end alternative powerful proprietary databases
+gradually evolved support higher scale
+commonly small medium scale single server deployments
+component lamp based web application standalone database server
+mysql appeal originates relative simplicity ease
+enabled ecosystem open source tools phpmyadmin
+medium range
+mysql scaled deploying powerful hardware
+multi processor server gigabytes memory
+limits performance scale single server
+larger scales
+multi server mysql deployments required provide improved performance reliability
+typical high end configuration include powerful master database handles data write operations replicated multiple slaves handle read operations
+master server synchronizes continually slaves event failure slave promoted master
+minimizing downtime
+improvements performance achieved caching results database queries memory memcached
+breaking database smaller chunks called shards spread number distributed server clusters
+mysql run cloud computing platforms amazon
+listed common deployment models mysql cloud
+mysql server software client libraries dual licensing distribution
+offered gpl version
+beginning june
+extended floss license exception
+proprietary license
+support obtained official manual
+free support additionally irc channels forums
+oracle offers paid support mysql enterprise products
+differ scope services price
+additionally
+number party organisations exist provide support services
+including skysql percona
+mysql received positive reviews
+reviewers noticed
+performs extremely average case
+developer interfaces
+documentation
+mention feedback real world web sites
+good
+tested
+fast
+stable true multi user
+multi threaded sql database server
+june
+nusphere sued mysql
+tcx datakonsult original authors michael
+monty
+widenius david axmark
+district court boston contract
+tortious interference party contracts relationships unfair
+mysql sued progress nusphere copyright trademark infringement united states district court
+nusphere allegedly violated mysql copyright linking mysql gpled code nusphere gemini table compliance license
+preliminary hearing judge patti saris february
+parties entered settlement talks eventually settled
+hearing
+fsf commented
+judge saris made clear sees gnu gpl enforceable binding license
+october
+oracle corporation acquired innobase
+finnish company developed party innodb storage engine mysql provide functionality transactions foreign keys
+acquisition
+oracle press release mentioned contracts make company software mysql due renewal
+renegotiation
+time
+mysql users conference april
+mysql issued press release confirmed mysql innobase agreed
+multi year
+extension licensing agreement
+february
+oracle corporation acquired sleepycat software
+makers berkeley
+database engine providing basis mysql storage engine
+effect
+berkeley widely
+dropped
+due lack
+mysql
+pre release mysql
+released october
+january
+sun microsystems bought mysql billion
+april
+oracle corporation entered agreement purchase sun microsystems
+owners mysql copyright trademark
+sun board directors unanimously approved deal
+approved sun shareholders
+government august
+december
+oracle pledged continue enhance mysql previous years
+movement oracle acquisition mysql
+save mysql
+oracle started mysql founders
+monty widenius
+petition developers users called european commission block approval acquisition
+time
+free software opinion leaders
+including eben moglen
+pamela jones groklaw
+jan wildeboer carlo piana
+acted counsel merger regulation procedure
+advocated unconditional approval merger
+citation needed part negotiations european commission
+oracle committed mysql server continue dual licensing strategy long mysql
+commercial gpl versions
+antitrust
+pressuring divest mysql condition approval merger
+revealed wikileaks
+department justice antitrust
+request oracle
+pressured unconditionally approve merger
+european commission eventually unconditionally approved oracle acquisition mysql january
+january
+prior oracle acquisition mysql
+monty widenius started gpl fork
+mariadb
+mariadb based code base mysql server
+strives maintain compatibility oracle provided versions
+august
+techcrunch alex williams reported oracle holding back mysql server test cases
+move concluded oracle attempting kill product
+percona reported oracle longer synchronizing public source repositories
+widenius called breach agreement oracle entered condition acquisition sun
+notable milestones mysql development include
+mysql server
+alpha announced release
+line
+future mysql server development release model
+features developed
+incorporated future releases
+mysql
+development milestone release
+announced mysql users conference
+features include performance improvements query optimizer
+higher transactional throughput innodb
+nosql style memcached apis
+improvements partitioning querying managing large tables
+improvements replication performance monitoring expanding data performance schema
+july previews binlog api
+group commit
+innodb full text searching released
+image
+timeline
+png

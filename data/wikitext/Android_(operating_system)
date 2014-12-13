@@ -1,0 +1,579 @@
+Android (operating system)
+
+android
+android linux based operating system designed primarily touchscreen mobile devices smartphones tablet computers
+initially developed android
+google backed financially purchased
+android unveiled founding open handset alliance
+consortium hardware
+software
+telecommunication companies devoted advancing open standards mobile devices
+android powered phone sold october
+android open source google releases code apache license
+open source code permissive licensing software freely modified distributed device manufacturers
+wireless carriers enthusiast developers
+additionally
+android large community developers writing applications
+apps
+extend functionality devices
+written primarily customized version java programming language
+october
+approximately apps android
+estimated number applications downloaded google play
+android primary app store
+billion
+factors allowed android world widely smartphone platform software choice technology companies require low cost
+customizable
+lightweight operating system high tech devices developing scratch
+result
+primarily designed phones tablets
+additional applications televisions
+games consoles electronics
+android open nature encouraged large community developers enthusiasts open source code foundation community driven projects
+add features advanced users bring android devices officially released running operating systems
+android huge success
+fourth quarter
+android overtook symbian biggest smartphone
+worldwide market share
+android worldwide smartphone market share quarter
+million devices activated total
+million activations day
+operating system success made target patent litigation part called
+smartphone wars
+technology companies
+android
+founded palo alto
+california october andy rubin
+founder danger
+rich miner
+founder wildfire communications
+nick sears
+mobile
+chris white
+headed design interface development webtv
+develop
+rubin words
+smarter mobile devices aware owner location preferences
+past accomplishments founders early employees
+android
+operated secretly
+revealing working software mobile phones
+year
+rubin ran money
+steve perlman
+close friend rubin
+brought cash envelope refused stake company
+google acquired android
+august
+making wholly owned subsidiary google
+key employees android
+including rubin
+miner white
+stayed company acquisition
+android
+time
+assumed google planning enter mobile phone market move
+google
+team led rubin developed mobile device platform powered linux kernel
+google marketed platform handset makers carriers promise providing flexible
+upgradable system
+google lined series hardware component software partners signaled carriers open degrees cooperation part
+speculation google intention enter mobile communications market continued build december
+reports bbc wall street journal noted google wanted search applications mobile phones working hard deliver
+print online media outlets reported rumors google developing google branded handset
+speculated google defining technical specifications
+showing prototypes cell phone manufacturers network operators
+september
+informationweek covered evalueserve study reporting google filed patent applications area mobile telephony
+november
+open handset alliance
+consortium technology companies including google
+device manufacturers htc samsung
+wireless carriers sprint nextel mobile
+chipset makers qualcomm texas instruments
+unveiled
+goal develop open standards mobile devices
+day
+android unveiled product
+mobile device platform built linux kernel version
+commercially phone run android htc dream
+released october
+android numerous updates incrementally improved operating system
+adding features fixing bugs previous releases
+major release named alphabetical order dessert sugary treat
+version
+cupcake
+donut
+latest release
+jelly bean
+google launched nexus series line smartphones tablets running android operating system
+built manufacturer partner
+htc collaborated google release nexus smartphone
+nexus
+series updated newer devices
+phone tablet
+made samsung
+google releases nexus phones tablets act flagship android devices
+demonstrating android latest software hardware features
+android user interface based direct manipulation
+touch inputs loosely correspond real world actions
+swiping
+tapping
+pinching reverse pinching manipulate screen objects
+response user input designed fluid touch interface
+vibration capabilities device provide haptic feedback user
+internal hardware accelerometers
+gyroscopes proximity sensors applications respond additional user actions
+adjusting screen portrait landscape depending device oriented
+allowing user steer vehicle racing game rotating device
+simulating control steering wheel
+android devices boot homescreen
+primary navigation information point device
+similar desktop found pcs
+android homescreens typically made app icons widgets
+app icons launch app
+widgets display live
+auto updating content weather forecast
+user email inbox
+news ticker directly homescreen
+homescreen made pages user swipe back
+android homescreen interface heavily customisable
+allowing user adjust feel device tastes
+party apps google play app stores extensively theme homescreen
+mimic operating systems
+windows phone
+manufacturers
+wireless carriers
+customise feel android devices differentiate competition
+present top screen status bar
+showing information device connectivity
+status bar
+pulled
+reveal notification screen apps display important information updates
+newly received email sms text
+immediately interrupt inconvenience user
+early versions android notifications tapped open relevant app
+recent updates provided enhanced functionality
+ability call number back directly missed call notification open dialer app
+notifications persistent read dismissed user
+android growing selection party applications
+acquired users app store google play amazon appstore
+downloading installing application apk file party site
+play store application users browse
+download update apps published google party developers
+pre installed devices comply google compatibility requirements
+app filters list applications compatible user device
+developers restrict applications carriers countries business reasons
+purchases unwanted applications refunded minutes time download
+carriers offer direct carrier billing google play application purchases
+cost application added user monthly bill
+september
+apps android
+estimated number applications downloaded play store billion
+applications developed java language android software development kit
+sdk
+sdk includes comprehensive set development tools
+including debugger
+software libraries
+handset emulator based qemu
+documentation
+sample code
+tutorials
+officially supported integrated development environment
+ide
+eclipse android development tools
+adt
+plugin
+development tools
+including native development kit applications extensions
+google app inventor
+visual environment novice programmers
+cross platform mobile web applications frameworks
+order work limitations reaching google services due internet censorship people republic china
+android devices sold prc generally customized state approved services
+android developed private google latest updates ready released
+point source code made publicly
+source code run modification select devices
+nexus series devices
+devices
+proprietary components provided manufacturer
+order android work
+android consists kernel based linux kernel version
+android
+ice cream sandwich onwards
+version
+middleware
+libraries apis written
+application software running application framework includes java compatible libraries based apache harmony
+android dalvik virtual machine time compilation run dalvik code
+dalvik executable
+translated java bytecode
+main hardware platform android arm architecture
+support android project
+google special version android
+android linux kernel architecture google typical linux kernel development cycle
+android native window system default support full set standard gnu libraries
+makes difficult port existing linux applications libraries android
+support simple sdl applications injection small java shim usage jni
+jagged alliance port android
+features google contributed back linux kernel
+notably power management feature called wakelocks
+rejected mainline kernel developers
+partly kernel maintainers felt google show intent maintain code
+google announced april hire employees work linux kernel community
+greg kroah hartman
+current linux kernel maintainer stable branch
+december concerned google longer code included mainstream linux
+google android developers hinted
+android team fed process
+small team urgent work android
+august
+linus torvalds
+eventually android linux back common kernel
+years
+december
+greg kroah hartman announced start android mainlining project
+aims put android drivers
+patches features back linux kernel
+starting linux
+linux included autosleep wakelocks capabilities
+kernel
+previous attempts merger
+interfaces upstream linux implementation suspend modes
+memory
+traditional suspend android
+disk
+hibernate
+desktop
+flash storage android devices split partitions
+system
+operating system
+data
+user data app installations
+contrast desktop linux distributions
+android device owners root access operating system sensitive partitions
+system read
+root access obtained exploiting security flaws android
+frequently open source community enhance capabilities devices
+malicious parties install viruses malware
+android devices battery powered
+android designed manage memory
+ram
+power consumption minimum
+contrast desktop operating systems generally assume connected unlimited mains electricity
+android app longer
+system automatically suspend memory app technically
+open
+suspended apps consume resources
+battery power processing power
+sit idly background needed
+dual benefit increasing general responsiveness android devices
+apps closed reopened scratch time
+ensuring background apps waste power needlessly
+android manages apps stored memory automatically
+memory low
+system begin killing apps processes inactive
+reverse order
+oldest
+process designed invisible user
+users manage memory killing apps
+confusion android memory management resulted party task killers popular google play store
+party task killers generally regarded harm good
+google major updates
+incremental nature
+android months
+devices capable receiving air
+latest major update android
+jelly bean
+compared chief rival mobile operating system
+ios
+android updates typically slow reach actual devices
+devices nexus brand
+updates arrive months time version officially released
+caused partly due extensive variation hardware android devices
+update specifically tailored
+official google source code runs flagship nexus phone
+porting android specific hardware time resource consuming process device manufacturers
+prioritize newest devices leave older
+older smartphones frequently updated manufacturer decides worth time
+phone capable running update
+problem compounded manufacturers customize android interface apps
+reapplied release
+additional delays introduced wireless carriers
+receiving updates manufacturers
+customize brand android conduct extensive testing networks sending update users
+lack sale support manufacturers carriers widely criticised consumer groups technology media
+commentators noted industry financial incentive update devices
+lack updates existing devices fuels purchase newer
+attitude
+insulting
+guardian complained complicated method distribution updates complicated manufacturers carriers designed
+google partnered number industry players announce
+android update alliance
+pledging deliver timely updates device months release
+alliance mentioned
+android active community developers enthusiasts android source code develop distribute modified versions operating system
+community developed releases bring features updates devices faster official manufacturer
+carrier channels
+albeit extensive testing quality assurance
+provide continued support older devices longer receive official updates
+bring android devices officially released running operating systems
+touchpad
+community releases pre rooted modifications unsuitable technical users
+ability overclock
+undervolt device processor
+cyanogenmod widely community firmware
+acts foundation numerous
+historically
+device manufacturers mobile carriers typically unsupportive party firmware development
+manufacturers express concern improper functioning devices running unofficial software support costs resulting
+modified firmwares cyanogenmod offer features
+tethering
+carriers charge premium
+result
+technical obstacles including locked bootloaders restricted access root permissions common devices
+community developed software grown popular
+statement librarian congress united states permits
+jailbreaking
+mobile devices
+manufacturers carriers softened position party development
+including htc
+motorola
+samsung sony
+providing support encouraging development
+result
+time circumvent hardware restrictions install unofficial firmware lessened increasing number devices shipped unlocked unlockable bootloaders
+similar nexus series phones
+requiring users waive devices warranties
+manufacturer acceptance
+carriers require phones locked
+unlocking
+hackability
+smartphones tablets remains source tension community industry
+community arguing unofficial development increasingly important failure industry provide timely updates
+continued support devices
+android applications run sandbox
+isolated area system access rest system resources
+access permissions explicitly granted user application installed
+installing application
+play store displays required permissions
+game enable vibration save data card
+read sms messages access phonebook
+reviewing permissions
+user choose accept refuse
+installing application accept
+sandboxing permissions system lessens impact vulnerabilities bugs applications
+developer confusion limited documentation resulted applications routinely requesting unnecessary permissions
+reducing effectiveness
+security firms
+lookout mobile security
+avg technologies
+mcafee
+released antivirus software android devices
+software ineffective sandboxing applies applications
+limiting ability scan deeper system threats
+research security company trend micro lists premium service abuse common type android malware
+text messages infected phones premium rate telephone numbers consent knowledge user
+malware displays unwanted intrusive adverts device
+sends personal information unauthorised parties
+security threats android reportedly growing exponentially
+google engineers argued malware virus threat android exaggerated security companies commercial reasons
+accused security industry playing fears sell virus protection software users
+google maintains dangerous malware extremely rare
+survey conducted secure showed
+android malware reported google play store
+google google bouncer malware scanner watch scan google play store apps
+intended flag suspicious apps warn users potential issues application download
+android version
+jelly bean released enhanced security features
+including malware scanner built system
+works combination google play scan apps installed party sources
+alert system notifies user app send premium rate text message
+blocking message user explicitly authorises
+android smartphones ability report location access points
+encountered phone users move
+build databases physical locations hundreds millions access points
+databases form electronic maps locate smartphones
+allowing run apps foursquare
+google latitude
+facebook places
+deliver location based ads
+party monitoring software taintdroid
+academic research funded project
+cases
+detect personal information applications remote servers
+source code android free open source software licenses
+google publishes code
+including network telephony stacks
+apache license version
+rest
+linux kernel
+gnu general public license version
+open handset alliance develops linux kernel
+public
+source code publicly times
+rest android developed private google
+source code released publicly version released
+typically google collaborates hardware manufacturer produce flagship device
+part google nexus series
+featuring version android
+makes source code device released
+early
+google chose temporarily withhold android source code tablet
+honeycomb release
+reason
+andy rubin official android blog post
+honeycomb rushed production motorola xoom
+parties creating
+bad user experience
+attempting put smartphones version android intended tablets
+source code made november release android
+software open source
+device manufacturers google android trademark google certifies device complies compatibility definition document
+cdd
+devices meet definition eligible license google closed source applications
+including google play
+android completely released gpl compatible license
+google code apache license
+google play proprietary software
+richard stallman free software foundation critical android recommended usage alternatives replicant
+android received lukewarm reaction unveiled
+analysts impressed respected technology companies partnered google form open handset alliance
+unclear mobile phone manufacturers replace existing operating systems android
+idea open source
+linux based development platform sparked interest
+additional worries android facing strong competition established players smartphone market
+nokia microsoft
+rival linux mobile operating systems development
+established players skeptical
+nokia quoted
+threat
+member microsoft windows mobile team stated
+understand impact
+android grown widely smartphone operating system
+fastest mobile experiences
+reviewers highlighted open source nature operating system defining strengths
+allowing companies amazon
+kindle fire
+barnes noble
+nook
+ouya
+baidu
+fork software release hardware running customised version android
+result
+technology website ars technica
+practically default operating system launching hardware
+companies mobile platforms
+openness flexibility present level end user
+android extensive customisation devices owners apps freely google app stores party websites
+cited main advantages android phones
+success smartphones
+android tablet adoption slow
+primarily blamed chicken egg situation consumers hesitant buy android tablet due lack high quality tablet apps
+developers hesitant spend time resources developing tablet apps significant market
+factors included high prices dominance apple ipad
+began change release successful nexus push google developers write tablet apps
+android tablets expected overtake ipad years
+research company canalys estimated quarter android
+share worldwide smartphone shipments
+fourth quarter grown market
+top selling smartphone platform
+quarter gartner estimated half
+smartphone market belongs android
+quarter android share global smartphone market research firm idc
+july
+google android devices activated day
+day
+million devices activated
+growth week
+september
+million devices activated
+million activations day
+android market share varies location
+july
+android market share united states
+rises china
+usage share versions february
+android devices date run older version
+gingerbread released december
+due lower end devices released
+concern ease paid android apps pirated
+interview eurogamer
+developers football manager stated ratio pirated players legitimate players
+game football manager handheld
+developer agreed piracy rates issue
+july developers game wind knight piracy levels game
+piracy china
+people purchase apps google play
+google released tool validating authorised purchases apps
+developers complained insufficient trivial crack
+google responded tool
+initial release
+intended sample framework developers modify build depending
+finished security solution
+google released feature android
+encrypted paid applications work device purchased
+feature temporarily deactivated due technical issues
+android android phone manufacturers involved numerous patent lawsuits
+august
+oracle sued google claimed infringement copyrights patents related java programming language
+oracle originally sought damages
+billion
+valuation rejected united states federal judge asked oracle revise estimate
+response
+google submitted multiple lines defense
+counterclaiming android infringe oracle patents copyright
+oracle patents invalid
+defenses
+android based apache harmony
+clean room implementation java class libraries
+independently developed virtual machine called dalvik
+jury case found google infringe oracle patents
+trial judge ruled structure java apis google copyrightable
+addition lawsuits google directly
+proxy wars waged android indirectly targeting manufacturers android devices
+effect discouraging manufacturers adopting platform increasing costs bringing android device market
+apple microsoft sued manufacturers patent infringement
+apple ongoing legal action samsung high profile case
+october microsoft signed patent license agreements ten android device manufacturers
+products account worldwide revenue android devices
+include samsung htc
+samsung patent settlement microsoft includes agreement samsung allocate resources developing marketing phones running microsoft windows phone operating system
+google publicly expressed frustration current patent landscape united states
+accusing apple
+oracle microsoft android patent litigation
+innovating competing products services
+google purchased motorola mobility
+billion
+viewed part defensive measure protect android
+motorola mobility held patents
+december google bought thousand patents ibm
+open customizable nature android electronics
+including laptops netbooks
+smartbooks smart tvs
+google
+cameras
+nikon coolpix galaxy camera
+addition
+android operating system applications smart glasses
+project glass
+wristwatches
+headphones
+car dvd players
+mirrors
+portable media players landlines voice phones
+ouya
+upcoming videogames console running android
+successful kickstarter campaigns
+crowdfunding
+development
+android based video games consoles project shield nvidia
+google demonstrated
+home automaton technology android control range household devices including light switches
+power sockets thermostats
+prototype light bulbs announced controlled android phone tablet
+android head andy rubin cautious note
+turning lightbulb
+pointing numerous failed home automation services
+google
+thinking ambitiously intention position cloud services provider bring google products customers homes

@@ -1,0 +1,390 @@
+Linear algebra
+
+linear algebra
+linear algebra branch mathematics vector spaces
+finite countably infinite dimensional
+linear mappings spaces
+investigation initially motivated system linear equations unknowns
+equations naturally represented formalism matrices vectors
+linear algebra central pure applied mathematics
+instance
+abstract algebra arises relaxing axioms vector space
+leading number generalizations
+functional analysis studies infinite dimensional version theory vector spaces
+combined calculus
+linear algebra facilitates solution linear systems differential equations
+techniques linear algebra analytic geometry
+engineering
+physics
+natural sciences
+computer science
+social sciences
+economics
+linear algebra developed theory
+nonlinear mathematical models approximated linear
+study linear algebra emerged study determinants
+solve systems linear equations
+determinants leibniz
+subsequently
+gabriel cramer devised cramer rule solving linear systems
+gauss developed theory solving linear systems gaussian elimination
+initially listed advancement geodesy
+study matrix algebra emerged england mid
+james joseph sylvester introduced term matrix
+latin
+womb
+studying compositions linear transformations
+arthur cayley led define matrix multiplication inverses
+crucially
+cayley single letter denote matrix
+treating matrix aggregate object
+realized connection matrices determinants
+wrote
+things theory matrices
+precede theory determinants
+modern precise definition vector space introduced peano
+theory linear transformations finite dimensional vector spaces emerged
+linear algebra modern form half twentieth century
+ideas methods previous centuries generalized abstract algebra
+matrices quantum mechanics
+special relativity
+statistics helped spread subject linear algebra pure mathematics
+development computers led increased research efficient algorithms gaussian elimination matrix decompositions
+linear algebra essential tool modelling simulations
+origin ideas discussed articles determinants gaussian elimination
+recently
+sinologist roger hart argued chinese mathematicians found method
+essentially equivalent solution systems equations unknowns modern algebra
+millennium west
+main structures linear algebra vector spaces
+vector space field set binary operations
+elements called vectors elements called scalars
+operation
+vector addition
+takes vectors outputs vector
+operation takes scalar vector outputs vector vector
+view
+multiplication rescaling vector scalar
+multiplication called scalar multiplication
+operations addition multiplication vector space satisfy axioms
+list
+arbitrary vectors
+scalars
+elements general vector space objects nature
+functions
+polynomials
+vectors
+matrices
+linear algebra concerned properties common vector spaces
+similarly theory algebraic structures
+linear algebra studies mappings vector spaces preserve vector space structure
+vector spaces field
+linear transformation
+called linear map
+linear mapping linear operator
+map
+compatible addition scalar multiplication
+vectors
+scalar
+bijective linear mapping exists vector spaces
+vector space
+spaces isomorphic
+isomorphism preserves linear structure
+isomorphic vector spaces
+essentially
+linear algebra point view
+essential question linear algebra mapping isomorphism
+question answered checking determinant nonzero
+mapping isomorphism
+linear algebra interested finding range
+image
+set elements mapped
+called kernel mapping
+linear transformations geometric significance
+real matrices denote standard planar mappings preserve origin
+analogue theories algebraic objects
+linear algebra interested subsets vector spaces vector spaces
+subsets called linear subspaces
+instance
+range kernel linear mapping subspaces
+called range space nullspace
+important examples subspaces
+important forming subspace linear combination set vectors
+scalars
+set linear combinations vectors
+called span
+forms subspace
+linear combination system vectors coefficients vector
+express vector linear combination
+vectors linearly independent
+set vectors span space
+vector linear combination vectors
+set linearly independent
+span remain remove set
+set linearly dependent vectors redundant sense linearly independent subset span subspace
+interested linearly independent set vectors spans vector space
+call basis
+set vectors spans basis
+linearly independent set vectors extended basis
+turns accept axiom choice
+vector space basis
+basis unnatural
+constructable
+instance
+exists basis real numbers considered vector space rationals
+explicit basis constructed
+bases vector space cardinality
+called dimension
+dimension vector space defined dimension theorem vector spaces
+basis finite number elements
+called finite dimensional vector space
+finite dimensional subspace
+dim dim
+subspaces
+restricts consideration finite dimensional vector spaces
+fundamental theorem linear algebra states vector spaces dimension isomorphic
+giving easy characterizing isomorphism
+basis
+construct coordinate system
+vector coordinates
+linear combination
+condition
+span guarantees vector assigned coordinates
+linear independence
+assures coordinates unique
+linear combination basis vectors equal
+basis vector space chosen
+identified coordinate space
+identification
+addition scalar multiplication vectors correspond addition scalar multiplication coordinate vectors
+dimensional dimensional vector space
+basis basis fixed
+linear transformation
+encoded matrix entries field
+called matrix respect bases
+matrices encode linear transformation bases called similar
+matrix theory replaces study linear transformations
+defined axiomatically
+study matrices
+concrete objects
+major technique distinguishes linear algebra theories algebraic structures
+parametrized concretely
+important distinction coordinate space rnand general finite dimensional vector space
+standard basis
+vector space typically equipped basis bases exist
+consist number elements equal dimension
+major application matrix theory calculation determinants
+central concept linear algebra
+determinants defined basis free manner
+introduced specific representation mapping
+determinant depend specific basis
+turns mapping invertible determinant nonzero
+determinant
+nullspace nontrivial
+determinants applications
+including systematic set vectors linearly independent
+write vectors columns matrix
+determinant matrix
+vectors linearly dependent
+determinants solve systems linear equations
+cramer rule
+real applications
+gaussian elimination faster method
+general
+action linear transformation complex
+attention low dimensional examples indication variety types
+strategy general dimensional transformation find
+characteristic lines
+invariant sets
+vector scalar multiple
+line invariant set called characteristic vector eigenvector
+scalar called characteristic eigenvalue
+find eigenvector eigenvalue
+note
+identity matrix
+nontrivial solutions equation
+det
+determinant polynomial
+eigenvalues guaranteed exist field
+work algebraically closed field complex numbers dealing eigenvectors eigenvalues eigenvalue exist
+nice transformation taking vector space find basis consisting eigenvectors
+basis exists
+easily compute action transformation vector
+linearly independent eigenvectors mapping dimensional spaces
+necessarily distinct
+eigenvalues
+transformation called diagonalizable matrix eigenbasis
+transformation represented diagonal matrix
+operations matrix multiplication
+matrix inversion
+determinant calculation simple diagonal matrices
+computations involving matrices simpler bring matrix diagonal form
+matrices diagonalizable
+algebraically closed field
+basic concepts
+linear algebra studies vector spaces additional structure
+product
+product bilinear form
+vector space geometric structure allowing definition length angles
+formally
+product map
+satisfies axioms vectors
+scalars
+note
+symmetric
+define length vector
+prove inequality
+quantity
+call quantity cosine angle vectors
+vectors orthogonal image
+math
+png
+orthonormal basis basis basis vectors length orthogonal
+finite dimensional vector space
+orthonormal basis found procedure
+orthonormal bases nice deal
+image
+math
+png
+product facilitates construction concepts
+instance
+transform
+define hermitian conjugate linear transform satisfying
+satisfies
+call normal
+turns normal matrices precisely matrices orthonormal system eigenvectors span
+ubiquity vector spaces
+linear algebra fields mathematics
+natural sciences
+computer science
+social science
+examples applications linear algebra
+linear algebra formal setting linear combination equations gaussian method
+suppose goal find describe solution
+system linear equations
+gaussian elimination algorithm
+eliminate equations
+eliminate equations
+put system triangular form
+back substitution
+unknown solved
+eliminated adding
+eliminated adding
+formally
+result
+eliminated adding
+result
+result system linear equations triangular form
+part algorithm complete
+part
+back substitution
+consists solving knowns reverse order
+substituted
+solved obtain
+substituted
+solved obtain
+system solved
+general
+write system linear equations matrix equation
+solution system characterized
+find solution equation gaussian elimination
+compute solutions
+find nullspace
+solution set equation image
+math
+png
+number variables equal number equations
+characterize system unique solution
+trivial det
+equation unique solution det
+squares method determine fit line set data
+line minimize sum squares residuals
+fourier series representation function
+trigonometric series
+series expansion extremely solving partial differential equations
+article
+concerned convergence issues
+nice note continuous functions converging fourier series expansion
+nice discontinuous functions fourier series converges function points
+space functions represented fourier series form vector space
+technically speaking
+call functions fourier series expansion
+function
+discontinuous functions fourier series
+space product space product
+functions
+sin
+cos
+orthonormal basis space fourier expandable functions
+tools linear algebra find expansion function space terms basis functions
+instance
+find coefficient
+product
+orthonormality
+image
+math
+png
+quantum mechanics highly inspired notions linear algebra
+quantum mechanics
+physical state particle represented vector
+observables
+momentum
+energy
+angular momentum
+represented linear operators underlying vector space
+concretely
+wave function particle describes physical state lies vector space
+functions
+image
+math
+png finite
+evolves equation
+energy represented operator image
+math
+png
+potential energy
+hamiltonian operator
+eigenvalues represents energies observed
+particle state
+expand linear combination eigenstates
+component eigenstate determines probability measuring eigenvalue
+measurement forces particle assume eigenstate
+wave function collapse
+linear algebra successful theory
+methods developed generalized parts mathematics
+module theory
+replaces field scalars ring
+concepts linear independence
+span
+basis
+dimension
+called rank module theory
+make sense
+theorems linear algebra false module theory
+instance
+modules basis
+called free modules
+rank free module necessarily unique
+linearly independent subsets module extended form basis
+subsets module span space basis
+multilinear algebra
+considers multivariable linear transformations
+mappings linear number variables
+line inquiry naturally leads idea dual space
+vector space consisting linear maps
+field scalars
+multilinear maps
+tensor products elements
+addition vector addition scalar multiplication
+bilinear vector product
+vector space called algebra
+instance
+associative algebras algebras associate vector product
+algebra square matrices
+algebra polynomials
+functional analysis mixes methods linear algebra mathematical analysis studies function spaces
+spaces
+representation theory studies actions algebraic objects vector spaces representing objects matrices
+interested ways
+finding subspaces invariant transformations algebra
+concept eigenvalues eigenvectors important

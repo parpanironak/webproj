@@ -1,0 +1,434 @@
+Calculus of variations
+
+calculus variations
+calculus variations field mathematical analysis deals maximizing minimizing functionals
+mappings set functions real numbers
+functionals expressed definite integrals involving functions derivatives
+interest extremal functions make functional attain maximum minimum stationary functions rate change functional
+simple problem find curve shortest length connecting points
+constraints
+solution straight line points
+curve constrained lie surface space
+solution obvious
+possibly solutions exist
+solutions geodesics
+related problem posed fermat principle
+light path shortest optical length connecting points
+optical length depends material medium
+concept mechanics principle action
+important problems involve functions variables
+solutions boundary problems laplace equation satisfy dirichlet principle
+plateau problem requires finding surface minimal area spans contour space
+solution found dipping frame solution soap suds
+experiments easy perform
+mathematical interpretation simple
+locally minimizing surface
+trivial topology
+calculus variations begin brachistochrone curve problem raised johann bernoulli
+immediately occupied attention jakob bernoulli marquis
+leonhard euler elaborated subject
+contributions began
+elementa calculi variationum gave science
+lagrange contributed extensively theory
+legendre
+laid method
+satisfactory
+discrimination maxima minima
+isaac newton gottfried leibniz gave early attention subject
+discrimination vincenzo brunacci
+carl friedrich gauss
+poisson
+mikhail ostrogradsky
+carl jacobi
+contributors
+important general work sarrus
+condensed improved cauchy
+valuable treatises memoirs written strauch
+jellett
+otto hesse
+alfred clebsch
+carll
+important work century weierstrass
+celebrated theory epoch making
+asserted place firm unquestionable foundation
+hilbert problems published encouraged development
+century david hilbert
+emmy noether
+leonida tonelli
+henri lebesgue jacques hadamard made significant contributions
+marston morse applied calculus variations called morse theory
+lev pontryagin
+ralph rockafellar clarke developed mathematical tools optimal control theory
+generalisation calculus variations
+calculus variations concerned maxima minima functionals
+collectively called extrema
+functional depends function
+analogous function depend numerical variable
+functional function function
+functionals extrema respect elements function space defined domain
+functional extremum function sign arbitrarily small neighborhood
+note function called extremal function extremal
+extremum called maximum arbitrarily small neighborhood
+minimum
+weak strong extrema discussed norms discussion defined
+element function space
+continuous functions defined closed interval
+norm defined
+maximum absolute
+similarly
+element function space
+functions
+continuous derivatives
+norm defined
+sum maximum absolute
+maximum absolute derivative
+functional weak extremum function exists
+sign functions
+similarly
+functional strong extremum function exists
+sign functions
+strong weak extrema space continuous functions weak extrema additional requirement derivatives functions space continuous
+strong extremum weak extremum
+converse hold
+finding strong extrema difficult finding weak extrema
+condition finding weak extrema euler lagrange equation
+ideal conditions
+maxima minima function located finding points derivative vanishes
+equal
+analogy
+solutions smooth variational problems obtained finding function functional derivative equal
+leads solving equation
+note
+functional
+functional attains local minimum
+arbitrary function derivative vanishes endpoints
+number close
+term called variation function denoted
+substituting functional
+result function
+functional minimum
+function
+minimum
+note
+taking total derivative
+functions
+integration parts
+term vanishes definition
+previously mentioned left side equation
+fundamental lemma calculus variations
+part integrand parentheses
+called equation
+left hand side equation called functional derivative denoted
+general order ordinary differential equation solved obtain extremal
+equation
+sufficient
+condition extremal
+sufficient conditions extremal discussed references
+order illustrate process
+problem finding extremum
+shortest curve connects points
+arc length curve
+euler lagrange equation find extremal function
+minimizes functional
+explicitly
+term euler lagrange equation vanishes
+substituting taking partial derivative
+taking derivative
+careful divide quantities
+result simplifying
+endpoints
+implies
+shortest curve
+points straight line expected
+physics problems frequently turns
+case
+euler lagrange equation simplified beltrami identity
+constant
+left hand side legendre transformation respect
+discussion assumed extremal functions possess continuous derivatives
+existence integral requires derivatives trial functions
+condition variation vanish extremal regarded weak form euler lagrange equation
+theorem bois reymond asserts weak form implies strong form
+continuous derivatives respect arguments
+image
+math
+png continuous derivatives
+satisfies euler lagrange equation
+hilbert give good conditions euler lagrange equations give stationary solution
+convex area positive thrice differentiable lagrangian solutions composed countable collection sections boundary satisfy euler lagrange equations interior
+lavrentiev showed circumstances optimum solution approached arbitrarily closely increasing numbers sections
+instance
+zig zag path solution smooth path increasing number sections improves solution
+variational problems involve multiple integrals arise numerous applications
+denotes displacement membrane domain
+plane
+potential energy proportional surface area
+plateau problem consists finding function minimizes surface area assuming prescribed values boundary
+solutions called minimal surfaces
+euler lagrange equation problem nonlinear
+courant
+details
+sufficient small displacements membrane
+energy difference displacement approximated
+functional minimized trial functions assume prescribed values boundary
+minimizing function arbitrary smooth function vanishes boundary
+variation image
+math
+png vanish
+provided derivatives
+apply divergence theorem obtain
+boundary
+arclength image
+math
+png normal derivative
+vanishes variation vanishes
+result
+smooth functions vanish boundary
+proof case dimensional integrals adapted case show
+difficulty reasoning assumption minimizing function derivatives
+riemann argued existence smooth minimizing function assured connection physical problem
+membranes assume configurations minimal potential energy
+riemann named idea dirichlet principle honor teacher dirichlet
+weierstrass gave variational problem solution
+minimize
+functions satisfy image
+math
+png image
+math
+png made arbitrarily small choosing piecewise linear functions make transition small neighborhood origin
+function makes
+resulting controversy validity dirichlet principle explained
+turnbull
+mcs
+biographies
+riemann
+html
+eventually shown dirichlet principle valid
+requires sophisticated application regularity theory elliptic partial differential equations
+jost jost
+general expression potential energy membrane
+corresponds external force density image
+math
+png
+external force image
+math
+png boundary
+elastic forces modulus image
+math
+png acting
+function minimizes potential energy restriction boundary values denoted
+provided continuous
+regularity theory implies minimizing function derivatives
+taking variation
+boundary condition imposed increment
+variation image
+math
+png
+apply divergence theorem
+result
+set
+boundary integral vanishes
+conclude
+assume arbitrary boundary values
+implies satisfy boundary condition
+note boundary condition consequence minimizing property
+imposed
+conditions called natural boundary conditions
+preceding reasoning valid image
+math
+png vanishes identically
+case
+trial function image
+math
+png
+constant
+trial function
+choice
+assume quantity inside brackets vanishes
+variational problem meaningless
+condition implies net external forces system equilibrium
+forces equilibrium
+variational problem solution
+unique
+arbitrary constant added
+details examples courant hilbert
+dimensional multi dimensional eigenvalue problems formulated variational problems
+sturm liouville eigenvalue problem involves general quadratic form
+restricted functions satisfy boundary conditions
+normalization integral
+functions image
+math
+png image
+math
+png required positive bounded
+primary variational problem minimize ratio
+satisfying endpoint conditions
+shown euler lagrange equation minimizing
+quotient
+shown
+gelfand fomin
+minimizing derivatives satisfies euler lagrange equation
+denoted image
+math
+png
+lowest eigenvalue equation boundary conditions
+minimizing function denoted image
+math
+png
+variational characterization eigenvalues leads rayleigh ritz method
+choose approximating linear combination basis functions
+trigonometric functions
+carry finite dimensional minimization linear combinations
+method surprisingly accurate
+smallest eigenvalue eigenfunction obtained minimizing additional constraint
+procedure extended obtain complete sequence eigenvalues eigenfunctions problem
+variational problem applies general boundary conditions
+requiring vanish endpoints
+impose condition endpoints
+set
+image
+math
+png image
+math
+png arbitrary
+set image
+math
+png variation ratio image
+math
+png
+ratio image
+math
+png previously
+integration parts
+require vanish endpoints
+variation vanish
+satisfies condition
+variation vanish arbitrary
+conditions natural boundary conditions problem
+imposed trial functions minimization
+consequence minimization
+eigenvalue problems higher dimensions defined analogy dimensional case
+domain boundary dimensions define
+function minimizes quotient image
+math
+png condition prescribed boundary
+euler lagrange equation satisfied
+minimizing satisfy natural boundary condition
+boundary
+result depends regularity theory elliptic partial differential equations
+jost jost
+details
+extensions
+including completeness results
+asymptotic properties eigenvalues results nodes eigenfunctions courant hilbert
+applications calculus variations include
+fermat principle states light takes path
+locally
+minimizes optical length endpoints
+coordinate chosen parameter path
+image
+math
+png path
+optical length
+refractive index image
+math
+png depends material
+image
+math
+png variation
+derivative respect
+integration parts term brackets
+obtain euler lagrange equation
+light rays determined integrating equation
+formalism context lagrangian optics hamiltonian optics
+discontinuity refractive index light enters leaves lens
+image
+math
+png image
+math
+png constants
+euler lagrange equation holds region
+fact path straight line
+refractive index constant
+continuous
+discontinuous
+integration parts separate regions euler lagrange equations
+variation takes form
+factor multiplying image
+math
+png sine angle incident ray axis
+factor multiplying image
+math
+png sine angle refracted ray axis
+snell law refraction requires terms equal
+calculation demonstrates
+snell law equivalent vanishing variation optical path length
+expedient vector notation
+image
+math
+png parameter
+image
+math
+png parametric representation curve
+image
+math
+png tangent vector
+optical length curve
+note integral invariant respect parametric representation
+euler lagrange equations minimizing curve symmetric form
+definition satisfies
+integral written
+form suggests find function gradient
+integral difference endpoints interval integration
+problem studying curves make integral stationary related study level surfaces
+order find function
+turn wave equation
+governs propagation light
+formalism context lagrangian optics hamiltonian optics
+wave equation inhomogeneous medium
+velocity
+generally depends
+wave fronts light characteristic surfaces partial differential equation
+satisfy
+solutions form
+case
+satisfies
+image
+math
+png theory order partial differential equations
+image
+math
+png satisfies
+system curves
+light rays
+equations solution order partial differential equation identical euler lagrange equations make identification
+conclude function minimizing integral function upper end point
+family minimizing curves constructed
+values optical length satisfy characteristic equation wave equation
+solving partial differential equation order equivalent finding families solutions variational problem
+essential content hamilton jacobi theory
+applies general variational problems
+classical mechanics
+action
+defined time integral lagrangian
+lagrangian difference energies
+kinetic energy mechanical system potential energy
+hamilton principle
+action principle
+states motion conservative holonomic
+integrable constraints
+mechanical system action integral
+stationary respect variations path
+euler lagrange equations system lagrange equations
+equivalent newton equations motion
+systems
+conjugate momenta defined
+hamiltonian mechanics results conjugate momenta introduced place image
+math
+png
+lagrangian replaced hamiltonian defined
+hamiltonian total energy system
+analogy fermat principle suggests solutions lagrange equations
+particle trajectories
+terms level surfaces function
+function solution hamilton jacobi equation

@@ -1,0 +1,491 @@
+RNA interference
+
+rna interference
+rna interference
+rnai
+biological process rna molecules inhibit gene expression
+typically causing destruction specific mrna molecules
+historically
+names
+including suppression
+post transcriptional gene silencing
+ptgs
+quelling
+apparently unrelated processes fully understood clear rnai phenomenon
+andrew fire craig
+mello shared nobel prize physiology medicine work rna interference nematode worm
+elegans
+published
+types small ribonucleic acid
+rna
+microrna
+mirna
+small interfering rna
+sirna
+central rna interference
+rnas direct products genes
+small rnas bind specific messenger rna
+mrna
+molecules increase decrease activity
+preventing mrna producing protein
+rna interference important role defending cells parasitic nucleotide viruses directing development gene expression general
+rnai pathway found eukaryotes including animals initiated enzyme dicer
+cleaves long double stranded rna
+dsrna
+molecules short double stranded fragments nucleotides called sirnas
+sirna unwound single stranded
+ssrnas
+passenger strand guide strand
+passenger strand degraded
+guide strand incorporated rna induced silencing complex
+risc
+studied outcome post transcriptional gene silencing
+occurs guide strand base pairs complementary sequence messenger rna molecule induces cleavage argonaute
+catalytic component risc complex
+organisms
+process spread systemically
+initially limited molar concentrations sirna
+rnai valuable research tool
+cell culture living organisms
+synthetic dsrna introduced cells selectively robustly induce suppression specific genes interest
+rnai large scale screens systematically shut gene cell
+identify components cellular process event cell division
+pathway practical tool biotechnology medicine
+rnai rna dependent gene silencing process controlled rna induced silencing complex
+risc
+initiated short double stranded rna molecules cell cytoplasm
+interact catalytic risc component argonaute
+dsrna exogenous
+coming infection virus rna genome laboratory manipulations
+rna imported directly cytoplasm cleaved short fragments enzyme
+initiating dsrna endogenous
+originating cell
+pre micrornas expressed rna coding genes genome
+primary transcripts genes processed form characteristic stem loop structure pre mirna nucleus
+exported cytoplasm cleaved dicer
+dsrna pathways
+exogenous endogenous
+converge risc complex
+endogenous dsrna initiates rnai activating ribonuclease protein dicer
+binds cleaves double stranded rnas
+dsrnas
+produce double stranded fragments base pairs nucleotide overhang end
+bioinformatics studies genomes multiple organisms suggest length maximizes target gene specificity minimizes specific effects
+short double stranded fragments called small interfering rnas
+sirnas
+sirnas separated single strands integrated active risc complex
+integration risc
+sirnas base pair target mrna induce cleavage mrna
+preventing translation template
+exogenous dsrna detected bound effector protein
+rde
+elegans drosophila
+stimulates dicer activity
+protein binds long dsrnas
+mechanism producing length specificity unknown
+rna binding protein facilitates transfer cleaved sirnas risc complex
+elegans
+initiation response amplified synthesis population econdary sirnas dicer produced initiating primary sirnas templates
+econdary sirnas structurally distinct dicer produced sirnas produced rna dependent rna polymerase
+rdrp
+micrornas
+mirnas
+genomically encoded coding rnas regulate gene expression
+development
+phenomenon rna interference
+broadly defined
+includes endogenously induced gene silencing effects mirnas silencing triggered foreign dsrna
+mature mirnas structurally similar sirnas produced exogenous dsrna
+reaching maturity
+mirnas undergo extensive post transcriptional modification
+mirna expressed longer rna coding gene primary transcript pri mirna processed
+cell nucleus
+nucleotide stem loop structure called pre mirna microprocessor complex
+complex consists rnase iii enzyme called drosha dsrna binding protein
+dsrna portion pre mirna bound cleaved dicer produce mature mirna molecule integrated risc complex
+mirna sirna share cellular machinery downstream initial processing
+sirnas derived long dsrna precursors differ mirnas mirnas
+animals
+typically incomplete base pairing target inhibit translation mrnas similar sequences
+contrast
+sirnas typically base pair perfectly induce mrna cleavage single
+specific target
+drosophila
+elegans
+mirna sirna processed distinct argonaute proteins dicer enzymes
+active components rna induced silencing complex
+risc
+endonucleases called argonaute proteins
+cleave target mrna strand complementary bound sirna
+fragments produced dicer double stranded
+theory produce functional sirna
+strands
+guide strand
+binds argonaute protein directs gene silencing
+anti guide strand passenger strand degraded risc activation
+believed atp dependent helicase separated strands
+process atp independent performed directly protein components risc
+vitro kinetic analysis rnai presence absence atp showed atp required unwind remove cleaved mrna strand risc complex catalysis
+strand selected guide end stably paired complement
+strand selection unaffected direction dicer cleaves dsrna risc incorporation
+protein serve differentiating factor binding stable end passenger strand
+structural basis binding rna argonaute protein examined ray crystallography binding domain rna bound argonaute protein
+phosphorylated end rna strand enters conserved basic surface pocket makes contacts divalent cation
+atom positive charges
+magnesium aromatic stacking
+process atom share electron passing back
+nucleotide sirna conserved tyrosine residue
+site thought form nucleation site binding sirna mrna target
+analysis inhibitory effect mismatches end guide strand demonstrated end guide strand responsible matching binding target mrna
+end responsible physically arranging target mrna region risc favorable mrna cleavage
+understood activated risc complex locates complementary mrnas cell
+cleavage process proposed linked translation
+translation mrna target essential rnai mediated degradation
+rnai effective mrna targets translated
+argonaute proteins
+catalytic components risc
+localized specific regions cytoplasm called bodies
+cytoplasmic bodies bodies
+regions high rates mrna decay
+mirna activity clustered bodies
+disruption bodies decreases efficiency rna interference
+suggesting site critical step rnai process
+components rna interference pathway eukaryotes maintenance organization structure genomes
+modification histones induction heterochromatin formation serves downregulate genes pre transcriptionally
+process referred rna induced transcriptional silencing
+rits
+carried complex proteins called rits complex
+fission yeast complex argonaute
+chromodomain protein
+protein called unknown function
+consequence
+induction spread heterochromatic regions requires argonaute rdrp proteins
+deletion genes fission yeast
+pombe disrupts histone methylation centromere formation
+causing slow stalled anaphase cell division
+cases
+similar processes histone modification observed transcriptionally upregulate genes
+mechanism rits complex induces heterochromatin formation organization understood
+studies focused mating type region fission yeast
+representative activities genomic regions organisms
+maintenance existing heterochromatin regions
+rits forms complex sirnas complementary local genes stably binds local methylated histones
+acting transcriptionally degrade nascent pre mrna transcripts initiated rna polymerase
+formation heterochromatin region
+maintenance
+dicer dependent
+dicer required generate initial complement sirnas target subsequent transcripts
+heterochromatin maintenance suggested function reinforcing feedback loop
+sirnas formed occasional nascent transcripts rdrp incorporation local rits complexes
+relevance observations fission yeast mating type regions centromeres mammals clear
+heterochromatin maintenance mammalian cells independent components rnai pathway
+type rna editing prevalent higher eukaryotes converts adenosine nucleotides inosine dsrnas enzyme adenosine deaminase
+adar
+originally proposed rnai rna editing pathways compete common dsrna substrate
+pre mirnas undergo rna editing
+mechanism regulate processing expression mature mirnas
+mammalian adar sequester sirnas rnai pathway components
+support model studies adar null
+elegans strains indicating rna editing counteract rnai silencing endogenous genes transgenes
+organisms vary ability foreign dsrna rnai pathway
+effects rna interference systemic heritable plants
+elegans
+drosophila mammals
+plants
+rnai thought propagate transfer sirnas cells plasmodesmata
+channels cell walls enable communication transport
+heritability methylation promoters targeted rnai
+methylation pattern copied generation cell
+broad general distinction plants animals lies targeting endogenously produced mirnas
+plants
+mirnas perfectly perfectly complementary target genes induce direct mrna cleavage risc
+animals mirnas tend divergent sequence induce translational repression
+translational effect produced inhibiting interactions translation initiation factors messenger rna polyadenine tail
+eukaryotic protozoa leishmania major trypanosoma cruzi lack rnai pathway
+components missing fungi
+notably model organism saccharomyces cerevisiae
+recent study reveals presence rnai budding yeast species saccharomyces castellii candida albicans
+demonstrating inducing rnai related proteins
+castellii facilitates rnai
+cerevisiae
+ascomycetes basidiomycetes missing rna interference pathways proteins required rna silencing lost independently fungal lineages
+possibly due evolution pathway similar function
+lack selective advantage niches
+gene expression prokaryotes influenced rna based system similar respects rnai
+rna encoding genes control mrna abundance translation producing complementary rna anneals mrna
+regulatory rnas generally considered analogous mirnas dicer enzyme involved
+suggested crispr interference systems prokaryotes analogous eukaryotic rna interference systems
+protein components orthologous
+rna interference vital part immune response viruses foreign genetic material
+plants prevent propagation transposons
+plants arabidopsis thaliana express multiple dicer homologs specialized react differently plant exposed types viruses
+rnai pathway fully understood
+induced gene silencing plants spread plant systemic effect
+transferred stock scion plants grafting
+phenomenon recognized feature plant adaptive immune system
+entire plant respond virus initial localized encounter
+response
+plant viruses evolved elaborate mechanisms suppress rnai response plant cells
+include viral proteins bind short double stranded rna fragments single stranded overhang ends
+produced action dicer
+plant genomes express endogenous sirnas response infection specific types bacteria
+effects part generalized response pathogens downregulates metabolic processes host aid infection process
+animals generally express fewer variants dicer enzyme plants
+rnai animals shown produce antiviral response
+juvenile adult drosophila
+rna interference important antiviral innate immunity active pathogens drosophila virus
+similar role immunity operate
+elegans
+argonaute proteins upregulated response viruses worms overexpress components rnai pathway resistant viral infection
+role rna interference mammalian innate immunity poorly understood
+data
+existence viruses encode genes suppress rnai response mammalian cells evidence favour rnai dependent mammalian immune response
+hypothesis rnai mediated immunity mammals challenged poorly substantiated
+alternative functions rnai mammalian viruses exist
+mirnas expressed herpes virus act heterochromatin organization triggers mediate viral latency
+endogenously expressed mirnas
+including intronic intergenic mirnas
+important translational repression regulation development
+timing morphogenesis maintenance undifferentiated incompletely differentiated cell types stem cells
+role endogenously expressed mirna downregulating gene expression
+elegans
+plants function discovered
+jaw microrna
+arabidopsis shown involved regulation genes control plant shape
+plants
+majority genes regulated mirnas transcription factors
+mirna activity wide ranging regulates entire gene networks development modulating expression key regulatory genes
+including transcription factors box proteins
+organisms
+including humans
+mirnas linked formation tumors dysregulation cell cycle
+mirnas function oncogenes tumor suppressors
+rna sequences
+sirna mirna
+complementary parts promoter increase gene transcription
+phenomenon dubbed rna activation
+part mechanism rna upregulate genes
+dicer argonaute involved
+possibly histone demethylation
+mirnas proposed upregulate target genes cell cycle arrest
+underlying mechanisms elucidated
+based parsimony based phylogenetic analysis
+recent common ancestor eukaryotes possessed early rna interference pathway
+absence pathway eukaryotes thought derived characteristic
+ancestral rnai system contained dicer protein
+argonaute
+piwi protein
+rna dependent rna polymerase played cellular roles
+large scale comparative genomics study likewise eukaryotic crown group possessed components
+closer functional associations generalized rna degradation systems exosome
+study suggests rna binding argonaute protein family
+shared eukaryotes
+archaea
+bacteria
+aquifex aeolicus
+homologous originally evolved components translation initiation system
+ancestral function rnai system generally agreed immune defense exogenous genetic elements transposons viral genomes
+related functions histone modification present ancestor modern eukaryotes
+functions regulation development mirna thought evolved
+rna interference genes
+components antiviral innate immune system eukaryotes
+involved evolutionary arms race viral genes
+viruses evolved mechanisms suppressing rnai response host cells
+effect noted plant viruses
+studies evolutionary rates drosophila shown genes rnai pathway subject strong directional selection fastest evolving genes drosophila genome
+rna interference pathway exploited experimental biology study function genes cell culture vivo model organisms
+double stranded rna synthesized sequence complementary gene interest introduced cell organism
+recognized exogenous genetic material activates rnai pathway
+mechanism
+researchers drastic decrease expression targeted gene
+studying effects decrease show physiological role gene product
+rnai totally abolish expression gene
+technique referred
+knockdown
+distinguish
+knockout
+procedures expression gene eliminated
+extensive efforts computational biology directed design successful dsrna reagents maximize gene knockdown minimize
+target
+effects
+target effects arise introduced rna base sequence pair reduce expression multiple genes time
+problems occur frequently dsrna repetitive sequences
+estimated studying genomes
+sapiens
+elegans
+pombe sirnas substantial target effects
+multitude software tools developed implementing algorithms design general
+mammal specific
+virus specific sirnas automatically checked cross reactivity
+depending organism experimental system
+exogenous rna long strand designed cleaved dicer
+short rnas designed serve sirna substrates
+mammalian cells
+shorter rnas long double stranded rna molecules induce mammalian interferon response
+form innate immunity reacts nonspecifically foreign genetic material
+mouse oocytes cells early mouse embryos lack reaction exogenous dsrna common model system studying gene knockdown effects mammals
+specialized laboratory techniques developed improve utility rnai mammalian systems avoiding direct introduction sirna
+stable transfection plasmid encoding sequence sirnas transcribed
+elaborate lentiviral vector systems allowing inducible activation deactivation transcription
+conditional rnai
+functional genomics applications rnai animals
+elegans drosophila
+common model organisms rnai effective
+elegans rnai research reasons
+firstly
+effects gene silencing generally heritable
+delivery dsrna extremely simple
+mechanism details poorly understood
+bacteria
+coli carry desired dsrna fed worms transfer rna payload worm intestinal tract
+delivery feeding
+effective inducing gene silencing costly time consuming delivery methods
+soaking worms dsrna solution injecting dsrna gonads
+delivery difficult organisms
+efforts underway undertake large scale genomic screening applications cell culture mammalian cells
+approaches design genome wide rnai libraries require sophistication design single sirna defined set experimental conditions
+artificial neural networks frequently design sirna libraries predict efficiency gene knockdown
+mass genomic screening widely promising method genome annotation triggered development high throughput screening methods based microarrays
+utility screens ability techniques developed model organisms generalize closely related species questioned
+elegans related parasitic nematodes
+functional genomics rnai attractive technique genomic mapping annotation plants plants polyploid
+presents substantial challenges traditional genetic engineering methods
+rnai successfully functional genomics studies bread wheat
+hexaploid
+common plant model systems arabidopsis maize
+exploit rna interference therapy
+difficult introduce long dsrna strands mammalian cells due interferon response
+short interfering rna successful
+applications reach clinical trials treatment macular degeneration respiratory syncytial virus
+rnai shown effective reversal induced liver failure mouse models
+proposed clinical center antiviral therapies
+including topical microbicide treatments rnai treat infection
+harvard medical school
+mice
+herpes simplex virus type inhibition viral gene expression cancerous cells
+knockdown host receptors coreceptors hiv
+silencing hepatitis hepatitis genes
+silencing influenza gene expression
+inhibition measles viral replication
+potential treatments neurodegenerative diseases proposed
+attention paid polyglutamine diseases huntington disease
+rna interference promising treat cancer silencing genes differentially upregulated tumor cells genes involved cell division
+key area research rnai clinical applications development safe delivery method
+date involved viral vector systems similar suggested gene therapy
+due safety concerns viral vectors
+nonviral delivery methods
+typically employing lipid based polymeric vectors
+promising candidates
+computational modeling nonviral sirna delivery paired vitro vivo gene knockdown studies bartlett davis elucidated temporal behavior rnai systems
+model
+input bolus dose sirna
+show computationally experimentally knockdown duration dependent doubling time cells sirna delivered
+peak knockdown depended primarily delivered dose
+kinetic considerations rnai imperative planning safe effective dosing schedules nonviral methods inducing rnai continue developed
+proliferation promising cell culture studies rnai based drugs
+concern raised safety rna interference
+potential
+target
+effects gene coincidentally similar sequence targeted gene repressed
+computational genomics study estimated error rate target interactions
+major study liver disease mice reported distinct rnai treatment protocols resulted death
+researchers hypothesized alarmingly high rate result
+oversaturation
+dsrna pathway
+due shrnas processed nucleus exported cytoplasm active mechanism
+considerations active investigation
+reduce impact potential therapeutic applications rnai
+rna interference based applications developed target persistent hiv infection
+viruses hiv difficult targets rnai attack escape prone
+requires combinatorial rnai strategies prevent viral escape
+future antiviral rnai therapeutics promising
+remains critical importance include controls pre clinical test models unequivocally demonstrate sequence specific action rnai inducers
+discovery rnai knowledge grown substantially
+rnai vivo delivery tissues proves challenge eludes science deep tissues body
+rnai delivery easily accessible surface tissues eye respiratory tract
+instances sirna direct contact tissue transport resulting rnai extremely successful focusing target genes
+delivering sirna deep tissue layers body measures protect sirna nucleases
+targeting specific areas main difficulty
+difficulty combatted high dosage levels sirna ensure tissues reached
+cases hepatotoxicity reported
+rna interference applications biotechnology
+engineering food plants produce lower levels natural plant toxins
+techniques advantage stable heritable rnai phenotype plant stocks
+cotton seeds rich dietary protein naturally toxic terpenoid product gossypol
+making unsuitable human consumption
+rnai produce cotton stocks seeds reduced levels delta cadinene synthase
+key enzyme gossypol production
+affecting enzyme production parts plant
+gossypol important preventing damage plant pests
+similar efforts directed reduction cyanogenic natural product linamarin cassava plants
+plant products rnai based genetic engineering passed experimental stage
+development efforts successfully reduced levels allergens tomato plants decreased precursors carcinogens tobacco plants
+plant traits engineered laboratory include production narcotic natural products opium poppy
+resistance common plant viruses
+fortification plants tomatoes dietary antioxidants
+previous commercial products
+including flavr savr tomato cultivars ringspot resistant papaya
+originally developed antisense technology exploited rnai pathway
+genome scale rnai research relies high throughput screening
+hts
+technology
+rnai hts technology genome wide loss function screening broadly identification genes specific biological phenotypes
+technology hailed genomics wave
+genomics wave gene expression microarray single nucleotide polymorphism discovery platforms
+major advantages genome scale rnai screening ability simultaneously interrogate thousands genes
+ability generating large amount data experiment
+genome scale rnai screening led explosion rate generating data
+fundamental challenges genome scale rnai researches glean biological significance mounds data
+requires adoption suitable statistics
+bioinformatics methods presented recently published book analyzing rnai screens
+basic process cell based rnai screening includes
+choice rnai library
+selection robust stable type cells
+iii
+transfection selected cells rnai agents chosen rnai library
+treatment incubation
+signal detection
+statistical bioinformatics analysis
+vii
+determination important genes therapeutical targets
+discovery rnai preceded observations transcriptional inhibition antisense rna expressed transgenic plants
+directly reports unexpected outcomes experiments performed plant scientists united states netherlands early
+attempt alter flower colors petunias
+researchers introduced additional copies gene encoding chalcone synthase
+key enzyme flower pigmentation petunia plants pink violet flower color
+overexpressed gene expected result darker flowers
+produced pigmented
+fully partially white flowers
+indicating activity chalcone synthase substantially decreased
+fact
+endogenous genes transgenes downregulated white flowers
+related event termed quelling noted fungus neurospora crassa
+immediately recognized related
+investigation phenomenon plants downregulation due post transcriptional inhibition gene expression increased rate mrna degradation
+phenomenon called suppression gene expression
+molecular mechanism remained unknown
+long
+plant virologists working improving plant resistance viral diseases observed similar unexpected phenomenon
+plants expressing virus specific proteins showed enhanced tolerance resistance viral infection
+expected plants carrying short
+coding regions viral rna sequences show similar levels protection
+researchers believed viral rna produced transgenes inhibit viral replication
+reverse experiment
+short sequences plant genes introduced viruses
+showed targeted gene suppressed infected plant
+phenomenon labeled
+virus induced gene silencing
+vigs
+set phenomena collectively called post transcriptional gene silencing
+initial observations plants
+laboratories world searched occurrence phenomenon organisms
+craig
+mello andrew fire nature paper reported potent gene silencing effect injecting double stranded rna
+elegans
+investigating regulation muscle protein production
+observed mrna antisense rna injections effect protein production
+double stranded rna successfully silenced targeted gene
+result work
+coined term rnai
+fire mello discovery notable represented identification causative agent phenomenon
+fire mello awarded nobel prize physiology medicine work

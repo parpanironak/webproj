@@ -1,0 +1,461 @@
+Wikipedia:Manual of Style/Mathematics
+
+subpage manual style guidelines writing editing clear
+encyclopedic
+attractive
+interesting articles mathematics
+matters style treated subpage
+follow main manual style subpages achieve consistency style
+hardest part writing mathematical article
+article
+difficulty addressing level mathematical knowledge part reader
+writing field
+assume reader group theory
+general approach start simple
+move abstract technical statements article proceeds
+article start short introductory section
+referred lead
+purpose section describe
+define
+give context subject article
+establish interesting
+summarize important points
+lead accessible general reader
+specialized terminology symbols avoided
+general
+lead sentence include article title bold alternative names
+establish context linking general subject
+informally define describe subject
+topology
+greek
+major area mathematics concerned spatial properties preserved continuous deformations objects
+deformations involve stretching
+tearing gluing
+euclidean plane geometry
+apollonius problem construct circles tangent circles plane
+lead section include
+introduce notation
+section
+remember understands
+good standard notation
+standard notations
+introduce notations
+define article
+exact definition
+mathematical terms
+definition
+section
+topological spaces
+function
+called continuous
+open set
+preimage
+open set
+term formal definition empty mathematician
+formal definition mathematician definition
+formal proof proof
+flag actual definition found
+sections motivation
+rigged hilbert space
+representative examples nice
+separate section
+serve expand definition
+provide context defined entity
+list close satisfying definition order refine reader intuition precisely
+important remember composing examples
+purpose encyclopedia inform instruct
+nottextbook
+examples strive maintain encyclopedic tone
+informative instructional
+picture great bringing point home
+precede mathematical discussion concept
+create graphs articles hints create graphs pictures
+include articles
+person editing mathematics article fall temptation
+formula
+mathematical reader skip formulae cases
+mathematician reading research area
+careful thought formula included
+words
+english words
+exists
+preferred
+symbols
+similarly
+highlight definitions words
+defined
+text
+included introductory paragraph
+section history concept provide additional insight motivation
+mathematical ideas amenable form generalization
+material put generalizations section
+multiplication rational numbers generalized fields
+good section
+connects related subjects
+pages provide insight contents current article
+lastly
+written complete article references section
+topic discussed detail
+issues writing style relevant mathematical writing
+number conventions developed make mathematics articles consistent
+conventions cover choices terminology
+definitions compact ring
+notation
+correct symbols subset
+conventions suggested order bring uniformity articles
+aid reader moves article
+article establish conventions
+article specialized subject clear written conventions common area
+act changing article set conventions undertaken lightly
+article explain terminology conventions
+order minimize chance confusion
+articles conventions
+readers articles widely conventions mind
+readers familiar conventions
+differ greatly conventions
+articles presented print websites
+simple readers check conventions employed
+set natural numbers common meanings
+called negative integers
+called positive integers
+sense field subject article belongs field preferred convention
+sense unclear
+important included
+alternative phrases natural numbers context permits
+encyclopedia
+collection mathematical texts
+include proofs
+exposing meaning theorem
+definition
+downside including proofs interrupt flow article
+goal expository
+judgement
+rule thumb
+include proofs expose illuminate concept idea
+include serve establish correctness result
+readers skip proofs
+good idea set
+instance giving separate section
+additional discussion guidelines found
+wikiproject mathematics
+proofs
+article algorithm include pseudocode cases source code programming language
+standard programming language languages
+readers understand language language easy read
+algorithm expressed
+source code choose programming language expresses algorithm
+articles include multiple implementations algorithm programming languages encyclopedic interest implementation
+source code syntax highlighting
+markup
+generates
+important article chosen list references pointers literature
+reasons
+cite sources article information examples cited literature
+set formulae latex
+simple formulae
+html
+acceptable widely
+issues
+discussed
+section headings
+html
+latex markup table contents
+editors typeset mathematical formulas
+subset
+latex markup
+tex
+formulae translated png images
+rendered html mathml
+depending user preferences
+details
+meta
+formula
+latex formulae displayed line
+image
+math
+png
+line
+displaying formulae line
+indent line
+typeset
+find article indents lines spaces order achieve formula layout effect
+convert formula latex markup
+latex based formulae line render png default user settings
+generally discouraged
+reasons
+line formula typeset latex
+formatting achieved latex command
+default
+latex code rendered displayed equation
+line
+frequently big
+formula
+displays image
+math
+png
+large line
+generates smaller summation sign moves limits sum side summation sign
+code
+renders aesthetic image
+math
+png
+default font larger surrounding text browsers
+older versions mediawiki software supported displaying latex formula html image
+longer option formulae formatting intended force display image
+invisible quarter space
+added end formula
+beginning
+formatting removed formula edited added formulae
+images generated latex markup alt text
+displayed visually impaired readers readers images
+default alt text latex markup produced image
+override explicitly alt attribute math element
+square root
+generates image image
+math
+png alt text
+square root
+small easily explained formulas technical articles benefit explicitly alt text
+complicated formulas
+formulas technical articles
+default alt text
+sections cover presenting simple line formulae html
+latex
+templates supporting html formatting listed category
+mathematical formatting templates
+recommended
+template format fractions discouraged mathematics articles
+result
+tex serif font display formula
+png html
+template display html formula serif
+ensure text formula line wrap
+font size closely match surrounding text skin
+result
+start
+generally italic text variables
+numbers symbols
+editors prefer edit box refer variable
+prefer html
+variable
+tag
+semantic meaning text contained
+method choose
+order convention
+recommend wiki markup method enclosing variable repeated single quotes
+write
+results
+italicizing variables
+things parentheses
+digits
+equal signs double quoted sections
+double quotes tags
+denote italics
+descriptive subscripts italics
+variables
+mfoo mass foo
+units italicized
+names standard functions
+sin cos
+italic font
+italic names functions cases
+define function
+sin
+cos
+sets written upper case italics
+written
+editors italicize lower case greek letters variables
+line general advice italicize variables
+expression typeset
+examples sections guide italic formatting greek letters
+commonly sets numbers typeset boldface
+set real numbers
+blackboard bold types
+typically wiki markup
+single quotes
+html tag making text bold
+subscripts superscripts wrapped tags
+formatting info
+font sizes entrusted handled stylesheets
+write
+special characters
+squares
+combine powers
+comparison shows
+tex engine format simple superscripts
+depending user preferences
+image image
+math
+png
+users
+formulae formatted tex syntax maintain appearance
+table mathematical symbols list
+mathematical symbols editing mathematics articles
+caveats mind
+mediawiki markup engine fairly smart differentiating unescaped
+characters denote start embedded html html tag literal symbols
+ideal
+writing sign
+html xml
+write
+standard algebraic notation formulae
+variables multiplied written presented formula
+citing formula
+explaining
+general audience
+mathematicians
+formula giving examples application
+prudent multiplication sign
+coded
+html
+letter
+substitute
+alternative
+markup dot operator
+encoded
+reachable
+math logic
+drop list edit box
+produces properly spaced centered dot
+ascii
+multiplication sign source code
+purpose professionally published mathematics
+fonts render inappropriate vertical position
+midline text centered
+dot operator
+simple interpunct
+choice offered
+wiki markup
+drop list edit box
+fonts kern properly
+typographically correct representation minus sign
+hyphen
+dash
+render minus sign
+minus
+character
+reachable selecting
+math logic
+drop list edit box
+entity
+square brackets problems
+occasionally problems wiki markup
+editors fix brackets asymmetrical intervals make symmetrical
+general solution problems nowiki tag show special
+intervals range domain function common
+solution makes reason brackets interval plain templates
+instance
+produces
+templates template avoid line breaks tex font
+special unicode function symbol functions
+latin small letter hook script florin currency symbol
+netherlands
+function symbol
+december
+character interpreted correctly screen readers jaws nonvisual desktop access
+italicized letter
+list
+foocity
+reason bulleted
+written prose
+foocity
+exception definitions long
+heat equation
+case
+definition end comma semicolon
+end period terminates sentence
+mathematics publications
+sentence ends formula period end formula
+equally applies displayed formulae
+formulae line
+similarly
+conventional punctuation rules require question mark
+comma
+semicolon
+punctuation place
+formula punctuation end
+formula written latex
+surrounded
+tags
+punctuation inside tags
+displayed line formula edge browser window
+result unaesthetic
+inlined formulae presented image baseline line running formula enclosed template
+shows
+mathematics notation
+functions multi letter names upright font
+functions
+logarithms
+written parentheses
+operator
+function
+names pre defined abbreviation
+special care needed subscripted labels distinguish purpose subscript
+common error
+variables constants subscripts italic
+textual labels normal text font
+roman
+upright
+years manual misled people
+opinion
+hand
+differential
+imaginary unit
+euler number
+articles italic font
+writes
+authors prefer upright
+roman
+font
+roman boldface
+forms correct
+important consistency article
+considered inappropriate editor articles mass style
+principle guidelines manual style colour
+color spelling choice
+objects
+real numbers
+traditionally printed boldface
+blackboard whiteboard
+boldface type replaced blackboard bold
+traditional mathematical typography printed blackboard bold harder read ordinary boldface
+nowadays
+printed books articles blackboard bold
+concern blackboard bold symbols rendered images unicode symbols blackboard bold characters supported systems
+article boldface type blackboard bold objects traditionally printed boldface
+choices
+article consistent
+editors change articles choice typeface consistency
+mathematics articles
+fractions written horizontal fraction bar
+image
+math
+png
+forward slash baseline numbers aligned baseline surrounding text
+discouraged mathematics articles
+unicode symbols
+discouraged
+accessibility reasons
+metric units decimal fractions
+metric units type fraction
+fraction style consistent article
+general agreement fonts graphs diagrams
+geometrical diagrams points labelled upper case letters
+sides lower case angles lower case greek letters
+recent geometry books tend italic serif font diagrams image
+math
+png point
+easy latex markup
+older books tend upright letters image
+math
+png diagrams sans serif upright
+graphs books tend latex conventions
+wide variations
+ease reference diagrams graphs conventions text refers
+illustration convention
+illustration
+style guide specifically written mathematics
+style guidance
+finer points typography discussed
+general style manuals include advice mathematics
+including

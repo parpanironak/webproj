@@ -1,0 +1,347 @@
+Wikipedia:Bot policy
+
+policy
+bot policy covers operation bots automated scripts provide automation edits
+completely automated
+higher speed
+simply assisting human editors work
+covers work bot approvals group
+supervises approves bot related activity technical quality control perspective behalf english community
+bots
+community expects high standards bot approved designated tasks
+operation unapproved bots
+approved bots unapproved ways conditions operation
+prohibited cases lead blocking user account sanctions operator
+administrators blocking user account suspected operating unapproved bot approved bot unapproved ways block indefinitely
+note high speed semi automated processes effectively considered bots cases
+performed account human editor
+doubt
+check
+contributors create separate account order operate bot
+account identify operator bot function
+additionally
+immediately clear edits made automated account
+accomplished including word
+bot
+beginning end username
+bots active wikis means
+bots edit logged account
+bots attempt edit logged assertedit
+similar function
+tools considered bots require separate account
+users choose make separate accounts bot high speed editing
+contributions bot account remain responsibility operator
+prominently identifiable user page
+bot operator responsible repair damage caused bot operates incorrectly
+policies apply bot account user account
+bot accounts considered alternative accounts operator purposes user account policy
+bot accounts contributions fall scope bot designated tasks
+bot operators bot account respond messages related bot
+bot operators redirect bot account discussion page
+bot accounts marked bureaucrat bot approvals group request
+bot
+user group
+flag account account bot
+reduces technical limits imposed mediawiki software
+edits accounts hidden default recent
+historically
+flagged bot account distinct approval process
+approved bots property
+stemmed fact bot edits hidden recent
+universally desirable
+bot edits allowed show recent
+longer
+order bot approved
+operator demonstrate
+bot account user page identify bot tag
+information provided
+linked
+bot account userpage approval request
+performance generally issue
+bot operators recognize bot making requests editing high speed greater effect average contributor
+operators careful make unnecessary web requests
+conservative editing speed
+sysadmins inform community performance issues significance arise
+situations
+directives
+bots download substantial portions content requesting individual pages permitted
+content required
+download database dumps
+bots require access run queries databases run toolserver
+processes scope policy
+users read messages edit summaries bots generally expect high standard cordiality information
+backed prompt civil bot operator queries arise
+bot operators care design communications
+ensure meet inquiries resulting bot operation cordially
+promptly
+appropriately
+condition operation bots general
+minimum
+operator ensure users address messages left
+bot operators implement features
+depending nature bot tasks
+authors bot processes encouraged
+required
+publish source code bot
+unsupervised bot processes make context sensitive require human attention
+accounting false positives generally unfeasible
+exceptionally
+tasks allowed addition consensus operator demonstrate false positives arise
+time run complete list database dump
+community consensus run task supervision
+vandalism reversion community accepted false positive rate
+examples context sensitive include
+limited
+assignment person categories made bot
+adding sensitive categories articles bot
+input manually checked article article
+uploaded existing list
+categorization people
+operators interwiki bots creating links articles link back familiar languages linking
+bots running standard tools pywikipedia framework updated latest version daily
+globally approved interwiki bots permitted operate english
+subject local requirements
+interwiki bots run unsupervised template namespace specifically designed run templates
+make interwiki links added templates transcluded pages template properly placing documentation subpage section
+included portion template documentation subpage exists
+december
+standard interwiki module pywikipedia meet requirements
+note
+april
+continuous running interwiki bots toolserver members multi maintainer project
+interwikibot
+rule
+cosmetic
+awb general fixes
+applied substantial change make time
+scripts apply cosmetic
+cosmetic
+pydead link
+caution
+pywiki functions standardizecategories
+validxhtml
+translateandcapitalizenamespaces
+removenonbreakingspacebeforepercent
+equivalent functionality
+function correctly consensus
+functions removeuselessspaces cleanupsectionheaders recommended
+move whitespace
+community decided large scale automated semi automated article creation task approved
+bots
+requests approval
+restriction applied mass category creation
+categories visible article space
+including hidden maintenance categories
+specific definition
+large scale
+decided
+suggestion
+opposed
+strongly encouraged
+required bag
+community input solicited
+village pump
+proposals
+talk pages relevant wikiprojects
+bot operators ensure article creations strictly terms approval
+alternatives simply creating mass quantities articles include creating articles small batches creating articles subpages wikiproject individually moved article space reviewed human editors
+alternatives obviate brfa
+garner support community large
+bots make logged actions
+editing pages
+uploading files creating accounts
+approved tasks operate
+bot approval requests made
+bots
+requests approval
+brfa
+requests state precisely bot
+information relevant operation
+including links community discussions sufficient demonstrate consensus proposed task
+addition
+prospective bot operators editors good standing
+demonstrable experience kind tasks bot proposes
+request approval
+member bot approvals group
+bag
+typically approve short trial bot monitored ensure operates correctly
+terms extent trial period determined bag
+bots supervised trial periods problems addressed quickly
+bot operator responsible reviewing edits repairing mistakes caused bot
+bag approve extended trials problems arise initial trial community confident bot function correctly
+request generally open time community bag members comment questions
+give feedback trial
+decision approve decline request account requirements
+relevant policies guidelines
+discussions request
+bot operators encouraged asked notify relevant noticeboards areas affected expertise area provide comments insight proposed task
+request demonstrated conformance community standards correct technical implementation
+bag approve task
+bag decline request fails demonstrate community consensus perform task
+occasionally
+operator withdraw task bag mark stale request expired
+closed requests archived preserved future reference
+task approved
+bot
+user group flag assigned bureaucrat operator run bot intended
+bag occasionally speedily approve decline brfas trial period
+overtly controversial
+technically simple tasks duplicates existing tasks
+performed trusted bot operators
+speedily approved
+similarly
+controversial commonly declined tasks
+editors
+speedily declined
+operators carry limited testing bot processes approval
+provided test edits low number frequency
+restricted test pages sandbox
+test edits made user account
+addition
+bot automated editing process affects operator userspace
+user page
+user talk page
+subpages thereof
+disruptive
+run prior approval
+bot operators modify extend operation bots
+ensure compliance policy
+small
+fix problems improve operation task
+issue
+larger implemented discussion
+completely tasks require separate approval request
+bot operators create separate bot account task
+accounts performing automated tasks prior approval summarily blocked administrator
+requests reexamination discussed talk
+bots
+requests approval
+include appeal denied bot requests
+reexamination approved bots
+cases
+requests comment warranted
+examination result
+bag authority operator behavior
+operators
+dispute resolution proper venue
+bots administrator rights
+adminbots
+approved general process
+bot operator administrator
+bot
+approval discussion conducted levels
+suitable consensus task technically sound
+member bot approvals group review request approve trial period
+bot run
+dry
+ysop bit
+practical
+run operator main account
+edits marked
+bot approvals group satisfied bot technically sound
+approve bot recommend bot ysop rights
+bureaucrat responds flag request acts final arbiter process ensure adequate level community consensus
+including publicity approval discussion
+underlies approval
+bot operates additional rules
+lists regular expressions applied decision making process
+publicly visible
+bot operator make bag member administrator request
+operator exercise judgment making alterations rules
+significantly alter bot behavior
+administrators running unapproved experimental administrative bots
+development phase
+babysit
+bots terminate sign incorrect behavior
+administrators responsible behavior robots allowed run wild
+administrators allowed run semi automated tools
+assisted administrative tools
+accounts held responsible tools awry
+administrator responsible adminbots desysopped
+bots immediately desysopped time
+administrator voluntarily stepped uncontroversial circumstances
+members group experienced writing running bots
+programming experience
+understand role bag brfa process
+understand bot policy
+interested joining group make post talk page explaining good member team outlining past experience
+make posts
+vpm
+bot
+bon
+days
+uninvolved bureaucrat close discussion
+noticed problem bot
+complaint suggestion make
+contact bot operator
+bot causing significant problem
+feel urgent discussion
+leave message
+administrators noticeboard
+bot owners noticeboard
+indicating notified bot operator
+administrators block bot accounts operate approval
+operate manner approval request
+operate counter terms approval bot usage policy
+block issued bot process operates logged account
+logged account
+bots edit logged assertedit
+similar function
+added
+operators notified block
+approved bots broken
+unapproved bots
+human editors expected pay attention edits make
+ensure sacrifice quality pursuit speed quantity
+purpose dispute resolution
+irrelevant high speed large scale edits involve errors attentive human make performed bot
+human assisted script
+human programmatic assistance
+matter method
+disruptive editing stop user end blocked
+note editing quickly
+short time
+disruptive
+assisted editing
+covers tools assist repetitive tasks
+alter content human interaction
+examples include correcting typographical errors
+fixing links disambiguation pages
+reverting vandalism
+stub sorting
+contributions considered constitute bot
+doubt
+make approval request
+approval
+cases
+bot approvals group determine full approval process separate bot account
+general
+processes operated higher speeds
+high volume edits
+automated
+treated bots purposes
+contributors intending make large number assisted edits advised ensure clear consensus edits desired
+create separate user account order
+accounts adhere policy multiple accounts
+contributors assisted editing tools
+clear
+edit summaries
+user page user discussion page account making contributions
+authors assisted editing tools permitted create approval mechanism tool
+bot approval required tool
+addition
+normal approval request process
+autowikibrowser tool mechanism
+release source code assisted editing tools
+bots
+encouraged required
+note large scale semi automated
+automated
+article creation task requires brfa
+majority user scripts intended improve personalize existing mediawiki interface
+simplify access commonly functions editors
+scripts kind require bag approval
+accounts approved bots make edits specific designated type
+direction person
+problem
+provided

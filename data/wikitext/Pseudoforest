@@ -1,0 +1,253 @@
+Pseudoforest
+
+pseudoforest
+graph theory
+pseudoforest undirected graph connected component cycle
+system vertices edges connecting pairs vertices
+cycles consecutive edges share vertex
+cycles connected path consecutive edges
+pseudotree connected pseudoforest
+names justified analogy commonly studied trees forests
+tree connected graph cycles
+forest disjoint union trees
+gabow tarjan attribute naming pseudoforests dantzig book linear programming
+pseudoforests arise solution network flow problems
+pseudoforests form graph theoretic models functions occur algorithmic problems
+pseudoforests sparse graphs edges relative number vertices matroid structure families sparse graphs decomposed unions forests pseudoforests
+define undirected graph set vertices edges edge vertices
+coincide
+endpoints
+multiple edges
+edges pair endpoints
+loops
+edges endpoints vertex
+subgraph graph graph formed subsets vertices edges edge edge subset endpoints vertex subset
+connected component undirected graph subgraph consisting vertices edges reached edges single starting vertex
+graph connected vertex edge reachable vertex edge
+cycle undirected graph connected subgraph vertex incident edges
+loop
+pseudoforest undirected graph connected component cycle
+equivalently
+undirected graph connected component edges vertices
+components cycles trees
+components single cycle called trees unicyclic graphs
+tree connected graph cycle
+pseudoforest single connected component
+called pseudotree
+authors define pseudotree tree
+tree tree
+general pseudoforest multiple connected components long trees trees
+removes tree edges cycle
+result tree
+reversing process
+augments tree connecting vertices edge
+result tree
+path tree connecting endpoints added edge
+added edge
+form tree unique cycle
+augments tree adding edge connects vertices newly added vertex
+result tree
+vertex
+alternative method constructing trees start single cycle repeat augmentation operation number times
+edges tree partitioned unique subgraphs
+cycle forest
+tree forest vertex cycle
+specific types pseudoforests studied
+versions definitions directed graphs
+undirected graph
+directed graph consists vertices edges
+edge directed endpoints endpoint
+directed pseudoforest directed graph vertex outgoing edge
+outdegree
+directed forest commonly called functional graph
+maximal directed pseudoforest directed graph vertex outdegree
+directed pseudoforest
+undirected graph formed removing direction edge undirected pseudoforest
+pseudoforest set vertices edges
+maximal pseudoforest set vertices edges
+conversely
+graph property
+subset vertices
+number edges induced subgraph number vertices
+pseudoforest
+trees defined connected graphs equally vertices edges
+moving individual graphs graph families
+family graphs property subgraph graph family family
+graph family edges vertices
+family pseudoforests
+instance
+subgraph thrackle
+graph drawn pair edges point intersection
+thrackle
+conway conjecture thrackle edges vertices restated thrackle pseudoforest
+precise characterization
+conjecture true
+thrackles pseudoforests vertex cycle odd cycle
+streinu theran generalize sparsity conditions defining pseudoforests
+define graph
+sparse nonempty subgraph vertices edges
+tight
+sparse edges
+pseudoforests
+sparse graphs
+maximal pseudoforests
+tight graphs
+important families graphs defined values
+sparse graphs characterized graphs formed edge disjoint union forests pseudoforests
+sufficiently sparse random graph pseudoforest
+constant
+probability choosing uniformly random vertex graphs edges results pseudoforest
+limit large
+random graph edges large component unicyclic
+graph simple loops multiple edges endpoints
+number simple trees labelled vertices
+values found sequence image
+commons
+thumb
+oeisicon light
+svg
+oeisicon light
+svg
+line encyclopedia integer sequences
+number maximal directed pseudoforests vertices
+allowing loops
+vertex endpoints outgoing edge
+joyal fact provide bijective proof cayley formula
+number undirected trees nodes
+finding bijection maximal directed pseudoforests undirected trees distinguished nodes
+loops allowed
+number maximal directed pseudoforests
+directed pseudoforests functions sense mathematically equivalent
+function set
+endomorphism
+interpreted defining directed pseudoforest edge
+resulting directed pseudoforest maximal
+include loops
+alternatively
+omitting loops produces maximal pseudoforest
+direction
+maximal directed pseudoforest determines function
+target edge
+maximal directed pseudoforest made maximal adding loops converted function
+reason
+maximal directed pseudoforests called functional graphs
+viewing function functional graph convenient language describing properties easily function theoretic point view
+technique applicable problems involving iterated functions
+correspond paths functional graphs
+cycle detection
+problem path functional graph find cycle
+applications cryptography computational number theory
+part pollard rho algorithm integer factorization method finding collisions cryptographic hash functions
+applications
+expected behave randomly
+flajolet odlyzko study graph theoretic properties functional graphs arising randomly chosen mappings
+form birthday paradox implies
+random functional graph vertices
+path starting randomly selected vertex typically loop back form cycle
+steps
+martin
+odlyzko
+wolfram investigate pseudoforests model dynamics cellular automata
+functional graphs
+call state transition diagrams
+vertex configuration ensemble cells automaton
+edge connecting configuration configuration automaton rule
+infer properties automaton structure diagrams
+number components
+length limiting cycles
+depth trees connecting limiting states cycles
+symmetries diagram
+instance
+vertex incoming edge corresponds garden eden pattern vertex loop corresponds life pattern
+early application functional graphs trains study steiner triple systems
+train triple system functional graph vertex triple symbols
+triple pqr mapped stu
+pqs
+prt
+qru triples belong triple system pairs
+trains shown powerful invariant triple systems cumbersome compute
+matroid mathematical structure sets elements defined independent
+independent sets satisfy properties modeled properties linear independence vector space
+standard examples matroid graphic matroid independent sets sets edges forests graph
+matroid structure forests important algorithms computing minimum spanning tree graph
+analogously
+define matroids pseudoforests
+graph
+define matroid edges
+set edges independent forms pseudoforest
+matroid bicircular matroid
+bicycle matroid
+smallest dependent sets matroid minimal connected subgraphs cycle
+subgraphs called bicycles
+types bicycle
+theta graph vertices connected internally disjoint paths
+figure graph consists cycles sharing single vertex
+handcuff graph formed disjoint cycles connected path
+graph pseudoforest bicycle subgraph
+forming minor pseudoforest contracting edges deleting produces pseudoforest
+family pseudoforests closed minors
+theorem implies pseudoforests characterized terms finite set forbidden minors
+analogously wagner theorem characterizing planar graphs graphs complete graph complete bipartite graph minors
+discussed
+pseudoforest graph subgraph handcuff
+figure
+theta graph
+handcuff figure graph contracted form butterfly graph
+vertex figure
+theta graph contracted form diamond graph
+vertex theta graph
+pseudoforest butterfly diamond minor
+minor minimal pseudoforest graphs
+graph pseudoforest butterfly diamond minor
+forbids diamond butterfly
+resulting larger graph family consists cactus graphs disjoint unions multiple cactus graphs
+simply
+multigraphs loops considered
+forbidden minor
+vertex loops
+early algorithmic pseudoforests involves network simplex algorithm application generalized flow problems modeling conversion commodities types
+problems
+input flow network vertices model commodity edges model allowable conversions commodity
+edge marked capacity
+commodity converted unit time
+flow multiplier
+conversion rate commodities
+cost
+loss
+negative
+profit incurred unit conversion
+task determine commodity convert edge flow network
+order minimize cost maximize profit
+obeying capacity constraints allowing commodities type accumulate unused
+type problem formulated linear program
+solved simplex algorithm
+intermediate solutions arising algorithm
+eventual optimal solution
+special structure
+edge input network unused full capacity
+subset edges
+forming spanning pseudoforest input network
+flow amounts lie full capacity
+application
+unicyclic graphs called augmented trees maximal pseudoforests called augmented forests
+minimum spanning pseudoforest problem involves finding spanning pseudoforest minimum weight larger edge weighted graph
+due matroid structure pseudoforests
+minimum weight maximal pseudoforests found greedy algorithms similar minimum spanning tree problem
+gabow tarjan found efficient linear time approach case
+pseudoarboricity graph defined analogy arboricity minimum number pseudoforests edges partitioned
+equivalently
+minimum
+sparse
+minimum edges oriented form directed graph outdegree
+due matroid structure pseudoforests
+pseudoarboricity computed polynomial time
+random bipartite graph vertices side bipartition
+edges chosen independently random pairs vertices
+pseudoforest high probability constant strictly
+fact plays key role analysis cuckoo hashing
+data structure key pairs hash tables locations determined key
+form graph
+cuckoo graph
+vertices correspond hash table locations edges link locations keys found
+cuckoo hashing algorithm succeeds finding locations keys cuckoo graph pseudoforest
+pseudoforests play key role parallel algorithms graph coloring related problems

@@ -1,0 +1,129 @@
+Enumerative combinatorics
+
+enumerative combinatorics
+enumerative combinatorics area combinatorics deals number ways patterns formed
+examples type problem counting combinations counting permutations
+generally
+infinite collection finite sets indexed natural numbers
+enumerative combinatorics seeks describe counting function counts number objects
+counting number elements set broad mathematical problem
+problems arise applications simple combinatorial description
+twelvefold unified framework counting permutations
+combinations partitions
+simplest functions closed formulas
+expressed composition elementary functions factorials
+powers
+instance
+shown
+number orderings deck cards
+closed form initially
+cases
+frequently derive recurrence relation
+solve recurrence arrive desired closed form
+finally
+expressed formal power series
+called generating function
+commonly ordinary generating function
+exponential generating function
+complicated closed formula yields insight behavior counting function number counted objects grows
+cases
+simple asymptotic approximation preferable
+function image
+math
+png asymptotic approximation image
+math
+png image
+math
+png image
+math
+png
+case
+write image
+math
+png
+determined
+generating function yields information previous approaches
+addition
+natural operations generating functions addition
+multiplication
+differentiation
+combinatorial significance
+extend results combinatorial problem order solve
+generating functions describe families combinatorial objects
+image
+math
+png denote family objects
+generating function
+image
+math
+png denotes number combinatorial objects size
+number combinatorial objects size coefficient image
+math
+png
+common operation families combinatorial objects effect generating function developed
+exponential generating function
+case form
+combinatorial families
+image
+math
+png image
+math
+png generating functions
+union families
+image
+math
+png
+generating function
+combinatorial families cartesian product
+pair
+families
+image
+math
+png
+generating function
+sequence generalizes idea pair defined
+sequences arbitrary cartesian products combinatorial object
+formally
+put words
+empty sequence sequence element sequence elements sequence elements
+generating function
+operations enumerate common combinatorial objects including trees
+binary plane
+dyck paths cycles
+combinatorial structure composed atoms
+trees atoms nodes
+atoms compose object labeled unlabeled
+unlabeled atoms indistinguishable
+labelled atoms distinct
+combinatorial object consisting labeled atoms object formed simply swapping atoms
+binary plane trees examples unlabeled combinatorial structure
+trees consist nodes linked edges cycles
+generally node called root
+parent node
+plane trees node arbitrary number children
+binary trees
+special case plane trees
+node children
+image
+math
+png denote family plane trees
+family recursively defined
+case image
+math
+png represents family objects consisting node
+generating function
+denote generating function image
+math
+png putting description words
+plane tree consists node attached arbitrary number subtrees
+plane tree
+operation families combinatorial structures developed earlier translates recursive generating function
+solving
+explicit formula number plane trees size determined extracting coefficient
+note
+notation
+refers coefficient
+series expansion square root based newton generalization binomial theorem
+fourth line manipulations generalized binomial coefficient needed
+expression line equal
+catalan number

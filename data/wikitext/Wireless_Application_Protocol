@@ -1,0 +1,208 @@
+Wireless Application Protocol
+
+wireless application protocol
+wireless application protocol
+wap
+technical standard accessing information mobile wireless network
+wap browser web browser mobile devices mobile phones protocol
+introduction wap
+mobile service providers limited opportunities offer interactive data services
+needed interactivity support internet web applications
+japanese mode system offers major competing wireless data protocol
+wap standard protocol suite allowing interoperability wap equipment software network technologies
+gsm
+cdma
+bottom protocol suite
+wap datagram protocol
+wdp
+functions adaptation layer makes data network bit udp upper layers providing unreliable transport data bit port numbers
+origin destination
+upper layers view wdp protocol
+technical realizations
+top
+data bearers
+sms
+ussd
+native bearers gprs
+umts packet radio service
+ppp top circuit switched data connection
+wdp fact udp
+wtls
+optional layer
+public key cryptography based security mechanism similar tls
+wtp transaction support
+reliable request
+response
+adapted wireless world
+wtp supports effectively tcp problem packet loss
+occurs commonly wireless technologies radio conditions
+misinterpreted tcp network congestion
+finally
+wsp initially compressed version
+protocol suite terminal transmit requests https equivalent wap gateway
+gateway translates requests plain
+wae space defines application specific markup languages
+wap version
+primary language wae wireless markup language
+wml
+wap
+primary markup language xhtml mobile profile
+wap forum dates
+aimed primarily bring wireless technologies standardised protocol
+wap forum consolidatedby
+forums industry
+open mobile alliance
+oma
+wap push incorporated specification wap content pushed mobile handset minimum user intervention
+wap push basically specially encoded message includes link wap address
+wap push top wap datagram protocol
+wdp
+delivered wdp supported bearer
+gprs sms
+gsm networks wide range modified processors
+gprs activation network generally supported
+wap push messages delivered top sms bearer
+receiving wap push
+wap
+enabled handset automatically give user option access wap content
+wap push
+service indication
+variant
+wap push
+service loading
+directly opens browser display wap content
+user interaction
+behaviour raises security concerns
+handsets handle wap push messages
+providing user interaction
+network entity processes wap pushes delivers sms bearer push proxy gateway
+ppg
+engineered
+version released
+cut version xhtml end end
+dropping gateway custom protocol suite communicate
+wap gateway conjunction wap
+scenario
+standard proxy server
+wap gateway role shift translation adding additional information request
+configured operator include telephone numbers
+location
+billing information
+handset information
+mobile devices process xhtml mobile profile
+xhtml
+markup language defined wap
+subset xhtml superset xhtml basic
+version cascading style sheets
+css
+called wap css supported xhtml
+marketers hyped wap time introduction
+leading users expect wap performance fixed
+mobile
+internet access
+cellnet
+telecoms
+ran advertising campaign depicting cartoon wap user surfing neuromancer
+information space
+terms speed
+ease
+appearance interoperability
+reality fell short expectations handsets
+led wide usage sardonic phrases
+worthless application protocol
+wait pay
+critics advanced explanations early failure wap
+possiblyoriginal research
+realizing united kingdom product comply laws european nations
+requirement utilize itu message type specific french language character conversions deployed wap message transmit receive software
+wap made stronger resurgence introduction wireless services
+vodafone live
+mobile zones easily accessible services
+operator revenues generated transfer gprs umts data
+business model traditional web sites isps
+mobile data association
+wap traffic doubled
+wap largely disappeared
+modern handsets support full html
+kind wap markup
+list handsets supporting html extensive
+includes android handsets
+blackberry devices
+versions iphone handset
+devices running windows phone
+nokia handsets
+wap mainstream technology web mobile number years
+citation needed
+unlike europe
+wap huge success japan
+largest operator ntt docomo famously disdained wap favor house system mode
+rival operators kddi
+softbank mobile
+previously vodafone japan
+successfully deployed wap technology
+phone sha mail picture mail java
+jscl
+servicescitation needed
+chakuuta
+chakumovie
+ringtone song
+ringtone movie
+services based wap
+shadowed initial success mode
+smaller japanese operators gaining market share docomo spring
+adoption wap suffered cell phone providers required separate activation additional fees data support
+telecommunications companies sought limit data access approved data providers operating license signal carrier
+citation needed
+recognition problem
+federal communications commission
+fcc
+issued order july mandated licensees megahertz wide
+upper mhz block
+spectrum implement wireless platform customers
+device manufacturers
+party application developers
+device application choice operating licensed network band
+dead link
+spin technologies
+multimedia messaging service
+mms
+combination wap sms
+driven protocol
+enhanced appreciation device diversity
+supported concomitant wap content device specific aiming lowest common denominator
+allowed usable compelling content
+result
+adoption rate wap technology rising
+citation needed
+commentators criticized aspects wireless markup language
+wml
+wap
+technical criticisms include
+criticisms address wireless carriers implementations wap
+original wap model provided simple platform access web wml services mail mobile phones europe asian regions
+continues considerable user base
+versions wap
+primarily targeting united states market
+designedby
+requirement enable full web xhtml access mobile devices higher specification cost
+higher degree software complexity
+considerable discussion addressed question wap protocol design
+somewho
+suggested bandwidth sparing simple interface gopher match mobile phones personal digital assistants
+pdas
+initial design wap specifically aimed protocol independence range protocols
+sms
+ppp circuit switched bearer
+gprs
+led protocol considerably complex approach directly caused
+controversial
+side
+design wap
+wap transmission layer protocol
+wtp
+retransmission mechanisms udp attempt solve problem inadequacy tcp high packet loss networks
+citation needed
+article based material free line dictionary computing prior november incorporated
+relicensing
+terms gfdl
+version

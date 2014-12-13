@@ -1,0 +1,385 @@
+Classical mechanics
+
+classical mechanics
+physics
+classical mechanics major fields mechanics
+concerned set physical laws describing motion bodies action system forces
+study motion bodies ancient
+making classical mechanics oldest largest subjects science
+engineering technology
+classical mechanics describes motion macroscopic objects
+projectiles parts machinery
+astronomical objects
+spacecraft
+planets
+stars
+galaxies
+specializations subject deal gases
+liquids
+solids
+specific topics
+classical mechanics extremely accurate results long domain study restricted large objects speeds involved approach speed light
+objects dealt sufficiently small
+introduce major field mechanics
+quantum mechanics
+reconciles macroscopic laws physics atomic nature matter handles duality atoms molecules
+case high velocity objects approaching speed light
+classical mechanics enhanced special relativity
+general relativity unifies special relativity newton law universal gravitation
+allowing physicists handle gravitation deeper level
+term classical mechanics coined early century describe system physics begun isaac newton contemporary century natural philosophers
+building earlier astronomical theories johannes kepler
+turn based precise observations tycho brahe studies terrestrial projectile motion galileo
+aspects physics developed long emergence quantum physics relativity
+sources exclude einstein theory relativity category
+number modern sources include relativistic mechanics
+view represents classical mechanics developed accurate form
+note
+initial stage development classical mechanics referred newtonian mechanics
+physical concepts employed mathematical methods invented newton
+parallel leibniz
+sections
+abstract general methods developed
+leading reformulations classical mechanics lagrangian mechanics hamiltonian mechanics
+advances largely made centuries
+extend substantially newton work
+analytical mechanics
+ultimately
+mathematics developed central creation quantum mechanics
+greek philosophers antiquity
+aristotle
+founder aristotelian physics
+maintain idea
+reason
+theoretical principles assist understanding nature
+modern reader
+preserved ideas eminently reasonable
+conspicuous lack mathematical theory controlled experiment
+turned decisive factors forming modern science
+started classical mechanics
+medieval
+science weights
+mechanics
+owes importance work jordanus nemore
+elementa super demonstrationem ponderum
+introduces concept
+positional gravity
+component forces
+published causal explanation motions planets johannes kepler astronomia nova published
+concluded
+based tycho brahe observations orbit mars
+orbits ellipses
+break ancient thought happening time galileo proposing abstract mathematical laws motion objects
+performed famous experiment dropping cannon balls weights tower pisa
+showing hit ground time
+reality experiment disputed
+importantly
+carry quantitative experiments rolling balls inclined plane
+theory accelerated motion derived results experiments
+forms cornerstone classical mechanics
+foundation principles natural philosophy
+isaac newton proposed laws motion
+law inertia
+law acceleration
+mentioned
+law action reaction
+laid foundations classical mechanics
+newton laws proper scientific mathematical treatment newton naturalis principia mathematica
+distinguishes earlier attempts explaining similar phenomena
+incomplete
+incorrect
+accurate mathematical expression
+newton enunciated principles conservation momentum angular momentum
+mechanics
+newton provide correct scientific mathematical formulation gravity newton law universal gravitation
+combination newton laws motion gravitation provide fullest accurate description classical mechanics
+demonstrated laws apply everyday objects celestial objects
+obtained theoretical explanation kepler laws motion planets
+newton previously invented calculus
+mathematics
+perform mathematical calculations
+acceptability
+book
+principia
+formulated terms long established geometric methods
+eclipsed calculus
+leibniz developed notation derivative integral preferredcitation needed today
+newton
+contemporaries
+notable exception huygens
+worked assumption classical mechanics explain phenomena
+including light
+form geometric optics
+discovering called newton rings
+wave interference phenomenon
+explanation remained corpuscular theory light
+newton
+classical mechanics principal field study mathematics physics
+newton
+formulations progressively allowed finding solutions greater number problems
+notable formulation joseph louis lagrange
+lagrangian mechanics turn formulated william rowan hamilton
+difficulties discovered late century resolved modern physics
+difficulties related compatibility electromagnetic theory
+famous experiment
+resolution problems led special theory relativity
+included term classical mechanics
+set difficulties related thermodynamics
+combined thermodynamics
+classical mechanics leads gibbs paradox classical statistical mechanics
+entropy defined quantity
+black body radiation explained introduction quanta
+experiments reached atomic level
+classical mechanics failed explain
+approximately
+basic things energy levels sizes atoms photo electric effect
+effort resolving problems led development quantum mechanics
+end century
+place classical mechanics physics longer independent theory
+classical mechanics considered approximate theory general quantum mechanics
+emphasis shifted understanding fundamental forces nature standard model modern extensions unified theory
+classical mechanics theory study motion quantum mechanical
+low energy particles weak gravitational fields
+century classical mechanics extended complex domain complex classical mechanics exhibits behaviors similar quantum mechanics
+introduces basic concepts classical mechanics
+simplicity
+models real world objects point particles
+objects negligible size
+motion point particle characterized small number parameters
+position
+mass
+forces applied
+parameters discussed turn
+reality
+kind objects classical mechanics describe size
+physics small particles
+electron
+accurately quantum mechanics
+objects size complicated behavior hypothetical point particles
+additional degrees
+baseball spin moving
+results point particles study objects treating composite objects
+made large number interacting point particles
+center mass composite object behaves point particle
+classical mechanics common sense notions matter forces exist interact
+assumes matter energy definite
+knowable attributes object space speed
+assumes objects directly influenced surroundings
+principle locality
+quantum mechanics objects unknowable position velocity
+instantaneously interact objects distance
+position point particle defined respect arbitrary fixed reference point
+space
+accompanied coordinate system
+reference point located origin coordinate system
+defined vector particle
+general
+point particle stationary relative
+function
+time elapsed arbitrary initial time
+pre einstein relativity
+galilean relativity
+time considered absolute
+time interval pair events observers
+addition relying absolute time
+classical mechanics assumes euclidean geometry structure space
+velocity
+rate change position time
+defined derivative position respect time
+classical mechanics
+velocities directly additive subtractive
+car traveling east
+passes car traveling east
+perspective slower car
+faster car traveling east
+perspective faster car
+slower car moving
+west
+velocities directly additive vector quantities
+dealt vector analysis
+mathematically
+velocity object previous discussion denoted vector velocity object vector
+speed object
+speed object
+unit vectors directions motion particle
+velocity object object
+similarly
+objects moving direction
+equation simplified
+ignoring direction
+difference terms speed
+acceleration
+rate change velocity
+derivative velocity respect time
+derivative position respect time
+acceleration arise change time magnitude velocity direction velocity
+magnitude velocity decreases
+referred deceleration
+generally change velocity time
+including deceleration
+simply referred acceleration
+position velocity acceleration particle referred observer state motion
+classical mechanics assumes existence special family reference frames terms mechanical laws nature comparatively simple form
+special reference frames called inertial frames
+inertial frame object force interactions
+idealized situation
+viewed
+appears rest state uniform motion straight line
+fundamental definition inertial frame
+characterized requirement forces entering observer physical laws originate identifiable sources
+charges
+gravitational bodies
+inertial reference frame accelerating respect inertial
+inertial frame particle subject acceleration fictitious forces enter equations motion solely result accelerated motion
+originate identifiable sources
+fictitious forces addition real forces recognized inertial frame
+key concept inertial frames method identifying
+practical purposes
+reference frames unaccelerated respect distant stars regarded good approximations inertial frames
+reference frames
+observers reference frames event space time coordinates
+frame
+frame
+assuming time measured reference frames
+require
+relation space time coordinates event observed reference frames
+moving relative velocity direction
+set formulas defines group transformation galilean transformation
+informally
+galilean transform
+group limiting case group special relativity
+limiting case applies velocity small compared
+speed light
+transformations consequences
+problems
+convenient rotating coordinates
+reference frames
+mapping convenient inertial frame
+introduce additionally fictitious centrifugal force coriolis force
+newton mathematically express relationship force momentum
+physicists interpret newton law motion definition force mass
+fundamental postulate
+law nature
+interpretation mathematical consequences
+historically
+newton law
+quantity called
+canonical
+momentum
+net force particle equal rate change momentum particle time
+definition acceleration
+law written simplified familiar form
+long force acting particle
+newton law sufficient describe motion particle
+independent relations force acting particle
+substituted newton law obtain ordinary differential equation
+called equation motion
+assume friction force acting particle
+modeled function velocity particle
+positive constant
+equation motion
+integrated obtain
+initial velocity
+means velocity particle decays exponentially time progresses
+case
+equivalent viewpoint kinetic energy particle absorbed friction
+converts heat energy accordance conservation energy
+slowing
+expression integrated obtain position particle function time
+important forces include gravitational force lorentz force electromagnetism
+addition
+newton law deduce forces acting particle
+particle exerts force particle
+exert equal opposite reaction force
+strong form newton law requires act line connecting
+weak form
+illustrations weak form newton law found magnetic forces
+constant force applied particle achieves displacement
+note work force defined scalar product force displacement vectors
+generally
+force varies function position particle moves path
+work particle line integral
+work moving particle matter path
+force conservative
+gravity conservative force
+force due idealized spring
+hooke law
+force due friction conservative
+kinetic energy particle mass travelling speed
+extended objects composed particles
+kinetic energy composite body sum kinetic energies particles
+theorem states particle constant mass total work particle position equal change kinetic energy particle
+conservative forces expressed gradient scalar function
+potential energy denoted
+forces acting particle conservative
+total potential energy
+defined work involved forces rearrange mutual positions bodies
+obtained summing potential energies force
+result conservation energy states total energy
+constant time
+commonly encountered forces conservative
+classical mechanics includes descriptions complex motions extended pointlike objects
+euler laws provide extensions newton laws area
+concepts angular momentum rely calculus describe dimensional motion
+rocket equation extends notion rate change object momentum include effects object
+losing mass
+important alternative formulations classical mechanics
+lagrangian mechanics hamiltonian mechanics
+modern formulations
+bypass concept
+force
+referring physical quantities
+energy
+speed momentum
+describing mechanical systems generalized coordinates
+expressions momentum kinetic energy valid significant electromagnetic contribution
+electromagnetism
+newton law current carrying wires breaks includes electromagnetic field contribution momentum system expressed poynting vector divided
+speed light free space
+branches classical mechanics simplifications approximations accurate forms
+accurate general relativity relativistic statistical mechanics
+geometric optics approximation quantum theory light
+superior
+classical
+form
+special relativity
+momentum particle
+particle rest mass
+velocity
+speed light
+small compared
+approximately
+newtonian equation approximation relativistic equation bodies moving low speeds compared speed light
+relativistic cyclotron frequency cyclotron
+gyrotron
+high voltage magnetron
+classical frequency electron
+charged particle
+kinetic energy
+rest
+mass circling magnetic field
+rest
+mass electron
+frequency correction magnetic vacuum tube
+direct current accelerating voltage
+ray approximation classical mechanics breaks broglie wavelength smaller dimensions system
+relativistic particles
+wavelength
+planck constant momentum
+electrons heavier particles
+electrons clinton davisson lester germer
+accelerated volts
+wavelength
+long exhibit single diffraction side lobe reflecting face nickel crystal atomic spacing
+larger vacuum chamber
+easy increase angular resolution radian milliradian quantum diffraction periodic patterns integrated circuit computer memory
+practical examples failure classical mechanics engineering scale conduction quantum tunneling tunnel diodes narrow transistor gates integrated circuits
+classical mechanics extreme high frequency approximation geometric optics
+accurate describes particles bodies rest mass
+momentum shorter broglie wavelengths massless particles
+light
+kinetic energies
+classical mechanics traditionally divided main branches
+division based choice mathematical formalism
+alternatively
+division made region application

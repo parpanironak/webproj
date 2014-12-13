@@ -1,0 +1,533 @@
+Java (programming language)
+
+java
+java general purpose
+concurrent
+class based
+object oriented computer programming language specifically designed implementation dependencies
+intended application developers
+write
+run
+wora
+meaning code runs platform recompiled run
+java applications typically compiled bytecode
+class file
+run java virtual machine
+jvm
+computer architecture
+java
+popular programming languages
+client server web applications
+reported million users
+java originally developed james gosling sun microsystems
+merged oracle corporation
+released core component sun microsystems java platform
+language derives syntax
+fewer low level facilities
+original reference implementation java compilers
+virtual machines
+class libraries developed sun released
+compliance specifications java community process
+sun relicensed java technologies gnu general public license
+developed alternative implementations sun technologies
+gnu compiler java gnu classpath
+james gosling
+mike sheridan
+patrick naughton initiated java language project june
+java originally designed interactive television
+advanced digital cable television industry time
+language initially called oak oak tree stood gosling office
+green
+renamed java
+java coffee
+consumed large quantities language creators
+gosling aimed implement virtual machine language familiar
+style notation
+sun microsystems released public implementation java
+promised
+write
+run
+wora
+providing cost run times popular platforms
+fairly secure featuring configurable security
+allowed network file access restrictions
+major web browsers incorporated ability run java applets web pages
+java quickly popular
+advent java
+released initially
+december
+versions multiple configurations built types platforms
+targeted enterprise applications greatly stripped version mobile applications
+mobile java
+designated standard edition
+marketing purposes
+sun renamed versions java
+java
+java
+sun microsystems approached iso
+iec standards body ecma international formalize java
+withdrew process
+java remains facto standard
+controlled java community process
+time
+sun made java implementations charge
+proprietary software status
+sun generated revenue java selling licenses specialized products java enterprise system
+sun distinguishes software development kit
+sdk
+runtime environment
+jre
+subset sdk
+primary distinction involves jre lack compiler
+utility programs
+header files
+november
+sun released java free open source software
+foss
+terms gnu general public license
+gpl
+sun finished process
+making java core code free software
+open source distribution terms
+small portion code sun hold copyright
+sun vice president rich green sun ideal role java
+evangelist
+oracle corporation acquisition sun microsystems
+oracle
+steward java technology relentless commitment fostering community participation transparency
+hold oracle
+filing lawsuit google shortly java inside android sdk
+google section
+java software runs laptops data centers
+game consoles scientific supercomputers
+million java runtime environment downloads year billion mobile phones run java
+april
+james gosling resigned oracle
+primary goals creation java language
+major release versions java
+release dates
+characteristic java portability
+means computer programs written java language run similarly hardware
+operating system platform
+achieved compiling java language code intermediate representation called java bytecode
+directly platform specific machine code
+java bytecode instructions analogous machine code
+intended interpreted virtual machine
+written specifically host hardware
+end users commonly java runtime environment
+jre
+installed machine standalone java applications
+web browser java applets
+standardized libraries provide generic access host specific features graphics
+threading
+networking
+major benefit bytecode porting
+overhead interpretation means interpreted programs run slowly programs compiled native executables
+time
+jit
+compilers introduced early stage compile bytecodes machine code runtime
+oracle corporation current owner official implementation java platform
+acquisition sun microsystems january
+implementation based original implementation java sun
+oracle implementation mac
+windows solaris
+java lacks formal standardization recognized ecma international
+iso
+iec
+ansi
+party standards organization
+oracle implementation facto standard
+oracle implementation packaged distributions
+java runtime environment
+jre
+parts java platform required run java programs intended end users
+java development kit
+jdk
+intended software developers includes development tools java compiler
+javadoc
+jar
+debugger
+openjdk notable java implementation licensed gpl
+implementation started sun began releasing java source code gpl
+java
+openjdk official java reference implementation
+goal java make implementations java compatible
+historically
+sun trademark license usage java brand insists implementations
+compatible
+resulted legal dispute microsoft sun claimed microsoft implementation support rmi jni added platform specific features
+sun sued
+won settlement million
+court order enforcing terms license sun
+result
+microsoft longer ships windows java
+platform independent java essential java
+rigorous validation required certify implementation
+environment enables portable server side applications
+programs written java reputation slower requiring memory written
+java programs execution speed improved significantly introduction time compilation
+java
+addition language features supporting code analysis
+classes
+stringbuffer class
+optional assertions
+optimizations java virtual machine
+hotspot default sun jvm
+december
+microbenchmarks show java approximately slower
+platforms offer direct hardware support java
+microcontrollers run java hardware software java virtual machine
+arm based processors hardware support executing java bytecode jazelle option
+java automatic garbage collector manage memory object lifecycle
+programmer determines objects created
+java runtime responsible recovering memory objects longer
+references object remain
+unreachable memory eligible freed automatically garbage collector
+similar memory leak occur programmer code holds reference object longer needed
+typically objects longer needed stored containers
+methods nonexistent object called
+null pointer exception
+thrown
+ideas java automatic memory management model programmers spared burden perform manual memory management
+languages
+memory creation objects implicitly allocated stack
+explicitly allocated deallocated heap
+case responsibility managing memory resides programmer
+program deallocate object
+memory leak occurs
+program attempts access deallocate memory deallocated
+result undefined difficult predict
+program unstable
+crash
+partially remedied smart pointers
+add overhead complexity
+note garbage collection prevent
+logical
+memory leaks
+memory referenced
+garbage collection happen time
+ideally
+occur program idle
+guaranteed triggered insufficient free memory heap allocate object
+program stall momentarily
+explicit memory management java
+java support
+style pointer arithmetic
+object addresses unsigned integers
+long integers
+interchangeably
+garbage collector relocate referenced objects ensures type safety security
+object oriented languages
+variables java primitive data types objects
+values primitive types stored directly fields
+objects
+stack
+methods
+heap
+commonly true objects
+escape analysis
+conscious decision java designers performance reasons
+java considered pure object oriented programming language
+java
+autoboxing enables programmers proceed primitive types instances wrapper class
+java multiple types garbage collectors
+default
+hotspot concurrent mark sweep collector
+cms garbage collector
+garbage collectors manage heap
+applications java
+cms garbage collector good
+syntax java largely derived
+unlike
+combines syntax structured
+generic
+object oriented programming
+java built exclusively object oriented language
+code written inside class
+object
+exception primitive data types
+integers
+floating point numbers
+boolean values
+characters
+classes performance reasons
+unlike
+java support operator overloading multiple inheritance classes
+simplifies language aids preventing potential errors anti pattern design
+java similar commenting methods
+styles comments
+single line style marked slashes
+multiple line style opened
+closed
+javadoc commenting style opened
+closed
+javadoc style commenting user run javadoc executable compile documentation program
+traditional world program written java
+compare programming languages list world program examples
+source files named public class
+appending suffix
+java
+helloworldapp
+java
+compiled bytecode
+java compiler
+producing file named helloworldapp
+class
+executed
+launched
+java source file public class
+multiple classes public access number public classes
+class declared public stored
+java file
+compiler generate class file class defined source file
+class file class
+class appended
+class file generation
+anonymous classes treated concatenation enclosing class
+integer
+keyword public denotes method called code classes
+class classes class hierarchy
+class hierarchy related directory
+java file located
+keyword static front method static method
+class specific instance class
+static methods invoked reference object
+static methods access class members static
+keyword void main method return caller
+java program exit error code
+call system
+exit
+explicitly
+method
+main
+keyword java language
+simply method java launcher calls pass control program
+java classes run managed environments applets enterprise javabean main
+method
+java program multiple classes main methods
+means explicitly told class launch
+main method accept array string objects
+convention
+referenced args legal identifier
+java
+main method variable arguments
+form public static void main
+string
+args
+allowing main method invoked arbitrary number string arguments
+effect alternate declaration semantically identical
+args parameter array string objects
+alternative syntax creating passing array
+java launcher launches java loading class
+command line attribute jar
+starting public static void main
+string
+method
+stand programs declare method explicitly
+string args parameter array string objects arguments passed class
+parameters main passed means command line
+printing part java standard library
+system class defines public static field called
+object instance printstream class methods printing data standard
+including println
+string
+appends line passed string
+string
+world
+automatically converted string object compiler
+java applets programs embedded applications
+typically web page displayed web browser
+import statements direct java compiler include javax
+swing
+japplet java
+awt
+graphics classes compilation
+import statement classes referenced source code simple class
+japplet
+fully qualified class
+javax
+swing
+japplet
+class extends
+subclasses
+japplet
+java applet
+class
+japplet class framework host application display control lifecycle applet
+japplet class jcomponent
+java graphical component
+applet capability display graphical user interface
+gui
+respond user events
+class overrides paintcomponent
+graphics
+method
+additionally annotation
+supported jdk
+override
+inherited container superclass provide code display applet
+paintcomponent
+method passed graphics object graphic context display applet
+paintcomponent
+method calls graphic context drawstring
+string
+int
+int
+method display
+world
+string pixel offset
+upper left corner applet display
+applet html document html element
+applet tag attributes set
+specifies japplet class
+sets pixel width height applet
+applets embedded html object embed element
+support elements web browsers inconsistent
+applet tag deprecated
+object tag preferred supported
+host application
+typically web browser
+instantiates applet creates appletcontext applet
+applet initialized
+added awt display hierarchy
+paintcomponent
+method called awt event dispatching thread display applet draw
+java servlet technology web developers simple
+consistent mechanism extending functionality web server accessing existing business systems
+servlets server side java components generate responses
+typically html pages
+requests
+typically requests
+clients
+servlet thought applet runs server face
+import statements direct java compiler include public classes interfaces java
+javax
+servlet packages compilation
+class extends genericservlet class
+genericservlet class interface server forward requests servlet control servlet lifecycle
+class overrides service
+servletrequest
+servletresponse
+method defined servlet interface provide code service request handler
+service
+method passed
+servletrequest object request client servletresponse object create response returned client
+service
+method declares throws exceptions servletexception ioexception problem prevents responding request
+setcontenttype
+string
+method response object called set mime content type returned data
+text
+html
+getwriter
+method response returns printwriter object write data client
+println
+string
+method called write
+world
+string response close
+method called close print writer
+data written stream returned client
+javaserver pages
+jsp
+server side java components generate responses
+typically html pages
+requests clients
+jsps embed java code html page special delimiters
+jsp compiled java servlet
+java application
+time accessed
+generated servlet creates response
+swing graphical user interface library java platform
+feel pluggable feel system swing
+clones windows
+gtk motif supplied sun
+apple aqua feel mac
+prior implementations feels considered lacking
+swing java addresses problem native gui widget drawing routines underlying platforms
+swing application creates single window
+world
+inside
+import includes public classes interfaces javax
+swing package
+class extends jframe class
+jframe class implements window title bar close control
+constructor initializes frame calling superclass constructor
+passing parameter
+window title
+calls setdefaultcloseoperation
+int
+method inherited jframe set default operation close control title bar selected windowconstants
+exit close jframe disposed frame closed
+opposed hidden
+java virtual machine exit program terminate
+jlabel created string
+world
+add
+component
+method inherited container superclass called add label frame
+pack
+method inherited window superclass called size window lay contents
+main
+method called java virtual machine program starts
+instantiates frame displayed calling setvisible
+boolean
+method inherited component superclass boolean parameter true
+frame displayed
+exiting main method program terminate awt event dispatching thread remains active swing top level windows disposed
+generics added java language
+part
+prior introduction generics
+variable declaration specific type
+container classes
+problem easy create container accepts specific types objects
+container operates subtypes class interface
+object
+container class created contained class
+generics compile time type checking create large number container classes
+identical code
+addition enabling efficient code
+runtime exceptions converted compile time exceptions
+characteristic type safety
+criticisms directed java include implementation generics
+speed
+handling unsigned numbers
+implementation floating point arithmetic
+history security vulnerabilities primary java implementation hotspot
+google android
+chosen java key pillar creation android operating system
+open source smartphone operating system
+fact operating system
+built linux
+kernel
+written largely
+android sdk java design applications android platform
+san francisco jury found apis copyrighted
+google infringed oracle copyrights java android devices
+oracle stance case raised questions legal status language
+hon
+william haskell alsup ruled
+apis copyrighted
+gaikai java browser plugin stream game demos
+gaikai
+japanese
+open ocean
+cloud based gaming service users play high end console games cloud instantly demo games applications webpage computer internet connected device
+javadoc comprehensive documentation system
+created sun microsystems
+java developers
+developers organized system documenting code
+javadoc comments extra asterisk beginning
+tags
+normal multi line comments java set tags
+sun defined supports editions java targeting application environments segmented apis belong platforms
+platforms
+classes java apis organized separate groups called packages
+package set related interfaces
+classes exceptions
+refer separate platforms description packages
+set apis controlled sun microsystems cooperation java community process program
+companies individuals participating process influence design development apis
+process subject controversy
+sun provided edition called personaljava superseded
+standards based java configuration profile pairings

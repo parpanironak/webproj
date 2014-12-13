@@ -1,0 +1,372 @@
+Wikipedia:Modelling Wikipedia's growth
+
+growth
+page analyzes article count data
+size attempts fit simple numerical model past future growth observed article count size growth data
+current rate articles initiated english longer growing exponentially
+article rate fit models
+gompertz function predicts
+million articles
+logistic function projected reach
+million articles
+extended growth model
+predicts larger ultimate size
+october number articles english reached
+million
+graph shows number articles english creation present
+image
+https
+commons
+thumb
+enwikipediaart
+png
+enwikipediaart
+png
+models presented attempt explain observed general trends article growth
+graphs article count english
+january
+september
+based statistics page
+announcements
+graphs show logarithmic linear axes
+graphs show approximate rate article increase day
+projected number articles based annual doubling referenced january
+image
+https
+commons
+englishwikipediaarticlecountgraphs
+png
+growth articles approximately year
+tailed roughly september
+trend longer exponential growth
+closer linear time
+notes
+notes features graph
+exponential model growth based
+average rate growth assumed proportional size
+consequence
+growth exponential
+graph article count plotted logarithmic scale
+exponential growth manifest linear behavior data
+october july
+data fit dotted line shown
+july onwards noticeable fall linear behaviour
+october
+behaviour complex
+graph close data points follow linear trend
+fit line red computed linear regression
+slope fit line
+proper time exponential growth found
+giving
+previous expression means number articles doubled days october october
+good approximation
+trend
+shown graph
+number articles december
+june
+december
+slowdown growth apparently ceased growing exponentially
+graph exponential growth projection made july
+number articles english july shown red
+extrapolated blue exponential function
+approximately exp
+articles
+number days january
+end
+million articles
+projection overestimating growth
+prediction million articles end significantly actual figure
+million articles
+hypothesized growth rate consists constant number articles day
+submitted
+hard core
+wikipedians
+additional articles submitted enthusiastic wikipedians proportional current article count
+model growth rate linear function size
+questions
+eventually point amount articles created day begin slow
+due lack things write
+probable amount information article begin increase lieu increase number articles
+limitations
+current
+interface bottle neck sorts
+limiting type
+default
+amount
+growth vertical monolingual growth patterns
+opposed lateral cross lingual
+note beginning december
+registered users create pages
+growth exponential growth model
+average rate growth proportional size
+annual growth rate stay constant
+average time number articles double
+graph case
+percentual growth steadily declining
+growth logistic growth model
+model based
+characteristics model
+model related quantity
+number articles
+quality increase independently
+fit logistic model statistical data end suggested growth limit number articles
+average creation deletion articles balance
+million
+million articles
+million point reached march
+july clear million achieved end august plateau close
+million articles
+continued strong growth obvious nearby mid point growth articles
+growth slowing
+slowing gradually
+expected continue years
+creating million articles
+predicted date million article mark earlier
+mid august
+growth supported spin articles
+unseen hand lost world articles
+millions missing red link articles
+thousands disambiguation pages needed connect millions pages
+projected mid point occur year
+massive auto numerous articles change schedule
+mass
+automated effort auto generate red link stubs sources suggested search engine results
+continued strong growth fits model reaching million articles
+deletions merges offset increase articles added
+growth rate
+number articles unit time
+accurately modeled exponentials
+increasing
+phase
+decreasing
+phase
+fairly sharp crossover january
+plots
+dots observed counts
+cleaned resampled equal day
+months
+respective increments
+articles day month
+solid lines values
+computed model
+strong semestral variation article rate
+peaks february august
+plots include modulating factor
+implications model
+text file data generate plots
+column time
+specifiaclly elapsed days january
+columns
+year
+month
+day
+column observed article count
+date
+cleaned resampled
+column
+predicted model
+columns observed predicted growth rates
+articles
+lunar
+month
+days
+technical report describing model data set
+model based gompertz function
+gompertz function logistic function
+future asymptote function approached gradually
+contrast logistic function asymptotes approached curve symmetrically
+reasons model
+formula gompertz function
+image
+https
+math
+png
+expected maximum gompertz model logistic model modelling extended growth
+gompertz model graphs
+graphs logistic model
+graph general comparison logistic
+gompertz extended growth models
+graph top general show behavior percentage article growth
+small significant disparity started develop measured article count fitted gompertz curve
+article count rising faster predicted mid
+long glitch
+model
+based visual inspection file
+enwikipediapercgrowthgom
+png
+gompertz curve small additional constant exponential growth term
+image
+https
+math
+png
+property small image
+https
+math
+png term
+uncovered
+stages gompertz growth curve
+dominated image
+https
+math
+png term prior point
+applying data
+size data set
+bit numerical optimization find parameters
+fit recent parts data
+extra parameter
+easier fit curve
+danger overfitting
+fits start
+beginning fitting window
+remove wild growth fluctuations rambot era data
+adds plausibility model
+plausible hoc extrapolation compared candidates future
+percentage interval interval
+data series resampled
+year intervals
+log scale axis
+showing closeness fit onwards
+results dewiki
+initial era server slowdown
+rambot perturbations found enwiki
+data
+erik zachte statistics english language updated october
+figures
+henkvd
+generating graphs
+data october erik downloads
+data manually month date
+day
+special
+statistics page
+size data set official count
+irregular intervals
+date
+number articles
+graph shows number edits article
+intended measure quality articles
+assuming editing improves content
+graph plotted logarithmic scale
+data fits exponential growth starting october
+number edits article doubled days
+rate consistent moore law
+relationship usenet cites word
+official article count english language appears show curve
+linear relationship
+awareness statistics data
+show line broken parts
+horizontally shifted
+rambot created articles
+suggest rambot articles stimulate significant comment usenet
+linear relationship fact hold articles
+data needed
+alexa page views million data
+awareness statistics
+graph
+period january september
+filtering points days previous point
+avoid excessive weighting time periods points densely sampled
+performing linear squares fit logarithm data
+approximate formula
+points fitted
+implies doubling period
+log
+days
+approximately days
+annual growth factor page views million appoximately exp
+approximately
+playing time periods filter times
+range results estimated page views million doubling time range days
+recent
+doubling time days range longest term doubling time days
+period exception long term short term trends
+applying similar linear regression fit log alexa traffic rank october september similar result
+halving period
+lower rank
+roughly days long term
+recent
+data
+halving time days
+current page rank september
+roughly
+suggests
+logical extremes
+cautious figures
+rounding
+months
+reach
+exponential growth stop slow
+wild ride
+november daily page rank averaging reached october
+january daily page rank averaging week
+line original predictions
+april averaging
+month
+march reached high rank
+current record
+july deviating predictions
+supposed reached rank
+june hovered
+september heavily deviating predictions
+end october
+supposed reach rank
+making small gains
+hovering
+climb rankings slowed climbing
+broken
+reach
+barrier
+meaning reach people youtube
+myspace
+november alexa weekly rank
+climbing
+occasional daily blips
+made daily rank top
+february months predictions
+safe model flawed
+ranked
+current high
+average
+gaining popularity
+fast expected
+swaying past months slightly common
+rise
+slow
+continues
+december traffic rank continues
+clear trend evident rank
+number daily pageviews displays steady decline june
+march traffic rank consistently weeks
+months
+half year graph suggests transition period october february move rank
+pageviews slightly recovered
+reaching july levels
+june
+june fairly consistently
+intermittent falls
+pageviews fairly steady
+global
+slight upward trend evident
+september spending time
+intermittent returns
+pageviews
+global upward trend evident
+november
+occasional returns
+pageviews level
+global
+april
+comscore results january put properties collectively
+meta
+wiki
+user
+stu
+comscore data
+november back position
+reach
+comparison
+google position worldwide times reach
+context complex network theory number efforts model growth network nodes represent articles links hyper links articles
+type models based simple local probabilistic rules reproduce distributions wikipedias statistical variables
+analysis show distribution number hyper links pointing article stable power law exponent number wikipedias languages
+confirmed reciprocity ratio number hyper links connecting articles directions total number hyper links stable number wikipedias

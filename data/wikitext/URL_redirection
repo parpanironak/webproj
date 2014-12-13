@@ -1,0 +1,295 @@
+URL redirection
+
+url redirection
+url redirection
+called url forwarding
+world wide web technique making web page url address
+web browser attempts open url redirected
+page url opened
+www
+redirected www
+iana
+domains
+similarly
+domain redirection domain forwarding pages url domain redirected domain
+net automatically redirected
+url redirection url shortening
+prevent broken links web pages moved
+multiple domain names belonging owner refer single web site
+guide navigation website
+privacy protection
+innocuous purposes phishing attacks urls similar targeted web site
+reasons url redirection
+user mis type
+exmaple
+organizations register
+mis spelled
+domains direct
+correct
+location
+addresses
+net redirect single domain
+web page
+technique
+reserve
+top level domains
+tld
+make easier true
+net
+redirect recognizable
+domain
+web page redirected reasons
+url redirects
+incoming links outdated url correct location
+links sites realized change bookmarks
+favorites users saved browsers
+applies search engines
+older
+outdated domain names links database send search users urls
+moved permanently
+redirect url
+visitors end correct page
+search engine pass
+search engine detect newer url
+access logs web servers detailed information visitors browsed hosted site
+log links visitors left
+visitor browser communicate original server visitor clicks outgoing link
+information captured ways
+involves url redirection
+sending visitor straight site
+links site direct url original website domain automatically redirects real target
+technique bears downside delay caused additional request original website server
+added request leave trace server log
+revealing link
+privacy issue
+technique corporate websites implement statement subsequent content site
+necessarily affiliated corporation
+scenarios
+displaying warning additional delay
+web applications include lengthy descriptive attributes urls represent data hierarchies
+command structures
+transaction paths session information
+practice results url aesthetically unpleasant difficult remember
+fit size limitations microblogging sites
+url shortening services provide solution problem redirecting user longer url shorter
+url page content stays
+url redirection users bookmarks
+routinely page renamed
+post
+redirect
+prg
+web development design pattern prevents duplicate form submissions
+creating intuitive interface user agents
+users
+years ago
+redirect techniques fool search engines
+page show popular search terms search engines redirect visitors target page
+cases redirects
+steal
+page rank popular page page
+involving status code
+moved temporarily
+search engine providers noticed problem actionscitation needed
+sites employ techniques manipulate search engines punished automatically reducing ranking excluding search index
+result
+today
+manipulations result site exposure
+url redirection part phishing attacks confuse visitors web site visitingcitation needed
+modern browsers show real url address bar
+threat lessened
+redirects sites attempt attack ways
+redirect user site attempt trick downloading antivirus software
+ironically
+installing trojan sort
+link clicked
+browser sends request field called referer source link
+field populated url current web page
+end logs server serving external link
+sensitive pages sensitive urls
+company
+plans release product
+desirable referer url leave organization
+redirection page performs referrer hiding embedded external urls
+transforming
+externalsite
+page
+redirect
+company
+externalsite
+page
+technique eliminates potentially sensitive information referer url
+session
+reduce chance phishing indicating end user passed clear gateway site
+kinds response browser result redirection
+vary affect headers html content
+techniques typically depend role person implementing access parts system
+web author control headers refresh meta tag web server administrator redirecting pages site server configuration
+simplest technique visitor follow link page
+html anchor
+method fall back browser support automatic redirect
+visitor reach target document link
+protocol world wide web
+redirect response status code beginning browser display page
+codes describe reason redirect
+correct subsequent action
+changing links case code
+permanent change address
+standard defines status codes redirection
+status codes require url redirect target location
+header response
+multiple choices list choices body message show default choice location
+header
+status codes modified proxy redirects
+response
+moved permanently
+redirect
+web authors producing html content create redirects headers generated automatically web server program serving html file
+true programmers writing cgi scripts
+servers scripts add custom headers
+enabling
+parsed headers
+web servers generate status code script outputs
+location
+header line
+php
+header
+function
+headers required prevent caching
+programmer ensure headers output body
+fit easily natural flow control code
+frameworks server side content generation buffer body data
+asp scripting language
+accomplished response
+response
+redirect
+www
+protocol uri location header absolute
+browsers tolerate relative uris display warning user
+apache server mod alias extension redirect requests
+typical configuration directives
+flexible url rewriting redirection
+apache mod rewrite
+redirect requests canonical domain
+configuration applied sites server server configuration files single content directory
+htaccess file
+netscape introduced meta refresh feature refreshes page amount time
+url replace page
+supported web browsers
+timeout seconds effects redirect
+treated permanent redirect google
+allowing transfer pagerank target page
+simple html document technique
+technique web authors meta tag contained inside document
+meta tag
+head
+section html file
+number
+replaced number achieve delay seconds
+anchor
+body
+section users browsers support feature
+effect achieved refresh header
+response easier generate cgi programs change default status code
+simple cgi program effects redirect
+note
+server adds status line content length header automatically
+discourage meta refresh
+communicate information original resource
+browser
+search engine
+web content accessibility guidelines
+discourage creation auto refreshing pages
+web browsers user disable control refresh rate
+articles written issue include web content accessibility guidelines
+ensure user control time sensitive content
+standard redirects
+break back button
+core techniques web content accessibility guidelines
+section
+javascript redirect setting window
+location attribute
+headers refresh meta tag preferred security reasons javascript executed browsers web crawlers
+slightly effect achieved creating single html frame target page
+main difference redirect methods frame redirect
+browser displays url frame document url target page url bar
+cloaking technique reader sees memorable url fraudulently conceal phishing site part website spoofing
+redirect lead
+url
+www
+wiki
+url redirection
+note domain
+redirected
+www
+wiki
+url redirection correct url
+wiki
+url redirection
+unavoidable links chain served servers minimised rewriting url server returning browser redirect
+mistake page end redirecting back
+possibly pages
+leading infinite sequence redirects
+browsers stop redirecting number hops display error message
+standard states
+client detect infinite redirection loops
+loops generate network traffic redirection
+previous versions specification recommended maximum redirections
+clients exist implement fixed limitation
+note urls sequence repeat
+foldoc
+foldoc
+foldoc
+exist services perform url redirection demand
+technical work access web server site hosted
+redirect service information management system
+internet link redirects users desired content
+typical benefit user memorable domain
+reduction length url web address
+redirecting link permanent address content frequently hosts
+similarly domain system
+hyperlinks involving url redirection services frequently spam messages directed blogs wikis
+reduce spam reject edits comments hyperlinks url redirection services
+remove legitimate edits comments effective method reduce spam
+recently
+url redirection services ajax efficient
+user friendly method creating shortened urls
+major drawback url redirection services delay pages
+frame based advertising
+generate revenue
+redirect services advantage top level domains
+tld
+tonga
+austria
+iceland
+goal make memorable urls
+mainstream redirect service
+boasted million users peak
+success attributed wide variety short memorable domains including
+start
+acquired fortunecity
+large free web hosting company
+early
+emerged
+tokelau
+tld memorable names
+sales price top level domains started falling
+year
+redirection services declined
+launch tinyurl kind redirecting service born
+url shortening
+goal make long urls short
+post internet forums
+character limit extremely popular twitter service
+short url services heavily
+redirection services hide referrer placing intermediate page page link destination
+conceptually similar url redirection services
+serve purpose
+rarely attempt shorten obfuscate destination url
+intended side effect hide referrer information provide clear gateway websites
+type redirection prevent potentially malicious links gaining information referrer
+session query string
+large community websites link redirection external links lessen chance exploit steal account information
+make clear user leaving service
+lessen chance effective phishing
+simplistic service
+written php

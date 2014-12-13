@@ -1,0 +1,559 @@
+Elementary algebra
+
+elementary algebra
+elementary algebra introduces basic rules operations algebra
+main branches mathematics
+arithmetic deals specific numbers operators
+algebra introduces variables
+designated letters represent numbers
+algebra defines rules conventions written
+called algebraic notation
+multiplication symbol
+image
+math
+png
+replaced dot
+omitted completely
+context makes obvious
+written
+elementary algebra typically taught secondary school students presumed formal knowledge mathematics arithmetic
+algebra
+introduction
+elementary algebra found books early century
+elementary algebra ways
+including
+pushing algebra high school
+traditionally taught
+elementary school met controversy
+students years ago memorized multiplication tables math class
+students today
+driven common core standards
+introduced variables early grade
+educational theorists calculate age children begin developing ability reason abstractly
+true children account
+part
+great difference mathematical ability students
+ways make algebra concrete manipulatives real word problems
+equation solving flowcharts students work abstract algebra problems concrete
+algebraic notation describes algebra written
+rules conventions
+terminology
+expression image
+math
+png components
+image
+thumb
+algebraic equation notation
+svg
+algebraic equation notation
+svg
+png
+exponent
+power
+coefficient
+term
+operator
+constant
+tex
+math
+png
+variables
+coefficient numerical multiplies variable
+operator omitted
+term addend summand
+group coefficients
+variables
+constants exponents separated terms minus operators
+letters represent variables constants
+convention
+letters beginning alphabet
+image
+math
+png
+typically represent constants
+end alphabet
+image
+math
+png image
+math
+png
+represent variables
+written italics
+algebraic operations work arithmetic operations
+addition
+subtraction
+multiplication
+division exponentiation
+applied algebraic variables terms
+multiplication symbols omitted
+implied space variables terms
+coefficient
+image
+math
+png written image
+math
+png
+image
+math
+png written image
+math
+png
+terms highest power
+exponent
+written left
+image
+math
+png written left image
+math
+png
+coefficient
+omitted
+image
+math
+png written image
+math
+png
+likewise exponent
+power
+image
+math
+png written image
+math
+png
+exponent
+result
+image
+math
+png rewritten image
+math
+png
+image
+math
+png
+undefined
+expression
+care simplifying expressions variables exponents
+types notation algebraic expressions required formatting
+implied
+letters symbols
+exponents formatted superscripts
+image
+math
+png
+plain text
+tex mark language
+caret symbol
+represents exponents
+image
+math
+png written
+programming languages ada
+fortran
+perl
+python ruby
+double asterisk
+image
+math
+png written
+programming languages calculators single asterisk represent multiplication symbol
+explicitly
+image
+math
+png written
+elementary algebra builds extends arithmetic introducing letters called variables represent general
+numbers
+reasons
+algebraic expressions evaluated simplified
+based basic properties arithmetic operations
+addition
+subtraction
+multiplication
+division exponentiation
+equation states expressions equal symbol equality
+image
+math
+png
+equals sign
+equations describes pythagoras law relating length sides angle triangle
+equation states image
+math
+png
+representing square length side hypotenuse
+side opposite angle
+equal sum
+addition
+square sides lengths represented image
+math
+png image
+math
+png
+equation claim expressions equal
+equations true values involved variables
+image
+math
+png
+equations called identities
+conditional equations true values involved variables
+image
+math
+png true image
+math
+png image
+math
+png
+values variables make equation true solutions equation found equation solving
+type equation inequality
+inequalities show side equation greater
+symbols
+image
+math
+png image
+math
+png represents greater
+image
+math
+png image
+math
+png represents
+standard equality equations
+numbers added
+subtracted
+multiplied divided
+exception multiplying dividing negative number
+inequality symbol flipped
+definition
+equality follow number
+equivalence relations
+including
+reflexive
+image
+math
+png
+symmetric
+image
+math
+png image
+math
+png
+transitive
+image
+math
+png image
+math
+png image
+math
+png
+relations image
+math
+png greater image
+math
+png property transitivity
+note reversing equation
+swap image
+math
+png image
+math
+png
+sections lay examples types algebraic equations thay encountered
+linear equations called
+plotted
+describe straight line
+linear
+simplest equations solve linear equations variable
+constant numbers single variable exponent
+solve kind equation
+technique add
+subtract
+multiply
+divide sides equation number order isolate variable side equation
+variable isolated
+side equation variable
+problem solution
+general form linear equation variable
+written
+image
+math
+png
+procedure
+subtract image
+math
+png sides
+divide image
+math
+png
+general solution image
+math
+png
+linear equation variables
+infinite number
+solutions
+worked
+told son age
+longer unknowns
+variables
+problem linear equation variable
+solved
+solve linear equation variables
+unknowns
+requires related equations
+revealed
+related linear equations
+unknowns
+produce linear equation variable
+subtracting
+called elimination method
+words
+son aged
+years older
+years time
+son
+age
+problem illustrated plot equations
+ways solve kind equations
+system linear equations
+quadratic equation includes term exponent
+image
+math
+png
+term higher exponent
+derives latin quadrus
+meaning square
+general
+quadratic equation expressed form image
+math
+png
+image
+math
+png
+equation quadratic linear
+quadratic equation term image
+math
+png
+quadratic term
+image
+math
+png
+divide image
+math
+png rearrange equation standard form
+image
+math
+png image
+math
+png
+solving
+process completing square
+leads quadratic formula
+symbol
+solutions quadratic equation
+quadratic equations solved factorization
+reverse process expansion
+linear terms denoted foiling
+factoring
+thing
+product property image
+math
+png image
+math
+png solutions
+precisely factors equal
+quadratic equations solutions complex number system
+real number system
+real number solution real number squared equals
+quadratic equation root multiplicity
+equation
+root multiplicity
+means appears times
+exponential equation form image
+math
+png image
+math
+png
+solution
+image
+math
+png
+elementary algebraic techniques rewrite equation arriving solution
+subtracting sides equation
+dividing sides obtain
+logarithmic equation equation form image
+math
+png image
+math
+png
+solution
+adding sides equation
+dividing sides
+obtain
+radical equation includes radical
+square root
+sign
+image
+math
+png
+includes cube roots
+image
+math
+png nth roots
+image
+math
+png
+recall nth root rewritten exponential format
+image
+math
+png equivalent image
+math
+png
+combined regular exponents
+powers
+image
+math
+png
+square root image
+math
+png cubed
+rewritten image
+math
+png
+general form radical equation image
+math
+png
+equivalent image
+math
+png
+image
+math
+png image
+math
+png integers
+solution
+methods solve system linear equations variables
+solving system linear equations elimination method
+multiplying terms equation
+adding equations
+simplifies
+fact image
+math
+png
+deduce image
+math
+png original equations
+image
+math
+png
+full solution problem
+note solve specific system
+image
+math
+png solved image
+math
+png
+solving system linear equations substitution
+equivalent image
+math
+png deduced equations
+equation
+subtracting image
+math
+png side equation
+multiplying
+image
+math
+png equation original system
+adding side equation
+simplifies
+equations
+solution previous method obtained
+note solve specific system
+case
+image
+math
+png solved image
+math
+png
+find solution
+systems equations solution
+obvious
+equation system solution
+system solved
+incompatible systems recognized sight
+system studied
+solve
+method substitution
+equation
+adding image
+math
+png sides multiplying
+results
+image
+math
+png equation
+variables left
+equality true
+means equation provide solution image
+math
+png obtained equation
+systems infinitely solutions
+contrast system unique solution
+meaning
+unique pair values image
+math
+png image
+math
+png
+isolating image
+math
+png equation
+equation system
+equality true
+provide image
+math
+png
+easily verify
+filling values image
+math
+png
+image
+math
+png solution long image
+math
+png
+infinite number solutions system
+systems variables number linear equations unique solution
+system
+system called underdetermined
+solve
+lead express variables functions
+express solutions numerically
+incidentally
+system greater number equations variables
+necessarily equations linear combination
+called overdetermined
+system linear equations
+relation multiplicity solvability
+equation multiple
+generally
+sum multiples equations
+system linear equations undetermined
+meaning system infinitely solutions
+solutions image
+math
+png
+multiplicity partial
+meaning
+left hand sides equations multiples
+hand sides number
+system unsolvable
+equation yields image
+math
+png contradiction equation
+system called inconsistent language linear algebra
+solve system linear equations generally good idea check equation multiple
+precisely
+solution uniquely determined
+partially
+solution exist
+equations multiples solution
+shown sections
+words
+multiplicity system linear equations condition solvability

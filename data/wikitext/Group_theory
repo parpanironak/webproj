@@ -1,0 +1,311 @@
+Group theory
+
+group theory
+mathematics abstract algebra
+group theory studies algebraic structures groups
+concept group central abstract algebra
+algebraic structures
+rings
+fields
+vector spaces groups endowed additional operations axioms
+groups recur mathematics
+methods group theory strongly influenced parts algebra
+linear algebraic groups lie groups branches group theory experienced tremendous advances subject areas
+physical systems
+crystals hydrogen atom
+modelled symmetry groups
+group theory closely related representation theory applications physics chemistry
+important mathematical achievements century collaborative effort
+taking journal pages published
+culminated complete classification finite simple groups
+group theory main historical sources
+number theory
+theory algebraic equations
+geometry
+number theoretic strand begun leonhard euler
+developed gauss work modular arithmetic additive multiplicative groups related quadratic fields
+early results permutation groups obtained lagrange
+ruffini
+abel quest general solutions polynomial equations high degree
+galois coined term
+group
+established connection
+galois theory
+nascent theory groups field theory
+geometry
+groups important projective geometry
+euclidean geometry
+felix klein erlangen program proclaimed group theory organizing principle geometry
+galois
+employ groups determine solvability polynomial equations
+arthur cayley augustin louis cauchy pushed investigations creating theory permutation groups
+historical source groups stems geometrical situations
+attempt grips geometries
+euclidean
+hyperbolic projective geometry
+group theory
+felix klein initiated erlangen programme
+sophus lie
+started groups
+called lie groups
+attached analytic problems
+thirdly
+groups
+implicitly explicitly
+algebraic number theory
+scope early sources resulted notions groups
+theory groups unified starting
+impact group theory growing
+giving rise birth abstract algebra early century
+representation theory
+influential spin domains
+classification finite simple groups vast body work mid century
+classifying finite simple groups
+range groups considered gradually expanded finite permutation groups special examples matrix groups abstract groups presentation generators relations
+class groups undergo systematic study permutation groups
+set collection bijections
+permutations
+closed compositions inverses
+group acting
+consists elements consists permutations
+symmetric group
+general
+permutation group subgroup symmetric group
+early construction due cayley exhibited group permutation group
+acting
+means left regular representation
+cases
+structure permutation group studied properties action set
+proves
+alternating group simple
+admit proper normal subgroups
+fact plays key role impossibility solving general algebraic equation degree radicals
+important class groups matrix groups
+linear groups
+set consisting invertible matrices order field closed products inverses
+group acts dimensional vector space linear transformations
+action makes matrix groups conceptually similar permutation groups
+geometry action usefully exploited establish properties group
+permutation groups matrix groups special cases transformation groups
+groups act space preserving inherent structure
+case permutation groups
+set
+matrix groups
+vector space
+concept transformation group closely related concept symmetry group
+transformation groups frequently consist transformations preserve structure
+theory transformation groups forms bridge connecting group theory differential geometry
+long line research
+originating lie klein
+considers group actions manifolds homeomorphisms diffeomorphisms
+groups discrete continuous
+groups considered stage development group theory
+concrete
+realized numbers
+permutations
+matrices
+late nineteenth century idea abstract group set operations satisfying system axioms began hold
+typical abstract group presentation generators relations
+significant source abstract groups construction factor group
+quotient group
+group normal subgroup
+class groups algebraic number fields earliest examples factor groups
+interest number theory
+group permutation group set
+factor group
+longer acting
+idea abstract group permits worry discrepancy
+change perspective concrete abstract groups makes natural properties groups independent realization
+modern language
+invariant isomorphism
+classes group property
+finite groups
+periodic groups
+simple groups
+solvable groups
+exploring properties individual group
+seeks establish results apply class groups
+paradigm paramount importance development mathematics
+foreshadowed creation abstract algebra works hilbert
+emil artin
+emmy noether
+mathematicians school
+citation needed
+important elaboration concept group occurs endowed additional structure
+notably
+topological space
+differentiable manifold
+algebraic variety
+group operations
+multiplication
+inversion
+compatible structure
+continuous
+smooth regular
+sense algebraic geometry
+maps topological group
+lie group
+algebraic group
+presence extra structure relates types groups mathematical disciplines means tools study
+topological groups form natural domain abstract harmonic analysis
+lie groups
+frequently realized transformation groups
+mainstays differential geometry unitary representation theory
+classification questions solved general approached resolved special subclasses groups
+compact connected lie groups completely classified
+fruitful relation infinite abstract groups topological groups
+group realized lattice topological group
+geometry analysis pertaining yield important results
+comparatively recent trend theory finite groups exploits connections compact topological groups
+profinite groups
+single adic analytic group family quotients finite groups orders
+properties translate properties finite quotients
+groups ways
+finite groups writing group table consisting multiplications
+compact defining group generators relations
+called presentation group
+set generators
+free group generated surjects group
+kernel map called subgroup relations
+generated subset
+presentation denoted
+group generated element
+equal
+relations
+equals
+string consisting generator symbols inverses called word
+combinatorial group theory studies groups perspective generators relations
+finiteness assumptions satisfied
+finitely generated groups
+finitely presented groups
+addition relations finite
+area makes connection graphs fundamental groups
+show subgroup free group free
+natural questions arising giving group presentation
+word problem asks words effectively group element
+relating problem turing machines
+show general algorithm solving task
+generally harder
+algorithmically insoluble problem group isomorphism problem
+asks groups presentations isomorphic
+additive group integers presented
+obvious groups isomorphic
+geometric group theory attacks problems geometric viewpoint
+viewing groups geometric objects
+finding suitable geometric objects group acts
+idea made precise means cayley graph
+vertices correspond group elements edges correspond multiplication group
+elements
+constructs word metric length minimal path elements
+theorem milnor svarc group acting reasonable manner metric space
+compact manifold
+quasi isometric
+similar
+space
+group acts set means element defines bijective map set compatible group structure
+structure
+restrict notion
+representation vector space group homomorphism
+consists invertible linear transformations
+words
+group element assigned automorphism
+definition understood directions
+give rise domains mathematics
+hand
+yield information group
+group operation abstractly
+corresponds multiplication matrices
+explicit
+hand
+understood group acting complicated object
+simplifies study object question
+finite
+decomposes irreducible parts
+parts turn easily manageable
+schur lemma
+group
+representation theory asks representations exist
+settings
+employed methods obtained results case
+representation theory finite groups representations lie groups main subdomains theory
+totality representations governed group characters
+fourier polynomials interpreted characters
+group complex numbers absolute
+acting space periodic functions
+structured object sort
+symmetry mapping object preserves structure
+occurs cases
+axioms group formalize essential aspects symmetry
+symmetries form group
+closed symmetry object
+apply symmetry
+result symmetry
+identity keeping object fixed symmetry object
+existence inverses guaranteed undoing symmetry associativity fact symmetries functions space
+composition functions associative
+frucht theorem group symmetry group graph
+abstract group symmetries explicit object
+preserving structure
+object made precise working category
+maps preserving structure morphisms
+symmetry group automorphism group object question
+applications group theory abound
+structures abstract algebra special cases groups
+rings
+viewed abelian groups
+addition
+operation
+multiplication
+group theoretic arguments underlie large parts theory entities
+galois theory groups describe symmetries roots polynomial
+precisely automorphisms algebras generated roots
+fundamental theorem galois theory link algebraic field extensions group theory
+effective criterion solvability polynomial equations terms solvability galois group
+symmetric group elements
+solvable implies general quintic equation solved radicals equations lower degree
+theory
+historical roots group theory
+fruitfully applied yield results areas class field theory
+algebraic topology domain prominently associates groups objects theory interested
+groups describe invariants topological spaces
+called
+invariants
+defined change space subjected deformation
+fundamental group
+counts
+paths space essentially
+conjecture
+proved
+grigori perelman prominent application idea
+influence unidirectional
+algebraic topology makes spaces spaces prescribed homotopy groups
+similarly algebraic theory stakes crucial classifying spaces groups
+finally
+torsion subgroup infinite group shows legacy topology group theory
+algebraic geometry cryptography likewise group theory ways
+abelian varieties introduced
+presence group operation yields additional information makes varieties accessible
+serve test conjectures
+dimensional case
+elliptic curves studied detail
+theoretically practically intriguing
+large groups prime order constructed elliptic curve cryptography serve public key cryptography
+cryptographical methods kind benefit flexibility geometric objects
+group structures
+complicated structure groups
+make discrete logarithm hard calculate
+earliest encryption protocols
+caesar cipher
+interpreted
+easy
+group operation
+direction
+toric varieties algebraic varieties acted torus
+toroidal embeddings recently led advances algebraic geometry
+resolution singularities
+algebraic number theory special case group theory
+rules
+euler product formula
+captures fact integer decomposes unique primes
+failure statement general rings rise class groups regular primes
+feature kummer treatment fermat theorem

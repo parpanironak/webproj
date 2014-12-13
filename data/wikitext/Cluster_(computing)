@@ -1,0 +1,258 @@
+Computer cluster
+
+computer cluster
+computer cluster consists set loosely connected computers work respects viewed single system
+components cluster connected fast local area networks
+node
+computer server
+running instance operating system
+computer clusters emerged result convergence number computing trends including availability low cost microprocessors
+high speed networks
+software high performance distributed computing
+clusters deployed improve performance availability single computer
+typically cost effective single computers comparable speed availability
+computer clusters wide range applicability deployment
+ranging small business clusters handful nodes fastest supercomputers world ibm sequoia
+desire computing power reliability orchestrating number low cost commercial shelf computers rise variety architectures configurations
+computer clustering approach
+connects number readily computing nodes
+personal computers servers
+fast local area network
+activities computing nodes orchestrated
+clustering middleware
+software layer sits atop nodes users treat cluster large cohesive computing unit
+single system image concept
+computer clustering relies centralized management approach makes nodes orchestrated shared servers
+distinct approaches peer peer grid computing nodes
+distributed nature
+computer cluster simple node system connects personal computers
+fast supercomputer
+basic approach building cluster beowulf cluster built personal computers produce cost effective alternative traditional high performance computing
+early project showed viability concept nodes stone soupercomputer
+developers linux
+parallel virtual machine toolkit message passing interface library achieve high performance low cost
+cluster consist personal computers connected simple network
+cluster architecture achieve high levels performance
+organization semiannual list fastest supercomputers includes clusters
+world fastest machine computer distributed memory
+cluster architecture
+computer clusters configured purposes ranging general purpose business web service support
+computation intensive scientific calculations
+case
+cluster high availability approach
+note attributes exclusive
+compute cluster
+high availability approach
+load balancing
+clusters configurations cluster nodes share computational workload provide performance
+web server cluster assign queries nodes
+response time optimized
+approaches load balancing significantly differ applications
+high performance cluster scientific computations balance load algorithms web server cluster simple round robin method assigning request node
+computer clusters
+computation intensive purposes
+handling oriented operations web service databases
+instance
+computer cluster support computational simulations vehicle crashes weather
+tightly coupled computer clusters designed work approach
+supercomputing
+high availability clusters
+failover clusters
+clusters
+improve availability cluster approach
+operate redundant nodes
+provide service system components fail
+cluster implementations attempt redundancy cluster components eliminate single points failure
+commercial implementations high availability clusters operating systems
+linux project commonly free software package linux operating system
+issues designing cluster tightly coupled individual nodes
+instance
+single computer job require frequent communication nodes
+implies cluster shares dedicated network
+densely located
+homogenous nodes
+extreme computer job nodes
+inter node communication
+approaching grid computing
+beowulf system
+application programs computational nodes
+called slave computers
+interact
+master
+specific computer handling scheduling management slaves
+typical implementation master network interfaces
+communicates private beowulf network slaves
+general purpose network organization
+slave computers typically version operating system
+local memory disk space
+private slave network large shared file server stores global persistent data
+accessed slaves needed
+contrast
+special purpose node degima cluster tuned running astrophysical body simulations multiple walk parallel treecode
+general purpose scientific computations
+due increasing computing power generation game consoles
+emerged repurposed high performance computing
+hpc
+clusters
+examples game console clusters sony playstation clusters microsoft xbox clusters
+consumer game product nvidia tesla personal supercomputer workstation
+multiple graphics accelerator processor chips
+computer clusters historically run separate physical computers operating system
+advent virtualization
+cluster nodes run separate physical computers operating systems painted virtual layer similar
+cluster virtualized configurations maintenance takes place
+implementation xen virtualization manager linux
+computer clusters appearing
+supercomputers
+elements distinguished classes time early supercomputers relied shared memory
+date clusters typically physically shared memory
+supercomputer architectures abandoned
+clustered file system essential modern computer clusters
+examples include ibm general parallel file system
+microsoft cluster shared volumes oracle cluster file system
+widely approaches communication cluster nodes mpi
+message passing interface pvm
+parallel virtual machine
+pvm developed oak ridge national laboratory mpi
+pvm directly installed cluster node set software libraries paint node
+parallel virtual machine
+pvm run time environment message passing
+task resource management
+fault notification
+pvm user programs written
+fortran
+mpi emerged early discussions organizations
+initial effort supported arpa national science foundation
+starting anew
+design mpi drew features commercial systems time
+mpi specifications gave rise specific implementations
+mpi implementations typically tcp
+socket connections
+mpi widely communications model enables parallel programs written languages
+fortran
+python
+unlike pvm concrete implementation
+mpi specification implemented systems mpich open mpi
+challenges computer cluster cost administrating times high cost administrating independent machines
+cluster nodes
+cases advantage shared memory architectures lower administration costs
+made virtual machines popular
+due ease administration
+large multi user cluster access large amounts data
+task scheduling challenge
+heterogeneous cpu gpu cluster
+complex application environment performance job depends characteristics underlying cluster
+mapping tasks cpu cores gpu devices significant challenges
+area ongoing research algorithms combine extend mapreduce hadoop proposed studied
+node cluster fails
+strategies
+fencing
+employed rest system operational
+fencing process isolating node protecting shared resources node appears malfunctioning
+classes fencing methods
+disables node
+disallows access resources shared disks
+stonith method stands
+shoot node head
+meaning suspected node disabled powered
+instance
+power fencing power controller turn inoperable node
+resources fencing approach disallows access resources powering node
+include persistent reservation fencing
+fibre channel fencing disable fibre channel port global network block device
+gnbd
+fencing disable access gnbd server
+load balancing clusters web servers cluster architectures support large number users typically user request routed specific node
+achieving task parallelism multi node cooperation
+main goal system providing rapid user access shared data
+computer clusters
+perform complex computations small number users advantage parallel processing capabilities cluster partition
+computation
+nodes
+automatic parallelization programs continues remain technical challenge
+parallel programming models effectuate higher degree parallelism simultaneous execution separate portions program processors
+development debugging parallel programs cluster requires parallel language primitives suitable tools discussed high performance debugging forum
+hpdf
+resulted hpd specifications
+tools totalview developed debug parallel implementations computer clusters mpi pvm message passing
+berkeley
+network workstations
+system gathers cluster data stores database
+system parmon
+developed india
+visual observation management large clusters
+application checkpointing restore state system node fails long multi node computation
+essential large clusters
+number nodes increases
+likelihood node failure heavy computational loads
+checkpointing restore system stable state processing resume recompute results
+clustering provide significant performance benefits versus price
+system supercomputer virginia tech
+powerful supercomputer earth june
+tflops computer cluster apple xserve
+dual processor machines
+ram
+sata
+running mac infiniband interconnect
+cluster initially consisted power mac
+rack mountable xserves denser desktop macs
+reducing aggregate size cluster
+gnu
+linux world supports cluster software
+application clustering
+beowulf
+distcc
+mpich
+linux virtual server
+linux director based clusters incoming requests services distributed multiple cluster nodes
+mosix
+openmosix
+kerrighed
+openssi full blown clusters integrated kernel provide automatic process migration homogeneous nodes
+openssi
+openmosix kerrighed single system image implementations
+microsoft windows compute cluster server based windows server platform pieces high performance computing job scheduler
+msmpi library management tools
+glite set middleware technologies created enabling grids science
+egee
+project
+greg pfister stated clusters invented specific vendor customers fit work computer
+needed backup
+pfister estimates date time
+formal engineering basis cluster computing means parallel work sort arguably invented gene amdahl ibm
+published regarded seminal paper parallel processing
+amdahl law
+history early computer clusters directly tied history early networks
+primary motivations development network link computing resources
+creating facto computer cluster
+commercial clustering product arcnet
+developed datapoint
+clustering digital equipment corporation released vaxcluster product vax
+vms operating system
+arcnet vaxcluster products supported parallel computing
+shared file systems peripheral devices
+idea provide advantages parallel processing
+maintaining data reliability uniqueness
+noteworthy early commercial clusters tandem himalaya
+circa high availability product
+ibm
+parallel sysplex
+circa
+primarily business
+time frame
+computer clusters parallelism computer commodity network
+supercomputers began computer
+success cdc
+cray delivered
+introduced internal parallelism vector processing
+early supercomputers excluded clusters relied shared memory
+time fastest supercomputers
+computer
+relied cluster architectures
+computer clusters permanent fixtures
+attempts flash mob computing made build short lived clusters specific computations
+larger scale volunteer computing systems boinc based systems followers
+basic concepts
+distributed computing
+specific systems
+computer farms

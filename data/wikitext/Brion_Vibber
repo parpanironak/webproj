@@ -1,0 +1,718 @@
+MediaWiki
+
+mediawiki
+mediawiki free wiki software application
+developed foundation
+run projects hosted foundation
+including
+wiktionary commons
+numerous wikis world power websites
+written php programming language backend database
+software code structured functionally
+version software deployed serve free content encyclopedia
+deployed companies content management system internal knowledge management
+notably
+novell operate high traffic websites
+thousands websites mediawiki
+educators assigned students mediawiki collaborative group projects
+software optimized correctly efficiently handle projects sizes
+including largest wikis
+terabytes content hundreds thousands hits
+world largest websites
+achieving scalability multiple layers caching database replication major concern developers
+projects continue define large part requirement set mediawiki
+software highly customizable
+configuration settings extensions enabling features added changed
+automated semi automated bots tools developed assist editing mediawiki sites
+mediawiki free open source software distributed terms gnu general public license version version documentation released creative commons
+license partly public domain
+specifically
+manuals content mediawiki
+creative commons licensed
+set pages intended freely copied fresh wiki installations
+distributed mediawiki software public domain
+eliminate legal issues arising pages imported wikis licenses incompatible creative commons license
+mediawiki development generally favored open source media formats
+mediawiki active volunteer community development maintenance
+users made meaningful contributions project submitting patches generally
+request
+granted access commit revisions project apache subversion git
+gerrit repository
+small group paid programmers primarily develop projects foundation
+participates google summer code facilitating assignment mentors students wishing work mediawiki core extension projects
+early november
+hundred developers committed mediawiki core extensions past year
+major mediawiki releases generated approximately months taking snapshots development trunk
+continuously runnable state
+minor releases
+point releases
+issued needed correct bugs
+security problems
+mediawiki public bug tracker
+bugzilla
+runs bugzilla
+site feature enhancements requests
+launched january
+ran existing wiki software usemodwiki
+written perl stored wiki pages text files
+software proved limiting
+functionality performance
+mid
+magnus manske
+developer student university cologne
+editor
+began working software replace usemodwiki
+specifically
+software written php stored information mysql database
+launched english january
+gradually deployed language sites time
+software referred
+php script
+phase
+phase
+retroactively usemodwiki
+increasing usage caused load problems
+afterward
+rewrite software began
+lee daniel crocker
+phase iii
+software written php mysql backend
+basic interface phase software
+meant scalable
+live july
+foundation announced june
+july
+contributor daniel mayer suggested
+mediawiki
+software
+play
+gradually phased beginning august
+frequently caused confusion due
+intentional
+similarity
+similar
+product logo created erik flower photograph florence nibart devouard
+originally submitted international logo contest logo held mid
+logo place
+chosen represent mediawiki
+place logo foundation
+double square brackets symbolize syntax mediawiki creating hyperlinks wiki pages
+sunflower represents diversity content
+constant growth wildness
+brion vibber
+chief technical officer foundation
+role release manager active developer
+major milestones mediawiki development included categorization system
+added
+parser functions
+added
+flagged revisions
+added
+resourceloader
+delivery system css javascript
+added
+version mediawiki
+released december
+current stable version mediawiki
+released december
+mediawiki famous
+lesser degree
+projects
+mediawiki power tens thousands wikis
+public private
+number alternative wiki encyclopedias run mediawiki
+including citizendium
+conservapedia
+metapedia scholarpedia
+wikia
+wiki farm
+runs mediawiki
+notable wikis wikia hosts hosted lyricwiki
+memory alpha
+uncyclopedia
+wowwiki wookieepedia
+popular public wikis run mediawiki include wikihow
+aboutus
+mahalo
+wikileaks
+mediawiki internally large number companies
+including novell intel
+notable usages mediawiki governments include intellipedia
+united states intelligence community
+diplopedia
+united states department state
+united nations agencies
+development programme instraw chose implement wikis mediawiki
+software runs guaranteed tested
+continue developed future
+future technicians wikis exposure mediawiki wiki software
+mediawiki rich core feature set mechanism attach extensions provide additional functionality
+due strong emphasis multilingualism projects
+internationalization localization received significant attention developers
+user interface fully partially translated languages
+customized site administrators
+entire interface editable wiki
+installation mediawiki requires user administrative privileges server running php compatible type sql database
+users find setting virtual host helpful majority site runs framework
+zope ruby rails
+largely incompatible mediawiki
+cloud hosting enable user dispense task building server hand
+installation php script accessed web browser initialize wiki settings
+prompts user minimal set required parameters
+leaving
+enabling uploads
+adding site logo
+installing extensions
+made modifying configuration settings contained file called localsettings
+php
+aspects mediawiki configured special pages editing pages
+instance
+abuse filters configured special page
+gadgets added creating javascript pages mediawiki namespace
+mediawiki community publishes comprehensive installation guide
+earliest differences mediawiki
+predecessor
+usemodwiki
+wiki engines
+free links
+camelcase
+mediawiki created
+typical wikis require text
+worldwideweb
+create link page world wide web
+links mediawiki
+hand
+created surrounding words double square brackets
+spaces left intact
+world wide web
+change logical purpose creating encyclopedia
+accuracy titles important
+mediawiki extensible lightweight wiki markup designed easier learn html
+tools exist converting content tables mediawiki markup html
+efforts made create mediawiki markup spec
+consensus reached wikicode requires context sensitive grammar rules
+side side comparison illustrates differences wiki markup html
+alice replied offended tone
+hatter
+easy
+alice replied offended tone
+hatter
+easy
+quotation alice adventures wonderland lewis carroll
+mediawiki page editing tools challenging learn
+survey students assigned mediawiki based wiki found asked open question main problems wiki
+cited technical problems formatting
+figure image
+figure show link words
+inserts number
+make editing long pages easier
+mediawiki editing subsection page
+identified header
+user edit minor
+correcting spelling
+grammar punctuation examples minor edits
+adding paragraphs text minor edit
+user editing
+user saves edit part page
+user attempts save page
+edit conflict occurs
+user opportunity merge content page exists user page save
+optional extension selected user groups priority edit conflicts occur
+mediawiki user interface languages
+language wiki content set
+content language
+header
+lang
+html attribute
+mediawiki
+classic editing toolbar longer included
+mediawiki extensible application programming interface direct
+high level access data contained mediawiki databases
+client programs api login
+data
+post
+api supports thin web based javascript clients end user applications
+vandal fighting tools
+api accessed backend web site
+extensive python bot library
+pywikipediabot
+popular semi automated tool called autowikibrowser
+interface api
+api accessed urls
+api
+php
+case
+query information relating edits site
+perceived advantages api language independence
+listens connections clients send response variety formats
+xml
+serialized php
+yaml
+json
+client code developed provide layers abstraction api
+mediawiki supports rich content generated specialized syntax
+software optional support rendering mathematical formulas latex special parser written ocaml
+similar functionality content
+ranging graphical timelines mathematical plotting musical scores egyptian hieroglyphs
+form extensions aesthetic sense improved considerably
+software powerful dealing wide variety uploaded media files
+richest functionality area images
+image galleries thumbnails generated relative ease
+support exif metadata
+mediawiki operate commons
+largest free content media archives
+driven functionality area
+wysiwyg editor wikitext grammar
+full grammar wikitext exists
+mediawiki native wysiwyg support
+customizable graphical toolbar simplifying process learning wiki syntax
+extensions exist handling wysiwyg editing degrees
+variations popular ckeditor
+wikia
+popular wiki farm
+wysiwyg extension
+designed modal editor
+user flip back wysiwyg wikitext preview modes single editing session
+citation needed mediawiki interface transparent external editors uploaded files wiki pages
+features mediawiki assist tracking edits recent feature list recent edits wiki
+list basic information edits editing user
+edit summary
+page edited
+tags
+malware link
+added customizable abuse filters extensions aid combating unhelpful edits
+active wikis
+edits occur hard track recent manually
+anti vandal software
+including user assisted tools fully automated bots cluebot
+cluebot
+employed wikis process recent items
+server load reduced sending continuous feed recent irc channel tools monitor
+eliminating send requests refreshed recent feed api
+important tool watchlisting
+logged user watchlist add pages wishes
+edit made pages
+summary edit appears watchlist time refreshed
+recent page
+recent edits watchlist clickable links easy review article history specific made
+capability review edits made user
+edit identified problematic
+check user edits issues
+mediawiki link specific versions articles
+scientific community
+expert peer reviewers analyse articles
+improve provide links trusted version article
+navigation wiki largely internal wikilinks
+implement page existence detection
+link colored blue target page exists local wiki red
+user clicks red link
+prompted create article title
+page existence detection makes practical users create
+wikified
+articles links pertinent articles existence
+red
+blue distinction alerts
+interwiki links function namespaces
+set interwiki prefixes configured
+instance
+page title wikiquote
+jimbo wales direct user jimbo wales article wikiquote
+unlike internal wikilinks
+interwiki links lack page existence detection functionality
+blue interwiki link broken
+page tabs displayed top pages
+tabs users perform actions view pages related current page
+default actions include viewing
+editing
+discussing current page
+specific tabs displayed depend user logged wiki user sysop privileges wiki
+instance
+ability move page add watchlist restricted logged users
+site administrator add remove tabs javascript installing extensions
+page history page user access version page existed generate diffs versions choice
+users contributions displayed
+user contributions
+option sidebar
+carl challborn teresa reimann note
+feature slight deviation collaborative
+spirit wiki purists
+educators assess contribution participation individual student users
+mediawiki features hyperlinks structuring content
+earliest features namespaces
+earliest problems separation encyclopedic content pages pertaining maintenance communal discussion
+personal pages encyclopedia editors
+namespaces prefixes page title
+user
+talk
+serve descriptors page purpose multiple pages functions exist title
+instance
+page titled
+terminator
+default namespace
+describe movie starring arnold schwarzenegger
+page titled
+user
+terminator
+profile describing user chooses pseudonym
+commonly
+page namespace
+talk
+page
+discuss contents
+user talk
+template talk
+purpose discussion pages content separated discussion surrounding content
+namespaces viewed folders separate basic types information functionality
+custom namespaces added site administrators
+namespaces default content
+pseudo namespaces
+dynamically generated
+special
+pages links media files
+namespace mediawiki numbered
+content page namespaces numbers talk page namespaces odd numbers
+users create categories add pages files categories appending category tags content text
+adding tags creates links bottom page reader list pages category
+making easy browse related articles
+categorization organize content combination
+addition namespaces
+content ordered subpages
+simple feature automatic breadcrumbs pattern page title
+subpage title page slash
+case
+subpage title
+page slash
+case
+page title
+feature enabled
+users customize stylesheets configure client side javascript executed pageview
+led large number additional tools helpers developed wiki shared users
+instance
+lupin navigation popups custom javascript tool shows previews articles user hovers links
+shortcuts common maintenance tasks
+wiked
+full featured mediawiki integrated text editor syntax highlighting search replace functions
+entire mediawiki user interface edited wiki users permissions
+typically called
+administrators
+special namespace prefix
+mediawiki
+page title identifies user interface message
+extension
+user create personal scripts
+choose sitewide scripts apply toggling options user preferences page
+mediawiki
+namespace originally creating custom text blocks dynamically loaded pages special syntax
+content moved namespace
+template
+templates text blocks dynamically loaded inside page page requested
+template special link double curly brackets
+calls template
+case located template
+disputed
+load place template
+templates support parameters
+parts text substituted specific case
+related method
+called template substitution
+called adding subst
+beginning template link
+inserts
+copy paste operation
+contents template target page
+loading template contents dynamically page loaded
+lead inconsistency templates
+cases
+cases requires fewer server resources
+actual amount savings vary depending wiki configuration complexity template
+templates found
+templates enable users create complex table layouts consistently multiple pages
+content tables inserted template parameters
+templates identify problems article putting template article
+template outputs graphical box stating article content disputed attention
+categorize articles nature located
+templates user pages send users standard messages welcoming site
+giving awards outstanding contributions
+warning behavior considered inappropriate
+notifying blocked editing
+mediawiki offers flexibility creating defining user groups
+instance
+create arbitrary
+ninja
+group block users delete pages
+edits hidden default recent log
+set group
+autoconfirmed
+users member making number edits waiting number days
+groups enabled default bureaucrats sysops
+bureaucrats power change users rights
+sysops power page protection deletion blocking users editing
+mediawiki controls editing rights deemed sufficient publishing maintaining important documents manual standard operating procedures hospital
+page consists useless content
+ways remove content
+simplest
+users
+simply blank page
+interferes page existence detection
+extension installed treat blanked pages nonexistent
+blanking leaves content accessible history page
+outcome
+potentially increasing transparency allowing sysops easily review content removal decision appropriateness
+unacceptable unlawful cases
+option sysop delete page
+prevent viewed sysops
+level deletion
+called revisiondelete
+group
+oversighters
+prevent page viewed members group
+extensions
+remove content viewed normal channels wiki
+completely delete revisions database
+mediawiki basic set features related restricting access
+original ongoing design driven functions largely relate content
+content segregation
+result minimal exceptions
+related specific tools related
+special
+pages
+page access control high priority core development developers stated users requiring secure user access authorisation controls rely mediawiki
+designed kinds situations
+instance
+extremely difficult create wiki users read access pages
+wiki engines twiki
+moinmoin wikkawiki provide flexibility supporting advanced security mechanisms access control lists
+mediawiki codebase
+hooks
+callback functions add additional php code extensible
+developers write extensions necessarily needing modify core submit code review
+installing extension typically consists adding line configuration file
+cases additional database updates core patches required
+main extension points created developers add features functionalities mediawiki
+hooks run time event
+instance
+articlesavecomplete hook occurs save article request processed
+extension notifies selected users page edit occurs wiki anonymous users
+tags created process data opening closing tags
+parser functions create command
+special pages created perform specific function
+pages dynamically generated
+special page show pages links external site create form providing user submitted feedback
+skins users customize feel mediawiki
+minor extension point amazon host image files
+mediawiki made advanced purposes extensions
+extensions vary greatly complexity
+foundation operates git server extensions host repository
+documentation page mediawiki website
+sites development support extensions mediawiki
+maintains extension matrix
+google code
+mediawiki developers
+granted access commit extensions
+entire codebase
+mediawiki code review facilitated mediawiki extension
+version
+mediawiki jquery library
+popular extensions parser function extension
+parserfunctions
+content rendered based result conditional statements
+conditional statements perform functions evaluating parameter empty
+comparing strings
+evaluating mathematical expressions
+returning values depending page exists
+designed replacement notoriously inefficient template called
+schindler recounts history parserfunctions extension
+conditional text computation simple mathematical expressions implemented
+increased possibilities wiki editors enormously
+time parser functions introduced
+finally leading framework allowed simple writing extension function add arbitrary functionalities
+geo coding services widgets
+time developers reacting demand community
+forced fight solution issue community
+conditional text
+offer improved technical implementation replace previous practice achieve performance
+parser functions extension
+stringfunctions
+developed evaluation string length
+string position
+communities
+created awkward workarounds accomplish functionality
+clamored enabled projects
+functionality eventually integrated parserfunctions extension
+albeit disabled default accompanied warning tim starling enabling string functions users
+implement parsers ugliest
+inefficient programming language man
+mediawiki wikitext parserfunctions
+popular extension citation extension enable footnotes added pages inline references
+extension
+criticized difficult requiring user memorize complex syntax
+tool called proveit proposed replacement
+gadget called reftoolbar created make easier create citations common templates
+mediawiki extensions suited academia
+mathematics extensions extension molecules rendered
+generic widgets framework created mediawiki integrate virtually
+examples extensions improve wiki category suggestion extensions extensions inclusion flash videos
+youtube videos
+rss feeds
+extension integrate facebook forthcoming
+metavid
+site archives video footage
+senate house floor proceedings
+created code extending mediawiki domain collaborative video authoring
+extension
+viskimap
+makes graphic organizers visualize relationships content pages
+students easily understanding content elements relations
+navigate wiki pages
+spambots search internet mediawiki installations add linkspam
+fact mediawiki nofollow attribute discourage attempts search engine optimization
+part problem party republishers
+mirrors
+independently implement nofollow tag websites
+marketers pagerank benefit inserting links pages entries party websites
+anti spam extensions developed combat problem introducing captchas
+blacklisting urls
+allowing bulk deletion pages recently added user
+mediawiki pre installed standard text based search
+extensions exist mediawiki party search tools lucene
+sites
+sphinx
+mediawiki extensions created complex
+faceted search
+data entered wiki metadata pages revision history
+extensions facilitating analyses include semantic mediawiki
+ability add structured searchable relations attributes wiki pages
+wikitrust
+implements system checking author
+origin
+reliability wiki text
+dynatable
+extension called woogle attempts add enterprise search engine functionality mediawiki
+mediawiki mysql
+postgresql sqlite relational database management system
+limited support oracle database
+mediawiki database dozen tables
+including page table page titles
+page ids
+metadata
+revision table added row time edit made
+page
+textual summary change performed
+user article editor
+address case unregistered user
+timestamp
+year period
+mediawiki database schema versions
+possibly largest schema change mediawiki
+storage metadata separated content
+improve performance flexibility
+upgrade applied
+site locked editing
+schema converted version hours
+software enhancement proposals
+proposal sections articles watched watchlist
+rejected schema required excessive downtime
+run highest traffic sites web
+mediawiki performance scalability highly optimized
+mediawiki supports squid
+load balanced database replication
+client side caching
+memcached table based caching frequently accessed processing query results
+simple static file cache
+feature reduced operation
+revision compression
+job queue database operations
+networking coordinator mark bergsma
+mediawiki developers attempted optimize software stupid
+avoiding expensive algorithms
+database queries
+caching result expensive temporal locality reference
+focusing hot spots code profiling
+mediawiki code designed data written master database read slave databases
+master read operations slaves date
+metadata
+article revision history
+article relations
+links
+categories
+user accounts settings stored core databases cached
+actual revision text
+rarely
+stored append blobs external storage
+software suitable operation large scale wiki farms
+wikis august
+mediawiki built gui manage installations
+empirical evidence shows revisions mediawiki databases tend differ slightly previous revisions
+subsequent revisions article concatenated compressed
+achieving high data compression ratios
+parser serves facto standard mediawiki syntax
+formal syntax defined
+due lack formal definition
+difficult create wysiwyg editors mediawiki
+port parsing language
+mediawiki designed suitable replacement dedicated online forum blogging software
+extensions exist
+uncommon mediawiki users make mistakes
+forgetting sign posts tildes
+manually entering plaintext signature
+due unfamiliarity idiosyncratic particulars involved communication mediawiki discussion pages
+hand
+format discussion pages cited strength educator
+stated
+fine grain capabilities discussion traditional threaded discussion forums
+replying entire message
+participant discussion create hyperlink wiki page word original page
+discussions easier follow content hyperlinked wiki page
+series reply messages traditional threaded discussion forum
+cases
+students capability
+possibly familiarity traditional linear discussion style lack guidance make content link rich
+mediawiki support creation dynamically assembled documents
+pages aggregate data pages
+create
+special
+pages
+requires coding extension php administrative rights server running mediawiki
+research enabling features directly mediawiki
+semantic mediawiki extension features
+upgrading mediawiki fully automated
+requiring site content template programming
+historically troubles encountered upgrading significantly older versions
+mediawiki developers enacted security standards
+core code extensions
+sql queries html output wrapper functions handle validation
+escaping
+filtering prevention cross site scripting sql injection
+april
+approximately mediawiki extensions unresolved security issues
+security issues patched mediawiki version release
+mediawiki
+states
+important security step software date
+subscribing announcement listserv installing security updates announced
+phpids extension mediawiki developed identify intrusions
+mediawiki developers spread world
+majority united states europe
+face face meetings programming sessions mediawiki developers held times year
+support mediawiki users consists
+users online collaboration software familiar mediawiki functions layout due noted
+compared wikis
+mediawiki fairly aesthetically pleasing
+simple
+easily customized side menu stylesheet
+assessment
+confluence deemed superior product due usable api ability support multiple wikis
+wiki providers socialtext jotspot
+project management features mediawiki lacks
+study university hong kong comparing twiki mediawiki
+authors noted twiki considered collaborative tool development educational papers technical projects
+mediawiki noted due
+platforms discussion tracking progress
+twiki
+report
+part mediawiki lacks
+students perceived mediawiki easier enjoyable twiki
+asked recommended mediawiki knowledge management group project
+respondents expressed preference mediawiki giving answers great certainty
+twiki mediawiki flexible plug architecture
+study compared students experience mediawiki google documents found students gave higher rating user friendly layout

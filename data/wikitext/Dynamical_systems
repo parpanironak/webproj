@@ -1,0 +1,350 @@
+Dynamical system
+
+dynamical system
+dynamical system concept mathematics fixed rule describes time dependence point geometrical space
+examples include mathematical models describe swinging clock pendulum
+flow water pipe
+number fish springtime lake
+time dynamical system state set real numbers
+vector
+represented point state space
+geometrical manifold
+small state system create small numbers
+evolution rule dynamical system fixed rule describes future states follow current state
+rule deterministic
+words
+time interval future state current state
+concept dynamical system origins newtonian mechanics
+natural sciences engineering disciplines
+evolution rule dynamical systems implicitly relation state system short time future
+relation differential equation
+difference equation time scale
+determine state future times requires iterating relation advancing time small step
+iteration procedure referred solving system integrating system
+system solved
+initial point determine future positions
+collection points trajectory orbit
+advent fast computing machines
+solving dynamical system required sophisticated mathematical techniques accomplished small class dynamical systems
+numerical methods implemented electronic computing machines simplified task determining orbits dynamical system
+simple dynamical systems
+knowing trajectory sufficient
+dynamical systems complicated understood terms individual trajectories
+difficulties arise
+work dynamical systems themes developed
+citation needed
+dynamical system manifold called phase
+state
+space endowed family smooth evolution functions element
+time
+map point phase space back phase space
+notion smoothness applications type manifold
+choices
+reals
+dynamical system called flow
+restricted negative reals
+dynamical system semi flow
+integers
+cascade map
+restriction negative integers semi cascade
+evolution function solution differential equation motion
+equation time derivative
+represented dot
+trajectory
+phase space starting
+vector field
+smooth function point phase space velocity vector dynamical system point
+vectors vectors phase
+tangent space txm
+smooth
+autonomous vector field derived
+higher order derivatives equation
+time dependence
+eliminated systems higher dimensions
+types differential equations define evolution rule
+equation arises modeling mechanical systems complicated constraints
+differential equations determining evolution function ordinary differential equations
+case phase space finite dimensional manifold
+concepts dynamical systems extended infinite dimensional locally banach case differential equations partial differential equations
+late century dynamical system perspective partial differential equations started gaining popularity
+linear dynamical systems solved terms simple functions behavior orbits classified
+linear system phase space dimensional euclidean space
+point phase space represented vector numbers
+analysis linear systems satisfy superposition principle
+satisfy differential equation vector field
+necessarily initial condition
+flow
+vector field
+linear function position phase space
+matrix
+vector numbers position vector
+solution system found superposition principle
+linearity
+case straight line direction
+origin equilibrium
+singular
+point flow
+orbit remains
+initial conditions
+equation motion exponential matrix
+initial point
+eigenvalues determine structure phase space
+eigenvalues eigenvectors determine initial point converge diverge equilibrium point origin
+distance initial conditions case change exponentially cases
+converging exponentially fast point
+diverging exponentially fast
+linear systems display sensitive dependence initial conditions case divergence
+nonlinear systems
+sufficient
+conditions chaotic behavior
+discrete time
+affine dynamical system form
+matrix vector
+continuous case
+change coordinates
+removes term equation
+coordinate system
+origin fixed point map solutions linear system
+solutions map longer curves
+points hop phase space
+orbits organized curves
+fibers
+collections points map action map
+continuous case
+eigenvalues eigenvectors determine structure phase space
+eigenvector
+real eigenvalue smaller
+straight lines points
+invariant curve map
+points straight line run fixed point
+discrete dynamical systems
+qualitative properties dynamical systems change smooth change coordinates
+definition qualitative
+singular point vector field
+point
+remain singular point smooth transformations
+periodic orbit loop phase space smooth deformations phase space alter loop
+neighborhood singular points periodic orbits structure phase space dynamical system understood
+qualitative study dynamical systems
+approach show change coordinates
+unspecified
+computable
+makes dynamical system simple
+flow small patches phase space made simple
+point vector field
+change coordinates region vector field series parallel vectors magnitude
+rectification theorem
+rectification theorem singular points dynamics point small patch straight line
+patch enlarged stitching patches
+works phase space dynamical system integrable
+cases patch extended entire phase space
+singular points vector field
+patches smaller smaller point approached
+subtle reason global constraint
+trajectory starts patch
+visiting series patches back original
+time orbit loops phase space
+impossible rectify vector field series patches
+general
+neighborhood periodic orbit rectification theorem
+developed approach transforms analysis periodic orbit analysis map
+pick point orbit points phase space neighborhood perpendicular
+points section
+orbit
+flow defines map
+map
+points starting returning
+points amount time back
+times close time
+intersection periodic orbit section fixed point map
+translation
+point assumed
+taylor series map
+change coordinates expected simplify linear part
+conjugation equation
+finding conditions equation hold major tasks research dynamical systems
+approached assuming functions analytic process discovered resonant condition
+eigenvalues resonant eigenvalue integer linear combination
+terms form
+multiples eigenvalues
+occurs denominator terms function
+resonant condition small divisor problem
+results existence solution conjugation equation depend eigenvalues degree smoothness required
+special symmetries
+eigenvalues typically complex numbers
+eigenvalues unit circle
+dynamics fixed point called hyperbolic eigenvalues unit circle complex
+dynamics called elliptic
+hyperbolic case theorem conditions existence continuous function maps neighborhood fixed point map linear map
+hyperbolic case structurally stable
+small vector field produce small map small reflect small position eigenvalues complex plane
+implying map hyperbolic
+kam
+theorem behavior elliptic point
+evolution map
+vector field derived
+depends parameter
+structure phase space depend parameter
+small produce qualitative phase space special reached
+point phase space qualitatively dynamical system bifurcation
+bifurcation theory considers structure phase space
+typically fixed point
+periodic orbit
+invariant torus
+studies behavior function
+bifurcation point structure change stability
+split structures
+merge structures
+taylor series approximations maps understanding differences eliminated change coordinates
+catalog bifurcations dynamical systems
+bifurcations hyperbolic fixed point system family characterized eigenvalues derivative system
+computed bifurcation point
+map
+bifurcation occur eigenvalues unit circle
+flow
+occur eigenvalues imaginary axis
+information
+main article bifurcation theory
+bifurcations lead complicated structures phase space
+scenario describes periodic orbit bifurcates torus torus strange attractor
+feigenbaum period doubling describes stable periodic orbit series period doubling bifurcations
+dynamical systems choose coordinates system volume
+dimensional volume
+phase space invariant
+mechanical systems derived newton laws long coordinates position momentum volume measured units
+position
+momentum
+flow takes points subset points
+invariance phase space means
+hamiltonian formalism
+coordinate derive
+generalized
+momentum volume preserved flow
+volume computed liouville measure
+hamiltonian system configurations position momentum reached initial condition
+energy conservation
+states energy initial condition accessible
+states energy form energy shell
+manifold phase space
+volume energy shell
+computed liouville measure
+preserved evolution
+systems volume preserved flow
+discovered recurrence theorem
+assume phase space finite liouville volume phase space volume preserving map subset phase space
+point returns infinitely
+recurrence theorem zermelo object boltzmann derivation increase entropy dynamical system colliding atoms
+questions raised boltzmann work equality time averages space averages
+called ergodic hypothesis
+hypothesis states length time typical trajectory spends region vol
+vol
+ergodic hypothesis turned essential property needed development statistical mechanics series ergodic properties introduced capture relevant aspects physical systems
+koopman approached study ergodic systems functional analysis
+observable function point phase space associates number
+instantaneous pressure
+average height
+observable computed time evolution function
+introduces operator
+transfer operator
+studying spectral properties linear operator classify ergodic properties
+koopman approach action flow observable function
+finite dimensional nonlinear problem involving mapped infinite dimensional linear problem
+liouville measure restricted energy surface basis averages computed equilibrium statistical mechanics
+average time trajectory equivalent average space computed boltzmann factor exp
+idea generalized sinai
+bowen
+ruelle
+srb
+larger class dynamical systems includes dissipative systems
+srb measures replace boltzmann factor defined attractors chaotic systems
+simple nonlinear dynamical systems piecewise linear systems exhibit completely unpredictable behavior
+random
+fact fundamentally deterministic
+seemingly unpredictable behavior called chaos
+hyperbolic systems precisely defined dynamical systems exhibit properties ascribed chaotic systems
+hyperbolic systems tangent space perpendicular trajectory separated parts
+points converge orbit
+stable manifold
+points diverge orbit
+unstable manifold
+branch mathematics deals long term qualitative behavior dynamical systems
+focus finding precise solutions equations defining dynamical system
+hopeless
+answer questions
+system settle steady state long term
+attractors
+long term behavior system depend initial condition
+note chaotic behavior complex systems issue
+meteorology years involve
+chaos theory surprising chaos found trivial systems
+logistic map degree polynomial
+horseshoe map piecewise linear
+dynamical system tuple image
+math
+png
+image
+math
+png manifold
+locally banach space euclidean space
+image
+math
+png domain time
+negative reals
+integers
+evolution rule
+image
+math
+png
+diffeomorphism manifold
+mapping time domain image
+math
+png space diffeomorphisms manifold
+terms
+diffeomorphism
+time domain image
+math
+png
+dynamical system defined formally
+measure preserving transformation sigma algebra
+quadruplet
+set
+sigma algebra
+pair
+measurable space
+finite measure sigma algebra
+triplet
+probability space
+map
+measurable
+image
+math
+png
+map preserve measure
+image
+math
+png
+combining
+map measure preserving transformation
+map
+measurable
+measure preserving
+quadruple
+defined dynamical system
+map embodies time evolution dynamical system
+discrete dynamical systems iterates image
+math
+png integer studied
+continuous dynamical systems
+map understood finite time evolution map construction complicated
+dynamical systems defined single independent variable
+thought time
+general class systems defined multiple independent variables called multidimensional systems
+systems modeling
+image processing
+works providing broad coverage
+introductory texts unique perspective
+textbooks
+popularizations
+online books lecture notes
+research groups
+simulation software based dynamical systems approach

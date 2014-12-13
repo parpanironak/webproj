@@ -1,0 +1,64 @@
+Rfam
+
+rfam
+rfam database information coding rna
+ncrna
+families structured rna elements
+annotated
+open access database hosted wellcome trust sanger institute collaboration janelia farm
+rfam designed similar pfam database annotating protein families
+unlike proteins
+ncrnas similar secondary structure sharing similarity primary sequence
+rfam divides ncrnas families based evolution common ancestor
+producing multiple sequence alignments
+msa
+families provide insight structure function
+similar case protein families
+msas addition secondary structure information
+rfam researchers contribute rna wikiproject
+rfam database variety functions
+ncrna family
+interface users
+view download multiple sequence alignments
+read annotation
+examine species distribution family members
+links provided literature references rna databases
+rfam links entries created edited users
+interface rfam website users search ncrnas keyword
+family
+genome search ncrna sequence embl accession number
+database information download
+installation infernal software package
+infernal package rfam annotate sequences
+including complete genomes
+homologues ncrnas
+database
+information secondary structure primary sequence
+represented msa
+combined statistical models called profile stochastic context free grammars
+scfgs
+covariance models
+analogous hidden markov models protein family annotation pfam database
+family database represented multiple sequence alignments stockholm format scfg
+msa
+seed
+alignment
+hand curated alignment representative members ncrna family annotated structural information
+seed alignment create scfg
+rfam software infernal identify additional family members add alignment
+family specific threshold chosen avoid false positives
+performing rfam searches profile scfg computationally expensive
+small ncrna family takes unreasonable amount time computer search
+reduce search time
+initial blast search reduce search space manageable size
+msa alignment
+created result search covariance model sequence database
+detected homologs aligned model
+giving automatically produced full alignment
+version
+rfam launched contained ncrna families annotated ncrna genes
+version
+released contained families annotating genes
+june
+current version
+rna families

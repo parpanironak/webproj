@@ -1,0 +1,23 @@
+Database server
+
+database server
+database server computer program database services computer programs computers
+defined model
+term refer computer dedicated running program
+database management systems frequently provide database server functionality
+dbmss
+mysql
+rely exclusively model database access
+server accessed
+front end
+running computer displays requested data
+back end
+runs server handles tasks data analysis storage
+master slave model
+database master servers central primary locations data database slave servers synchronized backups master acting proxies
+examples proprietary database servers oracle
+informix
+microsoft sql server
+examples gnu general public licence database servers ingres mysql
+server query logic structure
+sql query language database servers

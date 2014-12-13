@@ -1,0 +1,566 @@
+Ubuntu (operating system)
+
+ubuntu
+ubuntu
+buun
+computer operating system based debian linux distribution distributed free open source software
+desktop environment
+named southern african philosophy ubuntu
+humanity
+translation
+belief universal bond sharing connects humanity
+online surveys
+ubuntu popular linux distribution desktop
+laptop personal computers
+ubuntu coverage focuses market
+popular servers cloud computing
+citation needed
+development ubuntu led canonical
+based company owned south african entrepreneur mark shuttleworth
+canonical generates revenue sale technical support services related ubuntu
+version
+displaying advertisements unity dash
+default file manager desktop ubuntu
+canonical
+ubuntu project committed principles free software development
+people encouraged free software
+improve
+distribute
+ubuntu fork debian project codebase
+original aim ubuntu developers create easy linux desktop releases scheduled predictable month basis
+resulting frequently updated system
+ubuntu release october
+canonical released versions ubuntu months commitment support release eighteen months providing security fixes
+patches critical bugs minor updates programs
+decided fourth release
+issued year basis
+receive long term support
+lts
+lts releases traditionally supported years desktop years server
+release ubuntu
+lts
+desktop support lts releases extended years
+ubuntu
+lts scheduled supported april
+support extended accommodate business corporate users ubuntu operate longer release cycles conscious costs frequent software upgrades
+lts releases point releases ensure work newer hardware
+lts releases lts release upgrades point versions
+lts release instance release upgrade
+point release
+ubuntu packages based packages debian unstable branch
+distributions debian deb package format package management tools
+apt ubuntu software center
+debian ubuntu packages necessarily binary compatible
+deb packages rebuilt source ubuntu
+ubuntu developers maintainers key packages debian
+ubuntu cooperates debian pushing back debian
+criticism happen
+past
+ian murdock
+founder debian
+expressed concern ubuntu packages potentially diverging debian remain compatible
+release
+packages imported debian unstable continuously merged ubuntu specific modifications
+month release
+imports frozen
+packagers work ensure frozen features interoperate
+ubuntu funded canonical
+july
+mark shuttleworth canonical
+announced creation ubuntu foundation provided initial funding
+purpose foundation ensure support development future versions ubuntu
+mark shuttleworth describes foundation
+emergency fund
+case canonical involvement ends
+march
+ubuntu announced developer support party cloud management platforms
+amazon
+latest release ubuntu
+quantal quetzal
+released october
+mark shuttleworth announced october ubuntu support smartphones
+tablets
+tvs smart screens scheduled added ubuntu
+january
+canonical announced ubuntu consumer electronics show
+ubuntu composed software packages
+majority distributed free software license
+main license gnu general public license
+gnu gpl
+gnu lesser general public license
+gnu lgpl
+explicitly declares users free run
+copy
+distribute
+study
+change
+develop improve software
+hand
+proprietary software run ubuntu
+ubiquity installer ubuntu installed hard disk live environment
+restarting computer prior installation
+beginning
+utf default character encoding
+support variety roman scripts
+security feature
+sudo tool assign temporary privileges performing administrative tasks
+allowing root account remain locked
+preventing inexperienced users inadvertently making catastrophic system opening security holes
+policykit widely implemented desktop harden system principle privilege
+ubuntu desktop includes graphical desktop environment
+versions prior
+default gui gnome panel dropped favor unity
+graphical interface canonical developed ubuntu netbook edition
+ubuntu installed wide range software includes libreoffice
+firefox
+thunderbird
+empathy
+transmission
+lightweight games
+sudoku chess
+additional software installed default
+including software default installation evolution
+gimp
+pidgin
+synaptic
+downloaded installed ubuntu software center apt based package management tools
+programs software center free
+priced products
+including applications magazines
+ubuntu close network ports firewalls software
+end users install gufw
+gui uncomplicated firewall
+enabled
+gnome
+default desktop
+offers support languages
+ubuntu run programs designed microsoft windows
+microsoft office
+wine virtual machine
+vmware workstation virtualbox
+ubuntu compiles packages gcc features pie buffer overflow protection harden software
+extra features greatly increase security performance expense bit
+bit
+version
+ubuntu supports arm
+bit bit
+architectures
+unofficial support powerpc
+system requirements vary ubuntu products
+main ubuntu desktop product
+official ubuntu documentation recommends pentium megabytes ram gigabytes hard drive space
+powerful computers
+ubuntu distributions lubuntu xubuntu
+installation ubuntu generally performed live live usb drive
+ubuntu run directly
+slower running ubuntu hdd
+allowing user
+test drive
+hardware compatibility driver support
+ubiquity installer
+guide user permanent installation process
+images current past versions download ubuntu web site
+installing requires minimum ram
+users download disk image
+iso
+written physical medium
+dvd
+optionally run directly hard drive
+unetbootin grub
+ubuntu powerpc
+sparc
+platforms
+officially supported
+canonical offered ubuntu kubuntu live installation cds latest distribution operating system cost including paid postage destinations world service called shipit
+service closed april
+canonical store offers cds
+party programs remastersys reconstructor create customised copies ubuntu live cds
+ubuntu kubuntu booted run usb flash drive
+long bios supports booting usb
+option saving settings flashdrive
+portable installation run capable booting usb drive
+newer versions ubuntu
+usb creator program install ubuntu usb drive
+livecd disc
+wubi
+included option live
+ubuntu installed run virtual windows loop device
+large image file managed windows program windows control panel
+method requires partitioning windows user hard drive
+incurs slight performance loss hibernation supported
+filesystem vulnerable hard reboots
+ubuntu divides software domains reflect differences licensing degree support
+unsupported applications receive updates community members
+canonical
+free software includes software met ubuntu licensing requirements
+roughly correspond debian free software guidelines
+exceptions
+include firmware fonts
+main category
+allowed modified
+distribution unencumbered
+citation needed
+free software unsupported
+multiverse
+exceptions
+restricted
+made important free software
+supported free software includes device drivers run ubuntu current hardware
+binary graphics card drivers
+level support restricted category limited main
+developers access source code
+intended main restricted software needed complete desktop environment
+alternative programs tasks programs specialized applications universe multiverse categories
+addition
+software receive features initial release
+ubuntu backports officially recognized repository backporting newer software versions ubuntu
+repository comprehensive
+consists primarily user requested packages
+approved meet quality guidelines
+backports receives support canonical
+community maintained
+updates repository stable release updates
+sru
+ubuntu generally installed update manager
+release updates repository
+intrepid updates
+repository supported canonical
+packages main restricted
+community packages universe multiverse
+updates repository meet requirements proposed repository made public
+updates scheduled end life release
+addition updates repository
+unstable proposed repository uploads confirmed copied updates
+updates process ensure patch fix bug risk regression
+updates proposed confirmed canonical members community
+canonical partner repository vendors proprietary software deliver products ubuntu users cost familiar tools installing upgrading software
+software partner repository officially supported security important updates respective vendors
+canonical supports packaging software ubuntu guidance vendors
+partner repository disabled default enabled user
+popular products distributed partner repository november adobe flash player
+adobe reader
+braid oil rush
+ubuntu certification system party software
+party software limit distribution included ubuntu multiverse component
+package ubuntu restricted extras additionally software legally restricted
+including support dvd playback
+microsoft truetype core fonts
+sun java runtime environment
+adobe flash player plugin
+common audio
+video codecs
+unrar
+unarchiver files compressed rar file format
+additionally
+party application suites purchase canonical web based store
+including software dvd playback media codecs
+ubuntu release version number consists year month number release
+release ubuntu
+released october
+version numbers future versions provisional
+release delayed version number
+ubuntu releases alliterative code names
+adjective animal
+dapper drake
+intrepid ibex
+exception releases
+code names consecutive alphabetical order
+allowing quick determination release newer
+skip letters
+wrap eventually
+mark shuttleworth describing naming scheme
+commonly
+ubuntu releases referred adjective portion code
+releases timed approximately month gnome releases
+turn month releases
+ubuntu release updated version gnome
+upgrades releases release release
+ubuntu
+ubuntu
+lts release lts release
+ubuntu
+lts ubuntu
+lts
+ubuntu
+maverick meerkat
+released october
+departure traditional schedule releasing end october
+perfect
+playful reference hitchhiker guide galaxy
+binary
+equal number
+answer ultimate question life
+universe
+series
+ubuntu
+released april
+code named
+natty narwhal
+desktop interface release significantly differs previous releases unity introduced default gui
+easy switch
+classic
+gui
+gnome panel
+gui received strong criticism users capable previous gnome panel
+users found prefer approach minimalism compared older desktop paradigm
+positive unity believed room improvement
+release ubuntu
+desktop disc image longer fits standard
+requiring dvd bootable flash drive
+unofficial recompressed version fit
+official ubuntu editions
+created maintained canonical ubuntu community receive full support canonical
+partners community
+ubuntu variants
+derivatives
+based official ubuntu editions
+ubuntu variants install set packages differ official ubuntu distributions
+variants recognized canonical contributing significantly ubuntu project
+edubuntu
+kubuntu
+lubuntu
+mythbuntu
+ubuntu studio
+xubuntu commercially supported canonical
+variants created maintained individuals organizations canonical
+governed projects work closely ubuntu community
+ubuntu offers operating system server edition
+ubuntu
+long term support
+lts
+release scheduled receive continued updates april
+starting
+support lts deskop variants extended match years server variant
+long term support includes updates support features latest computing hardware
+security patches updates ubuntu stack
+cloud computing infrastructure
+ubuntu
+server edition run vmware esx server
+oracle virtualbox
+citrix systems xenserver hypervisors
+microsoft hyper
+qemu
+kernel based virtual machine
+ibm compatible emulator virtualizer
+ubuntu apparmor security module linux kernel turned default key software packages
+firewall extended common services operating system
+home private directories encrypted
+server version includes mysql
+tomcat
+openjdk
+samba
+nagios
+php
+python
+services minutes configure
+ubuntu
+lts server edition supports major architectures
+intel
+server edition features file
+print services
+web hosting
+email hosting
+differences ubuntu server edition ubuntu desktop edition apt repositories
+main difference editions lack default installation window environment server edition
+guis installed gnome
+unity
+ubuntu
+kde
+kubuntu
+xfce
+xubuntu
+resource economical guis fluxbox
+openbox blackbox
+kernel versions differ
+server edition screen mode character based interface installation
+graphical installation process
+ubuntu server distributed free charge
+users choose pay consulting technical support
+annual support contract business hour support server
+contract covering year costs
+ubuntu server edition offers technology resources make private public cloud
+ubuntu enterprise cloud
+uec
+virtualization capability
+applications flexibility deploy cloud organization
+consists open core eucalyptus
+libvirt
+kvm xen virtualization technology
+ubuntu
+added support openstack
+eucalyptus openstack migration tools released canonical ubuntu server
+ubuntu
+expected focus openstack ubuntu preferred iaas offering eucalyptus expected supported
+major focus ubuntu orchestra provisioning
+deploying
+hosting
+managing
+orchestrating enterprise data center infrastructure services
+ubuntu server
+ubuntu developer summit
+uds
+gathering software developers occurs prior release public version ubuntu
+beginning development cycle
+ubuntu developers world gather shape scope release ubuntu
+summit open public
+conference
+exhibition audience oriented event
+opportunity ubuntu developers
+collaborate online
+work person specific tasks
+chris kenyon
+vice president oem canonical
+lack registration
+number provided ubuntu usage
+guesstimate
+june zdnet reported
+worldwide
+million active ubuntu users growing faster distribution
+fall canonical estimated ubuntu million users worldwide
+lifehacker poll linux distributions
+ubuntu variants received vote
+linux mint
+user agent counting suggests ubuntu popular linux distribution web clients
+generating
+internet traffic
+ubuntu popularity web servers rapidly increasing
+july
+ubuntu popular linux distribution market
+centos debian
+ubuntu based
+ubuntu page distrowatch accessed linux distribution pages
+page linux mint
+public sector adopted ubuntu
+january
+ministry education science republic macedonia deployed ubuntu based classroom desktops
+encouraged student country ubuntu powered computer workstations
+spanish school system ubuntu desktops
+french police
+started open source software replacing microsoft office openoffice
+decided transition ubuntu windows release windows vista
+march
+gendarmerie nationale switched workstations ubuntu
+based success transition
+planned switch end switched workstations
+gendbuntu project
+colonel guimard announced move easy allowed saving budget reduce capabilities
+ubuntu
+adopted indian justice system
+city munich
+germany forked ubuntu
+lts created limux city computers
+munich expects city computers limux needed
+march
+government iceland launched project public institutions free open source software
+government agencies schools adopted ubuntu
+government cited cost savings big factor decision
+stated open source software avoids vendor lock
+month project launched migrate biggest public institutions iceland open source
+ease migration
+incumbent
+president barack obama successful campaign election ubuntu linux department
+ubuntu awarded reader award linux distribution linuxworld conference expo london
+received favorable reviews online print publications
+won infoworld bossie award open source client
+early world named ubuntu
+linux distribution today
+criticized lack integrated desktop effects manager
+chris dibona
+program manager open source software google
+ubuntu captured imaginations linux desktop
+hope linux desktop
+january
+half employees slightly modified version ubuntu
+ubuntu
+lts criticized poor battery life laptops netbooks
+oem devices asus eeepc
+compared microsoft windows
+ubuntu shown power
+ubuntu developers acknowledged sought solve issues power consumption
+lts release
+jamie hyneman
+host american television series mythbusters
+advocated linux
+giving ubuntu
+solution software bloat
+celebrity users ubuntu include
+october release
+quantal quetzal
+introduced display contextual advertising dash
+file manager component default desktop environment
+unity
+considerable volume criticism resulted development
+responding september criticism beta release
+canonical owner mark shuttleworth argued
+putting ads ubuntu
+integrating online scope results home lens dash
+canonical staffer jono bacon advertisements
+suggestions
+arguing revenue generate canonical
+continue grow improve ubuntu
+default configuration
+version
+assumes users agreed ubuntu parent company canonical collect user search data addresses disclose information parties including facebook
+twitter
+bbc amazon
+drawing criticism privacy advocates
+free software foundation
+adware
+introduced version
+violates users privacy
+rare occasions free software developer persists keeping malicious feature version program
+citing concerns data leaks
+electronic frontier foundation outlined number requested improvements future versions
+ubuntu developers
+make respect users privacy security
+responding criticism earlier beta version
+relation privacy complaints
+shuttleworth
+anonymity preserved handle query behalf
+trust
+erm
+root
+trust data
+user revoke canonical permission collect distribute data modifying settings privacy panel
+effort reach users technical
+foster sense community distribution
+local communities
+locos
+established world
+originally
+country loco team
+areas
+notably united states
+state province establish team
+loco council approves teams based efforts aid development promotion ubuntu
+number vendors offer computers ubuntu pre installed
+including dell
+gliese
+hasee
+lotus computers
+ohava computers
+sharp corporation
+tesco
+pcs sold exclusively ubuntu
+dell customers choose day
+month
+yearly ubuntu support plans canonical
+dell computers
+running ubuntu
+include extra support ati video graphics
+dell wireless
+fingerprint readers
+hdmi
+bluetooth
+dvd playback
+lindvd
+wma
+wmv
+asus selling asus eee pcs ubuntu pre installed announced
+eee models running ubuntu
+vodafone made notebook south african market called
+webbook
+dell sells computers
+initially inspiron laptops
+pre loaded ubuntu india china
+retail outlets

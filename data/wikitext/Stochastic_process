@@ -1,0 +1,260 @@
+Stochastic process
+
+stochastic process
+probability theory
+stochastic process
+pronunciation
+random process
+widely
+collection random variables
+represent evolution random
+system
+time
+probabilistic counterpart deterministic process
+deterministic system
+describing process evolve
+case
+solutions ordinary differential equation
+stochastic random process indeterminacy
+initial condition
+starting point
+infinitely
+directions process evolve
+simple case discrete time
+stochastic process amounts sequence random variables time series
+markov chain
+basic type stochastic process random field
+domain region space
+words
+random function arguments drawn range continuously changing values
+approach stochastic processes treats functions deterministic arguments
+inputs
+cases regarded time
+values
+outputs
+random variables
+deterministic
+single
+quantities probability distributions
+random variables times
+points
+case random fields
+completely
+main requirement random quantities type
+type refers codomain function
+random values stochastic process times independent random variables
+commonly considered situations exhibit complicated statistical correlations
+familiar examples processes modeled stochastic time series include stock market exchange rate fluctuations
+signals speech
+audio video
+medical data patient ekg
+eeg
+blood pressure temperature
+random movement brownian motion random walks
+examples random fields include static images
+random terrain
+landscapes
+wind waves composition variations heterogeneous material
+probability space image
+math
+png measurable space image
+math
+png
+valued stochastic process collection valued random variables image
+math
+png
+indexed totally ordered set
+time
+stochastic process collection
+image
+math
+png valued random variable image
+math
+png
+space called state space process
+valued stochastic process
+finite subset image
+math
+png
+tuple image
+math
+png random variable taking values image
+math
+png
+distribution image
+math
+png random variable probability measure image
+math
+png
+called finite dimensional distribution
+suitable topological restrictions
+suitably
+consistent
+collection finite dimensional distributions define stochastic process
+kolmogorov extension section
+ordinary axiomatization probability theory means measure theory
+problem construct sigma algebra measurable subsets space functions
+put finite measure
+purpose traditionally method called kolmogorov extension
+alternative axiomatization probability theory means expectations star algebras random variables
+case method construction
+analogous approaches measure integration
+choice construct measures sets define integrals
+construct integrals define set measures integrals characteristic functions
+kolmogorov extension proceeds lines
+assuming probability measure space functions image
+math
+png exists
+joint probability distribution finite dimensional random variables image
+math
+png
+dimensional probability distribution deduce
+dimensional marginal probability distribution image
+math
+png
+note obvious compatibility condition
+marginal probability distribution class derived full blown stochastic process
+requirement
+condition holds
+stochastic process wiener process
+case marginals gaussian distributions exponential class
+general stochastic processes
+condition expressed terms probability densities
+result called equation
+kolmogorov extension theorem guarantees existence stochastic process family finite dimensional probability distributions satisfying compatibility condition
+recall kolmogorov axiomatization
+measurable sets sets probability
+words
+sets
+questions probabilistic answer
+kolmogorov extension starts declaring measurable sets functions finitely coordinates image
+math
+png restricted lie measurable subsets image
+math
+png
+words
+question answered values finitely coordinates
+probabilistic answer
+measure theory
+countably infinite collection measurable sets
+union intersection measurable set
+purposes
+means
+questions depend countably coordinates probabilistic answer
+good news kolmogorov extension makes construct stochastic processes fairly arbitrary finite dimensional distributions
+question sequence probabilistic answer asked random sequence
+bad news questions functions continuous domain probabilistic answer
+hope questions depend uncountably values function interest
+bad news virtually concepts calculus sort
+require knowledge uncountably values function
+solution problem require stochastic process separable
+words
+countable set coordinates image
+math
+png values determine random function
+kolmogorov continuity theorem guarantees processes satisfy constraints moments increments continuous modifications separable
+probability space image
+math
+png
+filtration weakly increasing collection sigma algebras image
+math
+png
+image
+math
+png
+indexed totally ordered set image
+math
+png
+bounded image
+math
+png
+image
+math
+png
+stochastic process image
+math
+png time set image
+math
+png adapted filtration
+image
+math
+png
+image
+math
+png image
+math
+png measurable
+stochastic process image
+math
+png
+natural filtration
+induced
+process filtration image
+math
+png generated values image
+math
+png time
+image
+math
+png
+stochastic process adapted natural filtration
+stochastic processes classified cardinality index set
+interpreted time
+state space
+image
+math
+png image
+math
+png belong image
+math
+png
+set natural numbers
+models lead markov chains
+image
+math
+png means bit
+position image
+math
+png sequence transmitted bits
+image
+math
+png modelled markov chain states
+leads error correcting viterbi algorithm data transmission
+image
+math
+png means combined genotype breeding couple image
+math
+pngth generation inbreeding model
+shown proportion heterozygous individuals population approaches image
+math
+png
+paradigm continuous stochastic process wiener process
+original form problem concerned particle floating liquid surface
+receiving
+kicks
+molecules liquid
+particle viewed subject random force
+molecules small close
+treated continuous
+particle constrained surface liquid surface tension
+point time vector parallel surface
+random force component stochastic process
+real valued random variables point index set
+time
+note liquid viewed homogeneous force independent spatial coordinates
+domain random variables
+giving components force
+treatment brownian motion generally includes effect viscosity
+resulting equation motion langevin equation
+index set process
+natural numbers
+range
+real numbers
+natural questions sample sequences process
+sample sequence
+main applications discrete time continuous state stochastic models include markov chain monte carlo
+mcmc
+analysis time series
+similarly
+index space finite infinite interval
+sample paths

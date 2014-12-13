@@ -1,0 +1,281 @@
+Instrumentation
+
+instrumentation
+instrumentation defined art science measurement control process variables production manufacturing area
+instrument device measures
+regulates physical quantity
+process variables flow
+temperature
+level
+pressure
+instruments include varied contrivances simple valves transmitters
+complex analyzers
+instruments comprise control systems varied processes refineries
+factories
+vehicles
+control processes main branches applied instrumentation
+instrumentation refer handheld devices measure desired variable
+diverse handheld instrumentation common laboratories
+found household
+smoke detector common instrument found western homes
+output instrumentation includes devices solenoids
+valves
+regulators
+circuit breakers
+relays
+devices control desired output variable
+provide remote automated control capabilities
+referred final control elements controlled remotely control system
+transmitters devices produce output signal
+form electrical current signal
+options voltage
+frequency
+pressure
+ethernet
+signal informational purposes
+plc
+dcs
+scada system
+labview type computerized controller
+interpreted readable values control devices processes system
+control instrumentation plays significant role gathering information field changing field parameters
+key part control loops
+elements industrial instrumentation long histories
+scales comparing weights simple pointers position ancient technologies
+earliest measurements time
+oldest water clocks found tomb egyptian pharaoh amenhotep
+buried bce
+improvements incorporated clocks
+bce rudiments automatic control system device
+beasts burden threshing milling grain ancient
+watermills years
+christopher wren presented royal society design
+weather clock
+drawing shows meteorological sensors moving pens paper driven clockwork
+devices standard meteorology centuries
+concept remained virtually unchanged evidenced pneumatic chart recorders
+pressurized bellows displaces pen
+integrating sensors
+displays
+recorders controls uncommon industrial revolution
+limited practicality
+early years process control
+process indicators control elements valves monitored operator walked unit adjusting valves obtain desired temperatures
+pressures
+flows
+dubious discuss technology evolved pneumatic controllers invented mounted field monitored process controlled valves
+reduced amount time process operators needed monitor process
+years actual controllers moved central room signals control room monitor process outputs signals final control element valve adjust process needed
+controllers indicators mounted wall called control board
+operators stood front board walking back monitoring process indicators
+reduced number amount time process operators needed walk units
+standard pneumatic signal level years psig
+electronics enabled wiring replace pipes
+transistor commercialized mid
+instrument company introduced standard instrumentation signal
+causing confusion range standard electronic instrument signal transmitters valves
+signal eventually standardized ansi
+isa
+analog signals electronic industrial process instruments
+transformation instrumentation mechanical pneumatic transmitters
+controllers
+valves electronic instruments reduced maintenance costs electronic instruments dependable mechanical instruments
+increased efficiency production due increase accuracy
+pneumatics enjoyed advantages
+favored corrosive explosive atmospheres
+pneumatic electronic signaling standards allowed centralized monitoring control distributed process
+concept limited communication line lengths
+meters pneumatics
+pipe wire pair carried signal
+evolution instrumentation production distributed control systems
+dcs
+allowed monitoring control multiple locations widely separated
+process operator sit front screen
+longer control board
+monitor thousands points large complex
+closely related development termed control data
+scada
+technologies supported personal computers
+networks graphical user interfaces
+oxford english dictionary
+definition instrumentation
+design
+construction
+provision instruments measurement
+control
+state equipped controlled instruments collectively
+notes word originated
+early century
+traditional word musical surgical instruments
+word traditionally noun
+adjective
+instrumentation engineer
+instrumentation amplifier instrumentation system
+dictionaries note word common describing aeronautical
+scientific industrial instruments
+utility word decreased sensors control ubiquitous
+modern smart phone sensors supporting electronics classical elements instrumentation system
+embedded accelerometer determine display orientation
+touch screen digital camera complex sensors
+common application phone read interpret bar code
+matrix code
+code
+action based interpretation
+measurement instruments traditional classes
+distinct
+practice
+measurements potential decisions control
+home owner change thermostat setting response utility bill computed meter readings
+cases sensor minor element mechanism
+term instrumentation
+definition loose clear boundary defined
+toilet
+call plumber
+equivalent fluid level control nuclear power plant
+call instrumentation engineer
+digital cameras wristwatches technically meet loose definition instrumentation record
+display sensed information
+circumstances called instrumentation
+measure elapsed time race document winner finish line
+called instrumentation
+simple instrumentation system mechanical thermostat
+control household furnace control room temperature
+typical unit senses temperature metallic strip
+displays temperature needle free end strip
+activates furnace mercury switch
+switch rotated strip
+mercury makes physical
+electrical
+contact electrodes
+instrumentation system home security system
+system consists sensors
+motion detection
+switches detect door openings
+simple algorithms detect intrusion
+local control
+arm
+disarm
+remote monitoring system police summoned
+communication inherent part design
+kitchen appliances sensors control
+common toilet refills water tank float closes valve
+float acting water level sensor
+modern automobiles complex instrumentation
+addition displays engine rotational speed vehicle linear speed
+displays battery voltage current
+fluid levels
+fluid temperatures
+distance traveled feedbacks controls
+turn signals
+parking brake
+headlights
+transmission position
+cautions displayed special problems
+fuel low
+check engine
+tire pressure low
+door ajar
+seat belt unfastened
+problems recorded reported diagnostic equipment
+navigation systems provide voice commands reach destination
+automotive instrumentation cheap reliable long periods harsh environments
+independent airbag systems sensors
+logic actuators
+anti skid braking systems sensors control brakes
+cruise control affects throttle position
+wide variety services provided communication links onstar system
+autonomous cars
+exotic instrumentation
+demonstrated
+early aircraft sensors
+steam gages
+converted air pressures needle deflections interpreted altitude airspeed
+magnetic compass provided sense direction
+displays pilot critical measurements
+modern aircraft sophisticated suite sensors displays
+embedded avionics systems
+aircraft inertial navigation systems
+global positioning systems
+weather radar
+autopilots
+aircraft stabilization systems
+redundant sensors reliability
+subset information transferred crash recorder aid mishap investigations
+modern pilot displays include computer displays including head displays
+air traffic control radar distributed instrumentation system
+ground portion transmits electromagnetic pulse receives echo
+aircraft carry transponders transmit codes reception pulse
+system displays aircraft map location
+identifier optionally altitude
+map location based sensed antenna direction sensed time delay
+information embedded transponder transmission
+term collection laboratory test equipment controlled computer ieee bus
+laboratory equipment measure electrical chemical quantities
+collection equipment automate testing drinking water pollutants
+instrumentation measure parameters
+physical values
+parameters include
+addition measuring field parameters
+instrumentation responsible providing ability modify field parameters
+instrumentation engineering engineering specialization focused principle operation measuring instruments design configuration automated systems electrical
+pneumatic domains
+typically work industries automated processes
+chemical manufacturing plants
+goal improving system productivity
+reliability
+safety
+optimization
+stability
+control parameters process system
+devices microprocessors
+microcontrollers plcs
+ultimate aim control parameters system
+instrumentation engineering loosely defined required tasks domain dependent
+expert biomedical instrumentation laboratory rats concerns expert rocket instrumentation
+common concerns selection sensors based size
+weight
+cost
+reliability
+accuracy
+longevity
+environmental robustness frequency response
+sensors literally fired artillery shells
+sense thermonuclear explosions destroyed
+invariably sensor data recorded
+transmitted displayed
+recording rates capacities vary enormously
+transmission trivial clandestine
+encrypted low power presence jamming
+displays trivially simple require consultation human factors experts
+control system design varies trivial separate specialty
+instrumentation engineers commonly responsible integrating sensors recorders
+transmitters
+displays control systems
+design installation
+wiring signal conditioning
+responsible calibration
+testing maintenance system
+research environment common subject matter experts substantial instrumentation system expertise
+astronomer structure universe great deal telescopes optics
+pointing cameras
+sensing elements
+includes hard won knowledge operational procedures provide results
+astronomer knowledgeable techniques minimize temperature gradients air turbulence telescope
+instrumentation technologists
+technicians mechanics specialize troubleshooting repairing maintenance instruments instrumentation systems
+trade intertwined electricians
+pipefitters
+power engineers
+engineering companies
+find
+extremely diverse working situations
+field instrumentation richly served periodicals
+examples
+periodicals serve specific industries
+hydraulics
+pneumatics
+medical
+chemical
+imaging
+nuclear
+robotics

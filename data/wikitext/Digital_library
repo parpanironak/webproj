@@ -1,0 +1,240 @@
+Digital library
+
+digital library
+digital library library collections stored digital formats
+opposed print
+microform
+media
+accessible computers
+citation giventhe digital content stored locally
+accessed remotely computer networks
+digital library type information retrieval system
+context delos
+network excellence digital libraries
+coordination action digital library interoperability
+practices modelling foundations
+digital library researchers practitioners produced digital library reference model defines digital library
+potentially virtual organisation
+comprehensively collects
+manages preserves long depth time rich digital content
+offers targeted user communities specialised functionality content
+defined quality comprehensive codified policies
+term digital library print report corporation national research initiativesnot citation term digital libraries popularized nsf
+darpa
+nasa digital libraries initiative
+draw heavily vannevar bush
+set vision terms technology
+user experience
+term virtual library initially interchangeably digital library
+primarily libraries virtual senses
+libraries aggregate distributed content
+distinction made content created digital format
+born digital
+information converted physical medium
+paper
+digitizing
+term hybrid library libraries physical collections digital collections
+american memory digital library library congress
+important digital libraries serve long term archives
+arxiv internet archive
+digital public library america
+seek make digital information widely accessible public libraries
+academic libraries actively involved building institutional repositories institution books
+papers
+theses
+works digitized born digital
+repositories made general public restrictions
+accordance goals open access
+contrast publication research commercial journals
+publishers limit access rights
+institutional
+free
+corporate repositories referred digital libraries
+physical archives differ physical libraries ways
+traditionally
+archives defined
+technology create digital libraries revolutionary archives breaks general rules
+words
+digital archives
+online archives
+generally primary sources
+individually
+addition
+groups collections
+digital contents easily reproducible reproduced
+oxford text archive generally considered oldest digital archive academic physical primary source materials
+large scale digitization projects underway google
+million book project
+internet archive
+continued improvements book handling presentation technologies optical character recognition ebooks
+development alternative depositories business models
+digital libraries rapidly growing popularity
+libraries ventured audio video collections
+digital libraries internet archive
+google books project recently received court victory proceeding book scanning project halted authors guild
+helped open road libraries work google reach patrons accustomed digital information
+factor gave google advantage librarie fair argument
+larry lannom
+director information management technology nonprofit corporation national research initiatives
+problems digital libraries wrapped archiving
+state
+years people read article
+solved problem
+daniel akst
+author webster chronicle
+proposes
+future libraries information digital
+peter lyman hal varian
+information scientists university california
+berkeley
+estimate
+world total yearly production print
+film
+optical
+magnetic content require roughly
+billion gigabytes storage
+technologically average person access virtually recorded information
+digital libraries provide search interface resources found
+resources typically deep web
+invisible web
+resources frequently located search engine crawlers
+digital libraries create special pages sitemaps search engines find resources
+digital libraries frequently open archives initiative protocol metadata harvesting
+oai pmh
+expose metadata digital libraries
+search engines google scholar
+yahoo
+scirus oai pmh find deep web resources
+general strategies searching federation digital libraries
+distributed searching typically involves client sending multiple search requests parallel number servers federation
+results gathered
+duplicates eliminated clustered
+remaining items sorted presented back client
+protocols
+frequently distributed searching
+benefit approach resource intensive tasks indexing storage left respective servers federation
+drawback approach search mechanism limited indexing ranking capabilities database
+making difficult assemble combined result consisting relevant found items
+searching previously harvested metadata involves searching locally stored index information previously collected libraries federation
+search performed
+search mechanism make connections digital libraries searching local representation information
+approach requires creation indexing harvesting mechanism operates regularly
+connecting digital libraries querying collection order discover updated resources
+oai pmh frequently digital libraries allowing metadata harvested
+benefit approach search mechanism full control indexing ranking algorithms
+possibly allowing consistent results
+drawback harvesting indexing systems resource intensive expensive
+formal reference models include delos digital library reference model
+agosti
+streams
+structures
+spaces
+scenarios
+societies
+formal framework
+reference model open archival information system
+oais
+framework address digital preservation
+digital collections selection criteria
+number software packages general digital libraries
+notable digital library software
+institutional repository software
+focuses primarily ingest
+preservation access locally produced documents
+locally produced academic outputs
+found institutional repository software
+past years
+procedures digitizing books high speed comparatively low cost improved considerably result digitize millions books year
+google book scanning project working libraries offer digitize books pushing forward digitize book realm
+advantages digital libraries means easily rapidly accessing books
+archives images types widely recognized commercial interests public bodies alike
+traditional libraries limited storage space
+digital libraries potential store information
+simply digital information requires physical space
+cost maintaining digital library lower traditional library
+physical library spend large sums money paying staff
+book maintenance
+rent
+additional books
+digital libraries reduce
+instances
+fees
+types library require cataloguing input users locate retrieve material
+digital libraries adopt innovations technology providing users improvements electronic audio book technology presenting forms communication wikis blogs
+conventional libraries providing online access opac catalogue sufficient
+important advantage digital conversion increased accessibility users
+increase availability individuals traditional patrons library
+due geographic location organizational affiliation
+digital preservation aims ensure digital media information systems interpretable indefinite future
+component migrated
+preserved emulated
+typically lower levels systems
+floppy disks
+emulated
+bit streams
+actual files stored disks
+preserved operating systems emulated virtual machine
+meaning content digital media information systems understood migration
+case office documents
+organization
+widernet project
+created offline digital library
+egranary
+reproducing materials hard drive
+bit stream environment
+digital library built proxy server search engine digital materials accessed internet browser
+materials preserved future
+egranary intended places situations internet connectivity slow
+existent
+unreliable
+unsuitable expensive
+digital libraries hampered copyright law
+unlike traditional libraries
+digital libraries access works time period
+republication material web libraries require permission rights holders
+conflict interest libraries publishers create online versions acquired content commercial purposes
+year estimated twenty percent books existence created copyright
+printed date
+percent print
+approximately seventy percent books public
+dilution responsibility occurs result distributed nature digital resources
+complex intellectual property matters involved digital material owned library
+content
+cases
+public domain generated content
+digital libraries
+project gutenberg
+work digitize copyright works make freely public
+estimate number distinct books existent library catalogues
+made
+fair provisions
+usc
+copyright act provide specific guidelines circumstances libraries allowed copy digital resources
+factors constitute fair
+purpose
+nature work
+amount substantiality market impact
+digital libraries acquire license lend resources
+involve restriction lending copy time license
+applying system digital rights management purpose
+digital millennium copyright act act created united states attempt deal introduction digital works
+act incorporates treaties year
+criminalizes attempt circumvent measures limit access copyrighted materials
+criminalizes act attempting circumvent access control
+act exemption nonprofit libraries archives copies made
+digital
+made public distributed web
+libraries archives copy work format obsolete
+copyright issues persist
+proposals put forward suggesting digital libraries exempt copyright law
+beneficial public
+negative economic effect authors inclined create works
+traditional libraries
+ability find works interest directly related catalogued
+cataloguing electronic works digitized library existing holding simple copying moving record print electronic form
+complex born digital works require substantially effort
+handle growing volume electronic publications
+tools technologies designed effective automated semantic classification searching
+full text search searches
+common catalog searches performed full text
+including

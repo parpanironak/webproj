@@ -1,0 +1,232 @@
+Logistic function
+
+logistic function
+logistic function logistic curve common sigmoid function
+pierre verhulst studied relation population growth
+generalized logistic curve model
+shaped
+behaviour
+abbreviated curve
+growth
+initial stage growth approximately exponential
+saturation begins
+growth slows
+maturity
+growth stops
+simple logistic function defined formula
+variable considered denote population
+euler number variable thought time
+values range real numbers
+curve shown obtained
+practice
+due nature exponential function
+sufficient compute small range real numbers
+logistic function finds applications range fields
+including artificial neural networks
+biology
+biomathematics
+demography
+economics
+chemistry
+mathematical psychology
+probability
+sociology
+political science
+statistics
+easily calculated derivative
+property
+function image
+math
+png odd
+logistic function solution simple order linear differential equation
+boundary condition
+equation continuous version logistic map
+qualitative behavior easily understood terms phase line
+derivative derivative positive
+negative
+negative populations generally accord physical model
+yields unstable equilibrium
+stable equilibrium
+greater
+grows
+readily find
+symbolic
+solution
+choosing constant integration form definition logistic curve
+quantitatively
+analytical solution
+logistic curve shows early exponential growth negative
+slows linear growth slope
+approaches exponentially decaying gap
+logistic function inverse natural logit function convert logarithm odds probability
+conversion log likelihood ratio alternatives takes form logistic curve
+logistic sigmoid function related hyperbolic tangent
+typical application logistic equation common model population growth
+originally due pierre verhulst
+rate reproduction proportional existing population amount resources
+equal
+verhulst equation published verhulst read thomas malthus essay principle population
+verhulst derived logistic equation describe limiting growth biological population
+equation called verhulst pearl equation rediscovery
+alfred
+lotka derived equation
+calling law population growth
+letting represent population size
+ecology
+represent time
+model formalized differential equation
+constant defines growth rate carrying capacity
+equation
+early
+unimpeded growth rate modeled term
+rate represents proportional increase population unit time
+population grows
+term
+multiplied
+larger members population interfere competing critical resource
+food living space
+antagonistic effect called bottleneck
+modeled parameter
+competition diminishes combined growth rate
+ceases grow
+called maturity population
+dividing sides equation
+setting image
+math
+png differential equation
+image
+math
+png case started
+ecology
+species referred strategist strategist depending selective processes shaped life history strategies
+solution equation
+image
+math
+png initial population
+limiting
+highest population reach infinite time
+close reaching finite time
+important stress carrying capacity asymptotically reached independently initial
+case
+environmental conditions influence carrying capacity
+consequence time varying
+leading mathematical model
+important case carrying capacity varies periodically period
+shown case
+independently initial
+tend unique periodic solution
+period
+typical year
+case
+reflects periodical variations weather conditions
+interesting generalization carrying capacity
+function population earlier time
+capturing delay population modifies environment
+leads logistic delay equation
+rich behavior
+bistability parameter range
+monotonic decay
+smooth exponential growth
+punctuated unlimited growth
+multiple shapes
+punctuated growth alternation stationary level
+oscillatory approach stationary level
+sustainable oscillations
+finite time singularities finite time death
+logistic functions roles statistics
+firstly
+cumulative distribution function logistic family distributions
+logistic regression model probability event affected explanatory variables
+model
+explanatory variable model parameters fitted
+important application logistic function rasch model
+item response theory
+rasch model forms basis maximum likelihood estimation locations objects persons continuum
+based collections categorical data
+abilities persons continuum based responses categorized correct incorrect
+logistic regression log linear models commonly machine learning
+logistic functions neural networks introduce nonlinearity model
+clamp signals range
+popular neural net element computes linear combination input signals
+applies bounded logistic function result
+model
+smoothed
+variant classical threshold neuron
+common choice activation
+squashing
+functions
+clip large magnitudes response neural network bounded
+recognize form logistic function
+relationships result simplified implementations artificial neural networks artificial neurons
+practitioners caution sigmoidal functions antisymmetric origin
+hyperbolic tangent
+lead faster convergence training networks backpropagation
+generalisation extension logistic function multiple inputs softmax activation function
+application logistic curve medicine
+logistic differential equation model growth tumors
+application considered extension mentioned framework ecology
+generalized logistic curve
+allowing parameters
+denoting
+size tumor time
+dynamics governed
+type
+proliferation rate tumor
+chemotherapy started log kill effect
+equation revised
+therapy induced death rate
+idealized case long therapy
+modeled periodic function
+period
+case continuous infusion therapy
+constant function
+average therapy induced death rate greater baseline proliferation rate eradication disease
+oversimplified model growth therapy
+account phenomenon clonal resistance
+concentration reactants products autocatalytic reactions follow logistic function
+logistic function determines statistical distribution fermions energy states system thermal equilibrium
+distribution probabilities energy level occupied fermion
+statistics
+linguistics
+logistic function model language change
+innovation marginal begins spread quickly time
+slowly universally adopted
+logistic function illustrate progress diffusion innovation life cycle
+historically
+products introduced intense amount research development leads dramatic improvements quality reductions cost
+leads period rapid industry growth
+famous examples
+railroads
+incandescent light bulbs
+electrification
+ford model
+air travel computers
+eventually
+dramatic improvement cost reduction opportunities exhausted
+product process widespread remaining potential customers
+markets saturated
+logistic analysis papers researchers international institute applied systems analysis
+iiasa
+papers deal diffusion innovations
+infrastructures energy source substitutions role work economy long economic cycle
+long economic cycles investigated robert ayres
+cesare marchetti published long economic cycles diffusion innovations
+arnulf book
+detailed account diffusion infrastructures including canals
+railroads
+highways airlines
+showing diffusion logistic shaped curves
+carlota perez logistic curve illustrate long
+kondratiev
+business cycle labels
+beginning technological era irruption
+ascent frenzy
+rapid build synergy completion maturity
+double logistic function similar logistic function numerous applicationscitation needed
+general formula
+centre steepness factor
+sgn
+represents sign function
+based gaussian curve graphically similar identical logistic sigmoids bonded
+applications linear normalization sample
+property eliminating outliers

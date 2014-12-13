@@ -1,0 +1,390 @@
+Coordinated Universal Time
+
+coordinated universal time
+coordinated universal time
+utc
+primary time standard world regulates clocks time
+closely related successors greenwich time
+gmt
+purposes
+utc synonymous gmt
+gmt longer precisely defined scientific community
+utc standard officially standardised international radio consultative committee
+citation needed initiated national time laboratories
+system adjusted times leap seconds adopted simplify future adjustments
+number proposals made replace utc system eliminate leap seconds consensus reached
+current version utc defined international telecommunications union recommendation
+itu
+standard frequency time signal emissions
+based international atomic time
+tai
+leap seconds added irregular intervals compensate slowing earth rotation
+leap seconds utc
+needed
+including
+total seconds added
+recent added june
+high precision required
+general term universal time
+term greenwich time
+gmt
+precise definition level
+considered equivalent utc
+gmt
+implies utc informal casual contexts
+technical contexts
+usage
+gmt
+avoided
+unambiguous terminology
+utc
+preferred
+time zones world expressed positive negative offsets utc
+list time zones utc offset
+utc time standard internet world wide web standards
+network time protocol
+designed synchronise clocks computers internet
+encodes times utc system
+computer servers
+online services entities rely universally accepted time utc specific gmt
+limited precision needed
+clients obtain current utc time number official internet utc servers
+microsecond precision
+clients obtain time satellite signals
+utc time standard aviation
+flight plans air traffic control clearances
+weather forecasts maps utc avoid confusion time zones daylight saving time
+amateur radio operators schedule radio contacts utc
+transmissions frequencies picked timezones
+official abbreviation coordinated universal time utc
+abbreviation arose desire international telecommunication union international astronomical union abbreviation languages
+english speakers originally proposed cut
+coordinated universal time
+french speakers proposed tuc
+temps universel
+compromise emerged utc
+conforms pattern abbreviations variants universal time
+utc divides time days
+hours
+minutes seconds
+days conventionally identified gregorian calendar
+julian day numbers
+day hours hour
+number seconds minute
+rarely
+utc time scale
+smaller time units
+millisecond
+microsecond
+constant duration
+minute larger time units
+hour
+day
+week
+variable duration
+decisions introduce leap announced weeks advance
+produced international earth rotation reference systems service
+leap seconds predicted advance due unpredictable rate rotation earth
+utc days seconds
+minute
+solar day slightly longer seconds
+occasionally minute utc day adjusted
+extra called leap
+accounts grand total extra length
+solar days previous leap
+minute utc day permitted cover remote possibility earth rotating faster
+utc introduced
+irregular day lengths fractional julian days work properly utc
+utc calculated subtracting accumulated leap seconds international atomic time
+tai
+coordinate time scale tracking notional proper time rotating surface earth
+geoid
+order maintain close approximation
+equivalent gmt
+utc occasionally discontinuities linear function tai
+discontinuities form leap seconds implemented utc day irregular length
+discontinuities utc occurred end gregorian month
+international earth rotation reference systems service
+iers
+tracks publishes difference utc universal time
+utc
+introduces discontinuities utc interval
+discontinuities consisted leap end june december
+tai
+utc highest precision retrospect
+users require approximation real time obtain time laboratory
+disseminates approximation techniques gps radio time signals
+approximations designated utc
+abbreviation time laboratory
+time events provisionally recorded approximations
+corrections applied international bureau weights measures
+bipm
+monthly publication tables differences canonical tai
+utc tai
+utc
+estimated real time participating laboratories
+article international atomic time details
+time dilation
+standard clock geoid
+rapid motion
+maintain synchronicity utc
+telemetry clocks relation geoid provide utc required
+locations spacecraft
+utc discontinuous timescale
+compute exact time interval elapsed utc timestamps consulting table describes leap seconds occurred interval
+scientific applications require precise measurement long
+multi year
+intervals tai
+tai commonly systems handle leap seconds
+fixed offset tai gps time
+common legal trade purposes
+fractional difference utc
+gmt
+inconsequentially small
+utc called gmt
+instance
+bbc
+time zones defined differ utc integer number hours
+laws jurisdiction consulted accuracy required
+jurisdictions established time zones differ integer number half hours quarter hours utc
+utc time zone denoted letter reference equivalent nautical time zone
+gmt
+denoted
+letter refers
+zone description
+hours
+time zone history
+nato phonetic alphabet word
+zulu
+utc zulu time
+true aviation
+zulu universal standard
+ensures pilots location hour clock
+avoiding confusion flying time zones
+list military time zones letters addition qualifying time zones greenwich
+electronic devices current time zone configured maps city names
+utc selected indirectly selecting
+iceland
+utc time daylight saving
+utc change change seasons
+local time civil time change time zone jurisdiction observes daylight saving time
+summer time
+utc hours ahead
+day
+local time east coast united states winter
+hours ahead daylight saving observed
+international meridian conference held washington
+local solar time royal observatory
+greenwich england chosen define universal day
+counted midnight
+agreed civil greenwich time
+gmt
+island great britain
+contrast
+astronomical gmt began noon
+hours midnight date january
+nautical gmt began noon
+midnight date
+british navy
+persisted mentioned conference
+greenwich meridian thirds charts maps prime meridian
+term universal time
+introduced international astronomical union refer gmt day starting midnight
+broadcast time signals based
+rotation earth
+caesium atomic clock invented
+provided form timekeeping stable convenient astronomical observations
+bureau standards
+observatory started develop atomic frequency time scales
+time scales generating wwv time signals
+named shortwave radio station broadcasts
+observatory
+royal greenwich observatory
+national physical laboratory coordinated radio broadcasts time steps frequency coordinated
+resulting time scale informally referred
+coordinated universal time
+controversial decision
+frequency signals initially set match rate
+frequency atomic clocks deliberately allowed drift
+divergence grew significantly
+signal phase shifted
+stepped
+bring back agreement
+twenty steps
+data published linking frequency caesium transition
+newly established
+ephemeris
+ephemeris duration time
+independent variable laws motion govern movement planets moons solar system
+laws motion accurately predict observed positions solar system bodies
+limits observing accuracy
+ephemeris seconds constant length
+atomic seconds
+publication allowed chosen length atomic work properly celestial laws motion
+utc officially initiated start
+coordinated universal time adopted international astronomical union
+tai instant january
+identified utc instant january
+utc ticked
+tai
+time steps occurred months
+frequency end year
+jumps increased size
+jump occurred
+utc intended permit close approximation
+redefined terms frequency supplied caesium atomic clock
+length defined practically equal ephemeris time
+frequency provisionally tai
+recognised types lengths
+utc tai
+bad idea
+thought time signals maintain consistent frequency
+frequency match
+rely time steps maintain approximation
+experimentally service
+stepped atomic time
+sat
+ticked rate tai jumps stay synchronised
+dissatisfaction frequent jumps utc
+sat
+louis essen
+inventor caesium atomic clock
+independently proposed steps
+system eventually approved
+idea maintaining utc equal tai
+end
+final irregular jump
+tai seconds
+january
+utc january
+tai
+making difference utc tai integer number seconds
+time
+tick rate utc changed match tai
+utc started track
+time signals started broadcast correction
+utc
+applications requiring closer approximation utc provided
+leap occurred june
+leap seconds occurred average
+june december
+july
+utc
+seconds total
+positive
+putting utc tai
+earth rotational speed slowly decreasing due tidal deceleration
+causing solar day increase length
+length calibrated basis ephemeris time relationship solar day observed
+analysed simon newcomb
+result
+close
+solar day century
+earlier centuries solar day shorter seconds
+recent centuries longer seconds
+end century length solar day
+simply
+length day
+lod
+approximately
+reason
+slower
+tai difference
+excess
+lod
+day
+excess lod nominal accumulates time
+causing utc day
+initially synchronised sun
+desynchronised run ahead
+end century
+lod
+nominal
+utc ran faster
+day
+ahead roughly days
+leap seconds inserted approximately interval
+retarding utc synchronised long term
+note actual rotational period varies unpredictable factors tectonic motion observed
+computed
+adding leap day years year longer day years
+insertion leap days solar day longer days
+approximately years solar day lengthen
+rate
+rate fluctuates range
+rate due tidal friction
+uplift canada scandinavia metres ice age temporarily reduced
+correct reason leap seconds
+current difference actual nominal lod
+accumulation difference period time
+end
+difference
+day
+days
+accumulated
+leap added
+assume start counting seconds unix epoch
+utc atomic clock
+midnight day
+measured utc
+counter registers
+earth made full rotation respect sun
+counter register approximately
+precise vary depending plate tectonic conditions
+based counter
+calculate date
+counter register
+calculate date
+utc
+added leap december
+retarding counter
+counter
+calculate correct date
+graph
+excess lod nominal corresponds downward slope graph vertical segments
+note slope shallower
+due slight acceleration earth crust temporarily shortening day
+vertical position graph corresponds accumulation difference time
+vertical segments correspond leap seconds introduced match accumulated difference
+leap seconds timed vertical range depicted graph
+frequency leap seconds corresponds slope diagonal graph segments
+excess lod
+earth rotation continues slow
+positive leap seconds required frequently
+long term rate change lod approximately
+century
+end century lod roughly
+requiring leap seconds days
+centuries
+frequency leap seconds problematic
+time century
+leap seconds required year
+current leap opportunities june december insufficient
+march september options
+leap seconds required year
+current quarterly options insufficient
+possibility leap seconds end month
+thousand years insufficient
+leap seconds end month
+tens thousands years
+timing uncertain
+lod exceed
+causing current form utc break due requiring leap day
+continue double leaps
+increasingly untenable
+leap month leap day milestones considered
+theoristswho
+mark theoretical limit applicability utc
+actual number leap seconds track time unwieldy current standards
+utc continue horological systems redesigned cope regular leap seconds current systems
+proposal redefine utc abolish leap seconds
+sundials slowly sync civil time
+resulting gradual shift sun movements relative civil time analogous shift seasons relative yearly calendar results calendar year precisely matching tropical year length
+major practical change civil timekeeping
+effect slowly centuries
+study working unable reach consensus advance proposal radiocommunications assembly
+chairman study elected advance question radiocommunications assembly
+january
+consideration proposal postponed itu world radio conference
+proposal present form utc improved track closely
+allowing greater freedom scheduling leap seconds

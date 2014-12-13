@@ -1,0 +1,401 @@
+Computer science
+
+computer science
+computer science computing science
+abbreviated compsci
+scientific practical approach computation applications
+computer scientist specializes theory computation design computational systems
+subfields divided variety theoretical practical disciplines
+fields
+computational complexity theory
+explores fundamental properties computational problems
+highly abstract
+whilst fields computer graphics emphasize real world applications
+fields focus challenges implementing computation
+programming language theory considers approaches description computation
+whilst study computer programming investigates aspects programming language complex systems
+human computer interaction considers challenges making computers computations
+usable
+universally accessible humans
+earliest foundations computer science predate invention modern digital computer
+machines calculating fixed numerical tasks abacus existed antiquity
+wilhelm schickard designed mechanical calculator complete construction
+blaise pascal designed constructed working mechanical calculator
+pascaline
+gottfried wilhelm leibniz completed step reckoner
+calculator perform arithmetic operations
+charles babbage designed difference engine general purpose analytical engine victorian times
+ada lovelace wrote manual
+work regarded today world programmer
+punched card machines introduced
+powerful computing machines developed
+term computer refer machines human predecessors
+clear computers mathematical calculations
+field computer science broadened study computation general
+computer science began established distinct academic discipline early
+world computer science degree program
+cambridge diploma computer science
+began university cambridge computer laboratory
+computer science degree program united states formed purdue university
+practical computers
+applications computing distinct areas study
+initially believed impossible computers scientific field study
+late fifties gradually accepted greater academic population
+ibm brand formed part computer science revolution time
+ibm
+short international business machines
+released ibm ibm computers
+widely exploration period devices
+working ibm computer frustrating
+misplaced letter instruction
+program crash
+start process
+late
+computer science discipline developmental stages
+issues commonplace
+time significant improvements usability effectiveness computing technology
+modern society significant shift users computer technology
+usage experts professionals
+ubiquitous user base
+initially
+computers costly
+degree human aid needed efficient part professional computer operators
+computer adoption widespread affordable
+human assistance needed common usage
+short history formal academic discipline
+computer science made number fundamental contributions science society fact
+electronics
+founding science current epoch human history called information age driver information revolution
+major leap human technological progress industrial revolution
+agricultural revolution
+bce
+contributions include
+number computer scientists argued distinction separate paradigms computer science
+peter wegner argued paradigms science
+technology
+mathematics
+peter denning working group argued theory
+abstraction
+modeling
+design
+amnon
+eden
+rationalist paradigm
+treats computer science branch mathematics
+prevalent theoretical computer science
+employs deductive reasoning
+technocratic paradigm
+found engineering approaches
+prominently software engineering
+scientific paradigm
+approaches computer related artifacts empirical perspective natural sciences
+identifiable branches artificial intelligence
+term
+computer science
+appears article communications acm
+louis fein argues creation graduate school computer sciences analogous creation harvard business school
+justifying arguing
+management science
+applied interdisciplinary nature
+time
+characteristics academic discipline
+efforts
+numerical analyst george forsythe
+rewarded
+universities create programs
+starting purdue
+significant amount computer science involve study computers
+alternative names proposed
+departments major universities prefer term computing science
+emphasize precisely difference
+danish scientist peter naur suggested term datalogy
+reflect fact scientific discipline revolves data data treatment
+necessarily involving computers
+scientific institution term department datalogy university copenhagen
+founded
+peter naur professor datalogy
+term scandinavian countries
+early days computing
+number terms practitioners field computing suggested communications acm turingineer
+turologist
+flow charts man
+applied meta mathematician
+applied epistemologist
+months journal
+comptologist suggested
+year hypologist
+term computics suggested
+europe
+terms derived contracted translations expression
+automatic information
+informazione automatica
+italian
+information mathematics
+informatique
+french
+informatik
+german
+informatica
+italy
+spain
+portugal
+informatika
+slavic languages
+adopted
+school informatics university edinburgh
+folkloric quotation
+attributed formulated dijkstra
+states
+computer science computers astronomy telescopes
+note design deployment computers computer systems generally considered province disciplines computer science
+study computer hardware considered part computer engineering
+study commercial computer systems deployment called information technology information systems
+cross fertilization ideas computer related disciplines
+computer science research intersects disciplines
+philosophy
+cognitive science
+linguistics
+mathematics
+physics
+statistics
+logic
+computer science considered closer relationship mathematics scientific disciplines
+observers computing mathematical science
+early computer science strongly influenced work mathematicians kurt alan turing
+continues interchange ideas fields areas mathematical logic
+category theory
+domain theory
+algebra
+relationship computer science software engineering contentious issue
+muddied disputes term
+software engineering
+means
+computer science defined
+david parnas
+taking cue relationship engineering science disciplines
+claimed principal focus computer science studying properties computation general
+principal focus software engineering design specific computations achieve practical goals
+making separate complementary disciplines
+academic
+political
+funding aspects computer science tend depend department formed mathematical emphasis engineering emphasis
+computer science departments mathematics emphasis numerical orientation alignment computational science
+types departments tend make efforts bridge field educationally research
+discipline
+computer science spans range topics theoretical studies algorithms limits computation practical issues implementing computing systems hardware software
+csab
+called computing sciences accreditation board made representatives association computing machinery
+acm
+ieee computer society
+ieee
+identifies areas considers crucial discipline computer science
+theory computation
+algorithms data structures
+programming methodology languages
+computer elements architecture
+addition areas
+csab identifies fields software engineering
+artificial intelligence
+computer networking communication
+database systems
+parallel computation
+distributed computation
+computer human interaction
+computer graphics
+operating systems
+numerical symbolic computation important areas computer science
+broader field theoretical computer science encompasses classical theory computation wide range topics focus abstract
+logical
+mathematical aspects computing
+peter
+denning
+fundamental question underlying computer science
+efficiently
+automated
+study theory computation focused answering fundamental questions computed amount resources required perform computations
+effort answer question
+computability theory examines computational problems solvable theoretical models computation
+question addressed computational complexity theory
+studies time space costs approaches solving multitude computational problems
+famous
+problem
+millennium prize problems
+open problem theory computation
+information theory related quantification information
+developed claude
+shannon find fundamental limits signal processing operations compressing data reliably storing communicating data
+coding theory study properties codes
+systems converting information form
+fitness specific application
+codes data compression
+cryptography
+error detection correction
+recently network coding
+codes studied purpose designing efficient reliable data transmission methods
+programming language theory
+plt
+branch computer science deals design
+implementation
+analysis
+characterization
+classification programming languages individual features
+falls discipline computer science
+depending affecting mathematics
+software engineering linguistics
+active research area
+numerous dedicated academic journals
+formal methods kind mathematically based technique specification
+development verification software hardware systems
+formal methods software hardware design motivated expectation
+engineering disciplines
+performing mathematical analysis contribute reliability robustness design
+high cost formal methods means development high integrity life critical systems
+safety security utmost importance
+formal methods application fairly broad variety theoretical computer science fundamentals
+logic calculi
+formal languages
+automata theory
+program semantics
+type systems algebraic data types problems software hardware specification verification
+concurrency property systems computations executing simultaneously
+potentially interacting
+number mathematical models developed general concurrent computation including petri nets
+process calculi parallel random access machine model
+distributed system extends idea concurrency multiple computers connected network
+computers distributed system private memory
+information exchanged achieve common goal
+database intended organize
+store
+retrieve large amounts data easily
+digital databases managed database management systems store
+create
+maintain
+search data
+database models query languages
+branch computer science aims required synthesise goal orientated processes problem solving
+decision making
+environmental adaptation
+learning communication found humans animals
+origins cybernetics dartmouth conference
+artificial intelligence
+research necessarily cross disciplinary
+drawing areas expertise applied mathematics
+symbolic logic
+semiotics
+electrical engineering
+philosophy mind
+neurophysiology
+social intelligence
+popular mind robotic development
+main field practical application embedded component areas software development require computational understanding modeling finance economics
+data mining physical sciences
+starting point late alan turing question
+computers
+question remains effectively unanswered
+turing test
+assess computer output scale human intelligence
+automation evaluative predictive tasks increasingly successful substitute human monitoring intervention domains computer application involving complex real world data
+computer architecture
+digital computer organization
+conceptual design fundamental operational structure computer system
+focuses largely central processing unit performs internally accesses addresses memory
+field involves disciplines computer engineering electrical engineering
+selecting interconnecting hardware components create computers meet functional
+performance
+cost goals
+computer graphics study digital visual contents
+involves syntheses manipulations image data
+study connected fields computer science
+including computer vision
+image processing
+computational geometry
+heavily applied fields special effects video games
+computer security branch computer technology
+objective includes protection information unauthorized access
+disruption
+modification maintaining accessibility usability system intended users
+cryptography practice study hiding
+encryption
+deciphering
+decryption
+information
+modern cryptography largely related computer science
+encryption decryption algorithms based computational complexity
+computational science
+scientific computing
+field study concerned constructing mathematical models quantitative analysis techniques computers analyze solve scientific problems
+practical
+typically application computer simulation forms computation problems scientific disciplines
+health informatics computer science deals computational techniques solving problems health care
+software engineering study designing
+implementing
+modifying software order ensure high quality
+affordable
+maintainable
+fast build
+systematic approach software design
+involving application engineering practices software
+software engineering deals organizing analyzing deal creation manufacture software
+internal maintenance arrangement
+computer applications software engineers computer systems software engineers projected fastest growing occupations
+conferences strategic events academic research computer science
+conferences
+researchers public private sectors present recent work meet
+proceedings conferences important part computer science literature
+universities teach computer science theoretical study computation algorithmic reasoning
+programs feature theory computation
+analysis algorithms
+formal methods
+concurrency theory
+databases
+computer graphics
+systems analysis
+typically teach computer programming
+treat vessel support fields computer science central focus high level study
+acm
+ieee joint curriculum task force
+computing curriculum
+update
+guideline university curriculum
+colleges universities
+secondary schools vocational programs teach computer science
+emphasize practice advanced programming theory algorithms computation computer science curricula
+curricula tend focus skills important workers entering software industry
+process aspects computer programming referred software engineering
+computer science professions increasingly drive
+economy
+computer science education absent american curricula
+report entitled
+running empty
+failure teach computer science digital age
+released october association computing machinery
+acm
+computer science teachers association
+csta
+revealed states adopted significant education standards high school computer science
+report found states count high school computer science courses core academic subject graduation requirements
+tandem
+running empty
+partisan advocacy coalition computing core
+cinc
+founded influence federal state policy
+computer science education act
+calls grants states develop plans improving computer science education supporting computer science teachers
+united states gender gap computer science education observed
+research conducted wgbh educational foundation association computing machinery
+acm
+revealed high school boys considered computer science college major high school girls
+addition
+high school advanced placement
+exam computer science displayed disparity gender
+compared subjects lowest number female participants
+composition percent women
+gender gap computer science witnessed college level
+percent undergraduate computer science degrees earned women percent computer science faculty consists women
+article published epistemic games group august
+number women graduates computer science field declined percent
+computer software engineer
+bureau labor statistics
+bureau labor statistics
+web
+feb

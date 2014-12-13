@@ -1,0 +1,132 @@
+Epoch (reference date)
+
+epoch
+fields chronology periodization
+epoch instant time chosen origin era
+epoch
+serves reference point time measured
+time measurement units counted epoch date time events unambiguously
+events taking place epoch dated counting negatively epoch
+pragmatic periodization practice
+epochs defined past
+epoch start era
+serving ending older preceding era
+purpose criteria definitions clarify ordinate scholarship period
+times
+disciplines
+epochs generally chosen convenient significant consensus time scale initial users
+authoritarian fiat
+epoch moment date defined specific clear event
+condition
+epoch event epoch criteria period era age characterized
+examples
+calendar era starts arbitrary epoch
+chosen commemorate important historical mythological event
+epoch anno domini calendar era
+civil calendar era internationally countries
+incarnation jesus
+current historical calendar eras exist
+epoch
+astronomy
+epoch specific moment time celestial coordinates orbital elements
+orbital parametrics calculated order predict future position
+applied tools mathematics disciplines celestial mechanics subfield orbital mechanics
+predict orbital paths positions
+center gravity generate ephemeris
+plural
+ephemerides
+greek word ephemeros daily
+table values positions astronomical objects sky time times
+formula calculate proper time offset epoch
+calculations generally result elliptical path plane defined point orbit
+foci ellipse
+viewing orbiting body
+trace orbit
+creates shifts dimensions spherical trigonometry calculate relative positions
+interestingly
+dynamics dimensions elliptical
+means ephemeris set equations predictive tool predict future location object interest
+time
+inexactitudes errors accumulate
+creating greater errors prediction
+ephemeris factors recalculated time time
+requires epoch defined
+astronomers groups astronomers define epochs suit
+days speedy communications
+epochs generally defined international agreement
+astronomers world wide collaborate effectively
+inefficient error prone data observed group translation
+mathematic transformation
+groups compare information
+current standard epoch called
+approximately noon january
+gregorian calendar
+royal observatory
+greenwich
+london england
+equivalent
+dates times expressed years decimal fraction
+years
+days
+average length year julian calendar
+time internally computer system expressed number time units elapsed epoch
+midnight universal time date
+software timekeeping systems vary widely granularity time units
+systems time units large day
+nanoseconds
+epoch date midnight utc january
+time unit
+time midnight january
+represented number
+number seconds day
+times prior epoch represented
+common system
+negative numbers
+representations time internal
+end user interaction dates times required
+software convert internal number date time representation comprehensible humans
+table lists epoch dates popular software computer related systems
+time systems stored quantity time unit
+days
+seconds
+nanoseconds
+elapsed stated time
+midnight utc beginning date
+computers generally store arbitrarily large numbers
+number stored computer allotted fixed amount space
+number time units elapsed system epoch exceeds largest number fit space allotted time representation
+time representation overflows
+problems occur
+system behavior overflow occurs necessarily predictable
+systems number representing time reset
+computer system current time epoch time
+famously
+older systems counted time number years elapsed epoch january
+allotted space store numbers
+experienced year problem
+systems
+corrected
+interpret date january
+january
+leading unpredictable errors beginning year
+systems allocate storage time representation immune kind error
+unix operating systems time seconds elapsed epoch date january
+allot timekeeping storage store numbers large experience overflow problem january
+fixed
+year problem
+correction involving doubling storage allocated timekeeping systems represent dates billion years future
+subtle timekeeping problems exist computing
+accounting leap seconds
+observed predictability regularity
+additionally
+applications represent historical dates times
+representing date prior switch julian calendar gregorian calendar
+specialized timekeeping libraries
+finally
+software maintain compatibility older software time strict accordance traditional timekeeping systems
+microsoft excel observes fictional date february
+order maintain compatibility older versions lotus
+lotus observed date due error
+time error discovered
+late fix
+change disrupt formulas written accommodate anomaly

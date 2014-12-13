@@ -1,0 +1,320 @@
+Fundamental theorem of calculus
+
+fundamental theorem calculus
+fundamental theorem calculus theorem links concept derivative function concept integral
+part theorem
+called fundamental theorem calculus
+shows indefinite integration reversed differentiation
+part theorem important guarantees existence antiderivatives continuous functions
+part
+called fundamental theorem calculus
+compute definite integral function infinitely antiderivatives
+part theorem invaluable practical applications
+markedly simplifies computation definite integrals
+published statement proof restricted version fundamental theorem james gregory
+isaac barrow
+proved generalized version theorem barrow student isaac newton
+completed development surrounding mathematical theory
+gottfried leibniz
+systematized knowledge calculus infinitesimal quantities introduced notation today
+intuitively
+theorem simply states sum infinitesimal quantity time
+quantity
+adds net change quantity
+case particle traveling straight line
+position
+image
+math
+png
+image
+math
+png image
+math
+png time image
+math
+png means image
+math
+png function image
+math
+png
+derivative function equal infinitesimal change quantity
+image
+math
+png
+infinitesimal change time
+image
+math
+png
+derivative dependent time
+change displacement change time velocity image
+math
+png particle
+leibniz notation
+rearranging equation
+logic
+change image
+math
+png
+image
+math
+png
+sum infinitesimal image
+math
+png
+equal sum infinitesimal products derivative time
+infinite summation integration
+integration operation recovery original function derivative
+concluded operation works reverse
+result integral differentiated recover original function
+continuous function
+graph plotted curve
+area function
+representing area beneath curve
+function
+represents area curve
+area curve computed finding area
+subtracting area
+words
+area
+estimate area sliver
+multiplied
+find area rectangle approximately size sliver
+intuitive approximation improves smaller
+point
+true
+approximately equal
+words
+approximation equality approaches limit
+sides equation divided
+approaches
+hand side equation simply derivative
+area function
+left hand side equation simply remains
+present
+shown
+informal
+derivative area function
+original function
+area function simply antiderivative original function
+computing derivative function curve
+opposite
+operations
+crux fundamental theorem calculus
+theorem proof devoted showing area function
+exists place
+conditions
+parts theorem
+loosely put
+part deals derivative antiderivative
+part deals relationship antiderivatives definite integrals
+part referred fundamental theorem calculus
+continuous real valued function defined closed interval
+function defined
+continuous
+differentiable open interval
+fundamental theorem employed compute definite integral function antiderivative
+specifically
+real valued continuous function
+antiderivative
+corollary assumes continuity interval
+result strengthened slightly part theorem
+part referred fundamental theorem calculus axiom
+real valued functions defined closed interval
+derivative
+functions
+riemann integrable
+part stronger corollary assume continuous
+antiderivative exists
+infinitely antiderivatives
+obtained adding arbitrary constant
+part theorem
+antiderivatives exist continuous
+define function
+numbers
+subtracting equations
+shown
+manipulating equation
+substituting
+results
+theorem integration
+exists
+substituting
+dividing sides
+limit sides equation
+expression left side equation definition derivative
+find limit
+squeeze theorem
+number interval
+image
+math
+png image
+math
+png
+squeeze theorem
+substituting
+function continuous
+limit inside function
+completes proof
+leithold
+suppose antiderivative
+continuous
+part theorem
+antiderivative
+theorem number
+letting
+means
+words
+limit proof riemann sums
+riemann
+integrable interval
+admit antiderivative
+begin quantity
+numbers
+add
+additive inverse
+resulting quantity equal
+quantity written sum
+employ theorem
+stated briefly
+continuous closed interval
+differentiable open interval
+exists
+function differentiable interval
+differentiable continuous interval
+theorem
+substituting
+assumption implies image
+math
+png
+image
+math
+png expressed image
+math
+png partition image
+math
+png
+describing area rectangle
+width times height
+adding areas
+rectangle
+virtue theorem
+describes approximation curve section drawn
+image
+math
+png values
+words width rectangles differ
+approximate curve rectangles
+size partitions smaller increases
+resulting partitions cover space
+closer closer actual area curve
+taking limit expression norm partitions approaches
+arrive riemann integral
+limit exists assumed integrable
+limit largest partitions approaches size
+partitions smaller number partitions approaches
+limit sides
+dependent image
+math
+png
+limit left side remains
+expression side equation defines integral
+obtain
+completes proof
+part theorem directly
+suppose antiderivative
+theorem
+image
+math
+png
+suppose image
+math
+png
+derivative
+argument works
+antiderivative
+continuous functions antiderivatives part fundamental theorem
+antiderivative
+simpler expression function
+important interpret part theorem definition integral
+functions integrable lack antiderivatives written elementary function
+conversely
+functions antiderivatives riemann integrable
+volterra function
+suppose calculated
+image
+math
+png image
+math
+png antiderivative
+generally
+calculated
+image
+math
+png image
+math
+png antiderivative
+equivalently
+assume continuity interval
+part theorem
+lebesgue integrable function
+number
+continuous
+differentiable
+relax conditions suppose locally integrable
+case
+conclude function differentiable
+real line statement equivalent lebesgue differentiation theorem
+results remain true integral
+larger class integrable functions
+bartle
+thm
+higher dimensions lebesgue differentiation theorem generalizes fundamental theorem calculus stating
+average function ball radius centered
+part theorem true lebesgue integrable function
+antiderivative
+integrable functions
+words
+real function
+admits derivative
+point
+derivative lebesgue integrable
+result fail continuous functions admit derivative
+point
+cantor function shows
+result remains true absolutely continuous
+case
+admits derivative
+point
+formula
+equal integral
+conditions theorem relaxed integrals involved integrals
+specifically
+continuous function
+admits derivative
+countably points
+integrable
+equal integral
+difference integrability assumed
+bartle
+thm
+version taylor theorem
+expresses error term integral
+generalization fundamental theorem
+version theorem complex functions
+suppose open set
+function holomorphic antiderivative
+curve
+curve integral computed
+fundamental theorem generalized curve surface integrals higher dimensions manifolds
+generalization offered calculus moving surfaces time evolution integrals
+familiar extensions fundamental theorem calculus dimensions green theorem dimensional case gradient theorem
+powerful statements direction stokes theorem
+oriented piecewise smooth manifold dimension image
+math
+png form compactly supported differential form class
+denotes boundary induced orientation
+exterior derivative
+defined manifold structure
+theorem situations embedded oriented submanifold bigger manifold form image
+math
+png defined

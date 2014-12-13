@@ -1,0 +1,353 @@
+Lattice (order)
+
+lattice
+mathematics
+lattice partially ordered set elements supremum
+called upper bound join
+infimum
+called greatest lower bound meet
+lattices characterized algebraic structures satisfying axiomatic identities
+definitions equivalent
+lattice theory draws order theory universal algebra
+semilattices include lattices
+turn include heyting boolean algebras
+lattice
+structures admit order theoretic algebraic descriptions
+poset
+lattice satisfies axioms
+join meet denoted image
+math
+png image
+math
+png
+definition makes image
+math
+png image
+math
+png binary operations
+axiom join semilattice
+meet semilattice
+operations monotone respect order
+implies image
+math
+png image
+math
+png image
+math
+image
+math
+induction argument empty finite subset lattice join
+supremum
+meet
+infimum
+additional assumptions
+conclusions
+completeness
+order theory
+discussion subject
+article discusses rephrase definition terms existence suitable galois connections related posets approach special interest category theoretic approach lattices
+bounded lattice greatest
+maximum
+minimum
+element
+denoted convention
+called top
+bottom
+lattice converted bounded lattice adding greatest element
+empty finite lattice bounded
+taking join
+resp
+meet
+elements
+denoted image
+math
+png
+resp
+image
+math
+png
+image
+math
+png
+poset bounded lattice finite set elements
+including empty set
+join meet
+element poset trivially true
+vacuous truth
+image
+math
+png image
+math
+png
+element poset upper bound lower bound empty set
+implies join empty set element image
+math
+png
+meet empty set greatest element image
+math
+png
+consistent associativity commutativity meet join
+join union finite sets equal join joins sets
+dually
+meet union finite sets equal meet meets sets
+finite subsets poset
+hold
+taking empty set
+consistent fact image
+math
+png
+algebraic structure
+image
+math
+png
+consisting set binary operations image
+math
+png
+image
+math
+png
+lattice axiomatic identities hold elements
+identities regarded axioms
+follow absorption laws
+axioms assert
+image
+math
+png
+image
+math
+png
+semilattices
+absorption laws
+axioms meet join
+distinguish lattice random pair semilattices assure semilattices interact appropriately
+semilattice dual
+bounded lattice algebraic structure form
+image
+math
+png
+image
+math
+png
+lattice
+lattice bottom
+identity element join operation image
+math
+png
+lattice top
+identity element meet operation image
+math
+png
+semilattice details
+lattices connections family group algebraic structures
+meet join commute associate
+lattice viewed consisting commutative semigroups domain
+bounded lattice
+semigroups fact commutative monoids
+absorption law defining identity peculiar lattice theory
+commutativity associativity join meet binary operations defined empty finite sets
+elements
+bounded lattice empty join empty meet defined
+makes bounded lattices natural general lattices
+authors require lattices bounded
+algebraic interpretation lattices plays essential role universal algebra
+order theoretic lattice rise binary operations image
+math
+png image
+math
+png
+commutative
+associative absorption laws easily verified operations
+make
+image
+math
+png
+image
+math
+png
+lattice algebraic sense
+converse true
+algebraically defined lattice
+image
+math
+png
+image
+math
+png
+define partial order setting
+elements
+laws absorption ensure definitions equivalent
+check relation introduced defines partial ordering binary meets joins original operations image
+math
+png image
+math
+png
+definitions lattice equivalent
+freely invoke aspects definition suits purpose hand
+posets lattices
+including
+examples lattices additional properties discussed
+notion morphism lattices flows easily algebraic definition
+lattices
+homomorphism lattices lattice homomorphism function
+homomorphism underlying semilattices
+lattices structure considered
+morphisms respect extra structure
+morphism bounded lattices property
+order theoretic formulation
+conditions state homomorphism lattices function preserving binary meets joins
+bounded lattices
+preservation greatest elements preservation join meet empty set
+homomorphism lattices necessarily monotone respect ordering relation
+preservation limits
+converse true
+monotonicity means implies required preservation meets joins
+order preserving bijection homomorphism inverse order preserving
+standard definition isomorphisms invertible morphisms
+lattice isomorphism bijective lattice homomorphism
+similarly
+lattice endomorphism lattice homomorphism lattice
+lattice automorphism bijective lattice endomorphism
+lattices homomorphisms form category
+introduce number important properties lead interesting special classes lattices
+boundedness
+discussed
+poset called complete lattice subsets join meet
+complete lattice bounded lattice
+bounded lattice homomorphisms general preserve finite joins meets
+complete lattice homomorphisms required preserve arbitrary joins meets
+poset complete semilattice complete lattice
+related result interesting phenomenon competing notions homomorphism class posets
+depending complete lattices
+complete join semilattices
+complete meet semilattices
+join complete meet complete lattices
+conditionally complete lattice lattice nonempty subset upper bound join
+upper bound
+lattices provide direct generalization completeness axiom real numbers
+conditionally complete lattice complete lattice
+complete lattice maximum element
+minimum element
+lattices binary operations
+natural distributes
+dual laws holds elements
+lattice satisfies
+equivalently
+turns
+axiom
+called distributive lattice
+overview stronger notions distributivity complete lattices define special classes lattices frames completely distributive lattices
+distributivity order theory
+applications distributivity condition strong
+weaker property
+lattice
+modular
+elements
+identity holds
+condition equivalent axiom
+distributive lattices
+examples modular lattices lattice sided ideals ring
+lattice submodules module
+lattice normal subgroups group
+finite lattice modular upper lower semimodular
+graded lattice
+upper
+semimodularity equivalent condition rank function
+equivalent
+graded lattices
+condition birkhoff condition
+cover exist
+context
+implies
+lattice called lower semimodular dual semimodular
+finite lattices means previous conditions hold image
+math
+png image
+math
+png exchanged
+covers
+exchanged
+covered
+inequalities reversed
+domain theory
+natural seek approximate elements partial order
+simpler
+elements
+leads class continuous posets
+consisting posets element obtained supremum directed set elements element
+additionally restrict compact elements poset obtaining directed sets
+poset algebraic
+concepts applied lattices
+classes interesting properties
+continuous lattices characterized algebraic structures
+infinitary operations
+satisfying identities
+characterization algebraic lattices
+syntactically
+scott information systems
+bounded lattice greatest element element
+elements complements
+case complement unique
+write equivalently
+bounded lattice element complement called complemented lattice
+unary operation
+called complementation
+introduces analogue logical negation lattice theory
+complement necessarily unique
+special status unary operations
+complemented lattice distributive boolean algebra
+distributive lattice
+complement
+exists
+unique
+heyting algebras distributive lattices members lacking complements
+element heyting algebra
+hand
+pseudo complement
+denoted
+pseudo complement greatest element image
+math
+pngy
+pseudo complement element heyting algebra fact complement
+heyting algebra fact boolean algebra
+chain set image
+math
+png
+image
+math
+png
+length chain
+number elements
+chain maximal covers
+pair
+maximal chains length
+lattice satisfy chain condition
+sublattice lattice nonempty subset lattice meet join operations
+lattice image
+math
+png subset pair elements
+image
+math
+pngb image
+math
+pngb
+sublattice
+sublattice lattice convex sublattice
+implies belongs
+elements
+set generate free semilattice
+free semilattice defined consist finite subsets
+semilattice operation ordinary set union
+free semilattice universal property
+define order theoretic notions importance lattice theory
+element lattice
+required
+element atom exists element
+dual notions ideals filters refer kinds subsets partially ordered set
+important lattice theory
+details found respective entries
+monographs free online
+elementary texts recommended limited mathematical maturity
+standard contemporary introductory text
+harder
+advanced monographs
+free lattices

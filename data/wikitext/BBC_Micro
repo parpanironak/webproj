@@ -1,0 +1,488 @@
+BBC Micro
+
+bbc micro
+dfs
+adfs floppy discs
+model
+model
+master
+colours
+framebuffer modes
+bbc microcomputer system
+bbc micro
+series microcomputers peripherals designed built acorn computer company bbc computer literacy project
+operated british broadcasting corporation
+designed emphasis education
+notable ruggedness
+expandability quality operating system
+literacy project call bids computer accompany programmes literature
+acorn won contract proton
+successor atom computer prototyped short notice
+renamed bbc micro
+system adopted schools united kingdom
+changing acorn fortunes
+moderately successful home computer high cost
+acorn employed machine simulate develop arm architecture embedded systems
+models eventually produced bbc brand
+term
+bbc micro
+colloquially refer
+model
+master
+master compact
+subsequent models considered part acorn archimedes series
+early
+bbc started bbc computer literacy project
+project initiated partly response extremely influential itv documentary series mighty micro
+christopher evans national physical laboratory predicted coming microcomputer revolution effect economy
+industry
+lifestyle united kingdom
+bbc wanted base project microcomputer capable performing tasks demonstrate series computer programme
+list topics included programming
+graphics
+sound music
+teletext
+controlling external hardware artificial intelligence
+decided adopt microcomputer brand
+developed fairly ambitious
+time
+specification asked takers
+bbc discussed requirement companies including sinclair research
+newbury laboratories
+dragon data acorn computers
+acorn team working upgrade existing atom microcomputer
+proton
+included graphics faster mos technology central processing unit
+machine design stage time
+acorn team
+composed largely students including steve furber sophie wilson
+week build working prototype sketched designs
+team worked night working proton show bbc
+acorn proton machine match bbc specification
+exceeded parameter
+machine released bbc microcomputer december bbc declines confirm official release date affectionately beeb
+machine popular
+educational market
+cent british schools bbc microcomputer
+sinclair spectrum commodore commodore
+released
+demand greatly exceeded supply
+months
+long delays customers received machines ordered
+efforts made market machine united states germany
+october
+operation reported american schools orders totalling million
+october
+preparing major expansion dealer network
+acorn claimed sales cent computers british schools
+delivery machines month
+december
+acorn stated intention market leader educational computing
+york times considered inclusion local area networking prime importance teachers
+operation resulted advertisements dealer interface age magazine
+ultimately attempt failed
+success machine due largely acceptance
+educational
+computer schools bbc micros teach computer literacy
+information technology skills generation games programmers
+acorn model computer products
+commonwealth countries
+including india
+started computer literacy programs bbc micro
+clone produced semiconductor complex limited named scl unicorn
+advantage bbc micro educational market durable construction
+casing keyboard built solidly cope abuse schoolchildren
+citation needed
+model model priced initially
+increasing immediately due increased costs
+model price roughly
+prices
+acorn anticipated total sales units
+eventually
+million bbc micros sold
+cost bbc models high compared competitors spectrum commodore
+acorn attempted counter producing simplified largely compatible version intended game playing
+acorn electron
+citation needed
+model user ram
+model
+feature micro shared computers applecitation needed early commodore modelscitation needed ram clocked fast cpu
+mhz
+alternating access cpu video display circuits
+gave bbc micro fully unified memory address structure speed penalties
+competing microcomputers memory mapped display incurred cpu speed penalties depending actions video circuits
+amstrad cpc lesser extent spectrum
+video memory completely separate cpu address pool
+msx
+machine included number extra input
+output interfaces
+serial parallel printer ports
+bit general purpose digital
+port
+port offering analogue inputs
+light pen input
+switch inputs
+expansion connector
+mhz bus
+enabled hardware connected
+extra roms fitted
+pcb sixteen expansion hardware
+accessed paged memory
+econet network interface disk drive interface options
+motherboards space electronic components
+econet rarely fitted
+additionally
+acorn proprietary interface named
+tube
+allowed processor added
+models processor offered acorn
+based
+cpus
+tube party add ons
+including zilog board hard disk drive torch allowed bbc machine run
+programs
+separate pages
+codename
+control access
+tube interface allowed acorn bbc micros arm limited cpus software development machines creating acorn archimedes
+resulted arm development kit bbc micro
+priced
+kit cpu running
+ram
+released bbc micro master
+tube interface convert bit micros bit risc machines acorn decades previously
+software operated tube enhanced version elite video game
+computer aided design system required cpu dimensional joystick named
+bitstik
+model model built printed circuit board
+pcb
+model upgraded model difficulty
+users wishing operate model software needed add extra ram user
+printer
+games timers
+snip link
+task achieved soldering
+full upgrade external ports
+require soldering connectors motherboard
+original machines shipped
+updates advertised magazines
+supplied clip integrated circuit
+official version
+variations acorn exist result home made projects modified machines bought internet auction sites ebay
+bbc model phased production introduction electron
+chairman chris curry stating time acorn
+longer promote
+model
+citation needed
+early bbc micros linear power supplies insistence bbc engineering specification
+hot running psus replaced production switched mode units
+apparent oversight manufacturing process resulted significant number model producing constant buzzing noise built speaker
+fault rectified partly soldering resistor pads
+developments main bbc micro circuit board addressed issues models production
+issue issue variants released
+bbc microcomputer service manual acorn documented details technical
+watford electronics comments ram board manual
+early issue bbcs
+issue circuit boards
+notorious specification timings
+problems occur sort machine
+problem generally cured rockwell cpu chip
+replacing
+faster
+export models developed
+econet speech hardware standard
+west germany
+fitted radio frequency shielding required respective countries
+based intel floppy drive controller
+june spelled completely
+british broadcasting corporation microcomputer system
+avoid confusion brown
+boveri cie international markets
+models included basic iii rom chip
+modified accept american spelling color
+height graphics display reduced scan lines suit ntsc tvs
+severely affecting applications written british computers
+failed marketing campaign unwanted machines remanufactured british market sold
+resulting export variant
+october
+acorn business computer
+abc
+acorn cambridge workstation range machines announced
+based primarily bbc hardware
+acorn introduced model mid
+increasing total ram including floppy disk support standard
+modest market effect
+extra ram model bbc micro assigned blocks
+block dedicated solely screen display
+called
+shadow
+ram
+block pecial sideways ram
+additional
+sideways
+ram banks
+give total ram
+incapable operating original bbc programs games
+popular castle quest
+problem replacement intel floppy disk controller western digital controller mapped addresses
+fundamentally incompatible emulators exist necessarily imperfect basic operation
+piece software copy protection techniques involving direct access controller
+simply operate system
+acorn attempted alleviate versions
+dfs backward compatible ctrl break option
+long running problem late
+commercial life infamous owners
+superior software released repton
+refused operate
+series unsuccessful replacements issued compatible finally released
+acorn bbc master
+offered memory sizes refinements improved original
+essentially based bbc architecture
+upgrades original design intentionally made
+extra rom software
+extra paged ram
+processors
+included circuit board internal plug modules
+bbc micro platform amassed large software base games educational programs main home educational computer
+notable examples include original release elite granny garden
+programming languages applications supplied rom chips installed motherboard
+loaded instantly left ram free programs documents
+content supported television broadcasters
+telesoftware downloaded optional teletext adapter party teletext adaptors emerged
+built operating system
+acorn mos
+provided extensive api interface standard peripherals
+rom based software screen
+features private versions basic
+vector graphics
+keyboard macros
+cursor based editing
+sound queues envelopes
+mos rom made application
+bbc basic
+separate rom
+replaced equivalent language
+basic
+languages utility rom chips resided paged rom sockets
+support sixteen sockets expansion hardware
+total
+sockets located partially obscured keyboard
+rightmost socket reserved language
+leftmost socket reserved
+original usage perforated panel left keyboard serial rom speech rom
+zif socket edgecard connector installed location
+socket connected empty sideways
+pagedrom sockets header cable
+paged rom system essentially modular
+language independent system star commands
+prefixed asterisk
+provided ability select language
+basic
+pascal
+filing system
+tape
+disc
+change settings
+opt
+carry rom supplied tasks
+copy
+format
+command line
+mos recognised handful built commands
+polled paged roms descending order service
+claimed command returned bad command error
+connecting external eprom programmer
+write extensive programs
+copy programmable rom
+prom
+eprom
+invoke taxing user memory
+roms offered star commands
+roms data files
+instance
+rom
+hook
+vectors enhance system functionality
+combined mass storage device driver filing system
+starting acorn disc filing system api facto standard floppy disc access
+acorn graphics extension rom
+gxr
+expanded vdu routines draw geometric shapes
+flood fills sprites
+micro power designed marketed basic extension rom
+introducing statements
+endwhile
+case
+endcase
+direct mode commands including verify
+acorn strongly discouraged programmers directly accessing system variables hardware
+favouring official system calls
+ostensibly make programs working migrated coprocessors utilized tube interface
+made bbc micro software portable acorn range
+untrappable peeks pokes commonly computers reach system elements
+programs machine code bbc basic pass parameters operating system routine
+mos translate request local machine send tube interface
+direct access impossible coprocessor
+published programs largely conformed api games
+routinely engaged hardware greater speed
+required acorn model
+early bbc micros ample
+allowing machines interconnected
+schools universities employed machines econet networks
+numerous networked multiplayer games created
+exception tank game
+bolo
+popular
+small measure due limited number machines aggregated place
+late documented found dissertation based ringed interconnect
+line ethos expandability acorn produced range peripherals bbc micro
+including
+manufactures produced abundance add hardware
+common
+built rom resident bbc basic programming language interpreter realised system educational emphasis key success
+comprehensive basic compared contemporary implementations ran efficiently fast
+advanced programs written resorting structured programming machine code
+competing computers
+assembly programming
+bbc basic featured built assembler allowed easy mixture bbc basic assembler processor bbc basic operating
+bbc micro released
+competing home computers microsoft basic
+variants typically designed resemble
+compared microsoft basic
+bbc basic featured
+named procedures functions
+retained goto gosub compatibility
+supported high resolution graphics
+channel sound
+pointer based memory access
+borrowed bcpl
+rudimentary macro assembly
+long variable names accepted distinguished completely
+characters
+acorn made point supporting bbc basic number contemporary languages supplied rom chips fit spare ideways rom sockets motherboard
+languages supplied tape disk based
+programming languages acorn
+acorn produced bit reduced instruction set
+risc
+cpu
+furber composed reference model processor bbc micro lines basic
+arm holdings retains copies code intellectual property purposes
+prototype arm platforms
+arm evaluation system workstation
+functioned processors attached bbc micro tube interface
+acorn staff developed operating system situ tube
+board
+ports enabled ran stand computer
+upgraded processor eventually released models archimedes series
+lower models
+continuing bbc microcomputer brand distinctive red function keys
+archimedes ultimately major success
+arm family processors dominant processor architecture mobile embedded consumer devices
+mobile telephones
+acorn bbc related model
+bbc
+released
+essentially archimedes back single case form factor
+ready expandability
+functions
+numbers bbcs
+retrocomputing community dedicated users finding tasks hardware
+survive interactive displays museums country
+jodrell bank observatory reported bbc micro steer radio telescope
+number bbc micro emulators oss
+original hardware longer
+march
+creators bbc micro met science museum london
+exhibition computer legacy
+national museum computing bletchley park bbc micros part scheme educate school children computer programming
+march
+bbc acorn teams responsible bbc micro computer literacy project met anniversary party
+entitled
+held arm offices cambridge hosted centre computing history
+ibm contemporary color graphics adapter
+video output bbc micro switched software number display modes
+varied column text suitable domestic
+column text viewed high quality rgb connected monitor
+column mode blurred view domestic
+uhf output
+variety modes offered applications flexible compromise colour depth
+resolution memory economy
+models
+applications ram left display
+mode teletext mode
+extremely economical memory original requirement due bbc broadcast teletext
+ceefax
+made computer prestel terminal
+teletext characters generated board
+monitors sets teletext receiver
+train time displays stations driven bbc master computers mode late
+modes
+ascii modes
+display choice colours logical palette sixteen
+basic colours vertices rgb colour cube
+flashing colours made alternating basic colour inverse
+palette freely reprogrammed touching display memory
+modes special text modes ram reducing number text rows inserting blank scan lines row
+mode approximately size teletext
+modes show diacritics user defined characters
+text modes supported vector graphics
+bbc master allowed hadow modes
+framebuffer stored alternative ram bank
+leaving main memory free user programs
+feature enabled setting bit mode variable
+requesting modes
+speech synthesis upgrade based texas instruments featured sampled phonemes spoken bbc newscaster kenneth kendall
+speech system standard model american vocabulary
+sold poorly eventually largely replaced superior software software based synthesiser standard sound hardware
+speech upgrade added empty sockets keyboard intended serial rom cartridges extra speech phoneme data
+addition default speech rom fitted motherboard
+general software accessed rom filing system
+original plan games released cartridges
+due limited sales speech upgrade
+software produced sockets
+cut space keyboard
+nicknamed
+ashtray
+commonly install upgrades
+zif socket conventional paged roms
+bbc domesday project
+pioneering multimedia experiment
+based modified version bbc micro successor
+bbc master
+musician vince clarke british synth pop bands depeche mode
+yazoo
+erasure bbc micro
+bbc master
+umi music sequencer compose hits
+music videos featuring vince clarke
+bbc micro present text graphics clip erasure
+lamour
+musical group queen umi music sequencer record kind magic
+umi mentioned booklet
+bands beeb making music reggae band steel pulse
+paul ridout credited
+umi programmer
+cars bassist
+vocalist benjamin orr solo album
+lace
+bbc micro utilised extensively provide graphics sound effects early bbc shows
+included
+notably
+adventure game
+break key keyboard covered plastic box prevent accidental pressing contestants
+children quiz game
+class
+onscreen scoreboard provided bbc micro nicknamed
+eugene
+numerous episodes doctor including
+castrovalva
+doctors
+twin dilemma
+bbc micro display pages ceefax required
+aliens
+filmed pinewood studios
+textual information displayed colonial marines helmet cam feeds
+including soldier elapsed mission time
+recognisably generated bbc micro
+combination single height double height mode characters
+citation needed

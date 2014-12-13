@@ -1,0 +1,143 @@
+Tree (graph theory)
+
+tree
+mathematics
+specifically graph theory
+tree undirected graph vertices connected simple path
+words
+connected graph simple cycles tree
+forest disjoint union trees
+kinds data structures referred trees computer science equivalent trees graph theory
+data structures commonly rooted trees
+additional ordering branches
+tree undirected simple graph satisfies equivalent conditions
+finitely vertices
+statements equivalent conditions
+leaf vertex degree
+internal vertex vertex degree
+irreducible
+series reduced
+tree tree vertex degree
+forest undirected graph
+connected components trees
+words
+graph consists disjoint union trees
+equivalently
+forest undirected cycle free graph
+special cases
+empty graph
+single tree
+discrete graph set vertices
+graph vertices edges
+examples forests
+term hedge refers ordered sequence trees
+polytree oriented tree directed graph undirected path vertices
+words
+polytree directed acyclic graph undirected cycles
+directed tree directed graph tree directions edges
+authors restrict phrase case edges directed vertex
+directed vertex
+arborescence
+tree called rooted tree vertex designated root
+case edges natural orientation
+root
+tree order partial ordering vertices tree unique path root passes
+rooted tree subgraph graph normal tree ends edge comparable tree order ends vertices tree
+diestel
+rooted trees
+additional structure ordering neighbors vertex
+key data structure computer science
+tree data structure
+context trees supposed root
+tree designated root called free tree
+rooted tree
+parent vertex vertex connected path root
+vertex root unique parent
+child vertex vertex parent
+labeled tree tree vertex unique label
+vertices labeled tree vertices typically labels
+recursive tree labeled rooted tree vertex labels respect tree order
+vertices
+label smaller label
+ary tree rooted tree vertex children
+ary trees called binary trees
+ary trees called ternary trees
+terminal vertex tree vertex degree
+rooted tree
+leaves terminal vertices
+additionally
+root
+leaf
+terminal vertex precisely child
+ordered tree plane tree rooted tree ordering children vertex
+called
+plane tree
+ordering children equivalent embedding tree plane
+homotopy embeddings ambient isotopy
+embedding rooted tree plane
+fixes direction children
+starting root
+child
+child
+counterclockwise
+embedding ordering children
+conversely
+ordered tree
+conventionally draw root top
+child nodes ordered tree drawn left
+yielding essentially unique planar embedding
+embedded homotopy
+moving edges nodes crossing
+ary tree rooted tree vertex children
+ary trees called binary trees
+ary trees called ternary trees
+terminal vertex tree vertex degree
+rooted tree
+leaves terminal vertices
+additionally
+root
+leaf
+terminal vertex precisely child
+tree shown vertices edges
+unique simple path connecting vertices
+cayley formula states trees labeled vertices
+proved showing number trees vertices
+degrees
+multinomial coefficient
+alternative proof sequences
+cayley formula special case complete graphs general problem counting spanning trees undirected graph
+addressed matrix tree theorem
+similar problem counting subtrees size shown complete general case
+jerrum
+counting number unlabeled free trees harder problem
+closed formula number
+trees vertices graph isomorphism
+values
+otter
+proved asymptotic estimate
+sequence oeis
+image
+math
+png means image
+math
+png
+consequence asymptotic estimate number image
+math
+png unlabeled rooted trees vertices
+knuth
+chap
+flajolet sedgewick
+chap
+vii
+star graph tree consists single internal vertex
+leaves
+words
+star graph order tree order leaves
+diameter
+tree leaves
+fewest
+path graph
+vertices tree distance central path subgraph
+tree caterpillar tree
+vertices distance central path subgraph
+tree lobster

@@ -1,0 +1,74 @@
+Process (engineering)
+
+process
+engineering process set interrelated tasks
+transform inputs outputs
+tasks carried people
+nature
+machines resources
+engineering process considered context agents carrying tasks
+resource attributes involved
+systems engineering normative documents related maturity models typically based processes
+system engineering processes eia processes involved capability maturity model integration
+cmmi
+institutionalization improvement approach
+constraints imposed tasks resources required implement essential executing tasks mentioned
+semiconductor process engineers face unique challenge
+transform raw materials high tech devices
+typical semiconductor devices include integrated circuits
+ics
+light emitting diodes
+leds
+solar panels
+solid state lasers
+produce semiconductor devices
+semiconductor process engineers rely heavily interconnected physical chemical processes
+ultra violet photolithography wet etching
+pattern transferred organic coating etched underlying semiconductor chip
+examples include ion implantation dopant species tailor electrical properties semiconductor chip
+electrochemical deposition metallic interconnects
+electroplating
+process engineers participate development semiconductor processes
+scale processes lab bench manufacturing floor
+quality control manufacturing floor
+chemical process series unit operations produce material large quantities
+chemical industry
+chemical engineers define illustrate process
+association developed process definition dedicated systems engineering
+open domains
+cpret representation integrates process mission environment order offer external standpoint
+models correspond single definition depending language
+uml language
+note
+process definition modelling interdependent notions
+definition requires process description include constraints
+products
+resources
+input elements transformations
+leads cpret acronym mnemonic definition
+purpose examples illustrate definitions concrete cases
+examples engineering field fields show cpret definition processes limited system engineering context
+hurt find source
+examples processes
+examples environment
+examples mission
+examples constraints
+examples products
+examples resources
+examples elements inputs
+examples transformations
+cpret formalized definition systematically addresses input elements
+transformations products essential components process
+constraints resources
+resources
+note specificity resource time component passes inexorably irreversibly
+problems synchronization sequencing
+definition states environment external factor avoided
+matter fact
+process interdependent phenomena including processes
+gilb
+tom
+competitive engineering
+burlington
+elsevier butterworth heinemann
+booksources

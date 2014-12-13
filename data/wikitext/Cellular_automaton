@@ -1,0 +1,503 @@
+Cellular automaton
+
+cellular automaton
+cellular automaton
+cellular automata
+abbrev
+discrete model studied computability theory
+mathematics
+physics
+complexity science
+theoretical biology microstructure modeling
+cellular automata
+plural automaton
+called cellular spaces
+tessellation automata
+homogeneous structures
+cellular structures
+tessellation structures
+iterative arrays
+cellular automaton consists regular grid cells
+finite number states
+contrast coupled map lattice
+grid finite number dimensions
+cell
+set cells called neighborhood
+including cell
+defined relative cell
+initial state
+time
+selected assigning state cell
+generation created
+advancing
+fixed rule
+generally
+mathematical function
+determines state cell terms current state cell states cells neighborhood
+typically
+rule updating state cells cell change time
+applied grid simultaneously
+exceptions
+probabilistic cellular automata asynchronous cellular automaton
+concept originally discovered stanislaw ulam john von neumann contemporaries los alamos national laboratory
+studied
+conway game life
+dimensional cellular automaton
+interest subject expanded academia
+stephen wolfram engaged systematic study dimensional cellular automata
+calls elementary cellular automata
+research assistant matthew cook showed rules turing complete
+wolfram published kind science
+claiming cellular automata applications fields science
+include computer processors cryptography
+primary classifications cellular automata outlined wolfram numbered
+order
+automata patterns generally stabilize homogenity
+automata patterns evolve stable oscillating structures
+automata patterns evolving seemingly chaotic fashion
+automata patterns extremely complex long time
+stable local structures
+class thought computationally universal
+capable simulating turing machine
+special types cellular automata reversible
+single configuration leads directly subsequent
+totalistic
+future individual cells depend total group neighboring cells
+cellular automata simulate variety real world systems
+including biological chemical
+speculation cellular automata model reality
+simulate dimensional cellular automaton infinite sheet graph paper set rules cells follow
+square called
+cell
+cell states
+black white
+neighborhood cell nearby
+adjacent
+cells
+common types neighborhoods von neumann neighborhood moore neighborhood
+named founding cellular automaton theorist
+consists orthogonally adjacent cells
+includes von neumann neighborhood remaining cells surrounding cell state calculated
+cell moore neighborhood
+patterns
+patterns
+rule table state center cell black white time interval
+conway game life popular version model
+common neighborhood type extended von neumann neighborhood
+includes closest cells orthogonal direction
+total
+general equation system rules kks
+number states cell
+number neighboring cells
+including cell calculated
+determine cell state
+dimensional system moore neighborhood
+total number automata
+assumed cell universe starts state
+finite number cells states
+assignment state values called configuration
+generally
+assumed universe starts covered periodic pattern
+finite number cells violate pattern
+assumption common dimensional cellular automata
+cellular automata simulated finite grid infinite
+dimensions
+universe rectangle infinite plane
+obvious problem finite grids handle cells edges
+handled affect values cells grid
+method values cells remain constant
+method define neighborhoods differently cells
+fewer neighbors
+define rules cells located edges
+cells handled toroidal arrangement
+top
+position bottom
+left
+essentially simulates infinite periodic tiling
+field partial differential equations referred periodic boundary conditions
+visualized taping left edges rectangle form tube
+taping top bottom edges tube form torus
+doughnut shape
+universes dimensions handled similarly
+order solve boundary problems neighborhoods
+advantage system easily programmable modular arithmetic functions
+dimensional cellular automaton examples
+neighborhood cell xit
+time step
+vertical
+index
+horizontal
+generation
+stanislaw ulam
+working los alamos national laboratory
+studied growth crystals
+simple lattice network model
+time
+john von neumann
+ulam colleague los alamos
+working problem replicating systems
+von neumann initial design founded notion robot building robot
+design kinematic model
+developed design
+von neumann realize great difficulty building replicating robot
+great cost providing robot
+sea parts
+build replicant
+neumann read paper entitled
+general logical theory automata
+hixon symposium
+ulam suggested discrete system creating reductionist model replication
+nils aall barricelli performed earliest explorations models artificial life
+ulam neumann created method calculating liquid motion late
+driving concept method liquid group discrete units calculate motion based neighbors behaviors
+born system cellular automata
+ulam lattice network
+von neumann cellular automata dimensional
+replicator implemented algorithmically
+result universal copier constructor working cellular automaton small neighborhood
+cells touch neighbors
+von neumann cellular automata
+orthogonal cells
+states cell
+von neumann gave existence proof pattern make endless copies cellular universe designing cell configuration
+design tessellation model
+called von neumann universal constructor
+norbert wiener arturo rosenblueth developed cellular automaton model excitable media
+specific motivation mathematical description impulse conduction cardiac systems
+original work continues cited modern research publications cardiac arrhythmia excitable systems
+cellular automata studied type dynamical system connection mathematical field symbolic dynamics established time
+gustav
+hedlund compiled results point view considered seminal paper mathematical study cellular automata
+fundamental result characterization theorem set global rules cellular automata set continuous endomorphisms shift spaces
+german computer pioneer konrad zuse published book calculating space
+proposing physical laws universe discrete nature
+entire universe output deterministic computation single cellular automaton
+zuse theory
+foundation field study called digital physics
+state
+dimensional cellular automaton named game life widely
+early computing community
+invented john conway popularized martin gardner scientific american article
+rules
+cell black neighbors
+stays
+black neighbors
+black
+situations white
+simplicity
+system achieves impressive diversity behavior
+fluctuating apparent randomness order
+apparent features game life frequent occurrence gliders
+arrangements cells essentially move grid
+arrange automaton gliders interact perform computations
+effort shown game life emulate universal turing machine
+viewed largely recreational topic
+follow work investigating particularities game life related rules early
+stephen wolfram independently began working cellular automata mid complex patterns formed nature violation law thermodynamics
+investigations initially spurred interest modelling systems neural networks
+published paper reviews modern physics investigating elementary cellular automata
+rule
+june
+unexpected complexity behavior simple rules led wolfram suspect complexity nature due similar mechanisms
+investigations
+led realize cellular automata poor modelling neural networks
+additionally
+period wolfram formulated concepts intrinsic randomness computational irreducibility
+suggested rule fact proved wolfram research assistant matthew cook
+wolfram published page text kind science
+extensively argues discoveries cellular automata isolated facts robust significance disciplines science
+confusion press
+book argue fundamental theory physics based cellular automata
+describe specific physical models based cellular automata
+provided models based qualitatively abstract systems
+wolfram
+kind science papers dating mid
+defined classes cellular automata simple computational models divided depending behavior
+earlier studies cellular automata tended identify type patterns specific rules
+wolfram classification attempt classify rules
+order complexity classes
+definitions qualitative nature room interpretation
+wolfram
+general classification scheme inevitably cases assigned class definition class definition
+cellular automata
+occasionally rules
+show features class
+wolfram classification empirically matched clustering compressed lengths outputs cellular automata
+attempts classify cellular automata formally rigorous classes
+inspired wolfram classification
+instance
+culik proposed defined classes
+fourth automata matching
+called culik classes
+membership proved undecidable
+wolfram class partitioned subgroups stable
+fixed point
+oscillating
+periodic
+rules
+cellular automaton reversible current configuration cellular automaton past configuration
+preimage
+thinks cellular automaton function mapping configurations configurations
+reversibility implies function bijective
+cellular automaton reversible
+time reversed behavior cellular automaton
+fact consequence theorem
+topological characterization cellular automata
+cellular automata configuration preimage
+configurations preimages called garden eden patterns
+dimensional cellular automata algorithms deciding rule reversible irreversible
+cellular automata dimensions reversibility undecidable
+algorithm takes input automaton rule guaranteed determine correctly automaton reversible
+proof jarkko kari related tiling problem wang tiles
+reversible cellular automata simulate physical phenomena gas fluid dynamics
+obey laws thermodynamics
+cellular automata rules specially constructed reversible
+systems studied tommaso toffoli
+norman margolus
+techniques explicitly construct reversible cellular automata inverses
+common order cellular automaton block cellular automaton
+involve modifying definition cellular automaton
+automata strictly satisfy definition
+shown emulated conventional cellular automata sufficiently large neighborhoods numbers states
+considered subset conventional cellular automata
+conversely
+shown reversible cellular automaton emulated block cellular automaton
+special class cellular automata totalistic cellular automata
+state cell totalistic cellular automaton represented number
+integer drawn finite set
+cell time depends sum values cells neighborhood
+possibly including cell
+time
+state cell time depend state time cellular automaton properly called outer totalistic
+conway game life outer totalistic cellular automaton cell values
+outer totalistic cellular automata moore neighborhood structure life called life cellular automata
+generalizations cellular automaton concept
+rectangular
+cubic
+grid
+plane tiled regular hexagons
+hexagons cells
+cases resulting cellular automata equivalent rectangular grids specially designed neighborhoods rules
+variation make grid irregular
+penrose tiles
+rules probabilistic deterministic
+cellular automata called probabilistic cellular automata
+probabilistic rule
+pattern time
+probabilities central cell transition state time
+simpler rule
+rule game life
+time step
+probability cell transition opposite color
+neighborhood rules change time space
+initially state cell determined horizontally adjacent cells
+generation vertical cells
+cellular automata
+state cell affected state cells
+changed
+instance
+block cells determined cells adjacent
+continuous automata
+totalistic cellular automata
+rule states discrete
+table
+states
+continuous functions
+states continuous
+values
+state location finite number real numbers
+cellular automata yield diffusion liquid patterns
+continuous spatial automata continuum locations
+state location finite number real numbers
+time continuous
+state evolves differential equations
+important reaction diffusion textures
+differential equations proposed alan turing explain chemical reactions create stripes zebras spots leopards
+approximated cellular automata
+yield similar patterns
+maclennan considers continuous spatial automata model computation
+examples continuous spatial automata exhibit propagating phenomena analogous gliders game life
+simplest nontrivial cellular automaton dimensional
+states cell
+cell neighbors defined adjacent cells side
+cell neighbors form neighborhood cells
+patterns neighborhood
+rule consists deciding
+pattern
+cell generation
+rules
+cellular automata generally referred wolfram code
+standard naming convention invented wolfram rule number
+number papers analyzed compared cellular automata
+rule rule cellular automata interesting
+images show history starting configuration consists
+top image
+surrounded
+row pixels represents generation history automaton
+top row
+pixel colored white black
+rule cellular automaton
+rule cellular automaton
+rule exhibits class behavior
+meaning simple input patterns shown lead chaotic
+seemingly random histories
+rule
+game life
+exhibits wolfram calls class behavior
+completely random completely repetitive
+localized structures interact complicated ways
+development kind science
+research assistant wolfram
+matthew cook proved structures rich support universality
+result interesting rule extremely simple dimensional system
+difficult engineer perform specific behavior
+result significant support wolfram view class systems inherently universal
+cook presented proof santa institute conference cellular automata
+wolfram blocked proof included conference proceedings
+wolfram proof announced publication kind science
+cook proof finally published wolfram journal complex systems
+vol
+ten years cook
+rule basis smallest universal turing machines built
+elementary cellular automaton rule bits
+elementary cellular automaton rules considered sit vertices dimensional unit hypercube
+unit hypercube cellular automaton rule space
+nearest neighbor cellular automata
+rule image
+math
+png bits
+cellular automaton rule space dimensional unit hypercube
+distance rules defined number steps required move vertex
+represents rule
+vertex
+representing rule
+edge hypercube
+rule rule distance called hamming distance
+cellular automaton rule space question rules similar dynamical behavior
+graphically drawing high dimensional hypercube dimensional plane remains difficult task
+crude locator rule hypercube number bit bit string elementary rules
+bit string nearest neighbor rules
+drawing rules wolfram classes slices rule space show class rules tend lower number bit
+located region space
+class rules tend higher proportion
+bit
+larger cellular automaton rule space
+shown class rules located class class rules
+observation foundation phrase edge chaos
+reminiscent phase transition thermodynamics
+biological processes cellular automata
+patterns seashells
+conus cymbiola genus
+generated natural cellular automata
+pigment cells reside narrow band shell lip
+cell secretes pigments activating inhibiting activity neighbor pigment cells
+obeying natural version mathematical rule
+cell band leaves colored pattern shell grows slowly
+widespread species conus textile bears pattern resembling wolfram rule cellular automaton
+plants regulate intake loss gases cellular automaton mechanism
+stoma leaf acts cell
+moving wave patterns skin cephalopods simulated state
+dimensional cellular automata
+state expanded retracted chromatophore
+threshold automata invented simulate neurons
+complex behaviors recognition learning simulated
+fibroblasts bear similarities cellular automata
+fibroblast interacts neighbors
+reaction spatio temporal chemical oscillator simulated means cellular automaton
+zhabotinsky
+extending work
+belousov
+discovered thin
+homogenous layer mixture malonic acid
+acidified bromate
+ceric salt mixed left undisturbed
+fascinating geometric patterns concentric circles spirals propagate medium
+computer recreations
+section august issue scientific american
+dewdney discussed cellular automaton developed martin gerhardt heike schuster university bielefeld
+west germany
+automaton produces wave patterns resembling belousov zhabotinsky reaction
+cellular automaton processors physical implementations concepts
+process information computationally
+processing elements arranged regular grid identical cells
+grid square tiling
+tessellation
+dimensions
+tilings
+cell states determined interactions adjacent neighbor cells
+means exists communicate directly cells farther
+cellular automaton processor array configuration systolic array
+cell interaction electric charge
+magnetism
+vibration
+phonons quantum scales
+physically means
+ways wires needed elements
+unlike processors computers today
+von neumann designs
+divided sections elements communicate distant elements wires
+rule originally suggested block cipher cryptography
+dimensional cellular automata random number generation
+cellular automata proposed public key cryptography
+function evolution finite inverse believed hard find
+rule
+easily calculate future states
+appears difficult calculate previous states
+designer rule create easily invert
+apparently trapdoor function
+public key cryptosystem
+security systems
+applied design error correction codes paper
+design caecc cellular automata based error correcting code
+roy chowdhury
+basu
+sen gupta
+pal chaudhuri
+paper defines scheme building sec ded codes
+reports fast hardware decoder code
+andrew ilachinski points cellular automata
+scholars raised question universe cellular automaton
+ilachinski argues importance question appreciated simple observation
+stated
+evolution rule
+kind
+alien physics
+reasonable description observed patterns
+images generated
+end conjecturing movement particle objects
+physicist james crutchfield made rigorous mathematical theory idea proving statistical emergence
+particles
+argument
+world
+physics particle objects
+fundamental level
+complete theory line developed
+entertaining developing hypothesis led scholars interesting speculation fruitful intuitions make sense world discrete framework
+marvin minsky
+pioneer
+investigated understand particle interaction dimensional lattice
+konrad inventor working computer
+irregularly organized lattice address question information content particles
+recently
+edward fredkin exposed terms
+finite nature hypothesis
+idea
+ultimately quantity physics
+including space time
+turn discrete finite
+fredkin wolfram strong proponents based physics
+recent years
+suggestions lines emerged literature standard computation
+wolfram kind science considers key understanding variety subjects
+physics included
+mathematics models ilabs founder gabriele rossi developed francesco berto jacopo original
+universe based
+rhombic dodecahedron based
+lattice unique rule
+model satisfies universality
+equivalent turing machine
+perfect reversibility
+desideratum conserve quantities easily lose information
+embedded order theory
+allowing computable
+qualitative statements universe evolution

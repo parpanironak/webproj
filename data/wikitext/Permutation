@@ -1,0 +1,609 @@
+Permutation
+
+permutation
+mathematics
+notion permutation slightly meanings
+related act permuting
+rearranging
+objects values
+informally
+permutation set objects arrangement objects order
+permutations set
+define anagram word permutation letters
+study permutations sense generally belongs field combinatorics
+number permutations distinct objects
+commonly denoted
+written
+permutations occur
+prominent ways
+domain mathematics
+arise orderings finite sets considered
+possibly ignore orderings configurations identified
+similar reasons permutations arise study sorting algorithms computer science
+algebra group theory
+permutation set defined bijection
+map element occurs image
+related rearrangement element takes place
+collection permutations form symmetric group
+key structure possibility compose permutations
+performing rearrangements succession defines rearrangement
+composition
+permutations act composite objects rearranging components
+replacements
+substitutions
+symbols
+elementary combinatorics
+permutations combinations
+refers related problems
+counting possibilities select distinct elements set elements
+permutations order selection account
+combinations
+permutations
+partial permutations
+correspond permutations discussed article
+rule determine number permutations objects indian culture early
+lilavati indian mathematician bhaskara passage translates
+product multiplication arithmetical series beginning increasing unity continued number places
+variations number specific figures
+case seemingly unrelated mathematical questions studied permutations occurred
+joseph louis lagrange
+study polynomial equations
+observed properties permutations roots equation related possibilities solve
+line work ultimately resulted
+work galois
+galois theory
+complete description impossible respect solving polynomial equations
+unknown
+radicals
+modern mathematics similar situations understanding problem requires studying permutations related
+notion permutation contexts
+group theory related areas
+considers permutations arbitrary sets
+infinite
+permutation set bijection
+permutations composed
+definition groups permutations
+finite set elements
+permutations
+combinatorics
+permutation understood sequence element finite set
+concept sequence distinct set
+elements sequence order
+sequence element
+empty
+element
+length
+contrast
+elements set order
+ways denote set
+sense permutation finite set elements equivalent bijection
+mapped element sequence
+choice total ordering
+sequence
+permutations
+weaker meaning term
+permutation
+elementary combinatorics texts
+designating sequences element occurs
+requirement elements set
+involves sequences fixed elements set size
+objects partial permutations sequences repetition
+terms avoids confusion
+common
+meanings
+permutation
+number permutations denoted variously symbols
+npk
+product
+equal
+product defined assumption negative integer importance combinatorics
+pochhammer symbol
+falling factorial power
+finite multiset
+multiset permutation sequence elements element appears multiplicity
+multiplicities elements
+order
+image
+math
+png
+image
+math
+png
+image
+math
+png sum
+size
+number multiset permutations multinomial coefficient
+group theory
+term permutation set means bijective map
+bijection
+set
+set permutations set forms group
+composition maps product identity neutral element
+symmetric group
+isomorphism
+symmetric group depends cardinality set
+nature elements irrelevant structure group
+symmetric groups studied case finite sets
+case assume loss generality
+natural number
+defines symmetric group
+written
+subgroup symmetric group called permutation group
+fact cayley theorem group isomorphic permutation group
+finite group subgroup finite symmetric group
+permutation groups structure abstract groups
+allowing instance define cycle type element permutation group
+realizations group permutation group equivalent additional structure
+instance naturally permutation group
+transposition cycle type
+proof cayley theorem realizes subgroup
+permutations elements
+permutation group transpositions cycle type
+spite cayley theorem
+study permutation groups differs study abstract groups
+main notations permutations finite set
+cauchy line notation
+lists elements row
+image permutation row
+instance
+permutation set
+written
+means satisfies
+line notation
+row array
+line notation permutation
+typical commas separate entries digits
+cycle notation
+method notation
+focuses effect successively applying permutation
+expresses permutation product cycles orbits
+elements
+permutation
+distinct orbits disjoint
+loosely referred
+decomposition disjoint cycles
+permutation
+works
+starting element
+writes sequence
+successive images
+image
+point closes parenthesis
+set values written forms orbit
+parenthesized expression cycle
+continues choosing element orbit written
+writes cycle
+elements belong cycle written fixed points
+cycle starting point chosen ways
+general cycle notations permutation
+instance
+cycle
+denotes permutation
+takes values orbit
+maps
+mapping elements
+size orbit called length cycle
+distinct orbits definition disjoint
+cycles easily commute
+product cycles
+order
+concatenation cycles cycle notation interpreted denoting composition permutations
+decomposition
+permutation
+decomposition essentially unique
+reordering cycles product
+ways write product cycles
+possibly unrelated cycles
+disjoint orbits
+cycle notation unique
+individual cycle written ways
+denotes cycle
+denote permutation
+orbit
+fixed point
+cycle
+permutation fix element
+words identity
+independently
+include
+cycle notation stress fixes
+standard combinatorics
+cycles fixed points
+correspond factor
+group theoretic
+decomposition
+notion
+cycle
+include identity permutation
+spoil uniqueness
+order
+decomposition permutation disjoint cycles
+decomposition disjoint cycles identity permutation empty product
+cycle notation empty
+notation
+cycles length called transpositions
+permutations exchange place elements
+product permutations defined composition functions
+words function maps element set
+note rightmost permutation applied argument
+function application written
+authors prefer leftmost factor acting
+end permutations written argument
+instance exponent
+acting written
+product defined
+rule multiplying permutations
+article definition rightmost permutation applied
+composition bijections bijection
+product permutations permutation
+function composition associative
+product operation permutations
+products permutations written adding parentheses express grouping
+written dot sign multiplication
+identity permutation
+maps element set
+neutral element product
+line notation
+identity
+bijections inverses
+permutations
+inverse permutation
+explicitly
+line notation inverse obtained interchanging lines
+sorting columns wishes line order
+instance
+cycle notation reverse order elements cycle obtain cycle notation inverse
+associative product
+neutral element
+inverses elements
+makes set permutations group
+called symmetric group
+permutation finite set expressed product transpositions
+expressions permutation exist
+expressions number expressions odd number transpositions
+permutations classified odd
+parity transpositions expression
+multiplying permutations written cycle notation easily pattern
+cycles product permutations composed
+cycle structure preserved special case conjugating permutation permutation
+means forming product
+cycle notation result obtained taking cycle notation applying entries
+represent permutation
+matrix
+natural ways
+multiplications matrices corresponds multiplication permutations order
+associates matrix entry
+resulting matrix entry column row
+called permutation matrix
+external text
+commons
+thumb
+symmetric group
+file
+list matrices permutations elements
+cayley table shows matrices permutations elements
+combinatorics permutation set elements listing elements order
+element occurring
+defined formally bijection set
+note equals
+definition coincides definition group theory
+generally
+set equipped total ordering elements
+combinatorial property related group theoretic interpretation permutations
+defined total ordering
+cycle structure
+partition describing lengths cycles
+partition fixed point
+permutation fixed point called derangement
+combinatorial properties directly related ordering
+permutation relates
+number properties
+ascent position bigger current
+ascent
+permutation ascents
+positions
+similarly
+descent position
+image
+math
+png ascent descent
+number permutations ascents eulerian number image
+math
+png
+number permutations descents
+ascending run permutation nonempty increasing contiguous subsequence permutation extended end
+corresponds maximal sequence successive ascents
+empty
+successive descents ascending run
+contrast increasing subsequence permutation necessarily contiguous
+increasing sequence elements obtained permutation omitting values positions
+permutation ascending runs
+increasing subsequence
+permutation descents
+union ascending runs
+number permutations ascending runs number image
+math
+png permutations descents
+inversion pair
+positions entries permutation opposite order
+image
+math
+png image
+math
+png
+descent inversion adjacent positions
+permutation inversions
+pairs entries
+inversion defined pair values
+order reversed
+makes difference number inversions
+pair
+reversed
+inversion sense inverse permutation
+number inversions important measure degree entries permutation order
+bring permutation inversions order
+transform identity permutation
+successively applying
+multiplication
+adjacent transpositions
+requires sequence operations
+reasonable choice adjacent transpositions work
+suffices choose step transposition descent permutation modified
+transposition remove descent
+create descents
+applying transposition reduces number inversions
+note long number
+permutation identity
+descent
+bubble sort insertion sort interpreted instances procedure put sequence order
+incidentally procedure proves permutation written product adjacent transpositions
+simply reverse sequence transpositions transforms identity
+fact
+enumerating sequences adjacent transpositions transform identity
+obtains
+reversal
+complete list expressions minimal length writing product adjacent transpositions
+number permutations inversions expressed mahonian number
+coefficient expansion product
+substituted
+factorial
+expansion product appears necklace
+combinatorics
+section
+permutation set ordered sequence distinct elements
+set letters
+sequence ice permutation
+ring rice permutations
+nicer reign permutations
+cringe permutation
+letters
+permutation set ordinary combinatorial sense
+engine hand permutation
+repetitions
+elements
+size
+number elements selection
+constructing permutation
+choices element sequence
+number permutations
+chosen
+elements left choose
+element chosen ways
+giving total
+permutations
+successive element sequence
+number possibilities decreases leads number
+number permutations
+elements
+simply permutations
+number occurs frequently mathematics compact notation
+called
+factorial
+permutations longest sequences repetition elements
+reflected fact formula number permutations
+number permutations set elements denoted
+similar notation
+accompanied notation number combinations set elements
+replaced
+notation rarely contexts counting permutations
+expression number arise situations
+product factors starting decreasing unit steps
+called falling factorial power
+names notations
+detailed pochhammer symbol
+factorial power completed additional factors
+writing
+hand side expression number permutations
+main merit compact factorial notation
+expressing product factors quotient potentially larger products
+factors denominator explicitly present numerator
+efficient
+method computation additional danger overflow rounding errors
+noted expression undefined
+cases number permutations
+represent permutations integer
+provided convenient methods convert number usual representation permutation sequence
+compact representation arbitrary permutations
+computing attractive small held machine word
+bit words means
+bit words means
+conversion intermediate form sequence numbers
+negative integer
+omit
+presence makes subsequent conversion permutation easier describe
+step simply expression factorial number system
+mixed radix representation
+numbers
+bases successive digits
+step interprets sequence lehmer code
+equivalently
+inversion table
+lehmer code
+number represents choice made
+number represents choice made term remaining elements set
+precisely
+number remaining elements strictly term
+remaining elements bound turn term
+digit counts inversions
+involving smaller index
+number values
+inversion table similar
+counts number inversions
+occurs smaller values appearing inverted order
+encodings visualized rothe diagram
+named heinrich august rothe
+dots
+mark entries permutation
+cross
+marks inversion
+definition inversions cross appears square dot
+column
+dot
+row
+lehmer code lists numbers crosses successive rows
+inversion table lists numbers crosses successive columns
+lehmer code inverse permutation
+vice versa
+effectively convert lehmer code
+permutation ordered set
+start list elements increasing order
+increasing set element list preceded
+remove element list
+convert inversion table
+permutation
+traverse numbers inserting elements largest smallest initially empty sequence
+step number inversion table
+element inserted sequence point preceded elements present
+alternatively process numbers inversion table elements opposite order
+starting row empty slots
+step place element empty slot preceded empty slots
+converting successive natural numbers factorial number system produces sequences lexicographic order
+case mixed radix number system
+converting permutations preserves lexicographic ordering
+provided lehmer code interpretation
+inversion tables
+ordering
+starts comparing permutations place entries entries
+sum numbers factorial number system representation number inversions permutation
+parity sum signature permutation
+positions zeroes inversion table give values left maxima permutation
+positions zeroes lehmer code positions left minima
+positions
+values
+computing distribution extrema permutations
+permutation lehmer code
+ascent
+computing required generate permutations sequence values
+methods adapted depend randomly chosen permutations
+permutations
+case specific ordering required
+question equality entries sequence account
+generate distinct multiset permutations sequence
+obvious generate permutations generate values lehmer code
+possibly factorial number system representation integers
+convert permutations
+step
+straightforward
+hard implement efficiently
+requires operations selection sequence deletion
+arbitrary position
+obvious representations sequence array linked list
+require
+reasons
+operations perform conversion
+small
+generation permutations needed
+problem
+turns random systematic generation simple alternatives considerably
+reason
+employ special data structure performing conversion lehmer code permutation
+log
+time
+generating random permutations sequence values
+makes difference means apply randomly selected permutation sequence
+choose random element set distinct
+multiset
+permutations sequence
+case repeated values distinct permutations result permuted sequence
+number permutations result
+unlike systematic generation
+unfeasible large due growth number
+reason assume small random generation
+basic idea generate random permutation generate random
+sequences integers
+satisfying
+omitted
+convert permutation bijective correspondence
+correspondence interpret
+reverse
+sequence lehmer code
+generation method published ronald
+fisher frank yates
+time computer implementation issue
+method suffers difficulty sketched convert lehmer code permutation efficiently
+remedied bijective correspondence
+select element remaining elements sequence
+decreasing values
+removing element compacting sequence shifting elements place
+swaps element final remaining element
+elements remaining selection form consecutive range point time
+occur order original sequence
+mapping sequence integers permutations complicated
+produce permutation
+induction
+selected element final remaining element
+swap operation omitted
+occur sufficiently warrant testing condition
+final element included candidates selection
+guarantee permutations generated
+resulting algorithm generating random permutation
+pseudocode
+combined initialization array
+assignment copy uninitialized
+overwrite correct
+ways systematically generate permutations sequencecitation needed
+classical algorithm
+simple flexible
+based finding permutation lexicographic ordering
+exists
+handle repeated values
+case generates distinct multiset permutations
+ordinary permutations significantly efficient generating values lehmer code lexicographic order
+possibly factorial number system
+converting permutations
+starts sorting sequence
+weakly
+increasing order
+lexicographically minimal permutation
+repeats advancing permutation long found
+method back narayana pandita century india
+frequently rediscovered
+algorithm generates permutation lexicographically permutation
+permutation place
+step
+elements strictly position form weakly decreasing sequence
+permutation elements make advance lexicographic order
+advance increase
+step finds smallest replace
+swapping step leaves sequence position weakly decreasing order
+reversing sequence step produces lexicographically minimal permutation
+lexicographic successor initial state sequence
+alternative algorithm
+algorithm
+generates ordering permutations sequence property consecutive permutations output differ swapping adjacent values
+ordering permutations century english bell ringers
+plain
+advantage method small amount change permutation method implemented constant time permutation
+easily generate subset permutations
+constant time permutation
+skipping output permutation
+scientific calculators computing software built function calculating number permutations
+spreadsheet software built function calculating number permutations
+called permut popular spreadsheets
+permutations interleaver component error detection correction algorithms
+turbo codes
+long term evolution mobile telecommunication standard ideas
+technical specification
+applications raise question fast generation permutations satisfying desirable properties
+methods based permutation polynomials

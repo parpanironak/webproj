@@ -1,0 +1,327 @@
+Numerical analysis
+
+numerical analysis
+numerical analysis study algorithms numerical approximation
+opposed general symbolic manipulations
+problems mathematical analysis
+distinguished discrete mathematics
+earliest mathematical writings babylonian tablet yale babylonian collection
+ybc
+sexagesimal numerical approximation image
+math
+png
+length diagonal unit square
+compute sides triangle
+compute square roots
+extremely important
+instance
+carpentry construction
+numerical analysis continues long tradition practical mathematical calculations
+babylonian approximation image
+math
+png
+modern numerical analysis seek exact answers
+exact answers impossible obtain practice
+numerical analysis concerned obtaining approximate solutions maintaining reasonable bounds errors
+numerical analysis naturally finds applications fields engineering physical sciences
+life sciences arts adopted elements scientific computations
+ordinary differential equations movement heavenly bodies
+planets
+stars galaxies
+numerical linear algebra important data analysis
+stochastic differential equations markov chains essential simulating living cells medicine biology
+advent modern computers numerical methods depended hand interpolation large printed tables
+mid century
+computers calculate required functions
+interpolation formulas continue part software algorithms solving differential equations
+goal field numerical analysis design analysis techniques give approximate accurate solutions hard problems
+variety suggested
+rest section outlines important themes numerical analysis
+field numerical analysis predates invention modern computers centuries
+linear interpolation years ago
+great mathematicians past preoccupied numerical analysis
+obvious names important algorithms newton method
+lagrange interpolation polynomial
+gaussian elimination
+euler method
+facilitate computations hand
+large books produced formulas tables data interpolation points function coefficients
+tables
+calculated decimal places functions
+values plug formulas achieve good numerical estimates functions
+canonical work field nist publication edited abramowitz stegun
+page book large number commonly formulas functions values points
+function values longer computer
+large listing formulas handy
+mechanical calculator developed tool hand computation
+calculators evolved electronic computers
+found computers administrative purposes
+invention computer influenced field numerical analysis
+longer complicated calculations
+direct iterative methods
+problem solving
+unknown quantity
+iterative method
+apply bisection method
+initial values
+conclude table solution
+algorithm return number range error
+hour race
+measured speed car instants recorded table
+discretization speed car constant
+finally
+instance
+total distance traveled minutes approximately
+estimate total distance traveled
+numerical integration
+riemann sum
+displacement integral velocity
+posed problem
+function
+note
+change
+turns change
+evaluating
+conditioned problem
+posed problem
+contrast
+function image
+math
+png continuous evaluating posed
+close
+direct methods compute solution problem finite number steps
+methods give precise answer performed infinite precision arithmetic
+examples include gaussian elimination
+factorization method solving systems linear equations
+simplex method linear programming
+practice
+finite precision result approximation true solution
+assuming stability
+contrast direct methods
+iterative methods expected terminate number steps
+starting initial guess
+iterative methods form successive approximations converge exact solution limit
+convergence test order decide sufficiently accurate solution
+found
+infinite precision arithmetic methods reach solution finite number steps
+general
+examples include newton method
+bisection method
+jacobi iteration
+computational matrix algebra
+iterative methods generally needed large problems
+iterative methods common direct methods numerical analysis
+methods direct principle
+gmres conjugate gradient method
+methods number steps needed obtain exact solution large approximation accepted manner iterative method
+continuous problems replaced discrete problem solution approximate continuous problem
+process called discretization
+solution differential equation function
+function represented finite amount data
+instance finite number points domain
+domain continuum
+study errors forms important part numerical analysis
+ways error introduced solution problem
+round errors arise impossible represent real numbers machine finite memory
+practical digital computers
+truncation errors committed iterative method terminated mathematical procedure approximated
+approximate solution differs exact solution
+similarly
+discretization induces discretization error solution discrete problem coincide solution continuous problem
+instance
+iteration sidebar compute solution image
+math
+png
+iterations
+conclude root roughly
+truncation error
+error generated
+generally propagate calculation
+instance
+noted operation calculator
+computer
+inexact
+calculation type inexact
+truncation error created approximate mathematical procedure
+integrate function requires find sum infinite trapezoids
+numerically find sum finite trapezoids
+approximation mathematical procedure
+similarly
+differentiate function
+differential element approaches numerically choose finite differential element
+numerical stability important notion numerical analysis
+algorithm called numerically stable error
+grow larger calculation
+problem conditioned
+meaning solution small amount problem data changed small amount
+contrary
+problem conditioned
+small error data grow large error
+original problem algorithm solve problem conditioned
+conditioned
+combination
+algorithm solves conditioned problem numerically stable numerically unstable
+art numerical analysis find stable algorithm solving posed mathematical problem
+instance
+computing square root
+roughly
+posed problem
+algorithms solve problem starting initial approximation image
+math
+png
+instance
+computing improved guesses
+method famous babylonian method
+iteration
+call method
+calculated iterations scheme table form
+initial guesses
+observe babylonian method converges fast initial guess
+method converges extremely slowly initial guess
+diverges initial guess
+babylonian method numerically stable
+method numerically unstable
+field numerical analysis divided disciplines problem solved
+interpolation
+observed temperature vary degrees celsius
+degrees
+linear interpolation data conclude degrees
+degrees
+extrapolation
+gross domestic product country growing average year billion dollars year
+extrapolate billion dollars year
+regression
+linear regression
+points
+compute line passes close points
+optimization
+sell lemonade lemonade stand
+notice
+sell glasses lemonade day
+increase
+sell glass lemonade day
+charge
+maximize profit
+due constraint charge cent amount
+charging
+glass yield maximum income
+day
+differential equation
+set fans blow air end room drop feather wind
+feather follow air currents
+complex
+approximation measure speed air blowing feather
+advance simulated feather moving straight line speed
+measuring wind speed
+called euler method solving ordinary differential equation
+simplest problems evaluation function point
+straightforward approach
+plugging number formula efficient
+polynomials
+approach horner scheme
+reduces number multiplications additions
+generally
+important estimate control round errors arising floating point arithmetic
+interpolation solves problem
+unknown function number points
+function point points
+extrapolation similar interpolation
+find unknown function point points
+regression similar
+takes account data imprecise
+points
+measurement function points
+error
+determine unknown function
+squares method popular achieve
+fundamental problem computing solution equation
+cases commonly distinguished
+depending equation linear
+instance
+equation image
+math
+png linear image
+math
+png
+effort put development methods solving systems linear equations
+standard direct methods
+methods matrix decomposition gaussian elimination
+decomposition
+cholesky decomposition symmetric
+hermitian
+positive definite matrix
+decomposition square matrices
+iterative methods jacobi method
+method
+successive relaxation conjugate gradient method preferred large systems
+general iterative methods developed matrix splitting
+root finding algorithms solve nonlinear equations
+named root function argument function yields
+function differentiable derivative
+newton method popular choice
+linearization technique solving nonlinear equations
+important problems phrased terms eigenvalue decompositions singular decompositions
+instance
+spectral image compression algorithm based singular decomposition
+tool statistics called principal component analysis
+optimization problems point function maximized
+minimized
+point satisfy constraints
+field optimization split subfields
+depending form objective function constraint
+instance
+linear programming deals case objective function constraints linear
+famous method linear programming simplex method
+method lagrange multipliers reduce optimization problems constraints unconstrained optimization problems
+numerical integration
+instances numerical quadrature
+asks definite integral
+popular methods formulas
+midpoint rule simpson rule
+gaussian quadrature
+methods rely
+divide conquer
+strategy
+integral large set broken integrals smaller sets
+higher dimensions
+methods prohibitively expensive terms computational effort
+monte carlo quasi monte carlo methods
+monte carlo integration
+modestly large dimensions
+method sparse grids
+numerical analysis concerned computing
+approximate
+solution differential equations
+ordinary differential equations partial differential equations
+partial differential equations solved discretizing equation
+bringing finite dimensional subspace
+finite element method
+finite difference method
+engineering
+finite volume method
+theoretical justification methods involves theorems functional analysis
+reduces problem solution algebraic equation
+late twentieth century
+algorithms implemented variety programming languages
+netlib repository collections software routines numerical problems
+fortran
+commercial products implementing numerical algorithms include imsl nag libraries
+free alternative gnu scientific library
+popular numerical computing applications matlab
+labview
+idl free open source alternatives freemat
+scilab
+gnu octave
+similar matlab
+library
+similar
+variants python
+performance varies widely
+vector matrix operations fast
+scalar loops vary speed order magnitude
+computer algebra systems mathematica benefit availability arbitrary precision arithmetic provide accurate results
+spreadsheet software solve simple problems relating numerical analysis
+journals
+software code
+online texts
+online material

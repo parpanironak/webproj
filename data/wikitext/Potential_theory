@@ -1,0 +1,119 @@
+Potential theory
+
+potential theory
+mathematics mathematical physics
+potential theory study harmonic functions
+term
+potential theory
+coined century physics
+realized fundamental forces nature modeled potentials satisfy laplace equation
+accurate theories classical electrostatics newtonian gravity developed
+potential theory
+remained
+considerable overlap potential theory theory laplace equation
+extent draw distinction fields
+difference emphasis subject matter rests distinction
+potential theory focuses properties functions opposed properties equation
+result singularities harmonic functions belong potential theory whilst result solution depends boundary data belong theory laplace equation
+hard fast distinction
+practice considerable overlap fields
+methods results
+modern potential theory intimately connected probability theory markov chains
+continuous case
+closely related analytic theory
+finite state space case
+connection introduced introducing electrical network state space
+resistance points inversely proportional transition probabilities densities proportional potentials
+finite case
+analogue laplacian potential theory maximum principle
+uniqueness principle
+balance principle
+starting point organizing principle study harmonic functions consideration symmetries laplace equation
+symmetry usual sense term
+start observation laplace equation linear
+means fundamental object study potential theory linear space functions
+observation prove important function space approaches subject section
+symmetry usual sense term
+start theorem symmetries image
+math
+png dimensional laplace equation conformal symmetries image
+math
+png dimensional euclidean space
+fact implications
+harmonic functions transform irreducible representations conformal group subgroups
+group rotations translations
+proceeding fashion
+systematically obtains solutions laplace equation arise separation variables spherical harmonic solutions fourier series
+taking linear superpositions solutions
+produce large classes harmonic functions shown dense space harmonic functions suitable topologies
+conformal symmetry understand classical tricks techniques generating harmonic functions kelvin transform method images
+conformal transforms map harmonic functions domain harmonic functions domain
+common instance construction relate harmonic functions disk harmonic functions half plane
+fourth
+conformal symmetry extend harmonic functions harmonic functions conformally flat riemannian manifolds
+simplest extension harmonic function defined
+exception discrete set singular points
+harmonic function image
+math
+png dimensional sphere
+complicated situations happen
+instance
+obtain higher dimensional analog riemann surface theory expressing multiply valued harmonic function single valued function branched cover regard harmonic functions invariant discrete subgroup conformal group functions multiply connected manifold orbifold
+fact group conformal transforms infinite dimensional dimensions finite dimensional dimensions
+surmise potential theory dimensions potential theory dimensions
+correct
+fact
+realizes dimensional harmonic function real part complex analytic function
+sees subject dimensional potential theory substantially complex analysis
+reason
+speaking potential theory
+focuses attention theorems hold dimensions
+connection
+surprising fact results concepts originally discovered complex analysis
+schwartz theorem
+morera theorem
+weierstrass casorati theorem
+laurent series
+classification singularities removable
+poles essential singularities
+generalize results harmonic functions dimension
+theorems complex analysis special cases theorems potential theory dimension
+obtain feel special complex analysis dimensions simply dimensional instance general results
+important topic potential theory study local behavior harmonic functions
+fundamental theorem local behavior regularity theorem laplace equation
+states harmonic functions analytic
+results describe local structure level sets harmonic functions
+theorem
+characterizes behavior isolated singularities positive harmonic functions
+alluded section
+classify isolated singularities harmonic functions removable singularities
+poles
+essential singularities
+fruitful approach study harmonic functions consideration inequalities satisfy
+basic inequality
+inequalities derived
+maximum principle
+important result liouville theorem
+states bounded harmonic functions defined
+fact
+constant functions
+addition basic inequalities
+harnack inequality
+states positive harmonic functions bounded domains roughly constant
+important inequalities prove convergence families harmonic functions harmonic functions
+harnack theorem
+convergence theorems prove existence harmonic functions properties
+laplace equation linear
+set harmonic functions defined domain
+fact
+vector space
+defining suitable norms
+products
+exhibit sets harmonic functions form hilbert banach spaces
+fashion
+obtains spaces hardy space
+bloch space
+bergman space
+article incorporates material potential theory planetmath
+licensed creative commons attribution
+share alike license

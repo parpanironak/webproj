@@ -1,0 +1,351 @@
+Peer-to-peer
+
+peer peer
+abbreviated
+computer network computer network act client server computers network
+allowing shared access resources files
+peripherals
+sensors central server
+networks set home
+business
+internet
+network type requires computers network compatible program connect access files resources found computer
+networks sharing content audio
+video
+data
+digital format
+distributed application architecture partitions tasks workloads peers
+peers equally privileged participants application
+computer network referred node
+owner computer network set portion processing power
+disk storage
+network made directly network participants
+central coordination servers stable hosts
+model
+peers suppliers consumers resources supplement user detection recovery improve quality assurance activity product
+contrast traditional model server supply
+send
+clients consume
+receive
+emerging collaborative systems era peers similar things sharing resources
+diverse peers bring unique resources capabilities virtual community empowering engage greater tasks accomplished individual peers
+beneficial peers
+distributed system platform pipes platform peerlogic
+citation needed peerlogic licensees texas instruments
+systems application domains
+killer application file sharing system napster
+originally released
+concept inspired structures philosophies areas human interaction
+networking restricted technology
+covers social processes dynamic
+context
+social peer peer processes emerging society
+peer peer systems implement abstract overlay network
+built application layer
+top native physical network topology
+overlays indexing peer discovery make system independent physical network topology
+content typically exchanged directly underlying internet protocol
+network
+anonymous peer peer systems exception
+implement extra routing layers obscure identity source destination user
+node
+pure network notion clients servers equal peer nodes simultaneously function
+clients
+servers
+nodes network
+model network arrangement differs model communication central server
+typical file transfer model file transfer protocol
+ftp
+service client server programs distinct
+clients initiate transfer
+servers satisfy requests
+overlay network consists participating peers network nodes
+links nodes
+participating peer location peer network
+directed edge node overlay network
+based nodes overlay network linked
+classify networks structured unstructured
+structured networks
+peers organized specific criteria algorithms
+lead overlays specific topologies properties
+typically distributed hash table
+dht
+based indexing
+chord system
+mit
+structured systems large scale implementations due high scalability guarantees performance
+typically approximating
+log
+number nodes system
+unstructured networks impose structure overlay networks
+peers networks connect hoc fashion based loose set rules
+ideally
+unstructured systems absolutely centralized elements
+nodes
+practice types unstructured systems degrees centralization
+categories easily
+prominent popular peer peer file sharing system
+napster
+centralized model
+freenet early implementations gnutella protocol
+hand
+examples decentralized model
+modern gnutella implementations
+deprecated kazaa network examples hybrid model
+structured networks employ globally consistent protocol ensure node efficiently route search peer desired file
+resource
+resource extremely rare
+guarantee necessitates structured pattern overlay links
+common type structured networks implement distributed hash table
+dht
+variant consistent hashing assign ownership file peer
+analogous traditional hash table assignment key array slot
+term dht commonly refer structured overlay
+practice
+dht data structure implemented top structured overlay
+distributed hash tables
+dhts
+class decentralized distributed systems provide lookup service similar hash table
+key
+pairs stored dht
+participating node efficiently retrieve key
+responsibility maintaining mapping keys values distributed nodes
+change set participants minimal amount disruption
+dhts scale extremely large numbers nodes handle continual node arrivals
+departures
+failures
+dhts form infrastructure build networks
+notable distributed networks dhts include bittorrent distributed tracker
+kad network
+storm botnet
+yacy
+coral content distribution network
+prominent research projects include chord project
+kademlia
+past storage utility
+grid
+organized emerging overlay network
+coopnet content distribution system
+external links related projects
+dht based networks widely utilized accomplishing efficient resource discovery grid computing systems
+aids resource management scheduling applications
+recent advances domain decentralized resource discovery based extending existing dhts capability multi dimensional data organization query routing
+majority efforts looked embedding spatial database indices space filling curves
+sfcs
+including hilbert curves
+curves
+tree
+cif quad tree tree managing
+routing
+indexing complex grid resource query objects dht networks
+spatial indices suited handling complexity grid resource queries
+spatial indices issues routing load balance case skewed data set
+spatial indices scalable terms number hops traversed messages generated searching routing grid resource queriescitation needed
+design choices include overlay rings torus
+recent evaluation resource discovery solutions real workloads pointed issues dht based solutions high cost advertising
+discovering resources static dynamic load imbalance
+unstructured network formed overlay links established arbitrarily
+networks easily constructed peer join network copy existing links node form links time
+unstructured network
+peer find desired piece data network
+query flooded network find peers share data
+main disadvantage networks queries resolved
+popular content peers peer searching find thing
+peer rare data shared peers
+highly search successful
+correlation peer content managed
+guarantee flooding find peer desired data
+flooding high amount signaling traffic network networks typically poor search efficiency
+popular networks unstructured
+pure networks
+peers act equals
+merging roles clients server
+networks
+central server managing network
+central router
+examples pure application layer networks designed peer peer file sharing gnutella
+pre
+freenet
+exist hybrid systems
+distribute clients groups
+client nodes overlay nodes
+typically
+client act momentary network part respective overlay network coordinate structure
+division normal nodes order address scaling problems early pure networks
+examples networks named modern implementations gnutella
+type hybrid network networks hand central server
+bootstrapping mechanisms
+hand data transfers
+networks general called centralized networks lack ability work central server
+network edonkey network
+called
+older peer peer networks duplicate resources node network configured carry type information
+local searching
+requires traffic
+modern networks central coordinating servers directed search requests
+central servers typically listing potential peers
+tor
+coordinating activities
+searching
+napster
+emule
+decentralized searching flooding search requests peers
+efficient directed search strategies
+including supernodes distributed hash tables
+modern definitions peer peer technology
+term implies general architectural concepts outlined article
+basic concept peer peer computing envisioned earlier software systems networking discussions
+reaching back principles stated request comments
+rfc
+distributed messaging system likened early peer peer architecture usenet network news system principle model user client perspective
+read post news articles
+news servers communicate peers propagate usenet news articles entire group network servers
+consideration applies smtp email sense core email relaying network mail transfer agents peer peer character
+periphery mail clients direct connections strictly relationship
+tim berners lee vision world wide web
+evidenced worldwideweb editor
+browser
+close peer peer design assumed user web active editor contributor creating linking content form interlinked web links
+contrasts broadcasting structure web developed years
+networks
+clients provide resources
+include bandwidth
+storage space
+computing power
+property major advantages networks makes setup running costs small original content distributor
+nodes arrive demand system increases
+total capacity system increases
+likelihood failure decreases
+peer network fails function properly
+network compromised damaged
+contrast
+typical architecture
+clients share demands system
+resources
+case
+clients join system
+fewer resources serve client
+central server fails
+entire network
+decentralized nature networks increases robustness removes single point failure inherent client server based system
+important property peer peer systems lack system administrator
+leads network easier faster setup running full staff required ensure efficiency stability
+decentralized networks introduce security issues designed user responsible controlling data resources
+peer peer networks
+network systems
+vulnerable unsecure unsigned codes remote access files victim computer compromise entire network
+user encounter harmful data downloading file originally uploaded virus disguised
+exe
+avi
+filetype
+type security issue due lack administrator maintains list files distributed
+harmful data distributed networks modifying files distributed network
+type security breach created fact users connecting untrusted sources
+opposed maintained server
+past happened fasttrack network riaa managed introduce faked chunks downloads downloaded files
+files
+files infected riaa virus unusable contained malicious code
+riaa uploaded fake music movies networks order deter illegal file sharing
+networks today enormous increase security file verification mechanisms
+modern hashing
+chunk verification encryption methods made networks resistant type attack
+major parts respective network replaced faked nonfunctional hosts
+advantages disadvantages networks related topic data backup
+recovery
+availability
+centralized network
+system administrators forces controlling availability files shared
+administrators decide longer distribute file
+simply remove servers
+longer users
+leaving users powerless deciding distributed community
+makes entire system vulnerable threats requests government large forces
+youtube pressured riaa
+mpaa
+entertainment industry filter copyrighted content
+server client networks monitor manage content availability
+stability availability content choose host
+client trouble accessing obscure content shared stable centralized network
+networks
+unreliable sharing unpopular files sharing files network requires node network requested data
+node connect node requesting data
+requirement occasionally hard meet users delete stop sharing data point
+sense
+community users network completely responsible deciding content
+unpopular files eventually disappear unavailable people stop sharing
+popular files
+highly easily distributed
+popular files network stability availability files central networks
+centralized network
+loss connection clients server simple failure
+networks
+connections node lost order fail share data
+centralized system
+administrators responsible data recovery backups
+systems
+node requires backup system
+lack central authority networks
+forces recording industry
+riaa
+mpaa
+government unable delete stop sharing content systems
+concept increasingly evolving expanded usage relational dynamic active distributed networks
+computer computer
+human human
+yochai benkler coined term commons based peer production denote collaborative projects free open source software
+peer production concepts
+researchers explored benefits enabling virtual communities organize introduce incentives resource sharing cooperation
+arguing social aspect missing today systems goal means organized virtual communities built fostered
+ongoing research efforts designing effective incentive mechanisms systems
+based principles game theory beginning psychological information processing direction
+numerous applications peer peer networks
+commonly content distribution
+tim berners lee vision world wide web close network assumed user web active editor contributor
+creating linking content form interlinked
+web
+links
+contrasts current broadcasting structure web
+networks channels napster
+opennap irc serving channels structure tasks
+searching
+structure
+networks gnutella freenet structure tasks
+exception finding peers connect setting
+architecture embodies key technical concepts internet
+internet request comments
+rfc
+host software
+dated april
+recently
+concept achieved recognition general public context absence central indexing servers architectures exchanging multimedia files
+peer peer applications present core issues network neutrality controversy
+internet service providers
+isps
+throttle file sharing traffic due high bandwidth usage
+compared web browsing
+mail internet
+data transferred short intervals relative small quantities
+file sharing consists heavy bandwidth usage due ongoing file transfers swarm
+network coordination packets
+october
+comcast
+largest broadband internet providers usa
+started blocking applications bittorrent
+rationale share illegal content
+infrastructure designed continuous
+high bandwidth traffic
+critics point networking legitimate
+large providers control content internet
+direct people client server based application architecture
+client server model financial barriers entry small publishers individuals
+efficient sharing large files
+reaction bandwidth throttling
+applications started implementing protocol obfuscation
+bittorrent protocol encryption
+techniques achieving
+protocol obfuscation
+involves removing easily identifiable properties protocols
+deterministic byte sequences packet sizes
+making data random
+isp solution high bandwidth caching
+isp stores part files accessed clients order save access internet

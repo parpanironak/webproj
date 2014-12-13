@@ -1,0 +1,278 @@
+Discrete mathematics
+
+discrete mathematics
+discrete mathematics study mathematical structures fundamentally discrete continuous
+contrast real numbers property varying
+smoothly
+objects studied discrete mathematics integers
+graphs
+statements logic vary smoothly
+distinct
+separated values
+discrete mathematics excludes topics
+continuous mathematics
+calculus analysis
+discrete objects enumerated integers
+formally
+discrete mathematics characterized branch mathematics dealing countable sets
+sets cardinality subsets natural numbers
+including rational numbers real numbers
+exact
+universally agreed
+definition term
+discrete mathematics
+discrete mathematics included excluded
+continuously varying quantities related notions
+set objects studied discrete mathematics finite infinite
+term finite mathematics applied parts field discrete mathematics deals finite sets
+areas relevant business
+research discrete mathematics increased half twentieth century partly due development digital computers operate discrete steps store data discrete bits
+concepts notations discrete mathematics studying describing objects problems branches computer science
+computer algorithms
+programming languages
+cryptography
+automated theorem proving
+software development
+conversely
+computer implementations significant applying ideas discrete mathematics real world problems
+operations research
+main objects study discrete mathematics discrete objects
+analytic methods continuous mathematics employed
+history discrete mathematics involved number challenging problems focused attention areas field
+graph theory
+research motivated attempts prove color theorem
+stated
+proved
+kenneth appel wolfgang haken
+substantial computer assistance
+logic
+problem david hilbert list open problems presented prove axioms arithmetic consistent
+incompleteness theorem
+proved
+showed arithmetic
+hilbert tenth problem determine polynomial diophantine equation integer coefficients integer solution
+yuri matiyasevich proved
+break german codes world war led advances cryptography theoretical computer science
+programmable digital electronic computer developed england bletchley park
+time
+military requirements motivated advances operations research
+cold war meant cryptography remained important
+fundamental advances public key cryptography developed decades
+operations research remained important tool business project management
+critical path method developed
+telecommunication industry motivated advances discrete mathematics
+graph theory information theory
+formal verification statements logic software development safety critical systems
+advances automated theorem proving driven
+computational geometry important part computer graphics incorporated modern video games computer aided design tools
+fields discrete mathematics
+theoretical computer science
+graph theory
+combinatorics
+important addressing challenging bioinformatics problems understanding tree life
+famous open problems theoretical computer science problem
+involves relationship complexity classes
+clay mathematics institute offered million usd prize correct proof
+prizes mathematical problems
+theoretical computer science includes areas discrete mathematics relevant computing
+draws heavily graph theory logic
+included theoretical computer science study algorithms computing mathematical results
+computability studies computed principle
+close ties logic
+complexity studies time computations
+automata theory formal language theory closely related computability
+petri nets process algebras model computer systems
+methods discrete mathematics analyzing vlsi electronic circuits
+computational geometry applies algorithms geometrical problems
+computer image analysis applies representations images
+theoretical computer science includes study continuous computational topics
+information theory involves quantification information
+closely related coding theory design efficient reliable data transmission storage methods
+information theory includes continuous topics
+analog signals
+analog coding
+analog encryption
+logic study principles valid reasoning inference
+consistency
+soundness
+completeness
+systems logic
+intuitionistic logic
+peirce law
+theorem
+classical logic
+easily verified truth table
+study mathematical proof important logic
+applications automated theorem proving formal verification software
+logical formulas discrete structures
+proofs
+form finite trees
+generally
+directed acyclic graph structures
+inference step combining premise branches give single conclusion
+truth values logical formulas form finite set
+generally restricted values
+true false
+logic continuous valued
+fuzzy logic
+concepts infinite proof trees infinite derivation trees studied
+infinitary logic
+set theory branch mathematics studies sets
+collections objects
+white
+infinite
+set prime numbers
+partially ordered sets sets relations applications areas
+discrete mathematics
+countable sets
+including finite sets
+main focus
+beginning set theory branch mathematics marked georg cantor work distinguishing kinds infinite set
+motivated study trigonometric series
+development theory infinite sets scope discrete mathematics
+contemporary work descriptive set theory makes extensive traditional continuous mathematics
+combinatorics studies discrete structures combined arranged
+enumerative combinatorics concentrates counting number combinatorial objects
+twelvefold unified framework counting permutations
+combinations partitions
+analytic combinatorics concerns enumeration
+determining number
+combinatorial structures tools complex analysis probability theory
+contrast enumerative combinatorics explicit combinatorial formulae generating functions describe results
+analytic combinatorics aims obtaining asymptotic formulae
+design theory study combinatorial designs
+collections subsets intersection properties
+partition theory studies enumeration asymptotic problems related integer partitions
+closely related series
+special functions orthogonal polynomials
+originally part number theory analysis
+partition theory considered part combinatorics independent field
+order theory study partially ordered sets
+finite infinite
+graph theory
+study graphs networks
+considered part combinatorics
+grown large distinct
+kind problems
+regarded subject
+graphs prime objects study discrete mathematics
+ubiquitous models natural human made structures
+model types relations process dynamics physical
+biological social systems
+computer science
+represent networks communication
+data organization
+computational devices
+flow computation
+mathematics
+geometry parts topology
+knot theory
+algebraic graph theory close links group theory
+continuous graphs
+part research graph theory falls domain discrete mathematics
+discrete probability theory deals events occur countable sample spaces
+count observations numbers birds flocks comprise natural number values
+hand
+continuous observations weights birds comprise real number values typically modeled continuous probability distribution normal
+discrete probability distributions approximate continuous vice versa
+highly constrained situations throwing dice experiments decks cards
+calculating probability events basically enumerative combinatorics
+number theory concerned properties numbers general
+integers
+applications cryptography
+cryptanalysis
+cryptology
+regard modular arithmetic
+diophantine equations
+linear quadratic congruences
+prime numbers primality testing
+discrete aspects number theory include geometry numbers
+analytic number theory
+techniques continuous mathematics
+topics discrete objects include transcendental numbers
+diophantine approximation
+adic analysis function fields
+algebraic structures occur discrete examples continuous examples
+discrete algebras include
+boolean algebra logic gates programming
+relational algebra databases
+discrete finite versions groups
+rings fields important algebraic coding theory
+discrete semigroups monoids theory formal languages
+function defined interval integers called sequence
+sequence finite sequence data source infinite sequence discrete dynamical system
+discrete function defined explicitly list
+domain finite
+formula general term
+implicitly recurrence relation difference equation
+difference equations similar differential equations
+replace differentiation taking difference adjacent terms
+approximate differential equations
+studied
+questions methods differential equations counterparts difference equations
+instance integral transforms harmonic analysis studying continuous functions analog signals
+discrete transforms discrete functions digital signals
+discrete metric general discrete finite metric spaces finite topological spaces
+discrete geometry combinatorial geometry combinatorial properties discrete collections geometrical objects
+long standing topic discrete geometry tiling plane
+computational geometry applies algorithms geometrical problems
+topology field mathematics formalizes generalizes intuitive notion
+continuous deformation
+objects
+rise discrete topics
+attributed part focus topological invariants
+discrete values
+combinatorial topology
+topological graph theory
+topological combinatorics
+computational topology
+discrete topological space
+finite topological space
+topology
+chemistry
+operations research techniques solving practical problems business fields problems allocating resources maximize profit
+scheduling project activities minimize risk
+operations research techniques include linear programming areas optimization
+queuing theory
+scheduling theory
+network theory
+operations research includes continuous topics continuous time markov process
+continuous time martingales
+process optimization
+continuous hybrid control theory
+decision theory concerned identifying values
+uncertainties issues relevant decision
+rationality
+resulting optimal decision
+utility theory measures relative economic satisfaction
+desirability
+consumption goods services
+social choice theory voting
+puzzle based approach voting ballot theory
+game theory deals situations success depends choices
+makes choosing action complex
+continuous games
+differential game
+topics include auction theory fair division
+discretization concerns process transferring continuous models equations discrete counterparts
+purposes making calculations easier approximations
+numerical analysis important
+concepts continuous mathematics discrete versions
+discrete calculus
+discrete probability distributions
+discrete fourier transforms
+discrete geometry
+discrete logarithms
+discrete differential geometry
+discrete exterior calculus
+discrete morse theory
+difference equations
+discrete dynamical systems
+discrete
+applied mathematics
+discrete modelling discrete analogue continuous modelling
+discrete modelling
+discrete formulae fit data
+common method form modelling recurrence relation
+time scale calculus unification theory difference equations differential equations
+applications fields requiring simultaneous modelling discrete continuous data

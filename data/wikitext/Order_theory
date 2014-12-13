@@ -1,0 +1,405 @@
+Order theory
+
+order theory
+order theory branch mathematics investigates intuitive notion order binary relations
+formal framework describing statements
+precedes
+article introduces field basic definitions
+list order theoretic terms found order theory glossary
+orders mathematics related fields computer science
+order discussed primary school standard order natural numbers
+greater
+tom fewer cookies sally
+intuitive concept extended orders sets numbers
+integers reals
+idea greater number basic intuitions number systems
+compare numeral systems
+general
+interested actual difference numbers
+order
+familiar ordering lexicographic order words dictionary
+types orders special property
+element compared element
+greater
+smaller
+equal
+desired requirement
+subset ordering sets
+set elements set
+smaller equal
+sets related fashion
+elements
+sets related subset inclusion
+subset inclusion partial order
+opposed total orders
+order theory captures intuition orders arises examples general setting
+achieved properties relation mathematical order
+abstract approach makes sense
+derive numerous theorems general setting
+focusing details order
+insights readily transferred abstract applications
+driven wide practical usage orders
+numerous special kinds ordered sets defined
+grown mathematical fields
+addition
+order theory restrict classes ordering relations
+considers functions
+simple order theoretic property functions analysis monotone functions frequently found
+section introduces ordered sets building concepts set theory
+arithmetic
+binary relations
+orders special binary relations
+suppose set relation
+partial order reflexive
+antisymmetric
+transitive
+set partial order called partially ordered set
+poset
+ordered set intended meaning clear
+checking properties
+immediately sees orders natural numbers
+integers
+rational numbers reals orders sense
+additional property total
+orders called linear orders chains
+classical orders linear
+subset order sets case
+divisibility relation
+natural numbers
+write divides remainder
+easily sees yields partial order
+identity relation set partial order distinct elements incomparable
+relation partial order equivalence relation
+advanced properties posets interesting linear orders
+hasse diagrams visually represent elements relations partial ordering
+graph drawings vertices elements poset ordering relation edges relative positioning vertices
+orders drawn bottom
+element smaller
+precedes
+exists path directed upwards
+edges connecting elements cross
+elements located edge
+instructive exercise draw hasse diagram set natural numbers smaller equal
+ordered
+divides relation
+infinite sets diagrammed superimposing ellipsis
+finite order
+works natural numbers
+fails reals
+successor
+obtain intuition related diagrams similar kind
+partially ordered set elements play special role
+basic element poset
+element positive integers empty set set subset order
+formally
+element element
+notation frequently found element
+numbers concerned
+orders sets numbers
+notation inappropriate ambiguous
+number
+divisibility order
+element divides numbers
+contrast
+number divided numbers
+greatest element order
+frequent terms greatest elements bottom top unit
+greatest elements fail exist
+real numbers shows
+exist
+unique
+contrast
+divisibility relation set
+set top bottom
+elements
+elements
+elements called minimal maximal
+formally
+element minimal
+exchanging yields definition maximality
+shows
+maximal elements elements maximal minimal
+element
+minimal element order
+infinite posets maximal elements exist set finite subsets infinite set
+ordered subset inclusion
+counterexamples
+important tool ensure existence maximal elements conditions zorn lemma
+subsets partially ordered sets inherit order
+applied subset
+natural numbers induced divisibility ordering
+elements poset special respect subset order
+leads definition upper bounds
+subset poset
+upper bound element elements
+formally
+means
+lower bounds defined inverting order
+lower bound natural numbers subset integers
+set sets
+upper bound sets subset ordering union
+fact
+upper bound special
+smallest set sets
+found upper bound set sets
+concept called supremum join
+set writes
+upper bound
+conversely
+greatest lower bound infimum meet denoted
+concepts play important role applications order theory
+elements
+writes
+relation natural numbers
+upper bound numbers smallest number divided
+common multiple numbers
+greatest lower bounds turn greatest common divisor
+previous definitions
+noted concept defined inverting ordering definition
+case
+greatest
+minimal
+maximal
+upper bound
+lower bound
+general situation order theory
+order inverted exchanging direction
+pictorially flipping hasse diagram top
+yields called dual
+inverse
+opposite order
+order theoretic definition dual
+notion obtains applying definition inverse order
+concepts symmetric
+operation preserves theorems partial orders
+mathematical result
+invert order replace definitions duals obtains valid theorem
+important
+obtains theorems price
+details examples found article duality order theory
+ways construct orders orders
+dual order
+important construction cartesian product partially ordered sets
+product order pairs elements
+ordering defined
+notice carefully distinct meanings relation symbol definition
+disjoint union posets typical order construction
+order
+disjoint
+union original orders
+partial order rise called strict order
+defining
+transformation inverted setting
+concepts equivalent circumstances convenient work
+reasonable functions partially ordered sets additional properties related ordering relations sets
+fundamental condition occurs context monotonicity
+function poset poset monotone
+order preserving
+implies
+noting
+strictly
+relations apply sets
+converse implication leads functions order reflecting
+functions
+implies
+hand
+function order reversing antitone
+implies
+order embedding function orders order preserving order reflecting
+examples definitions found easily
+instance
+function maps natural number successor monotone respect natural order
+function discrete order
+set ordered identity order
+monotone
+mapping natural number real number order embedding
+set complement powerset antitone function
+important question orders
+essentially equal
+renaming elements
+order isomorphisms functions define renaming
+order isomorphism monotone bijective function monotone inverse
+equivalent surjective order embedding
+image
+order embedding isomorphic
+justifies term
+embedding
+elaborate type functions called galois connections
+monotone galois connections viewed generalization order isomorphisms
+constitute pair functions converse directions
+inverse
+close relationships
+special type maps poset closure operators
+monotonic
+idempotent
+extensive
+inflationary
+applications kinds
+closures
+mathematics
+compatible mere order relations
+functions posets behave respect special elements constructions
+talking posets element
+reasonable monotonic functions preserve element
+map elements elements
+binary infima exist
+reasonable property require
+properties
+compiled label limit preserving functions
+finally
+invert view
+switching functions orders orders functions
+functions posets ordered pointwise order
+functions
+elements
+occurs domain theory
+function spaces play important role
+structures studied order theory employ order relations properties
+fact
+relations partial orders special interest
+concept preorder mentioned
+preorder relation reflexive transitive
+necessarily antisymmetric
+preorder induces equivalence relation elements
+equivalent
+preorders turned orders identifying elements equivalent respect relation
+types orders defined numerical data items order
+total order results attaching distinct real numbers item numerical comparisons order items
+distinct items allowed equal numerical scores
+obtains strict weak ordering
+requiring scores separated fixed threshold compared leads concept semiorder
+allowing threshold vary item basis produces interval order
+additional simple property leads called orders
+empty subsets minimal element
+generalizing orders linear partial orders
+set partially ordered empty subsets finite number minimal elements
+types orders arise existence infima suprema sets guaranteed
+focusing aspect
+referred completeness orders
+obtains
+finite empty infima exist
+viewed total binary operation sense universal algebra
+lattice
+operations
+define properties giving identities
+condition called distributivity rise distributive lattices
+important distributivity laws discussed article distributivity order theory
+additional order structures algebraic operations defining identities
+introduce operation called negation
+structures play role mathematical logic boolean algebras major applications computer science
+finally
+structures mathematics combine orders algebraic operations
+case quantales
+definition addition operation
+important properties posets exist
+poset locally finite closed interval
+finite
+locally finite posets give rise incidence algebras turn define euler characteristic finite bounded posets
+ordered set
+define types special subsets based order
+simple upper sets
+sets elements order
+formally
+upper closure set poset set
+set equal upper closure called upper set
+lower sets defined dually
+complicated lower subsets ideals
+additional property elements upper bound ideal
+duals filters
+related concept directed subset
+ideal upper bounds finite subsets
+lower set
+generalized preordered sets
+subset poset linearly ordered
+called chain
+opposite notion
+antichain
+subset comparable elements
+discrete order
+mathematical areas orders
+theories relationships mere application
+major points contact order theory
+presented
+mentioned
+methods formalisms universal algebra important tool order theoretic considerations
+formalizing orders terms algebraic structures satisfy identities
+establish connections algebra
+correspondence boolean algebras boolean rings
+issues concerned existence free constructions
+free lattices based set generators
+closure operators important study universal algebra
+topology orders play prominent role
+fact
+set open sets classical complete lattice
+precisely complete heyting algebra
+frame
+locale
+filters nets notions closely related order theory closure operator sets define topology
+relations
+topology looked solely terms open set lattices
+leads study pointless topology
+natural preorder elements underlying set topology called specialization order
+partial order topology
+conversely
+order theory
+makes topological results
+ways define subsets order considered open sets topology
+interesting topologies poset
+turn induce specialization order
+finest topology alexandrov topology
+taking upper sets opens
+conversely
+coarsest topology induces specialization order upper topology
+complements principal ideals
+sets form
+subbase
+additionally
+topology specialization order order consistent
+meaning open sets
+inaccessible directed suprema
+respect
+finest order consistent topology scott topology
+coarser alexandrov topology
+important topology spirit lawson topology
+close connections topologies concepts order theory
+function preserves directed suprema iff continuous respect scott topology
+reason order theoretic property called scott continuity
+visualization orders hasse diagrams straightforward generalization
+displaying lesser elements greater
+direction order depicted giving directions edges graph
+order equivalent directed acyclic graph
+nodes elements poset directed path
+dropping requirement acyclic
+obtain preorders
+equipped transitive edges
+graphs turn special categories
+elements objects set morphisms elements singleton
+functions orders functors categories
+interestingly
+ideas order theory concepts category theory small
+supremum categorical product
+generally
+capture suprema infima abstract notion categorical limit
+colimit
+place categorical ideas occur concept
+monotone
+galois connection
+pair adjoint functors
+category theory impact order theory larger scale
+classes posets functions discussed form interesting categories
+state constructions orders
+product order
+terms categories
+insights result categories orders found categorically equivalent categories
+topological spaces
+line research leads representation theorems
+collected label stone duality
+explained
+orders ubiquitous mathematics
+earliest explicit mentionings partial orders found century
+context works george boole great importance
+works charles sanders peirce
+richard dedekind
+ernst concepts order theory
+named context surely exists detailed material history order theory
+term poset abbreviation partially ordered set coined garrett birkhoff edition influential book lattice theory

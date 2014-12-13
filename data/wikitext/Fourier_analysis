@@ -1,0 +1,289 @@
+Fourier analysis
+
+fourier analysis
+mathematics
+fourier analysis study general functions represented approximated sums simpler trigonometric functions
+fourier analysis grew study fourier series
+named joseph fourier
+showed representing function sum trigonometric functions greatly simplifies study heat propagation
+today
+subject fourier analysis encompasses vast spectrum mathematics
+sciences engineering
+process decomposing function simpler pieces called fourier analysis
+operation rebuilding function pieces fourier synthesis
+mathematics
+term fourier analysis refers study operations
+decomposition process called fourier transform
+transform specific depends domain properties function transformed
+original concept fourier analysis extended time apply abstract general situations
+general field harmonic analysis
+transform analysis
+list fourier related transforms
+inverse transform synthesis
+fourier analysis scientific applications physics
+partial differential equations
+number theory
+combinatorics
+signal processing
+imaging
+probability theory
+statistics
+option pricing
+cryptography
+numerical analysis
+acoustics
+oceanography
+sonar
+optics
+diffraction
+geometry
+protein structure analysis areas
+wide applicability stems properties transforms
+fourier transformation compact representation signal
+jpeg compression variant fourier transformation
+discrete cosine transform
+small square pieces digital image
+fourier components square rounded lower arithmetic precision
+weak components eliminated
+remaining components stored compactly
+image reconstruction
+image square reassembled preserved approximate fourier transformed components
+inverse transformed produce approximation original image
+processing signals
+audio
+radio waves
+light waves
+seismic waves
+images
+fourier analysis isolate individual components compound waveform
+concentrating easier detection
+removal
+large family signal processing techniques consist fourier transforming signal
+manipulating fourier transformed data simple
+reversing transformation
+examples include
+unqualified term fourier transform refers transform functions continuous real argument
+produces continuous function frequency
+frequency distribution
+function transformed
+operation reversible
+domain input
+initial
+function time
+domain output
+final
+function ordinary frequency
+transform function
+frequency complex number
+evaluating quantity values produces frequency domain function
+represented recombination complex exponentials frequencies
+inverse transform formula
+complex number
+conveys amplitude phase frequency
+fourier transform information
+including
+fourier transform periodic function
+period
+dirac comb function
+modulated sequence complex coefficients
+image
+math
+integral interval length
+inverse transform
+fourier series
+representation
+terms summation potentially infinite number harmonically related sinusoids complex exponential functions
+amplitude phase coefficients
+expressed periodic summation function
+image
+math
+png
+coefficients proportional samples
+discrete intervals
+image
+math
+pngnote
+sufficient condition recovering
+samples portion
+confined interval duration
+frequency domain dual sampling theorem
+fourier series information
+including historical development
+dtft mathematical dual time domain fourier series
+convergent periodic summation frequency domain represented fourier series
+coefficients samples related continuous time function
+dtft
+dtft sequence fourier transform modulated dirac comb function
+note
+fourier series coefficients
+defined
+inverse transform
+fourier series recognized form poisson summation formula
+important result discrete data sequence
+proportional samples underlying continuous function
+observe periodic summation continuous fourier transform
+cornerstone foundation digital signal processing
+idealized conditions theoretically recover
+sufficient condition perfect recovery portion
+confined frequency interval width
+interval
+applicable reconstruction formula interpolation formula
+reason interested
+insight amount aliasing caused sampling process
+applications dtft limited sampled functions
+discrete time fourier transform information topics
+including
+dtft periodic sequence
+snn
+period
+dirac comb function
+modulated coefficients fourier series
+integral formula coefficients simplifies summation
+dtft
+periodic data
+sequence customarily dft
+periodic
+compute coefficients
+terms
+inverse transform
+snn expressed periodic summation function
+image
+math
+png image
+math
+png
+coefficients equivalent samples
+discrete intervals
+image
+math
+png
+dtft
+sampling dtft
+conversely
+compute arbitrary number
+discrete samples cycle continuous dtft
+image
+math
+computing simple dft snn
+defined
+cases
+chosen equal length portion
+padding interpolation
+results closely spaced samples cycle
+overlap
+adding
+time domain
+analogous aliasing
+corresponds decimation frequency domain
+sampling dtft
+cases practical interest
+sequence represents longer sequence truncated application finite length window function fir filter array
+dft computed fast fourier transform
+fft
+algorithm
+makes practical important transformation computers
+discrete fourier transform information
+including
+periodic functions
+fourier transform dtft comprise discrete set frequency components
+fourier series
+transforms diverge frequencies
+common practice
+discussed
+handle divergence dirac delta dirac comb functions
+spectral information discerned cycle periodic function
+cycles identical
+similarly
+finite duration functions represented fourier series
+actual loss information periodicity inverse transform mere artifact
+note formulas require duration image
+math
+png limited period
+common situation
+practice
+image
+math
+png
+image
+math
+png
+fourier variants generalized fourier transforms arbitrary locally compact abelian topological groups
+studied harmonic analysis
+fourier transform takes functions group functions dual group
+treatment general formulation convolution theorem
+relates fourier transforms convolutions
+pontryagin duality generalized underpinnings fourier transform
+signal processing terms
+function
+time
+representation signal perfect time resolution
+frequency information
+fourier transform perfect frequency resolution
+time information
+alternatives fourier transform
+analysis
+transforms represent signals form time information frequency information uncertainty principle
+trade
+generalizations fourier transform
+short time fourier transform
+gabor transform fractional fourier transform
+functions represent signals
+wavelet transforms chirplet transforms
+wavelet analog
+continuous
+fourier transform continuous wavelet transform
+primitive form harmonic series dates back ancient babylonian mathematics
+compute ephemerides
+tables astronomical positions
+modern times
+variants discrete fourier transform alexis clairaut compute orbit
+formula dft
+joseph louis lagrange
+computing coefficients trigonometric series vibrating string
+technically
+clairaut work cosine series
+form discrete cosine transform
+lagrange work sine series
+form discrete sine transform
+true cosine sine dft gauss trigonometric interpolation asteroid orbits
+euler lagrange discretized vibrating string problem
+today called samples
+early modern development fourier analysis paper sur des lagrange
+method lagrange resolvents complex fourier decomposition study solution cubic
+lagrange transformed roots image
+math
+png resolvents
+cubic root unity
+dft order
+number authors
+notably jean rond dalembert
+carl friedrich gauss trigonometric series study heat equation
+citation needed breakthrough development paper sur propagation chaleur dans les corps solides joseph fourier
+crucial insight model functions trigonometric series
+introducing fourier series
+historians divided credit lagrange development fourier theory
+daniel bernoulli leonhard euler introduced trigonometric representations functions
+lagrange fourier series solution wave equation
+fourier contribution bold claim arbitrary function represented fourier series
+subsequent development field harmonic analysis
+early instance representation theory
+fast fourier transform
+fft
+algorithm dft discovered carl friedrich gauss interpolating measurements orbit asteroids juno pallas
+fft algorithm attributed modern rediscoverers cooley tukey
+signal processing
+fourier transform takes time series function continuous time
+maps frequency spectrum
+takes function time domain frequency domain
+decomposition function sinusoids frequencies
+case fourier series discrete fourier transform
+sinusoids harmonics fundamental frequency function analyzed
+function function time represents physical signal
+transform standard interpretation frequency spectrum signal
+magnitude resulting complex valued function frequency represents amplitude frequency component initial phase phase
+fourier transforms limited functions time
+temporal frequencies
+equally applied analyze spatial frequencies
+function domain
+justifies branches diverse image processing
+heat conduction automatic control

@@ -1,0 +1,144 @@
+Equitable coloring
+
+equitable coloring
+graph theory
+area mathematics
+equitable coloring assignment colors vertices undirected graph
+partition vertices colors uniform
+instance
+giving vertex distinct color equitable
+typically colors optimal equitable coloring
+equivalent defining equitable coloring embedding graph subgraph graph
+kinds chromatic number equitable coloring
+equitable chromatic number graph smallest number equitable coloring colors
+equitable colorings larger numbers colors
+equitable chromatic threshold smallest equitable colorings number colors greater equal
+theorem
+posed conjecture paul
+proven hajnal endre
+states graph maximum degree equitable coloring colors
+related conjectures remain open
+polynomial time algorithms finding coloring matching bound
+finding optimal colorings special classes graphs
+general problem finding equitable coloring arbitrary graph number colors complete
+star shown illustration complete bipartite graph
+colored colors
+resulting coloring vertex color class
+equitable
+smallest number colors equitable coloring graph
+shown illustration
+central vertex vertex color class
+vertices split color classes order ensure color classes vertices
+generally
+meyer
+observes star
+image
+math
+png colors equitable coloring
+chromatic number graph differ equitable coloring number factor large
+maximum degree
+number colors guaranteed theorem
+achieved giving vertex distinct color
+interesting phenomenon exhibited complete bipartite graph
+graph equitable coloring
+bipartition
+equitable
+coloring
+equitable partition vertices color classes vertices class
+sides bipartition partitioned pairs odd number vertices
+equitable chromatic threshold graph
+significantly greater equitable chromatic number
+brooks theorem states connected graph maximum degree coloring
+exceptions
+complete graphs odd cycles
+coloring general equitable
+paul
+conjectured equitable coloring color
+graph maximum degree equitable coloring colors
+case straightforward
+union paths cycles equitably colored repeated pattern colors
+minor adjustments repetition closing cycle
+case
+previously solved hajnal
+full conjecture proven hajnal
+theorem
+original proof long complicated
+simpler proof kierstead kostochka
+polynomial time algorithm finding equitable colorings colors kierstead kostochka
+credit marcelo mydlarz endre prior unpublished polynomial time algorithm
+kierstead kostochka announce prove strengthening theorem
+show equitable coloring exists adjacent vertices degrees adding
+meyer
+conjectured form brooks theorem equitable coloring
+connected graph maximum degree equitable coloring fewer colors
+exceptions complete graphs odd cycles
+strengthened version conjecture states graph equitable coloring colors
+additional exception
+complete bipartite graph sides bipartition odd number vertices
+seymour
+proposed strengthening theorem subsumes dirac theorem dense graphs hamiltonian
+conjectured
+vertex vertex graph
+neighbors
+graph subgraph graph formed connecting vertices steps cycle
+case dirac theorem
+theorem recovered conjecture applying conjecture larger values complement graph graph
+color classes contiguous subsequences vertices cycle
+seymour conjecture proven graph sufficiently large relative
+proof deep tools including theorem
+generalization theorem conjecture
+bec conjecture short
+states graphs vertices maximum degree
+packed
+represented set vertices edges common
+theorem special case conjecture disjoint union cliques
+catlin
+similar stronger condition packing guaranteed exist
+tree maximum degree
+equitable chromatic number
+worst case occurring star
+trees significantly smaller equitable chromatic number
+tree vertices
+equitable coloring colors
+studies equitable chromatic number graph products
+problem finding equitable colorings colorings
+hajnal bound
+studied
+straightforward reduction graph coloring equitable coloring proven adding sufficiently isolated vertices graph
+showing complete test graph equitable coloring number colors
+greater
+problem interesting restricted special classes graphs point view parameterized complexity
+bodlaender fomin
+showed
+graph number colors
+test admits equitable coloring time
+treewidth
+equitable coloring solved optimally polynomial time trees
+previously due chen lih
+outerplanar graphs
+polynomial time algorithm equitable coloring split graphs
+fellows
+prove
+treewidth parameter algorithm
+problem hard
+exists polynomial time algorithm independent parameter
+dependence parameter moved exponent formula running time
+motivation equitable coloring suggested meyer
+concerns scheduling problems
+application
+vertices graph represent collection tasks performed
+edge connects tasks performed time
+coloring graph represents partition tasks subsets performed simultaneously
+number colors coloring corresponds number time steps required perform entire task
+due load balancing considerations
+desirable perform equal equal numbers tasks time step
+balancing equitable coloring achieves
+mentions specific application type scheduling problem
+assigning university courses time slots spreads courses evenly time slots avoids scheduling incompatible pairs courses time
+hajnal theorem bound variance sums random variables limited dependence
+pemmaraju
+janson
+setup local lemma
+variable depends
+equitable coloring dependence graph partition variables independent subsets chernoff bounds calculated
+resulting tighter bounds variance partition performed equitable

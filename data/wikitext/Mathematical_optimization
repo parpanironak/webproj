@@ -1,0 +1,351 @@
+Mathematical optimization
+
+mathematical optimization
+mathematics
+statistics
+empirical sciences
+computer science
+management science
+mathematical optimization
+alternatively
+optimization mathematical programming
+selection element
+regard criteria
+set alternatives
+simplest case
+optimization problem consists maximizing minimizing real function systematically choosing input values allowed set computing function
+generalization optimization theory techniques formulations comprises large area applied mathematics
+generally
+optimization includes finding
+values objective function defined domain
+including variety types objective functions types domains
+optimization problem represented
+formulation called optimization problem mathematical programming problem
+term directly related computer programming
+linear programming history
+real world theoretical problems modeled general framework
+problems formulated technique fields physics computer vision refer technique energy minimization
+speaking function representing energy system modeled
+typically
+subset euclidean space
+set constraints
+equalities inequalities members satisfy
+domain called search space choice set
+elements called candidate solutions feasible solutions
+function called
+variously
+objective function
+cost function
+minimization
+indirect utility function
+minimization
+utility function
+maximization
+fields
+energy function
+energy functional
+feasible solution minimizes
+maximizes
+goal
+objective function called optimal solution
+convention
+standard form optimization problem stated terms minimization
+generally
+objective function feasible region convex minimization problem
+local minima
+local minimum defined point exists
+expression
+holds
+region function values greater equal point
+local maxima defined similarly
+large number algorithms proposed solving convex problems including majority commercially solvers capable making distinction local optimal solutions rigorous optimal solutions
+treat actual solutions original problem
+branch applied mathematics numerical analysis concerned development deterministic algorithms capable guaranteeing convergence finite time actual optimal solution convex problem called global optimization
+optimization problems expressed special notation
+examples
+notation
+denotes minimum objective function image
+math
+png
+choosing set real numbers image
+math
+png
+minimum case image
+math
+png
+occurring image
+math
+png
+similarly
+notation
+asks maximum objective function
+real number
+case
+maximum objective function unbounded
+answer
+undefined
+notation
+equivalently
+represents
+values
+argument interval image
+math
+png minimizes
+minimize
+objective function
+actual minimum function problem asks
+case
+answer
+infeasible
+belong feasible set
+similarly
+equivalently
+represents image
+math
+png pair
+pairs
+maximizes
+maximize
+objective function image
+math
+png
+added constraint lie interval image
+math
+png
+actual maximum expression matter
+case
+solutions pairs form
+ranges integers
+arg min arg max written argmin argmax
+stand argument minimum argument maximum
+fermat lagrange found calculus based formulas identifying optima
+newton gauss proposed iterative methods moving optimum
+historically
+term optimization
+linear programming
+due
+dantzig
+theory introduced leonid kantorovich
+dantzig published simplex algorithm
+john von neumann developed theory duality year
+term programming context refer computer programming
+term program united states military refer proposed training logistics schedules
+problems dantzig studied time
+important researchers mathematical optimization include
+number subfields
+techniques designed primarily optimization dynamic contexts
+decision making time
+adding objective optimization problem adds complexity
+optimize structural design
+design light rigid
+objectives conflict
+trade exists
+lightest design
+stiffest design
+infinite number designs compromise weight stiffness
+set trade designs improved criterion hurting criterion pareto set
+curve created plotting weight stiffness designs pareto frontier
+design judged
+pareto optimal
+equivalently
+pareto efficient
+pareto set
+dominated design
+worse design respects respect
+dominated pareto optimal
+choice
+pareto optimal
+solutions determine
+favorite solution
+delegated decision maker
+words
+defining problem multiobjective optimization signals information missing
+desirable objectives detailed combination
+cases
+missing information derived interactive sessions decision maker
+multi objective optimization problems generalized vector optimization problems
+partial
+ordering longer pareto ordering
+optimization problems multi modal
+possess multiple good solutions
+globally good
+cost function
+mix globally good locally good solutions
+obtaining
+multiple solutions goal multi modal optimizer
+classical optimization techniques due iterative approach perform satisfactorily obtain multiple solutions
+guaranteed solutions obtained starting points multiple runs algorithm
+evolutionary algorithms popular approach obtain multiple solutions multi modal optimization task
+evolutionary multi modal optimization
+satisfiability problem
+called feasibility problem
+problem finding feasible solution regard objective
+regarded special case mathematical optimization objective solution
+solution optimal
+optimization algorithms start feasible point
+obtain point relax feasibility conditions slack variable
+slack
+starting point feasible
+minimize slack variable slack null negative
+extreme theorem karl weierstrass states continuous real valued function compact set attains maximum minimum
+generally
+lower semi continuous function compact set attains minimum
+upper semi continuous function compact set attains maximum
+fermat theorems states optima unconstrained problems found stationary points
+derivative gradient objective function
+derivative test
+generally
+found critical points
+derivative gradient objective function undefined
+boundary choice set
+equation
+set equations
+stating derivative
+equal
+interior optimum called order condition set order conditions
+optima inequality constrained problems found lagrange multiplier method
+method calculates system inequalities called conditions complementary slackness conditions
+calculate optimum
+derivative test identifies points extrema
+test distinguish point minimum maximum
+objective function differentiable
+cases distinguished checking derivative matrix derivatives
+called hessian matrix
+unconstrained problems
+matrix derivatives objective function constraints called bordered hessian constrained problems
+conditions distinguish maxima
+minima
+stationary points called econd order conditions
+econd derivative test
+candidate solution satisfies order conditions
+satisfaction order conditions sufficient establish local optimality
+envelope theorem describes optimal solution underlying parameter
+process computing change called comparative statics
+maximum theorem claude berge
+describes continuity optimal solution function underlying parameters
+unconstrained problems differentiable functions
+critical points found finding points gradient objective function
+stationary points
+generally
+subgradient certifies local minimum found minimization problems convex functions locally lipschitz functions
+critical points classified definiteness hessian matrix
+hessian positive definite critical point
+point local minimum
+hessian matrix negative definite
+point local maximum
+finally
+indefinite
+point kind saddle point
+constrained problems transformed unconstrained problems lagrange multipliers
+lagrangian relaxation provide approximate solutions difficult constrained problems
+objective function convex
+local minimum global minimum
+exist efficient numerical techniques minimizing convex functions
+interior point methods
+solve problems
+researchers algorithms terminate finite number steps
+iterative methods converge solution
+class problems
+heuristics provide approximate solutions problems
+iterates converge
+iterative methods solve problems nonlinear programming differ evaluate hessians
+gradients
+function values
+evaluating hessians
+gradients
+improves rate convergence
+evaluations increase computational complexity
+computational cost
+iteration
+cases
+computational complexity excessively high
+major criterion optimizers number required function evaluations large computational effort
+effort optimizer
+operate variables
+derivatives provide detailed information optimizers
+harder calculate
+approximating gradient takes function evaluations
+approximations derivatives
+collected hessian matrix
+number function evaluations order
+newton method requires order derivates
+iteration number function calls order
+simpler pure gradient optimizer
+gradient optimizers iterations newton algorithm
+respect number function calls depends problem
+generally
+objective function quadratic function
+optimization methods methods ensure subsequence iterations converges optimal solution
+popular method ensuring convergence relies line searches
+optimize function dimension
+increasingly popular method ensuring convergence trust regions
+line searches trust regions modern methods differentiable optimization
+global optimizer slower advanced local optimizers
+bfgs
+efficient global optimizer constructed starting local optimizer starting points
+finitely terminating
+algorithms
+convergent
+iterative methods
+heuristics provide approximate solutions optimization problems
+problems rigid body dynamics
+articulated rigid body dynamics
+require mathematical programming techniques
+view rigid body dynamics attempting solve ordinary differential equation constraint manifold
+constraints nonlinear geometric constraints
+points coincide
+surface penetrate
+point lie curve
+problem computing contact forces solving linear complementarity problem
+viewed
+quadratic programming
+problem
+design problems expressed optimization programs
+application called design optimization
+subset engineering optimization
+recent growing subset field multidisciplinary design optimization
+problems
+applied aerospace engineering problems
+economics closely linked optimization agents influential definition relatedly describes economics qua science
+study human behavior relationship ends scarce means
+alternative
+modern optimization theory includes traditional optimization theory overlaps game theory study economic equilibria
+journal economic literature codes classify mathematical programming
+optimization techniques
+related topics jel
+microeconomics
+utility maximization problem dual problem
+expenditure minimization problem
+economic optimization problems
+behave consistently
+consumers assumed maximize utility
+firms assumed maximize profit
+agents modeled risk averse
+preferring avoid risk
+asset prices modeled optimization theory
+underlying mathematics relies optimizing stochastic processes static optimization
+trade theory optimization explain trade patterns nations
+optimization market portfolios multi objective optimization economics
+economists modeled dynamic decisions time control theory
+microeconomists dynamic search models study labor market behavior
+crucial distinction deterministic stochastic models
+macroeconomists build dynamic stochastic general equilibrium
+dsge
+models describe dynamics economy result interdependent optimizing decisions workers
+consumers
+investors
+governments
+field optimization techniques extensively operations research
+operations research stochastic modeling simulation support improved decision making
+increasingly
+operations research stochastic programming model dynamic decisions adapt events
+problems solved large scale optimization stochastic optimization methods
+mathematical optimization modern controller design
+high level controllers model predictive control
+mpc
+real time optimization
+rto
+employ mathematical optimization
+algorithms run online repeatedly determine values decision variables
+choke openings process plant
+iteratively solving mathematical optimization problem including constraints model system controlled

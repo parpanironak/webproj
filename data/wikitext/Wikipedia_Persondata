@@ -1,0 +1,407 @@
+Wikipedia:Persondata
+
+persondata special set metadata added biographical articles
+consists standardized data fields basic information person
+short description
+birth death days
+places birth death
+unlike conventional content
+automatically extracted processed cataloging tools variety purposes
+providing advanced search capabilities
+statistical analysis
+automated categorization
+birthday lists
+adding template biographical article affect normal display
+information meant read human beings remains hidden users change personal stylesheet specifically
+january
+articles persondata english language
+june
+german articles
+personendaten
+wikiproject works improve usage persondata
+wikiproject persondata
+seeking contributors
+uniform formatting
+born
+died
+parentheses
+difficult extract information biographical articles automatically
+hard alphabetize biographical articles automatically
+titles typically begin person
+defaultsort
+adding standardized metadata articles
+facilitate creation applications content
+roms
+custom search applications
+steps enriching semantic content
+default
+persondata invisible normal users
+make persondata visible
+make persondatas permanently visible
+make logged
+edit
+create
+page special
+mypage
+skin
+css add line
+table
+persondata
+table
+important
+microsoft internet explorer earlier
+table
+persondata
+block
+important
+tip
+saving css
+empty browser cache
+mozilla
+firefox
+windows
+ctrl shift
+mozilla
+firefox
+camino
+mac
+cmd shift
+internet explorer
+windows
+ctrl
+opera
+safari
+mac
+cmd
+konqueror
+linux
+ctrl
+firefox
+linux
+users report lines present monobook
+css
+simplified table
+persondata
+block table
+important
+users switch browsers platforms likewise
+block data ferdinand magellan paragraph
+successfully made persondata visible
+paragraph follow directly previous
+make persondata box invisible
+simply remove css line provided user stylesheet
+warning
+persondatas default invisible
+editors rarely plan designing layout article
+means making visible article footers strange
+reason
+persondatas visible editing previewing
+remember people
+planning layout accommodate find strange article footer
+care edit perspective majority
+follow persondata placement advice page
+template
+copy wikitext end biographical article fill parameters manually
+javascript awb add template fill information semi automatically infoboxes
+add template manually
+place categories interlanguage links
+sort real template direct part categorization
+located persondata categories
+applies template
+implements defaultsort
+fill data fields
+make entered surname
+category listing
+delete empty data fields
+person alive
+leave date place death blank
+properly filled template
+parameters
+alternative names
+short description
+date birth
+place birth
+date death
+place death construct persondata record
+fields possibly extended future
+provide wikilinks
+future application
+feel free add locations
+follow general guidelines filling fields
+person commonly field
+format
+family
+middle names
+title
+cases straightforward
+george walker bush
+bush
+george walker
+family names
+common asia
+comma
+chi minh
+parameter
+chi minh
+cases
+ambiguity person surname
+doubt
+format expect alphabetized
+ludwig van beethoven alphabetized
+beethoven
+townes van zandt alphabetized
+van zandt
+note multi part family names
+commonly spanish
+middle family native english speaker
+unsure
+familiar subject alphabetize consult cataloging guide
+check library congress german national library
+deutsche nationalbibliothek
+european names
+van
+van
+del
+del
+common continental european practice alphabetize significant part
+zandt
+toro
+typical
+north american
+australian zealand practice alphabetize entire surname
+van zandt
+del toro
+names include family
+brutus troy
+treated family
+troy
+brutus
+good idea list person field avoid confusion similar names
+part title nobility
+include
+include honorifics
+professor
+phd
+articles field
+leave field blank
+added category
+persondata templates parameter
+follow guidelines working articles category
+optional field list common
+international
+forms person
+simply abbreviated versions full
+similar pattern field
+added information
+adding semicolon separated names needed fully identify person
+alternative language added subject connection language
+japanese romaji oprah winfrey important metadata article english language
+italian spanish christopher columbus
+christopher columbus
+simply english translation
+suggested optional attributes parentheses
+adapted german
+small description person
+concise informative reading entry table roughly person
+letter capitalized
+proper nouns capitalized
+musician musician
+article disambiguated
+disambiguation redirects
+disambiguation term
+phrase good selection parameter
+player good bets eddy merckx
+cyclist
+eddy merckx
+billiards player
+exception disambiguation description field occupation
+role
+connie mack
+baseball
+article details suggest manager team owner
+articles field
+leave field blank
+added category
+persondata templates short description parameter
+follow guidelines working articles category
+follow manual style guidelines month yyyy format month
+yyyy style filling fields
+link date
+yyyy acceptable
+templates fields
+interfere data extraction
+abraham lincoln birthday
+listed february
+specific
+point listing street address
+usual formats city
+village
+state
+province
+country
+city
+village
+country
+state
+province
+country
+avoid templates fields
+link locations
+avoid piped links clutter field
+magellan
+ferdinand bush
+george beethoven
+ludwig van van zandt
+brutus troy king
+martin luther
+wainwright
+loudon
+iii john paul
+elizabeth john francis assisi
+saint tokugawa
+fujiwara michinaga
+portuguese
+magallanes
+fernando
+spanish
+clemens
+samuel langhorne
+real
+sea explorer german anarchist writer publisher president united
+october october
+sabrosa
+portugal newark
+jersey
+april april
+january
+mactan island
+cebu
+philippines mount juliet
+ushuaia
+argentina
+project templatetiger view output data
+sql query
+persondata filtered articles stored database
+sql query extract persondata
+order
+persondata divided individual data fields
+persondata extracted regular database dumps
+procedure adapted scripts written german
+user
+jakobvoss
+user
+nichtich
+german
+hilfe
+personendaten
+datenextraktion
+process consists stages
+downloading database dump
+extracting persondata
+parsing persondata
+optionally loading mysql database
+extract
+transform
+load process
+rough guide
+downloading database dump hours fast internet connection
+extracting persondata hour
+parsing persondata loading mysql database seconds
+original scripts written linux
+run windows linux emulator
+downloading windows versions software
+addition load extracted persondata mysql database mysql
+download
+database dumps found
+download
+enwiki
+subdirectories named date dump
+file needed extracting persondata named enwiki date pages articles
+xml
+enwiki pages articles
+xml
+latest version file found
+download
+enwiki
+latest
+enwiki latest pages articles
+xml
+june file
+size
+find wget download
+files needed
+uncompress dump
+output passed piped stx scripts extract information persondata templates
+stx implemented java archive joost
+jar
+syntax calling scripts
+typed command prompt linux windows
+start
+alternatively windows typed text file
+bat extension
+extract
+bat
+run double clicking
+note windows add type
+exe
+directory database dump full file path
+exe
+process outputs running total number articles found persondata
+outputs running total articles template
+pnd
+legacy original german scripts
+easier remove adapting
+personennamendatei number assigned german speaking authors
+link catalogue german national library
+articles german template
+hundred articles english
+output step tab separated file
+extract
+tab
+information persondata template
+file needed
+information entered fields persondata template forms
+dates
+applications information standardised form
+perl script transform
+takes xxxx extract
+tab file previous step parses fields obtain quantities day
+month
+year
+decade
+century dates
+surname names form smith
+john
+article place birth
+death place field wikilink
+syntax step
+produces tab separated file
+desired loaded spreadsheet basic information obtained
+sorting columns searching terms
+complicated analysis easily database
+file needed
+mysql installed run table
+sql create table called pub
+load data xxxx full
+tab file
+change filename end table
+sql
+mysql syntax run
+original implementation german process extracting data loading database performed single shell script
+etl
+turn called scripts extract
+transform
+load
+found
+toolserver
+staging area
+addition modified files listed previous steps
+minor modifications extract
+load
+english case
+replacing
+extractpersonendaten extractpersondata extract
+username load
+modified version transform
+parsing persondata
+files

@@ -1,0 +1,511 @@
+Geometric algebra
+
+geometric algebra
+geometric algebra clifford algebra vector space field real numbers endowed quadratic form
+spacetime algebra conformal geometric algebra specific examples geometric algebras
+term collective term approach classical
+computational relativistic geometry makes heavy algebras
+year death
+clifford expanded grassmann ausdehnungslehre form called clifford algebras honor clifford chose call
+geometric algebras
+term repopularized hestenes
+geometric algebra
+finds application physics
+graphics robotics
+key feature emphasis geometric interpretations elements algebra geometric entities
+interpretation
+geometric operations realized algebraic operations algebra
+proponents argue compact intuitive descriptions areas including classical quantum mechanics
+electromagnetic theory relativity
+claim cases geometric algebra approach sidestep
+proliferation manifolds
+arises standard application differential geometry
+geometric calculus generalization vector calculus alternative differential forms hodge duality
+finite dimensional real quadratic space quadratic form
+geometric algebra quadratic space clifford algebra
+algebra product called geometric product
+standard denote geometric product juxtaposition
+quadratic forms signature
+orthogonal basis
+found
+number values expressed signature
+invariant quadratic form
+nondegenerate signature
+orthogonal basis exists elements squaring elements squaring
+denote algebra image
+math
+png
+image
+math
+png models euclidean space
+image
+math
+png relativistic spacetime image
+math
+png conformal geometric algebra
+viewing geometric algebra quotient tensor algebra
+geometric algebra product inherited tensor algebra
+authors introduce geometric product defining product standard basis
+find basis image
+math
+png
+set products symbols indices increasing order
+including empty product
+forms basis geometric algebra
+analogue pbw theorem
+basis geometric algebra image
+math
+png
+basis formed called standard basis geometric algebra
+orthogonal basis fitting description produce standard basis
+standard basis consists elements
+standard basis
+geometric product elements algebra completely rules
+rules give geometric product elements standard basis sign
+computations follow
+geometric product elements algebra computed rules
+including
+specifically
+standard basis elements index set
+standard basis
+graded vector space structure established
+vector grade called vector
+grade vector
+grading make algebra graded algebra clifford product
+grading form graded algebra exterior product
+defined
+ordinary vectors
+span image
+math
+png called vectors
+scalars called vectors
+elements span image
+math
+png called vectors
+elements span image
+math
+png called vectors grade vectors
+elements algebra graded scheme sums elements differing grade
+elements mixed grade
+generic elements geometric algebra called multivectors term vector reserved vectors
+grading multivectors independent orthogonal basis chosen originally
+multivector image
+math
+png decomposed grade projection operator image
+math
+png outputs grade portion
+result
+geometric product vectors image
+math
+png image
+math
+png image
+math
+png image
+math
+png
+important operations geometric algebra geometric product
+elements
+vector
+exists equal
+positive definite negative definite quadratic form
+nonzero vectors multiplicative inverses
+elements algebra invertible
+unit vector
+vector
+elements inverse divisors
+vectors represented lower case letters
+multivectors upper case letters
+scalars represented greek characters
+geometric algebra represents subspaces multivectors
+coexist algebra vectors
+dimensional subspace represented taking orthogonal basis image
+math
+png geometric product form blade
+multiple blades representing
+representing scalar multiples
+blades separated sets
+positive multiples negative multiples
+positive multiples orientation
+negative multiples opposite orientation
+blades important geometric operations projections
+rotations reflections implemented geometric product multiply vectors blades
+clarification needed
+unit pseudoscalars blades play important roles
+unit pseudoscalar degenerate subspace blade product members orthonormal basis
+shown unit pseudoscalars
+suppose geometric algebra image
+math
+png familiar positive definite product formed
+plane
+dimensional subspace
+find orthonormal basis
+spanning plane
+find unit pseudoscalar representing plane
+geometric product vectors span lies image
+math
+png
+sum vector vector
+properties geometric product
+resemblance imaginary unit accidental
+subspace image
+math
+png algebra isomorphic complex numbers
+copy complex numbers embedded geometric algebra dimensional subspace quadratic form definite
+identify presence imaginary unit physical equation
+units arise quantities real algebra square
+geometric significance properties algebra interaction subspaces
+image
+math
+png
+exceptional case occurs
+standard basis built orthonormal
+set vectors generated
+labelling
+momentarily deviating uppercase convention
+subspace generated vectors vectors image
+math
+png
+set subalgebra
+algebra isomorphic quaternions
+important algebraic system
+common practice extend outer product vectors entire algebra
+grade projection operator
+product vectors generalised
+equivalent
+paper
+dorst
+full treatment products developed geometric algebras interrelationships
+notation
+authors symbol product vectors chosen extension
+hestenes perwass
+consistent notation emerged
+generalizations product vectors
+dorst
+makes argument contractions preference hestenes product
+algebraically regular cleaner geometric interpretations
+number identities incorporating contractions valid restriction inputs
+benefits left contraction extension product vectors include identity image
+math
+png extended image
+math
+png vector multivector
+projection operation image
+math
+png extended image
+math
+png blades
+minor modification accommodate null
+terms geometric algebra meaning differs terms fields mathematics
+listed
+vector invertible vector
+projection
+parallel part
+rejection
+perpendicular part
+concept blade representing subspace multivector ultimately expressed terms vectors
+generalizes projection general multivector invertible blade
+rejection defined
+projection rejection generalize null blades replacing inverse pseudoinverse respect contractive product
+outcome projection coincides cases null blades
+null blades
+definition projection contraction pseudoinverse
+result necessarily subspace represented
+projection generalizes linearity general multivectors
+projection linear generalize objects blades
+definition reflection occurs forms literature
+authors work reflection vector
+negating component parallel vector
+reflection hypersurface orthogonal vector
+work reflection vector
+negating vector components parallel vector
+build general versor operations
+advantage extends algebra simpler algebraically regular fashion
+reflection vector vector
+equivalently hyperplane orthogonal
+negating component vector parallel
+result reflection
+general operation regarded reflection dimension
+general reflection expressed composite odd number single axis reflections
+general reflection vector written
+define reflection null vector product vectors reflection vector product vector
+product odd number vectors
+product number vectors
+concept multivector ultimately expressed terms vectors
+reflection general multivector reflection versor written
+automorphism reflection origin vector space
+extended multilinearity algebra
+result reflecting vector vector negate rejection
+akin reflecting vector origin
+projection reflected
+operation
+repeating operation results general versor operation
+including rotations reflections
+general multivector expressed
+general definition versor
+including reflections rotors
+object expressed geometric product number null vectors
+versor applied uniform sandwich product irrespective
+proper rotation
+odd grade
+improper rotation
+general reflection
+set versors geometric product group operation constitutes clifford group clifford algebra
+vectors image
+math
+png image
+math
+png spanning parallelogram
+result image
+math
+png linear product
+altitude
+base
+parallelogram
+area
+similar interpretations true number vectors spanning dimensional parallelotope
+outer product vectors
+image
+math
+png
+magnitude equal volume parallelotope
+vector necessarily shape parallelotope convenient visualization
+shape
+volume equals parallelotope
+product vectors image
+math
+png denote reverse
+assume image
+math
+png
+scaling
+image
+math
+leaves length image
+math
+png unchanged
+show
+transformation preserves length angle
+identified rotation rotoreflection
+called rotor proper rotation
+expressed product number vectors
+instance versor
+historical reasons
+general method rotating vector involving formation multivector form image
+math
+png produces rotation image
+math
+png plane orientation defined bivector image
+math
+png
+rotors generalization quaternions spaces
+reflections
+rotations
+sandwiching
+products plane rotation
+define line parametrically image
+math
+png position vectors points direction vector line
+mathematical description rotational forces torque angular momentum make cross product
+cross product viewed terms outer product allowing natural geometric interpretation cross product bivector dual relationship
+torque generally defined magnitude perpendicular force component times distance
+work unit angle
+suppose circular path arbitrary plane orthonormal vectors image
+math
+png image
+math
+png parameterized angle
+designating unit bivector plane imaginary number
+path vector conveniently written complex exponential form
+derivative respect angle
+torque
+rate change work
+due forcef
+unlike cross product description torque
+image
+math
+png
+geometric algebra description introduce vector normal direction
+vector exist unique greater dimensions
+unit bivector describes plane orientation rotation
+sense rotation relative angle vectors image
+math
+png image
+math
+png
+physics
+main applications geometric algebra minkowski spacetime
+called spacetime algebra
+sta
+commonly
+called algebra physical space
+aps
+isomorphic subalgebra clifford algebra
+sta points spacetime represented simply vectors
+aps
+points
+dimensional spacetime represented paravectors
+dimensional vector
+space
+dimensional scalar
+time
+spacetime algebra electromagnetic field tensor bivector representation image
+math
+png imaginary unit volume element
+maxwell equations simplify equation
+boosts lorenzian metric space expression image
+math
+png rotation euclidean space
+image
+math
+png bivector generated time space directions involved
+euclidean case bivector generated space directions
+strengthening
+analogy
+identity
+image
+math
+png directly compared vector algebra
+subalgebra image
+math
+png isomorphic complex numbers
+writing vector terms components orthonormal basis left multiplying basis vector
+yielding
+identify
+similarly
+subalgebra image
+math
+png basis
+isomorphic quaternions identifying
+associative algebra matrix representation
+pauli matrices representation image
+math
+png dirac matrices representation image
+math
+png
+showing equivalence matrix representations physicists
+geometric calculus extends formalism include differentiation integration including differential geometry differential forms
+essentially
+vector derivative defined version green theorem true
+write
+geometric product
+effectively generalizing stokes theorem
+including differential forms version
+image
+math
+png curve endpoints image
+math
+png image
+math
+png
+reduces
+fundamental theorem integral calculus
+developed concept vector manifold geometric integration theory
+generalizes cartan differential forms
+compact description current state art provided bayro corrochano scheuermann
+includes references
+dorst
+reference
+working
+euclidian space image
+math
+png embedded projectively cga image
+math
+png identification euclidean points subspaces null cone cga vector subspace
+adding point
+conformal transformations rotations reflections covariant
+extending incidence relations projective geometry circles spheres
+specifically
+add orthogonal basis vectors image
+math
+png image
+math
+png image
+math
+png image
+math
+png basis image
+math
+png identify null vectors
+procedure similarities procedure working homogeneous coordinates projective geometry case modeling euclidean transformations orthogonal transformations
+fast changing fluid area
+cga investigated applications relativistic physics
+connection geometry algebra dates back euclid elements century
+greek geometric algebra
+sense article developed
+systematic describe geometrical properties transformations space
+year
+hermann grassmann introduced idea geometrical algebra full generality calculus
+analogous propositional calculus
+encoded geometrical information space
+grassmann algebraic system applied number kinds spaces
+chief euclidean space
+affine space
+projective space
+grassmann
+william kingdon clifford examined grassmann algebraic system alongside quaternions william rowan hamilton
+clifford
+point view
+quaternions transformations
+called rotors
+grassmann algebra properties
+strecken length
+area
+volume
+contribution define product geometric product existing grassmann algebra
+realized quaternions living algebra
+subsequently rudolf lipschitz generalized clifford interpretation quaternions applied geometry rotations dimensions
+developments lead century mathematicians formalize explore properties clifford algebra
+revolutionary development century completely overshadow geometric algebras
+vector analysis
+developed independently josiah willard gibbs oliver heaviside
+vector analysis motivated james clerk maxwell studies electromagnetism
+specifically express manipulate conveniently differential equations
+vector analysis intuitive appeal compared rigors algebras
+physicists mathematicians alike readily adopted geometrical toolkit choice
+influential textbook vector analysis edwin bidwell wilson
+lectures gibbs
+detail
+approaches geometric algebra
+quaternionic analysis
+initiated hamilton geometrized rotors clifford
+geometric algebra
+initiated grassmann
+vector analysis
+developed quaternionic analysis late century gibbs heaviside
+legacy quaternionic analysis vector analysis
+basis vectors
+thought purely imaginary quaternions
+perspective geometric algebra
+quaternions identified
+part clifford algebra euclidean space
+unifies approaches
+progress study clifford algebras quietly advanced twentieth century
+largely due work abstract algebraists hermann weyl claude chevalley
+geometrical approach geometric algebras number century revivals
+mathematics
+emil artin geometric algebra discusses algebra number geometries
+including affine geometry
+projective geometry
+symplectic geometry
+orthogonal geometry
+physics
+geometric algebras revived
+classical mechanics electromagnetism
+advanced topics quantum mechanics gauge theory
+david hestenes reinterpreted pauli dirac matrices vectors ordinary space spacetime
+primary contemporary advocate geometric algebra
+computer graphics
+geometric algebras revived order efficiently represent rotations transformations
+application oriented subject
+steep initial learning curve
+eased applicable software
+list freely software require ownership commercial software purchase commercial products purpose
+link manual
+introduction sample material software
+software allowing script creation including sample visualizations
+manual introduction
+programmers
+code generator support
+java
+research groups

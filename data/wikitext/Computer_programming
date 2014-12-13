@@ -1,0 +1,297 @@
+Computer programming
+
+computer programming
+computer programming
+shortened programming
+scripting
+coding
+process designing
+writing
+testing
+debugging
+maintaining source code computer programs
+source code written programming languages
+java
+python
+smalltalk
+purpose programming create set instructions computers perform specific operations exhibit desired behaviors
+process writing source code requires expertise subjects
+including knowledge application domain
+specialized algorithms formal logic
+software engineering
+programming
+implementation
+regarded phase software development process
+ongoing debate extent writing programs art form
+craft
+engineering discipline
+general
+good programming considered measured application
+goal producing efficient evolvable software solution
+criteria
+efficient
+evolvable
+vary considerably
+discipline differs technical professions programmers
+general
+licensed pass standardized
+governmentally regulated
+certification tests order call
+programmers
+software engineers
+discipline covers areas
+include critical applications
+debatable licensing required profession
+cases
+discipline governed entities require programming
+strict environments defined
+united states air force adacore security clearance
+representing oneself
+professional software engineer
+license accredited institution illegal parts world
+ongoing debate extent programming language writing computer programs affects form final program takes
+debate analogous surrounding hypothesis linguistics cognitive science
+postulates spoken language nature influences habitual thought speakers
+language patterns yield patterns thought
+idea challenges possibility representing world perfectly language
+acknowledges mechanisms language condition thoughts speaker community
+ancient cultures conception computing simple arithmetic
+mechanical device existed numerical computation beginning human history abacus
+invented sumeria circa
+antikythera mechanism
+invented time ancient greece
+mechanical calculator utilizing gears sizes configuration perform calculations
+tracked metonic cycle lunar solar calendars
+consistent calculating dates olympiads
+kurdish medieval scientist jazari built programmable automata
+system employed devices pegs cams wooden drum specific locations
+sequentially trigger levers turn operated percussion instruments
+output device small drummer playing rhythms drum patterns
+jacquard loom
+joseph marie jacquard developed
+series pasteboard cards holes punched
+hole pattern represented pattern loom follow weaving cloth
+loom produce weaves sets cards
+charles babbage adopted punched cards control analytical engine
+computer program written analytical engine mathematician ada lovelace calculate sequence bernoulli numbers
+synthesis numerical calculation
+predetermined operation output
+organize input instructions manner easy humans conceive produce
+led modern development computer programming
+development computer programming accelerated industrial revolution
+herman hollerith invented recording data medium read machine
+prior machine readable media
+lists instructions
+data
+drive programmed machines jacquard looms mechanized musical instruments
+initial trials paper tape
+settled punched cards
+process punched cards
+hollerith cards
+invented keypunch
+sorter
+tabulator unit record machines
+inventions foundation data processing industry
+founded tabulating machine company
+core ibm
+addition control panel
+plugboard
+type tabulator allowed jobs physically rebuilt
+late
+unit record calculators
+ibm ibm
+control panels sequence
+list
+operations programmable machines
+invention von neumann architecture allowed computer programs stored computer memory
+early programs painstakingly crafted instructions
+elementary operations
+machine
+binary notation
+model computer instructions
+machine language
+task
+assembly languages developed programmer instruction text format
+entering abbreviations operation code number addresses symbolic form
+add
+total
+entering program assembly language convenient
+faster
+prone human error machine language
+assembly language notation machine language
+machines instruction sets assembly languages
+fortran invented
+high level programming language functional implementation
+opposed design paper
+high level language
+general terms
+programming language programmer write programs terms abstract assembly language instructions
+level abstraction
+higher
+assembly language
+allowed programmers calculations entering formula directly
+program text
+source
+converted machine instructions special program called compiler
+translates fortran program machine language
+fact
+fortran stands
+formula translation
+languages developed
+including commercial programming
+cobol
+programs entered punched cards paper tape
+computer programming punch card era
+late
+data storage devices computer terminals inexpensive programs created typing directly computers
+text editors developed allowed corrections made easily punched cards
+error punching card meant card discarded punched replace
+time progressed
+computers made giant leaps area processing power
+brought newer programming languages abstracted underlying hardware
+popular programming languages modern era include actionscript
+haskell
+html php
+java
+javascript
+objective
+perl
+python
+ruby
+smalltalk
+sql
+visual basic
+dozens
+high level languages incur greater overhead
+increase speed modern computers made languages practical past
+increasingly abstracted languages typically easier learn programmer develop applications efficiently source code
+high level languages impractical programs
+low level hardware control maximum processing speed vital
+computer programming popular career developed world
+united states
+europe
+scandinavia
+japan
+due high labor cost programmers countries
+forms programming increasingly subject offshore outsourcing
+importing software services countries
+lower wage
+making programming career decisions developed countries complicated
+increasing economic opportunities programmers developed areas
+china india
+approach software development
+final program satisfy fundamental properties
+properties relevant
+computer programming
+readability refers ease human reader comprehend purpose
+control flow
+operation source code
+affects aspects quality
+including portability
+usability importantly maintainability
+readability important programmers spend majority time reading
+understand modifying existing source code
+writing source code
+unreadable code leads bugs
+inefficiencies
+duplicated code
+study found simple readability transformations made code shorter drastically reduced time understand
+consistent programming style helps readability
+readability programming style
+factors
+ability computer efficiently compile execute code
+contribute readability
+factors include
+visual programming languages developed intent resolve readability concerns adopting traditional approaches code structure display
+academic field engineering practice computer programming largely concerned discovering implementing efficient algorithms class problem
+purpose
+algorithms classified orders called big notation
+expresses resource
+execution time memory consumption
+terms size input
+expert programmers familiar variety established algorithms respective complexities knowledge choose algorithms suited circumstances
+step formal software development processes requirements analysis
+testing determine modeling
+implementation
+failure elimination
+debugging
+exist lot differing approaches tasks
+approach popular requirements analysis case analysis
+nowadays programmers forms agile software development stages formal software development integrated short cycles weeks years
+approaches software development process
+popular modeling techniques include object oriented analysis design
+ooad
+model driven architecture
+mda
+unified modeling language
+uml
+notation ooad mda
+similar technique database design entity relationship modeling
+modeling
+implementation techniques include imperative languages
+object oriented procedural
+functional languages
+logic languages
+difficult determine popular modern programming languages
+languages popular kinds applications
+cobol strong corporate data centercitation needed
+large mainframes
+fortran engineering applications
+scripting languages web development
+embedded applications
+languages regularly write kinds applications
+applications mix languages construction
+languages generally designed syntax previous language functionality added
+adds object orientedness
+java adds memory management bytecode
+methods measuring programming language popularity include
+counting number job advertisements mention language
+number books sold courses teaching language
+overestimates importance newer languages
+estimates number existing lines code written language
+underestimates number users business languages cobol
+debugging
+important task software development process defects program significant consequences users
+languages prone kinds faults specification require compilers perform checking languages
+static code analysis tool detect problems
+debugging ides eclipse
+kdevelop
+netbeans
+code
+blocks
+visual studio
+standalone debuggers gdb
+provide visual environment
+command line
+programming languages support styles programming
+called programming paradigms
+choice language subject considerations
+company policy
+suitability task
+availability party packages
+individual preference
+ideally
+programming language suited task hand selected
+trade offs ideal involve finding programmers language build team
+availability compilers language
+efficiency programs written language execute
+languages form approximate spectrum
+low level
+high level
+low level
+languages typically machine oriented faster execute
+high level
+languages abstract easier execute quickly
+easier code
+high level
+languages
+low level
+allen downey
+book computer scientist
+writes
+computer languages provide mechanism call functions provided libraries
+provided functions library follow run time conventions
+method passing arguments
+functions written language
+computer programmers write computer software
+jobs involve

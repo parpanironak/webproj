@@ -1,0 +1,927 @@
+Internet
+
+internet
+internet
+internet
+global system interconnected computer networks standard internet protocol suite
+tcp
+serve billions users worldwide
+network networks consists millions private
+public
+academic
+business
+government networks
+local global scope
+linked broad array electronic
+wireless optical networking technologies
+internet carries extensive range information resources services
+inter linked hypertext documents world wide web
+www
+infrastructure support email
+traditional communications media including telephone
+music
+film
+television reshaped redefined internet
+giving birth services voice internet protocol
+voip
+internet protocol television
+iptv
+newspaper
+book print publishing adapting web site technology
+reshaped blogging web feeds
+internet enabled accelerated forms human interactions instant messaging
+internet forums
+social networking
+online shopping boomed major retail outlets small artisans traders
+business business financial services internet affect supply chains entire industries
+origins internet reach back research
+commissioned united states government build robust
+fault tolerant
+distributed computer networks
+funding
+backbone national science foundation
+private funding commercial backbones
+led worldwide participation development networking technologies
+merger networks
+commercialization international network resulted popularization incorporation virtually aspect modern human life
+june
+billion world human services internet
+internet centralized governance technological implementation policies access usage
+constituent network sets standards
+overreaching definitions principal spaces internet
+internet protocol address space domain system
+directed maintainer organization
+internet corporation assigned names numbers
+icann
+technical underpinning standardization core protocols
+activity internet engineering task force
+ietf
+profit organization loosely affiliated international participants associate contributing technical expertise
+internet short form technical term internetwork
+result interconnecting computer networks special gateways routers
+historically word
+uncapitalized
+verb adjective refer interconnected motions
+internet
+uncapitalized
+verb meaning connect
+networks
+internet referred net
+internet
+referring specific entire global system networks
+proper noun written initial capital letter
+media common capitalized
+internet
+guides word capitalized noun capitalized adjective
+terms internet world wide web interchangeably everyday speech
+common speak
+internet
+invoking browser view web pages
+internet global computer network connecting millions computing devices
+world wide web services running internet
+web collection interconnected documents
+web pages
+resources
+linked hyperlinks urls
+addition web
+multitude services implemented internet
+including mail
+file transfer
+remote computer control
+newsgroups
+online games
+web
+services implemented intranet
+accessible network users
+interweb mixture internet world wide web typically sarcastically parody technically unsavvy user
+research packet switching started early packet switched networks mark npl
+arpanet
+cyclades
+merit network
+tymnet
+telenet
+developed late early variety protocols
+arpanet led development protocols internetworking
+multiple separate networks joined network networks work british scientist donald davies ground breaking work packet switching essential system
+nodes arpanet interconnected leonard kleinrock network measurement center ucla school engineering applied science douglas engelbart nls system sri international
+sri
+menlo park
+california
+october
+site arpanet culler fried interactive mathematics center university california santa barbara
+fourth university utah graphics department
+early sign future growth
+fifteen sites connected young arpanet end
+early years documented film computer networks
+heralds resource sharing
+early international collaborations arpanet sparse
+political reasons
+european developers concerned developing
+networks
+notable exceptions norwegian seismic array
+norsar
+june
+sweden satellite links tanum earth station peter
+kirstein research group
+initially institute computer science
+university london university college london
+citation needed
+december
+rfc specification internet transmission control program
+vinton cerf
+yogen dalal
+carl sunshine
+term internet
+shorthand internetworking
+rfcs repeat
+word started adjective noun today
+access arpanet expanded national science foundation
+nsf
+developed computer science network
+csnet
+internet protocol suite
+tcp
+standardized concept world wide network fully interconnected tcp
+networks called internet introduced
+tcp
+network access expanded national science foundation network
+nsfnet
+provided access supercomputer sites united states research education organizations
+kbit
+mbit
+mbit
+commercial internet service providers
+isps
+began emerge late early
+arpanet decommissioned
+internet commercialized nsfnet decommissioned
+removing restrictions internet carry commercial traffic
+internet started rapid expansion europe australia mid late asia late early
+mid internet tremendous impact culture commerce
+including rise instant communication email
+instant messaging
+voice internet protocol
+voip
+phone calls
+interactive video calls
+world wide web discussion forums
+blogs
+social networking
+online shopping sites
+increasing amounts data transmitted higher higher speeds fiber optic networks operating gbit
+gbit
+internet continues grow
+driven greater amounts online information knowledge
+commerce
+entertainment social networking
+late
+estimated traffic public internet grew percent year
+annual growth number internet users thought
+growth attributed lack central administration
+organic growth network
+proprietary open nature internet protocols
+encourages vendor interoperability prevents company exerting control network
+march
+estimated total number internet users
+world population
+estimated internet carried information flowing telecommunication
+figure grown
+telecommunicated information carried internet
+communications infrastructure internet consists hardware components system software layers control aspects architecture
+hardware support software systems
+design rigorous standardization process software architecture characterizes internet foundation scalability success
+responsibility architectural design internet software systems delegated internet engineering task force
+ietf
+ietf conducts standard setting work groups
+open individual
+aspects internet architecture
+resulting discussions final standards published series publications
+called request comments
+rfc
+freely ietf web site
+principal methods networking enable internet contained specially designated rfcs constitute internet standards
+rigorous documents simply informative
+experimental
+historical
+document current practices
+bcp
+implementing internet technologies
+internet standards describe framework internet protocol suite
+model architecture divides methods layered system protocols
+rfc
+rfc
+layers correspond environment scope services operate
+top application layer
+space application specific networking methods software applications
+web browser program
+top layer
+transport layer connects applications hosts network
+model
+data exchange methods
+underlying layers core networking technologies
+consisting layers
+internet layer enables computers identify locate internet protocol
+addresses
+connect intermediate
+transit
+networks
+bottom architecture
+software layer
+link layer
+connectivity hosts local network link
+local area network
+lan
+dial connection
+model
+tcp
+designed independent underlying hardware
+model concern detail
+models developed
+open systems interconnection
+osi
+model
+compatible details description implementation
+similarities exist tcp
+protocols included discussion osi networking
+prominent component internet model internet protocol
+addressing systems
+addresses
+computers internet
+enables internetworking essence establishes internet
+version
+initial version generation today internet dominant
+designed address
+internet hosts
+explosive growth internet led address exhaustion
+entered final stage
+global address allocation pool exhausted
+protocol version
+developed mid
+vastly larger addressing capabilities efficient routing internet traffic
+growing deployment world
+internet address registries
+rirs
+began urge resource managers plan rapid adoption conversion
+interoperable
+essence
+establishes parallel version internet directly accessible software
+means software upgrades translator facilities networking devices communicate networks
+modern computer operating systems support versions internet protocol
+network infrastructures
+lagging development
+complex array physical connections make infrastructure
+internet facilitated multi lateral commercial contracts
+peering agreements
+technical specifications protocols describe exchange data network
+internet defined interconnections routing policies
+internet service providers connect customers
+thought
+bottom
+routing hierarchy
+customers isps
+top
+routing hierarchy ten tier networks
+large telecommunication companies exchange traffic directly
+tier networks unpaid peering agreements
+tier networks buy internet transit isp reach parties global internet
+engage unpaid peering
+local partners similar size
+isps single
+upstream
+provider connectivity
+multihoming provide protection problems individual links
+internet exchange points create physical connections multiple isps
+hosted buildings owned independent parties
+citation needed
+computers routers routing tables direct packets locally connected machines
+tables constructed manually automatically dhcp individual computer routing protocol routers
+single homed situations
+default route points
+isp providing transit
+higher level isps border gateway protocol sort paths range addresses complex connections global internet
+citation needed
+academic institutions
+large companies
+governments
+organizations perform role isps
+engaging peering purchasing transit behalf internal networks individual computers
+research networks tend interconnect large subnetworks geant
+gloriad
+national research education network
+janet
+turn built smaller networks
+citation needed
+computer networks connected internet
+classified united states websites accessible separate secure networks
+citation needed
+internet structure usage characteristics studied extensively
+determined internet routing structure hypertext links world wide web examples scale free networks
+computer scientists describe internet
+prime large scale
+highly engineered
+highly complex system
+internet heterogeneous
+instance
+data transfer rates physical characteristics connections vary widely
+internet exhibits
+emergent phenomena
+depend large scale organization
+data transfer rates exhibit temporal similarity
+principles routing addressing methods traffic internet reach back origins eventual scale popularity network anticipated
+possibility developing alternative structures investigated
+internet structure found highly robust random failures vulnerable high degree attacks
+internet globally distributed network comprising voluntarily interconnected autonomous networks
+operates central governing body
+maintain interoperability
+technical policy aspects underlying core infrastructure principal spaces administered internet corporation assigned names numbers
+icann
+headquartered marina del rey
+california
+icann authority coordinates assignment unique identifiers internet
+including domain names
+internet protocol
+addresses
+application port numbers transport protocols
+parameters
+globally unified spaces
+names numbers uniquely assigned
+essential global reach internet
+icann governed international board directors drawn internet technical
+business
+academic
+commercial communities
+government united states continues primary role approving dns root zone lies heart domain system
+icann role coordinating assignment unique identifiers distinguishes central coordinating body global internet
+november
+world summit information society
+held tunis
+established internet governance forum
+igf
+discuss internet related issues
+internet greater flexibility working hours location
+spread unmetered high speed connections
+internet accessed numerous means
+including mobile internet devices
+mobile phones
+datacards
+handheld game consoles cellular routers users connect internet wirelessly
+limitations imposed small screens limited facilities pocket sized devices
+services internet
+including email web
+service providers restrict services offered mobile data charges significantly higher access methods
+educational material levels pre school post doctoral websites
+examples range cbeebies
+school high school revision guides virtual universities
+access top end scholarly literature likes google scholar
+distance education
+homework assignments
+guided learning
+whiling spare time
+detail interesting fact
+easier people access educational information level
+internet general world wide web important enablers formal informal education
+low cost instantaneous sharing ideas
+knowledge
+skills made collaborative work dramatically easier
+collaborative software
+group cheaply communicate share ideas wide reach internet groups easily form
+free software movement
+produced
+things
+linux
+mozilla firefox
+openoffice
+internet chat
+irc chat room
+instant messaging system
+social networking website
+colleagues stay touch convenient working computers day
+messages exchanged quickly conveniently email
+systems files exchanged
+drawings images shared
+voice video contact team members
+content management systems collaborating teams work shared sets documents simultaneously accidentally destroying work
+business project teams share calendars documents information
+collaboration occurs wide variety areas including scientific research
+software development
+conference planning
+political activism creative writing
+social political collaboration widespread internet access computer literacy spread
+internet computer users remotely access computers information stores easily
+computer security
+authentication encryption technologies
+depending requirements
+encouraging ways working home
+collaboration information sharing industries
+accountant sitting home audit books company based country
+server situated country remotely maintained specialists fourth
+accounts created home working bookkeepers
+remote locations
+based information emailed offices world
+things widespread internet
+cost private leased lines made infeasible practice
+office worker desk
+side world business trip holiday
+access emails
+access data cloud computing
+open remote desktop session office secure virtual private network
+vpn
+connection internet
+give worker complete access normal files data
+including email applications
+office
+referred system administrators virtual private nightmare
+extends secure perimeter corporate network remote locations employees homes
+people terms internet world wide web
+web
+interchangeably
+terms synonymous
+world wide web global set documents
+images resources
+logically interrelated hyperlinks referenced uniform resource identifiers
+uris
+uris symbolically identify services
+servers
+databases
+documents resources provide
+hypertext transfer protocol
+main access protocol world wide web
+hundreds communication protocols internet
+web services software systems communicate order share exchange business logic data
+world wide web browser software
+microsoft internet explorer
+mozilla firefox
+opera
+apple safari
+google chrome
+users navigate web page hyperlinks embedded documents
+documents combination computer data
+including graphics
+sounds
+text
+video
+multimedia interactive content runs user interacting page
+client side software include animations
+games
+office applications scientific demonstrations
+keyword driven internet research search engines yahoo
+google
+users worldwide easy
+instant access vast diverse amount online information
+compared printed media
+books
+encyclopedias traditional libraries
+world wide web enabled decentralization information large scale
+web enabled individuals organizations publish ideas information potentially large audience online greatly reduced expense time delay
+publishing web page
+blog
+building website involves initial cost cost free services
+publishing maintaining large
+professional web sites attractive
+diverse date information difficult expensive proposition
+individuals companies groups web logs blogs
+largely easily updatable online diaries
+commercial organizations encourage staff communicate advice areas specialization hope visitors impressed expert knowledge free information
+attracted corporation result
+practice microsoft
+product developers publish personal blogs order pique public interest work
+collections personal web pages published large service providers remain popular
+increasingly sophisticated
+operations angelfire geocities existed early days web
+newer offerings
+facebook twitter large followings
+operations brand social network services simply web page hosts
+advertising popular web pages lucrative
+commerce sale products services directly web continues grow
+web began
+typical web page stored completed form web server
+formatted html
+ready user browser response request
+time
+process creating serving web pages automated dynamic
+websites created content management wiki software
+initially
+content
+contributors systems
+paid staff
+members club organization members public
+fill underlying databases content editing pages designed purpose
+casual visitors view read content final html form
+editorial
+approval security systems built process taking newly entered content making target visitors
+email important communications service internet
+concept sending electronic text messages parties analogous mailing letters memos predates creation internet
+pictures
+documents files email attachments
+emails multiple email addresses
+internet telephony common communications service made creation internet
+voip stands voice internet protocol
+referring protocol underlies internet communication
+idea began early walkie talkie voice applications personal computers
+recent years voip systems easy convenient normal telephone
+benefit
+internet carries voice traffic
+voip free cost traditional telephone call
+long distances internet connections cable adsl
+voip maturing competitive alternative traditional telephone service
+interoperability providers improved ability call receive call traditional telephone
+simple
+inexpensive voip network adapters eliminate personal computer
+voice quality vary call call
+equal exceed traditional calls
+remaining problems voip include emergency telephone number dialing reliability
+voip providers provide emergency service
+universally
+traditional phones line powered operate power failure
+voip backup power source phone equipment internet access devices
+voip increasingly popular gaming applications
+form communication players
+popular voip clients gaming include ventrilo teamspeak
+wii
+playstation
+xbox offer voip chat features
+file sharing transferring large amounts data internet
+computer file emailed customers
+colleagues friends attachment
+uploaded website ftp server easy download
+put
+shared location
+file server instant colleagues
+load bulk downloads users eased
+mirror
+servers peer peer networks
+cases
+access file controlled user authentication
+transit file internet obscured encryption
+money change hands access file
+price paid remote charging funds
+credit card details fully internet
+origin authenticity file received checked digital signatures message digests
+simple features internet
+worldwide basis
+changing production
+sale
+distribution reduced computer file transmission
+includes manner print publications
+software products
+news
+music
+film
+video
+photography
+graphics arts
+turn caused seismic shifts existing industries previously controlled production distribution products
+streaming media real time delivery digital media consumption enjoyment end users
+radio television broadcasters provide internet feeds live audio video productions
+time shift viewing listening preview
+classic clips listen features
+providers joined range pure internet
+broadcasters
+air licenses
+means internet connected device
+computer specific
+access line media previously television radio receiver
+range types content wider
+specialized technical webcasts demand popular multimedia services
+podcasting variation theme
+material downloaded played back computer shifted portable media player listened move
+techniques simple equipment
+censorship licensing control
+broadcast audio visual material worldwide
+digital media streaming increases demand network bandwidth
+standard image quality mbit
+link speed
+quality requires
+mbit
+top line hdx quality
+mbit
+webcams low cost extension phenomenon
+webcams give full frame rate video
+picture small updates slowly
+internet users watch animals african waterhole
+ships panama canal
+traffic local roundabout monitor premises
+live real time
+video chat rooms video conferencing popular found personal webcams
+sound
+youtube founded february leading website free streaming video vast number users
+flash based web player stream show video files
+registered users unlimited amount video build personal profile
+youtube claims users watch hundreds millions
+hundreds thousands videos daily
+common methods internet access homes include dial
+landline broadband
+coaxial cable
+fiber optic copper wires
+satellite
+technology cell phones
+public places internet include libraries internet cafes
+computers internet connections
+internet access points public places airport halls coffee shops
+cases standing
+terms
+public internet kiosk
+public access terminal
+web payphone
+hotels public terminals
+fee based
+terminals widely accessed usage ticket booking
+bank deposit
+online payment
+wireless access computer networks
+internet
+hotspots providing access include cafes
+users bring wireless enabled devices laptop pda
+services free
+free customers
+fee based
+hotspot limited confined location
+campus park
+entire city enabled
+grassroots efforts led wireless community networks
+commercial services covering large city areas place london
+vienna
+toronto
+san francisco
+philadelphia
+chicago pittsburgh
+internet accessed places park bench
+experiments proprietary mobile wireless networks ricochet
+high speed data services cellular phone networks
+fixed wireless services
+high end mobile phones smartphones general internet access phone network
+web browsers opera advanced handsets
+run wide variety internet software
+mobile phones internet access pcs
+widely
+internet access provider protocol matrix differentiates methods online
+internet blackout outage caused local signaling interruptions
+disruptions submarine communications cables blackouts slowdowns large areas
+submarine cable disruption
+developed countries vulnerable due small number high capacity links
+land cables vulnerable
+woman digging scrap metal severed connectivity nation armenia
+internet blackouts affecting entire countries achieved governments form internet censorship
+blockage internet egypt
+approximately networks access attempt stop mobilization anti government protests
+internet usage tremendous growth
+number internet users globally rose million
+billion
+percent world population access computers billion google searches day
+million internet users reading blogs
+billion videos viewed daily youtube
+prevalent language communication internet english
+result origin internet
+language role lingua franca
+early computer systems limited characters american standard code information interchange
+ascii
+subset latin alphabet
+english
+requested languages world wide web chinese
+spanish
+japanese
+portuguese german
+arabic
+french russian
+korean
+region
+world internet users based asia
+europe
+north america
+latin america caribbean
+africa
+middle east australia
+oceania
+internet technologies developed recent years
+unicode
+good facilities development communication world widely languages
+glitches mojibake
+incorrect display languages characters
+remain
+american study
+percentage men internet slightly ahead percentage women
+difference reversed
+men logged
+spent time online
+broadband users
+women tended make opportunities communicate
+email
+men internet pay bills
+participate auctions
+recreation downloading music videos
+men women equally internet shopping banking
+recent studies
+women significantly outnumbered men social networking sites
+facebook myspace
+ratios varied age
+addition
+women watched streaming content
+men downloaded
+terms blogs
+men blog place
+blog
+men professional blog
+women personal blog
+internet enabled forms social interaction
+activities
+organizing
+basic features widespread usability access
+decade century
+generation raised widespread availability internet connectivity
+bringing consequences concerns areas personal privacy identity
+distribution copyrighted materials
+digital natives
+face variety challenges present prior generations
+people world wide web access news
+weather sports reports
+plan book vacations find interests
+people chat
+messaging email make stay touch friends worldwide
+previously pen pals
+internet growing number web desktops
+users access files settings internet
+social networking websites facebook
+twitter
+myspace created ways socialize interact
+users sites add wide variety information pages
+pursue common interests
+connect
+find existing acquaintances
+communication existing groups people
+sites linkedin foster commercial business connections
+youtube flickr specialize users videos photographs
+internet major outlet leisure activity inception
+entertaining social experiments muds moos conducted university servers
+humor related usenet groups receiving traffic
+today
+internet forums sections devoted games funny videos
+short cartoons form flash movies popular
+people blogs message boards means communication sharing ideas
+internet pornography online gambling industries advantage world wide web
+provide significant source advertising revenue websites
+governments attempted restrict industries internet
+general failed stop widespread popularity
+area leisure activity internet multiplayer gaming
+form recreation creates communities
+people ages origins enjoy fast paced world multiplayer games
+range mmorpg person shooters
+role playing video games online gambling
+online gaming
+modern modes online gaming began subscription services gamespy mplayer
+subscribers limited types game play games
+people internet access download music
+movies works enjoyment relaxation
+free fee based services exist activities
+centralized servers distributed peer peer technologies
+sources exercise care respect original artists copyrights
+internet usage correlated users loneliness
+lonely people tend internet outlet feelings share stories
+lonely speak
+thread
+cybersectarianism organizational form involves
+highly dispersed small groups practitioners remain largely anonymous larger social context operate relative secrecy
+linked remotely larger network believers share set practices texts
+common devotion leader
+overseas supporters provide funding support
+domestic practitioners distribute tracts
+participate acts resistance
+share information internal situation outsiders
+collectively
+members practitioners sects construct viable virtual communities faith
+exchanging personal testimonies engaging collective study email
+line chat rooms web based message boards
+cyberslacking drain corporate resources
+average employee spent minutes day surfing web work
+study peninsula business services
+internet addiction disorder excessive computer interferes daily life
+psychologist nicolas carr internet effects individuals
+instance improving skills scan reading interfering deep thinking leads true creativity
+electronic business
+business
+involves business processes spanning entire chain
+electronic purchasing supply chain management
+processing orders electronically
+handling customer service
+cooperating business partners
+commerce seeks add revenue streams internet build enhance relationships clients partners
+research firm idc
+size total worldwide commerce
+global business business consumer transactions added
+equate trillion
+idate
+research firm
+estimates global market digital products services
+trillion
+report oxford economics adds estimate total size digital economy
+trillion
+equivalent roughly
+global sales
+remote work facilitated tools groupware
+virtual private networks
+conference calling
+videoconferencing
+voice
+voip
+efficient companies workers communicate long distances
+saving significant amounts travel time cost
+broadband internet connections commonplace
+workers adequate bandwidth home tools link home corporate intranet internal phone networks
+internet good venue crowdsourcing
+outsourcing tasks distributed group people
+individuals tend open web based projects physically judged scrutinized feel comfortable sharing
+crowdsourcing systems accomplish variety tasks
+crowd invited develop technology
+carry design task
+refine carry steps algorithm
+human based computation
+capture
+systematize
+analyze large amounts data
+citizen science
+wikis academic community sharing dissemination information institutional international boundaries
+settings
+found collaboration grant writing
+strategic planning
+departmental documentation
+committee work
+united states patent trademark office wiki public collaborate finding prior art relevant examination pending patent applications
+queens
+york wiki citizens collaborate design planning local park
+english largest user base wikis world wide web ranks top web sites terms traffic
+internet achieved relevance political tool
+presidential campaign howard dean united states notable success soliciting donation internet
+political groups internet achieve method organizing order carry mission
+rise internet activism
+notably practiced rebels arab spring
+york times suggested social media websites
+facebook twitter
+helped people organize political revolutions egypt helped classes protesters organize protests
+communicate grievances
+disseminate information
+potential internet civic tool communicative power explored simon
+berdal thesis
+berdal
+extends habermasian notion public sphere internet
+underlines inherent global civic nature intervowen internet technologies provide
+limit growing civic potential internet
+berdal notes
+protective measures
+put place threatened
+spread low cost internet access developing countries opened possibilities peer peer charities
+individuals contribute small amounts charitable projects individuals
+websites
+donorschoose globalgiving
+small scale donors direct funds individual projects choice
+popular twist internet based philanthropy peer peer lending charitable purposes
+kiva pioneered concept
+offering web based service publish individual loan profiles funding
+kiva raises funds local intermediary microfinance organizations post stories updates behalf borrowers
+lenders contribute loans choice
+receive money back borrowers repay
+kiva falls short pure peer peer charity
+loans disbursed funded lenders borrowers communicate lenders
+recent spread low cost internet access developing countries made genuine international person person philanthropy increasingly feasible
+based nonprofit zidisha tapped trend offer person person microfinance platform link lenders borrowers international borders intermediaries
+members fund loans dollar
+borrowers develop business activities improve families incomes repaying loans members interest
+borrowers access internet public cybercafes
+donated laptops village schools
+smart phones
+create profile pages share photos information businesses
+repay loans
+borrowers continue share updates dialogue lenders profile pages
+direct web based connection members communication recording tasks traditionally performed local organizations
+bypassing geographic barriers dramatically reducing cost microfinance services entrepreneurs
+governments
+burma
+iran
+north korea
+mainland china
+saudi arabia
+united arab emirates restrict people countries access internet
+political religious content
+accomplished software filters domains content easily accessed obtained elaborate circumvention
+norway
+denmark
+finland
+sweden
+major internet service providers voluntarily
+possibly avoid arrangement turned law
+agreed restrict access sites listed authorities
+list forbidden urls supposed addresses child pornography sites
+content list secret
+countries
+including united states
+enacted laws possession distribution material
+child pornography
+internet
+mandate filtering software
+free commercially software programs
+called content control software
+user choose block offensive websites individual computers networks
+order limit child access pornographic materials depiction violence
+written economic advantages internet enabled commerce
+evidence aspects internet maps location aware services serve reinforce economic inequality digital divide
+electronic commerce responsible consolidation decline mom pop
+brick mortar businesses resulting increases income inequality
+citation needed

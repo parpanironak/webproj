@@ -1,0 +1,684 @@
+Robotics
+
+robotics
+robotics branch technology deals design
+construction
+operation
+development application robots computer systems control
+sensory feedback
+information processing
+technologies deal automated machines place humans
+dangerous manufacturing processes
+simply resemble humans
+today robots inspired nature contributing field bio inspired robotics
+concept creation machines operate autonomously dates back classical times
+research functionality potential robots grow substantially century
+history
+robotics mimic human behavior
+manage tasks similar fashion
+today
+robotics rapidly growing field
+technological advances continue
+research
+design
+building robots serve practical purposes
+domestically
+commercially
+militarily
+robots jobs hazardous people defusing bombs
+exploring shipwrecks
+mines
+word robotics derived word robot
+introduced public czech writer karel play
+rossum universal robots
+premiered
+word robot slavic word robota
+refer forced labor
+oxford english dictionary
+word robotics print isaac asimov
+science fiction short story
+liar
+published astounding science fiction
+asimov unaware coining term
+science technology electrical devices electronics
+assumed robotics referred science technology robots
+asimov works
+states word robotics short story runaround
+astounding science fiction
+march
+original publication
+liar
+predates
+runaround
+months
+generally cited word origin
+word robot introduced public czech writer karel play
+rossum universal robots
+published
+play begins factory makes artificial people called robots creatures mistaken humans closer modern ideas androids
+karel coin word
+wrote short letter reference etymology oxford english dictionary named brother josef actual originator
+maschinenmensch
+machine human
+gynoid humanoid robot
+called
+parody
+futura
+robotrix
+maria impersonator
+memorable depiction robot film played german actress brigitte helm fritz lang film metropolis
+science fiction writer isaac asimov formulated laws robotics
+process
+coined word
+robotics
+details
+etymology
+section
+norbert wiener formulated principles cybernetics
+basis practical robotics
+fully autonomous robots appeared half century
+digitally operated programmable robot
+unimate
+installed lift hot pieces metal die casting machine stack
+commercial industrial robots widespread today perform jobs cheaply
+accurately reliably
+humans
+employed jobs dirty
+dangerous
+dull suitable humans
+robots widely manufacturing
+assembly
+packing packaging
+transport
+earth space exploration
+surgery
+weaponry
+laboratory research
+safety
+mass production consumer industrial goods
+present
+lead acid
+batteries power source
+types batteries power source robots
+range lead acid batteries safe long shelf lives heavy silver cadmium batteries smaller volume expensive
+designing battery powered robot account factors safety
+cycle lifetime weight
+generators
+type internal combustion engine
+designs mechanically complex fuel
+require heat dissipation heavy
+tether connecting robot power supply remove power supply robot
+advantage saving weight space moving power generation storage components
+design drawback constantly cable connected robot
+difficult manage
+potential power sources
+actuators
+muscles
+robot
+parts convert stored energy movement
+popular actuators electric motors spin wheel gear
+linear actuators control industrial robots factories
+recent advances alternative types actuators
+powered electricity
+chemicals
+compressed air
+vast majority robots electric motors
+brushed brushless motors portable robots motors industrial robots cnc machines
+motors preferred systems lighter loads
+predominant form motion rotational
+types linear actuators move spinning
+quicker direction
+large forces needed industrial robotics
+typically powered compressed air
+pneumatic actuator
+oil
+hydraulic actuator
+spring designed part motor actuator
+improved force control
+robots
+walking humanoid robots
+pneumatic artificial muscles
+air muscles
+special tubes contract
+typically
+air forced inside
+robot applications
+muscle wire
+shape memory alloy
+nitinol flexinol wire
+material contracts slightly
+typically
+electricity runs
+small robot applications
+eaps epams plastic material contract substantially
+activation strain
+electricity
+facial muscles arms humanoid robots
+robots float
+fly
+swim walk
+recent alternatives motors piezo motors ultrasonic motors
+work fundamentally principle
+tiny piezoceramic elements
+vibrating thousands times
+linear rotary motion
+mechanisms operation
+type vibration piezo elements walk motor circle straight line
+type piezo elements nut vibrate drive screw
+advantages motors nanometer resolution
+speed
+force size
+motors commercially
+robots
+elastic nanotubes promising artificial muscle technology early stage experimental development
+absence defects carbon nanotubes enables filaments deform elastically percent
+energy storage levels
+metal nanotubes
+human biceps replaced diameter wire material
+compact
+muscle
+future robots outrun outjump humans
+sensors robots receive information measurement environment
+internal components
+essential robots perform tasks
+act environment calculate response
+forms measurements
+give robots warnings safety malfunctions
+provide real time information task performing
+current robotic prosthetic hands receive tactile information human hand
+recent research developed tactile sensor array mimics mechanical properties touch receptors human fingertips
+sensor array constructed rigid core surrounded conductive fluid contained elastomeric skin
+electrodes mounted surface rigid core connected impedance measuring device core
+artificial skin touches object fluid path electrodes deformed
+producing impedance map forces received object
+researchers expect important function artificial fingertips adjusting robotic grip held objects
+scientists european countries israel developed prosthetic hand
+called smarthand
+functions real patients write
+type keyboard
+play piano perform fine movements
+prosthesis sensors enable patient sense real feeling fingertips
+computer vision science technology machines
+scientific discipline
+computer vision concerned theory artificial systems extract information images
+image data forms
+video sequences views cameras
+practical computer vision applications
+computers pre programmed solve task
+methods based learning increasingly common
+computer vision systems rely image sensors detect electromagnetic radiation typically form visible light infra red light
+sensors designed solid state physics
+process light propagates reflects surfaces explained optics
+sophisticated image sensors require quantum mechanics provide complete understanding image formation process
+robots equipped multiple vision sensors compute sense depth environment
+human eyes
+robots
+eyes
+focus area interest
+adjust variations light intensities
+subfield computer vision artificial systems designed mimic processing behavior biological systems
+levels complexity
+learning based methods developed computer vision background biology
+common forms sensing robotics lidar
+radar sonar
+citation needed
+robots manipulate objects
+pick
+modify
+destroy
+effect
+hands
+robot referred end effectors
+arm
+referred manipulator
+robot arms replaceable effectors
+allowing perform small range tasks
+fixed manipulator replaced
+general purpose manipulator
+humanoid hand
+definitive guide forms robot end effectors
+design
+usage consult book
+robot grippers
+common effectors gripper
+simplest manifestation consists fingers open close pick range small objects
+fingers made chain metal wire run
+hands resemble work human hand include shadow hand
+robonaut hand
+hands mid level complexity include delft hand
+mechanical grippers types
+including friction encompassing jaws
+friction jaws force gripper hold object place friction
+encompassing jaws cradle object place
+friction
+vacuum grippers simple astrictive devices
+hold large loads provided prehension surface smooth ensure suction
+pick place robots electronic components large objects car windscreens
+simple vacuum grippers
+advanced robots beginning fully humanoid hands
+shadow hand
+manus
+schunk hand
+highly dexterous manipulators
+degrees freedom hundreds tactile sensors
+simplicity mobile robots wheels number continuous tracks
+researchers create complex wheeled robots wheels
+advantages greater efficiency reduced parts
+allowing robot navigate confined places wheeled robot
+balancing robots generally gyroscope detect robot falling drive wheels proportionally opposite direction
+counterbalance fall hundreds times
+based dynamics inverted pendulum
+balancing robots designed
+segway commonly thought robot
+thought component robot
+segway refer rmp
+robotic mobility platform
+nasa robonaut mounted segway
+wheeled balancing robot extension wheeled balancing robot move direction round ball wheel
+wheeled balancing robots designed recently
+carnegie mellon university
+ballbot
+approximate height width person
+tohoku gakuin university
+ballip
+long
+thin shape ability maneuver tight spaces
+potential function robots environments people
+attempts made robots completely inside spherical ball
+spinning weight inside ball
+rotating outer shells sphere
+referred orb bot ball bot
+wheels wheels give traction grip outdoor terrain rocky dirt grass
+tank tracks provide traction wheeled robot
+tracked wheels behave made hundreds wheels
+common outdoor military robots
+robot drive rough terrain
+difficult indoors carpets smooth floors
+examples include nasa urban robot
+urbie
+walking difficult dynamic problem solve
+robots made walk reliably legs
+made robust human
+study human inspired walking
+amber lab established mechanical engineering department texas university
+robots built walk legs
+due robots significantly easier construct
+walking robots uneven terrains
+provide mobility energy efficiency locomotion methods
+hybrids proposed movies
+robot
+walk legs switch
+arms legs
+sprint
+typically
+robots legs walk flat floors occasionally walk stairs
+walk rocky
+uneven terrain
+methods
+moment point
+zmp
+algorithm robots honda asimo
+robot onboard computer total inertial forces
+combination earth gravity acceleration deceleration walking
+opposed floor reaction force
+force floor pushing back robot foot
+forces cancel
+leaving moment
+force causing robot rotate fall
+human walks
+difference obvious human observers
+pointed asimo walks lavatory
+asimo walking algorithm static
+dynamic balancing
+requires smooth surface walk
+robots
+built marc raibert mit leg laboratory
+successfully demonstrated dynamic walking
+initially
+robot leg
+small foot
+stay upright simply hopping
+movement person pogo stick
+robot falls side
+jump slightly direction
+order catch
+algorithm generalised legs
+bipedal robot demonstrated running performing somersaults
+quadruped demonstrated trot
+run
+pace
+bound
+full list robots
+mit leg lab robots page
+advanced robot walk dynamic balancing algorithm
+potentially robust moment point technique
+constantly monitors robot motion
+places feet order maintain stability
+technique recently demonstrated anybots dexter robot
+stable
+jump
+delft flame
+promising approach utilizes passive dynamics momentum swinging limbs greater efficiency
+shown totally unpowered humanoid mechanisms walk gentle slope
+gravity propel
+technique
+robot supply small amount motor power walk flat surface walk hill
+technique promises make walking robots ten times efficient zmp walkers
+asimo
+modern passenger airliner essentially flying robot
+humans manage
+autopilot control plane stage journey
+including takeoff
+normal flight
+landing
+flying robots uninhabited
+unmanned aerial vehicles
+uavs
+smaller lighter human pilot board
+fly dangerous territory military surveillance missions
+fire targets command
+uavs developed fire targets automatically
+command human
+flying robots include cruise missiles
+entomopter
+epson micro helicopter robot
+robots air penguin
+air ray
+air jelly lighter air bodies
+propelled paddles
+guided sonar
+snake robots successfully developed
+mimicking real snakes move
+robots navigate confined spaces
+meaning day search people trapped collapsed buildings
+japanese acm snake robot navigate land water
+small number skating robots developed
+multi mode walking skating device
+legs
+unpowered wheels
+step roll
+robot
+plen
+miniature skateboard roller skates
+skate desktop
+approaches develop robots ability climb vertical surfaces
+approach mimics movements human climber wall protrusions
+adjusting center mass moving limb turn gain leverage
+capuchin
+built stanford university
+california
+approach specialized toe pad method wall climbing geckoes
+run smooth surfaces vertical glass
+examples approach include wallbot stickybot
+china
+technology daily
+november
+reported concept aircraft
+zhuhai
+hiu yeung research group recently successfully developed bionic gecko robot
+speedy freelander
+introduction
+gecko robot rapidly climbing variety building walls
+ground vertical wall fissure walking upside ceiling
+adapt smooth glass
+rough sticky dust walls surface metallic materials automatically identify obstacles
+circumvent bypass flexible realistic movements
+flexibility speed comparable natural gecko
+approach mimic motion snake climbing polecitation needed
+calculated swimming fish achieve propulsive efficiency greater
+accelerate maneuver man made boat submarine
+produce noise water disturbance
+researchers studying underwater robots copy type locomotion
+notable examples essex university computer science robotic fish
+robot tuna built institute field robotics
+analyze mathematically model thunniform motion
+aqua penguin
+designed built festo germany
+copies streamlined shape propulsion front
+flippers
+penguins
+festo built aqua ray aqua jelly
+emulate locomotion manta ray
+jellyfish
+significant percentage robots commission today human controlled
+operate static environment
+increasing interest robots operate autonomously dynamic environment
+robots require combination navigation hardware software order traverse environment
+unforeseen events
+people obstacles stationary
+problems collisions
+highly advanced robots asimo
+robot good robot navigation hardware software
+controlled cars
+ernst dickmanns driverless car
+entries darpa grand challenge
+capable sensing environment subsequently making navigational decisions based information
+robots employ gps navigation device waypoints
+radar
+combined sensory data lidar
+video cameras
+inertial guidance systems navigation waypoints
+robots work effectively homes industrial environments
+instructed perform jobs
+told stop critical importance
+people interact training robotics
+interface extremely intuitive
+science fiction authors typically assume robots eventually capable communicating humans speech
+gestures
+facial expressions
+command line interface
+speech natural human communicate
+unnatural robot
+long time robots interact naturally fictional
+interpreting continuous flow sounds coming human
+real time
+difficult task computer
+great variability speech
+word
+spoken person sound depending local acoustics
+volume
+previous word
+speaker cold
+harder speaker accent
+great strides made field davis
+biddulph
+balashek designed
+voice input system
+recognized
+ten digits spoken single user accuracy
+systems recognize continuous
+natural speech
+words minute
+accuracy
+hurdles exist allowing robot voice interacting humans
+social reasons
+synthetic voice proves suboptimal communication medium
+making develop emotional component robotic voice techniques
+imagine
+future
+explaining robot chef make pastry
+directions robot police officer
+cases
+making hand gestures aid verbal descriptions
+case
+robot recognizing gestures made human
+repeating confirmation
+case
+robot police officer gesture
+road
+turn
+gestures make part interaction humans robots
+great systems developed recognize human hand gestures
+facial expressions provide rapid feedback progress dialog humans
+humans robots
+robotic faces constructed hanson robotics elastic polymer called frubber
+allowing large number facial expressions due elasticity rubber facial coating embedded subsurface motors
+servos
+coating servos built metal skull
+robot approach human
+judging facial expression body language
+person happy
+frightened
+crazy affects type interaction expected robot
+likewise
+robots kismet recent addition
+nexi produce range facial expressions
+allowing meaningful social exchanges humans
+artificial emotions generated
+composed sequence facial expressions
+gestures
+movie final fantasy
+spirits
+programming artificial emotions complex requires large amount human observation
+simplify programming movie
+presets created special software program
+decreased amount time needed make film
+presets possibly transferred real life robots
+robots science fiction personality
+desirable commercial robots future
+researchers create robots personality
+sounds
+facial expressions
+body language convey internal state
+joy
+sadness
+fear
+commercial pleo
+toy robot dinosaur
+exhibit apparent emotions
+mechanical structure robot controlled perform tasks
+control robot involves distinct phases perception
+processing
+action
+robotic paradigms
+sensors give information environment robot
+position joints end effector
+information processed calculate signals actuators
+motors
+move mechanical
+processing phase range complexity
+reactive level
+translate raw sensor information directly actuator commands
+sensor fusion estimate parameters interest
+position robot gripper
+noisy sensor data
+task
+moving gripper direction
+inferred estimates
+techniques control theory convert task commands drive actuators
+longer time scales sophisticated tasks
+robot build reason
+cognitive
+model
+cognitive models represent robot
+world
+interact
+pattern recognition computer vision track objects
+mapping techniques build maps world
+finally
+motion planning artificial intelligence techniques figure act
+planner figure achieve task hitting obstacles
+falling
+control systems varying levels autonomy
+classification takes account interaction human control machine motions
+research robotics focuses specific industrial tasks
+investigations types robots
+alternative ways design robots
+ways manufacture investigations
+mit cyberflora project
+wholly academic
+innovation robot design opensourcing robot projects
+describe level advancement robot
+term
+generation robots
+term coined professor hans moravec
+principal research scientist carnegie mellon university robotics institute describing future evolution robot technology
+generation robots
+moravec predicted
+intellectual capacity comparable lizard
+generation robot incapable learning
+moravec predicts generation robot improvement
+intelligence comparable mouse
+generation robot intelligence comparable monkey
+fourth generation robots
+robots human intelligence
+professor moravec predicts
+predict happening
+evolutionary robots
+methodology evolutionary computation design robots
+body form
+motion behavior controllers
+similar natural evolution
+large population robots allowed compete
+ability perform task measured fitness function
+perform worst removed population
+replaced set
+behaviors based winners
+time population improves
+eventually satisfactory robot
+direct programming robots researchers
+researchers method create robots
+explore nature evolution
+process requires generations robots simulated
+technique run simulation
+tested real robots evolved algorithms good
+million industrial robots toiling world
+japan top country high density utilizing robots manufacturing industry
+citation needed
+study motion divided kinematics dynamics
+direct kinematics refers calculation end effector position
+orientation
+velocity
+acceleration joint values
+inverse kinematics refers opposite case required joint values calculated end effector values
+path planning
+special aspects kinematics include handling redundancy
+possibilities performing movement
+collision avoidance
+singularity avoidance
+relevant positions
+velocities
+accelerations calculated kinematics
+methods field dynamics study effect forces movements
+direct dynamics refers calculation accelerations robot applied forces
+direct dynamics computer simulations robot
+inverse dynamics refers calculation actuator forces create prescribed end effector acceleration
+information improve control algorithms robot
+area mentioned
+researchers strive develop concepts strategies
+improve existing
+improve interaction areas
+criteria
+optimal
+performance ways optimize design
+structure
+control robots developed implemented
+robotics engineers design robots
+maintain
+develop applications
+conduct research expand potential robotics
+robots popular educational tool middle high schools
+numerous youth summer camps
+raising interest programming
+artificial intelligence robotics students
+year computer science courses universities include programming robot addition traditional software engineering based coursework
+technion faculty educational laboratory established
+jacob rubinovitz
+universities offer bachelors
+masters
+doctoral degrees field robotics
+vocational schools offer robotics training aimed careers robotics
+robotics certification standards alliance
+rcsa
+international robotics certification authority confers industry educational related robotics certifications
+national summer camp programs include robotics part core curriculum
+including digital media academy
+robotech
+cybercamps
+addition
+youth summer robotics programs frequently offered celebrated museums american museum natural history tech museum innovation silicon valley
+schools country beginning add robotics programs school curriculum
+main programs afterschool robotics botball robotics competition
+robotics essential component modern manufacturing environments
+factories increase robots
+number jobs grow observed steadily rising

@@ -1,0 +1,355 @@
+Lie group
+
+lie group
+mathematics
+lie group
+pron
+group differentiable manifold
+property group operations compatible smooth structure
+lie groups named sophus lie
+laid foundations theory continuous transformation groups
+lie groups represent developed theory continuous symmetry mathematical objects structures
+makes indispensable tools parts contemporary mathematics
+modern theoretical physics
+provide natural framework analysing continuous symmetries differential equations
+differential galois theory
+permutation groups galois theory analysing discrete symmetries algebraic equations
+extension galois theory case continuous symmetry groups lie principal motivations
+lie groups smooth manifolds
+studied differential calculus
+contrast case general topological groups
+key ideas theory lie groups replace global object
+group
+local linearized version
+lie called
+infinitesimal group
+lie algebra
+lie groups play enormous role modern geometry
+levels
+felix klein argued erlangen program
+geometries
+transformation group leaves geometric properties invariant
+euclidean geometry corresponds choice group
+distance preserving transformations euclidean space
+conformal geometry corresponds enlarging group conformal group
+projective geometry interested properties invariant projective group
+idea led notion structure
+lie group
+local
+symmetries manifold
+global
+level
+lie group acts geometric object
+riemannian symplectic manifold
+action measure rigidity yields rich algebraic structure
+presence continuous symmetries expressed lie group action manifold places strong constraints geometry facilitates analysis manifold
+linear actions lie groups important
+studied representation theory
+ellis kolchin
+armand borel claude chevalley realised foundational results lie groups developed completely algebraically
+giving rise theory algebraic groups defined arbitrary field
+insight opened possibilities pure algebra
+providing uniform construction finite simple groups
+algebraic geometry
+theory automorphic forms
+important branch modern number theory
+deals extensively analogues lie groups adele rings
+adic lie groups play important role
+connections galois representations number theory
+real lie group group finite dimensional real smooth manifold
+group operations multiplication inversion smooth maps
+smoothness group multiplication
+means smooth mapping product manifold
+requirements combined single requirement mapping
+smooth mapping product manifold
+previous examples lie groups fall class classical groups
+complex lie group defined complex manifolds real
+similarly define adic lie group adic numbers
+hilbert problem asked replacing differentiable manifolds topological analytic yield examples
+answer question turned negative
+gleason
+montgomery zippin showed topological manifold continuous group operations
+exists analytic structure turns lie group
+conjecture
+underlying manifold allowed infinite dimensional
+hilbert manifold
+arrives notion infinite dimensional lie group
+define analogues lie groups finite fields
+give examples finite simple groups
+language category theory concise definition lie groups
+lie group group object category smooth manifolds
+important
+generalization notion lie group lie supergroups
+lie groups occur abundance mathematics physics
+matrix groups algebraic groups
+roughly
+groups matrices
+orthogonal symplectic groups
+give common examples lie groups
+standard ways form lie groups
+examples groups lie groups
+trivial sense group viewed dimensional lie group
+discrete topology
+authoritative source early history lie groups
+hawkins
+sophus lie considered winter birth date theory continuous groups
+hawkins
+suggests
+lie prodigious research activity year period fall fall
+led theory creation
+ibid
+lie early ideas developed close collaboration felix klein
+lie met klein day october
+berlin end october end february
+paris
+erlangen subsequent years
+ibid
+lie stated principal results obtained
+papers
+note
+published norwegian journals
+impeded recognition work rest europe
+ibid
+young german mathematician
+friedrich engel
+work lie systematic treatise expose theory continuous groups
+effort resulted volume theorie der transformationsgruppen
+published
+lie ideas stand isolation rest mathematics
+fact
+interest geometry differential equations motivated work carl gustav jacobi
+theory partial differential equations order equations classical mechanics
+jacobi work published posthumously
+generating enormous interest france germany
+hawkins
+lie fixe develop theory symmetries differential equations accomplish galois algebraic equations
+classify terms group theory
+lie mathematicians showed important equations special functions orthogonal polynomials tend arise group theoretical symmetries
+additional impetus continuous groups ideas bernhard riemann
+foundations geometry
+development hands klein
+major themes century mathematics combined lie creating theory
+idea symmetry
+exemplified galois algebraic notion group
+geometric theory explicit solutions differential equations mechanics
+worked poisson jacobi
+understanding geometry emerged works
+grassmann
+culminated riemann revolutionary vision subject
+today sophus lie rightfully recognized creator theory continuous groups
+major stride development structure theory
+profound influence subsequent development mathematics
+made wilhelm killing
+published paper series entitled die zusammensetzung der stetigen endlichen transformationsgruppen
+composition continuous finite transformation groups
+hawkins
+work killing
+refined generalized cartan
+led classification semisimple lie algebras
+cartan theory symmetric spaces
+hermann weyl description representations compact semisimple lie groups highest weights
+weyl brought early period development theory lie groups fruition
+classify irreducible representations semisimple lie groups connect theory groups quantum mechanics
+put lie theory firmer footing enunciating distinction lie infinitesimal groups
+lie algebras
+lie groups proper
+began investigations topology lie groups
+borel
+citation needed
+theory lie groups systematically reworked modern mathematical language monograph claude chevalley
+lie groups thought smoothly varying families symmetries
+examples symmetries include rotation axis
+understood nature mall transformations
+rotations tiny angles
+link nearby transformations
+mathematical object capturing structure called lie algebra
+lie called
+infinitesimal groups
+defined lie groups manifolds
+tangent spaces point
+lie algebra compact lie group
+roughly
+symmetries form bounded set
+decomposed direct sum abelian lie algebra number simple
+structure abelian lie algebra mathematically uninteresting
+lie bracket identically
+interest simple summands
+question arises
+simple lie algebras compact groups
+turns fall infinite families
+classical lie algebras
+simple descriptions terms symmetries euclidean space
+exceptional lie algebras
+fall families
+largest
+lie groups classified algebraic properties
+simple
+semisimple
+solvable
+nilpotent
+abelian
+connectedness
+connected simply connected
+compactness
+identity component lie group open normal subgroup
+quotient group discrete group
+universal cover connected lie group simply connected lie group
+conversely connected lie group quotient simply connected lie group discrete normal subgroup center
+lie group decomposed discrete
+simple
+abelian groups canonical
+write
+sequence normal subgroups
+reduce problems lie groups
+finding unitary representations
+problems connected simple groups nilpotent solvable subgroups smaller dimension
+lie group associate lie algebra underlying vector space tangent space lie group identity element completely captures local structure group
+informally elements lie algebra elements group
+infinitesimally close
+identity
+lie bracket commutator infinitesimal elements
+giving abstract definition give examples
+concrete definition easy work
+minor problems
+represent lie group group matrices
+lie groups represented
+obvious lie algebra independent representation
+round problems give general definition lie algebra lie group
+steps
+lie algebra image
+math
+png finite dimensional dimension manifold
+lie algebra determines
+local isomorphism
+lie groups called locally isomorphic identity element
+problems lie groups solved solving problem lie algebras
+result groups easily
+simple lie groups classified classifying lie algebras
+define lie algebra structure invariant vector fields left invariant vector fields
+leads lie algebra
+inverse map identify left invariant vector fields invariant vector fields
+acts tangent space
+lie algebra structure
+commutator operation
+sends
+derivative yields bilinear operation teg
+bilinear operation map
+derivative
+proper identification tangent spaces
+yields operation satisfies axioms lie bracket
+equal defined left invariant vector fields
+lie groups
+lie group homomorphism
+smooth group homomorphism
+equivalent require continuous smooth
+composition homomorphisms homomorphism
+class lie groups
+morphisms
+forms category
+lie groups called isomorphic exists bijective homomorphism inverse homomorphism
+isomorphic lie groups essentially
+differ notation elements
+homomorphism
+lie groups induces homomorphism lie algebras image
+math
+png image
+math
+png
+association image
+math
+png functor
+mapping categories satisfying axioms
+version ado theorem finite dimensional lie algebra isomorphic matrix lie algebra
+finite dimensional matrix lie algebra
+linear group
+matrix lie group
+algebra lie algebra
+abstract lie algebra lie algebra
+linear
+lie group
+global structure lie group determined lie algebra
+discrete subgroup center
+lie algebra
+table lie groups examples
+connected lie group simple
+semisimple
+solvable
+nilpotent
+abelian lie algebra property
+require lie group simply connected
+global structure determined lie algebra
+finite dimensional lie algebra image
+math
+png simply connected lie group image
+math
+png lie algebra
+unique isomorphism
+homomorphism lie algebras lifts unique homomorphism simply connected lie groups
+exponential map lie algebra
+general linear group gln
+gln
+defined usual power series
+matrices
+subgroup gln
+exponential map takes lie algebra
+exponential map matrix groups
+definition easy
+defined lie groups matrix groups
+clear exponential map lie group depend representation matrix group
+solve problems abstract definition exponential map works lie groups
+vector image
+math
+png determines linear map image
+math
+png taking
+thought lie algebra homomorphism
+lie algebra simply connected lie group
+induces lie group homomorphism
+operation hand side group multiplication
+formal similarity formula valid exponential function justifies definition
+called exponential map
+maps lie algebra image
+math
+png lie group
+diffeomorphism neighborhood image
+math
+png neighborhood
+exponential map generalization exponential function real numbers
+lie algebra lie group positive real numbers multiplication
+complex numbers
+lie algebra lie group complex numbers multiplication
+matrices
+regular commutator lie algebra lie group gln
+invertible matrices
+exponential map surjective neighbourhood
+common call elements lie algebra infinitesimal generators group
+subgroup generated identity component
+exponential map lie algebra determine local group structure connected lie group
+formula
+exists neighborhood element image
+math
+png
+omitted terms involve lie brackets elements
+case commute
+formula reduces familiar exponential law exp
+exp
+exp
+exponential map lie algebra lie group
+group connected
+map lie group connected groups compact nilpotent
+exponential map
+surjective
+exponential map surjective injective infinite dimensional
+lie groups modelled space
+arbitrary small neighborhood neighborhood
+lie groups defined finite dimensional
+groups resemble lie groups
+infinite dimensional
+simplest define infinite dimensional lie groups model banach spaces
+case basic theory similar finite dimensional lie groups
+inadequate applications
+natural examples infinite dimensional lie groups banach manifolds
+define lie groups modeled general locally convex topological vector spaces
+case relation lie algebra lie group subtle
+results finite dimensional lie groups longer hold
+examples studied include

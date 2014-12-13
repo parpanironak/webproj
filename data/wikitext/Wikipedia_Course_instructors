@@ -1,0 +1,333 @@
+Wikipedia:User access levels
+
+access levels
+contributor ability perform actions depends
+user access level
+determined editor logged account
+account sufficient age number edits
+additional rights
+user groups
+called
+flags
+bits
+assigned manually account
+read
+blocked
+freely edit pages
+needing logged
+logged users
+advantages
+ability create pages
+accounts number days number edits automatically autoconfirmed
+access levels assigned manually user authority
+editor experience good standing attempt administrator
+sysop
+large number advanced permissions
+number flags specialized tasks
+visitors site including unregistered users
+part group
+logged users part user group
+users automatically promoted autoconfirmed
+established users pseudo group account days ten edits
+flags request
+rollbacker bot
+granted unilaterally user demonstrates
+requests
+bots
+requests approval
+ysop bureaucrat
+community discussion consensus
+requests adminship
+users made members groups oversight checkuser approval arbitration committee confirming identity foundation
+contributors created account logged identified address user
+read pages
+restricted special pages
+edit pages protected semi protected
+create talk pages talk namespace create pages parts wiki
+files images
+answer captcha make edit involves addition external links
+click confirm link purge pages
+users query site api record batches
+users edit account registered immediately create pages namespace
+mediawiki namespace
+limited minute
+mail users activate email address user preferences
+logged users mark edits minor
+purge pages confirmation step
+required answer captcha adding external links
+customize interface options
+special
+preferences adding personal css javascript rules vector
+css vector
+files
+number actions english restricted user accounts pass thresholds age
+time passed account creation
+edit count
+users meet requirements considered part pseudo group autoconfirmed
+autoconfirmed status checked time user performs restricted action
+granted automatically software
+precise requirements autoconfirmed status vary circumstances
+english wiki user accounts days made edits considered autoconfirmed
+users ipbe editing tor network subjected stricter autoconfirmed thresholds
+days edits
+autoconfirmed status
+membership confirmed group
+required move pages
+edit semi protected pages
+files version existing file
+autoconfirmed users longer required enter captcha events
+autoconfirmed users mark pages created patrolled special
+newpages save books wiki
+addition
+edit filter number warning settings affect editors autoconfirmed
+administrator rights granted community requests adminship
+rfa
+rfa process involves considerable discussion examination activities editor
+users members ysop user group access number tools carry functions wiki
+tools cover processes page deletion
+page protection
+blocking unblocking
+access modify fully protected pages mediawiki interface
+administrators ability grant remove account creator
+rollback
+ipblock exempt rights
+confirmed user
+auto reviewer
+edit filter manager rights users
+alternate accounts
+administrators editor
+administrators historically
+sysops
+system operators
+terms interchangeably
+special
+listusers
+sysop list users group
+bureaucrat rights granted community requests bureaucratship
+rfb
+exceptionally trusted users allowed perform actions users accounts
+bureaucrats extended access special
+userrights
+enabling add users bureaucrat group
+remove
+add users remove users ysop bot user groups
+bureaucrats special
+renameuser rename users
+including
+special
+listusers
+bureaucrat list users group
+stewardship elected role
+stewards appointed globally public wikis
+users members teward user group grant revoke permission user wiki operated foundation
+group set metawiki
+meta
+special
+userrights set permissions wiki
+add remove user group
+stewards generally act user wiki make change
+includes granting administrator bureaucrat access levels wikis local bureaucrats
+removing flags user resigns account acting maliciously
+stewards responsible granting revoking access levels oversight checkuser
+group capable making
+stewards act checkusers
+oversighters
+bureaucrats administrators wikis active local members groups
+wiki passing edit oversighted
+steward add oversight user group wiki
+perform function
+remove oversight group steward rights
+steward actions logged meta
+special
+log
+rights meta
+special
+log
+gblrights
+special
+globalusers
+steward meta
+special
+listusers
+steward list users group
+members group users review users edits articles pending protection
+pending implemented
+automatically assigned administrators
+pending suspended trial
+resumed december
+members reviewer user group hide
+view hidden
+article feedback tool version feedback
+special
+listusers
+reviewer list users group
+users rollback flag
+rollbacker user group
+revert revisions rollback feature
+automatically assigned administrators
+members rollback user group hide
+view hidden
+article feedback tool version feedback
+special
+listusers
+rollbacker list users group
+members group autopatrol
+pages automatically patrolled pages list
+automatically assigned administrators
+prior june
+autoreviewer
+special
+listusers
+autoreviewer list users group
+situations
+accounts exempted customary confirmation period
+confirmed group rights autoconfirmed pseudo group
+granted administrators
+point giving user account autoconfirmed
+abilities
+request permission
+requests permissions
+confirmed
+special
+listusers
+confirmed list users group
+file mover user intended users experienced working files rename
+subject policy
+ease autoconfirmed users enjoy renaming articles
+automatically assigned administrators
+special
+listusers
+filemover list users group
+users accountcreator flag
+accountcreator user group
+affected account creation limit day
+create accounts users restriction
+users group override anti spoof checks account creation
+automatically assigned administrators
+additionally
+accountcreator flag users edit create editnotices
+special
+listusers
+accountcreator list users group
+users ipblock exempt flag
+ipblock exempt user group
+affected autoblocks blocks addresses ranges made
+anonymous users
+setting
+automatically assigned administrators bots
+flag added separately enable editing addresses affected tor blocks
+special
+listusers
+ipblock exempt list users group
+members group create
+modify delete edit filters
+flag removed administrators
+assigned administrators default
+special
+listusers
+abusefilter list users group
+users oversight flag
+oversight user group
+access special
+hiderevision
+permanently hide revisions pages users
+special
+oversight
+view log actions content hidden revisions
+granted exceedingly users years identified foundation
+special
+listusers
+oversight list users group
+users checkuser flag
+checkuser user group
+access special
+checkuser
+view list addresses user account edit english
+list edits made
+user accounts address
+view log requests
+granted exceedingly users age identified foundation
+special
+listusers
+checkuser list users group
+transwiki importers flags give permissions special
+import
+interface users move pages wikis
+instance
+copy article written english language wiki
+preserving full edit history
+mediawiki software ability import articles directly xml
+wiki site
+disabled
+projects
+import log
+transwiki log
+import
+members afttest hide user group hide article feedback tool version feedback
+members view hidden feedback
+members afttest user group delete feedback view deleted feedback
+additionally
+users
+afttest hide
+oversight
+added wmf staff
+members user groups
+addition administrators
+manage pages
+education program
+namespace
+coordinators assign rights users
+online campus volunteers
+designated volunteers individual courses
+students turn
+online person
+accounts approved bots make pre approved edits flagged
+bot accounts automated semi automated
+nature edits defined
+quickly blocked actions vary tasks
+scrutiny human edits
+reason
+contributions accounts bot flag
+bot user group
+displayed recent watchlists users opted hide bot edits
+minor edits made bot accounts user talk pages trigger
+messages
+banner
+bot accounts query api batches
+special
+listusers
+bot list users group
+founder group created english developer tim starling
+community input
+unique group jimmy wales
+group wales full access user rights
+local founder actions great interest local community
+relevant english
+local founder benefit allowing wales actions visible english rights log
+actions performed global founder bit visible record
+log metawiki
+researcher group created april individuals explicitly approved foundation perform title search deleted pages view deleted history entries view actual revisions deleted pages
+policies governing access level development foundation research committee
+rcom
+discussed talk
+faq
+research
+special
+listusers
+researcher list users group meta
+research
+special api permissions
+log details
+ombudsman group investigates complaints violations privacy policy
+checkuser tools
+project board trustees official manner
+file complaint
+contact ombudsman privately
+information contact details obtained meta wiki
+general
+rights editors blocked indefinitely left
+rights specifically related reason blocking removed discretion blocking unblocking administrators
+bureaucrats granted ability
+stewards refer ordinary requests removal sysop permission
+retain remove sysop permission
+emergencies requests arbitration committee

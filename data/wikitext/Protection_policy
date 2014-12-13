@@ -1,0 +1,301 @@
+Wikipedia:Protection policy
+
+policy
+built principle edit
+aims pages open public editing
+add material correct errors
+circumstances
+specifically identified likelihood damage resulting editing left open
+individual pages subject technical restrictions
+temporary
+permitted modify
+placing restrictions pages called protection
+protection applied removed pages administrators
+user request actions
+protection indefinite
+expire time period
+commonly encountered types protection full protection
+means page modified administrators
+semi protection
+means page modified users logged accounts confirmed
+account automatically confirmed days made ten edits posts
+forms protection detailed
+protected pages marked small padlock symbol top corner
+color padlocks represent protection types
+shown images
+hover mouse padlock symbol order view long page protected
+policy explains detail protection types procedures page protection unprotection
+reasons protection applied
+technical options administrators protecting pages
+type protection unprotection requested
+requests page protection
+fully protected page proposed talk page
+carried administrator uncontroversial consensus
+case office actions
+pages mediawiki namespace
+administrators unprotect page reason protection longer applies
+reasonable period elapsed
+consensus continued protection
+contacting administrator originally protected page advised unclear circumstances
+log protections unprotections special
+log
+protect
+fully protected page edited administrators
+protection time indefinite
+modifications fully protected page proposed talk page
+forum
+discussion
+administrators make protected article reflecting consensus
+placing template talk page draw attention administrators implementing uncontroversial
+pages experiencing edit warring
+temporary full protection force parties discuss edits talk page
+reach consensus
+isolated incidents edit warring
+persistent edit warring users
+addressed blocking
+prevent normal editing page
+protecting page content dispute
+administrators protect current version
+current version content violates content policies
+vandalism
+copyright violations
+defamation living persons
+protecting current version rewards edit warring establishing contentious revision
+administrators revert version page predating edit war clear point exists
+pages protected content disputes edited make uncontroversial clear consensus
+administrators protect unprotect page positions content disputes
+pre emptive full protection articles contrary open nature
+periods full protection rare cases large number autoconfirmed accounts make sustained vandalism attack article
+persistent vandalism
+possibility future vandalism highly trafficked articles
+rarely basis full protection
+semi protection articles
+jesus
+pattern heavy sustained vandalism
+deleted page undergoing deletion review
+administrators capable viewing content page
+feel benefit discussion users view page content
+administrators restore page
+blank replace contents similar notice
+fully protect page prevent editing
+previous contents page accessible admins page history
+generic image names file
+map
+jpg file
+photo
+jpg tagged generic image fully protected prevent versions uploaded
+semi protection prevents edits unregistered users
+addresses
+edits account autoconfirmed
+days ten edits
+confirmed
+users request edits semi protected page proposing talk page
+semi template gain attention
+page question talk page protected make edit request
+request edit
+users request confirmed user visiting requests permissions
+administrators apply indefinite semi protection pages subject heavy persistent vandalism violations content policy
+biographies living persons
+neutral point view
+semi protection preemptive measure vandalism occurred
+privilege registered users unregistered users
+valid
+content disputes
+addition
+administrators apply temporary semi protection pages
+today featured article semi protected article
+article subject sudden spurts vandalism times day
+administrators semi protect periods instances
+guideline
+main page featured article protection
+administrators prevent creation page protection interface
+articles deleted repeatedly recreated
+protection case sensitive
+list protected titles found special
+protectedtitles
+historical lists
+pre emptive restrictions article titles instituted title blacklist system
+flexible protection support substrings regular expressions
+pages creation protected referred
+salted
+contributors wishing create salted title content contact administrator
+previously involved
+deletion review process
+move protected pages moved title administrator
+move protection commonly applied
+fully protected pages move protected
+full protection
+protection editwarring considered endorsement current
+move protection applied requested move discussion page protected location move request started
+protected files replaced versions administrator
+protection protect file pages editing
+protection applied administrator
+full protection
+administrators avoid favoring file version
+protection considered endorsement current file version
+obvious exception rule files protected due vandalism
+pending protection tool suppress vandalism persistent problems
+allowing users continue submit edits
+pending protection alternative semi protection unregistered users edit pages
+keeping edits hidden readers accepted reviewer
+page pending protection edited unregistered
+called
+editor user
+edit directly visible majority readers
+reviewed accepted editor reviewer
+pending visible page history
+marked pending review
+latest accepted revision displayed general public
+logged users latest revision page
+applied
+editors reviewers make article unreviewed pending
+edits marked pending visible readers
+logged users anonymous users click
+edit page
+tab edit latest version usual
+pending awaiting review
+dropdown box article title
+pointing pending
+details
+pending
+reviewing pending resolved reasonable time limits
+backlog management coordinated community level
+pending protect articles
+pending protection preemptive measure violations occurred
+semi protection
+protection genuine content disputes
+risk placing group editors
+unregistered users
+disadvantage
+pending protection articles high edit rate
+meet aforementioned criteria
+semi protection considered
+addition
+administrators apply temporary pending protection pages subject significant temporary vandalism disruption
+due media attention
+blocking individual users feasible option
+forms protection
+time frame protection proportional problem
+indefinite protection cases severe long term disruption
+pending level
+labeled
+require review revisions unregistered users
+pending level
+require review revisions reviewers
+time
+rfc
+removal pending protection requested administrator
+requests unprotection
+reviewing process detail reviewing
+areas permanently protected mediawiki software
+mediawiki namespace
+defines parts site interface
+fully protected
+impossible administrators remove protection
+addition
+user css javascript pages
+user
+monobook
+css user
+cologneblue
+automatically fully protected
+accounts pages administrators edit
+protection applies user subpage
+css
+extension
+equivalent mediawiki skin exists
+administrators modify pages
+remove user script inappropriate
+addition hard coded protection
+permanently protected
+outlined
+office actions
+pages protected foundation staff response issues copyright libel
+actions override community consensus
+administrators edit unprotect pages permission foundation staff
+list pages scrutiny foundation found
+cascading protection fully protects page
+extends full protection automatically page transcluded protected page
+directly indirectly
+includes templates
+images media hosted english
+files stored commons protected cascading protection
+temporarily uploaded english protected commons
+cascading protection
+table compares effects editors
+protection tools
+modifications protected page proposed talk page
+forum
+discussion
+administrators make protected article reflecting consensus
+placing template talk page draw attention administrators implementing uncontroversial
+talk pages protected
+semi protected limited duration severe cases vandalism
+user talk pages rarely protected
+semi protected short durations severe cases vandalism users
+users talk page regularly semi protected unprotected user talk subpage linked conspicuously main talk page good faith comments autoconfirmed users
+user request talk page protected sufficient rationale protect page
+blocked users user talk pages ordinarily protected
+interferes user ability contest block normal process
+prevents talk page communicate blocked editor
+extreme cases abuse blocked user
+abuse template
+blocking user talk page access preferred protection
+user indefinitely blocked editing talk page
+informed wiki ways appeal block
+utrs tool interface ban appeals subcommittee arbitration committee
+required
+protection implemented period
+exceeding duration block
+confirmed socks registered users dealt accordance
+sockpuppetry
+pages protected
+user pages subpages protected user request evidence vandalism
+disruption good reason
+retired users user pages
+user talk pages
+protected request
+event confirmed death user
+user user page
+user talk page
+fully protected
+highly visible templates extremely large number pages substituted great frequency vulnerable vandalism
+vandalism template introduce vandalism hundreds pages
+frequently semi fully protected based degree visibility
+type
+content
+factors
+semi fully protected templates template
+loads unprotected
+doc page
+admins users edit documentation
+categories interwiki links
+automatically adds protected templates
+displays small padlock top corner categorizes template protected template
+manually add protected templates
+stub flag templates
+cascading protection generally applied directly templates
+protect transclusions inside tags transclusions depend template parameters
+protect template documentation subpage
+note
+editnotice templates
+userspace
+protected mediawiki
+titleblacklist
+overridden account creators
+sandbox sandboxes ordinarily protected purpose users test experiment wiki syntax
+pages automatically cleaned hours
+frequently overwritten testing users faster
+sandboxes malicious purposes
+violate policies personal attacks
+civility
+copyrights
+warned
+blocked
+templates added top page protected
+redirect pages
+add category
+protected redirects redirect line
+protection template added redirect line
+serve categorize page
+visible page

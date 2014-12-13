@@ -1,0 +1,309 @@
+Naive set theory
+
+naive set theory
+naive set theory theories sets discussion foundations mathematics
+unlike axiomatic set theories
+defined formal logic
+naive set theory defined informally
+natural language
+describes aspects mathematical sets familiar discrete mathematics
+venn diagrams symbolic reasoning boolean algebra
+suffices everyday usage set theory concepts contemporary mathematics
+sets great importance mathematics
+fact
+modern formal treatments
+mathematical objects
+numbers
+relations
+functions
+defined terms sets
+naive set theory stepping stone formal treatments
+suffices purposes
+sense article
+naive theory formalized theory
+theory natural language describe sets
+words
+subject rigorous definition
+study sets naively early stage mathematics order develop facility working
+firm grasp set theoretical concepts naive standpoint step understanding motivation formal axioms set theory
+article develops naive theory
+sets defined informally properties investigated
+links article specific axioms set theory describe relationships informal discussion formal axiomatization set theory
+attempt made justify statement basis
+development set theory naive set theory
+created end century georg cantor part study infinite setscitation needed developed gottlob frege begriffsschrift
+turned
+assuming perform operation sets restriction leads paradoxes russell paradox berry paradox
+georg cantor set theory implicated paradoxes
+difficulty determining certainty cantor provide axiomatization system
+undisputedcitation needed
+cantor aware paradoxes discredited theory
+gottlob frege explicitly axiomatized theory formalized version naive set theory interpreted
+formal theory bertrand russell addressed presented paradox
+axiomatic set theory developed response early attempts understand sets
+goal determining precisely operations allowed
+today
+mathematicians talk
+set theory
+field
+usuallycitation needed axiomatic set theory
+informal applications set theory fields referred applications
+naive set theory
+understood justifiable terms axiomatic system
+set theory
+naive set theory necessarily inconsistent
+correctly specifies sets allowed considered
+means definitions
+implicit axioms
+state axioms explicitly
+case book naive set theory paul halmos
+informal presentation usual axiomatic set theory
+naive
+language notations ordinary informal mathematics
+deal consistency completeness axiom system
+term naive set theory iscitation needed literature refer set theories studied frege cantor
+informal counterparts modern axiomatic set theory
+naive set theory
+set defined collection objects
+objects called elements members set
+objects
+numbers
+people
+sets
+instance
+member set integers
+set numbers infinitely large
+requirement set finite
+member set
+belongs
+case
+write
+symbol derivation greek letter epsilon
+introduced peano
+symbol write
+meaning
+sets defined equal precisely elements
+element element element element
+axiom extensionality
+set completely determined elements
+description immaterial
+set elements
+equal set prime numbers
+sets equal
+denoted symbolically
+usual
+empty set
+denoted image
+math
+png
+set members
+set determined completely elements
+empty set
+axiom empty set
+empty set members
+member sets
+members member
+simplest describe set list elements curly braces
+defining set extensionally
+denotes set elements
+axiom pairing
+note points
+consequences definition equality previous section
+notation informally abused set dogs
+read mathematicians
+set single element dogs
+extreme
+correct
+notation
+denotes empty set
+notation
+denote set objects condition holds
+defining set intensionally
+real denotes set real numbers
+blonde denotes set blonde hair
+denotes set dogs
+notation called set builder notation
+set comprehension
+context functional programming
+variants set builder notation
+sets subset element element
+set subset
+subset equal called proper subset
+subset
+superset
+contained
+symbols
+means subset
+means superset
+authors symbols
+subsets
+symbols proper subsets
+clarity
+explicitly symbols
+image
+math
+png
+image
+math
+png
+equality
+illustration
+set real numbers
+set integers
+set odd integers
+set current
+presidents
+subset
+subset
+subset
+cases subset read proper subset
+note sets comparable
+case subset subset
+immediately definition equality sets
+sets
+fact definition equality
+prove sets equal
+aims show inclusions
+note empty set subset set
+statement elements empty set members set vacuously true
+set subsets set called power set denoted image
+math
+png image
+math
+png
+script font
+set elements
+image
+math
+png image
+math
+png elements
+contexts sets consideration subsets universal set
+instance
+investigating properties real numbers
+subsets
+universal set
+true universal set included standard set theory
+paradoxes
+included standard set theories
+universal set subset
+define complement
+words
+complement
+simply
+prime
+set members members
+defined section subsets
+universal set
+set integers
+universal set
+set real numbers integers integers
+sets
+construct union
+set consisting objects elements
+axiom union
+denoted
+intersection set objects
+denoted
+finally
+relative complement relative
+set theoretic difference
+set objects belong
+written
+symbolically
+notice subset make sense
+difference relative complement absolute complement previous section
+illustrate ideas
+set left handed people
+set people blond hair
+set left handed blond haired people
+set people left handed blond haired
+hand
+set people left handed blond haired
+set people blond hair left handed
+set human beings
+set living things years
+case
+living human years
+empty set
+set
+power set image
+math
+png boolean algebra operations union intersection
+intuitively
+ordered pair simply collection objects distinguished element element
+fundamental property
+ordered pairs equal elements equal elements equal
+formally
+ordered pair coordinate
+coordinate
+denoted
+defined set
+ordered pairs
+equal
+alternatively
+ordered pair formally thought set
+total order
+notation
+denote open interval real number line
+context make clear meaning intended
+notation
+denote open interval
+ordered pair
+sets
+cartesian product
+simply product
+defined
+set ordered pairs coordinate element coordinate element
+extend definition set ordered triples
+generally sets ordered tuples positive integer
+define infinite cartesian products
+recondite definition product
+cartesian products developed descartes context analytic geometry
+denotes set real numbers
+represents euclidean plane
+represents dimensional euclidean space
+note
+section
+natural numbers
+real numbers
+referred earlier formal
+axiomatic approach
+problems arise treatment
+problems relate formation sets
+intuition form set
+view leads inconsistencies
+set member
+define
+problem
+member
+defining quality
+member
+member
+forces declare member
+member
+definition
+member
+options lead contradiction inconsistent theory
+succinctly
+member member
+axiomatic developments place restrictions sort sets allowed form prevent problems set arising
+paradox russell paradox
+penalty care development
+rigorous mathematical argument
+problematic speak set
+possibly
+bit ambitious
+set sets
+fact
+standard axiomatisation set theory
+set sets
+areas mathematics require set sets
+category theory
+make universal set large ordinary mathematics
+universe
+alternatively
+make proper classes
+axiomatisation set theory
+quine foundations
+set sets avoids russell paradox

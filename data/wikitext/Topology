@@ -1,0 +1,218 @@
+Topology
+
+topology
+topology
+greek
+major area mathematics concerned basic properties space
+connectedness
+precisely
+topology studies properties preserved continuous deformations
+including stretching bending
+tearing gluing
+exact mathematical definition
+topology developed field study geometry set theory
+analysis concepts space
+dimension
+transformation
+ideas classified topological expressed early
+end century
+distinct discipline developed
+referred latin geometria situs
+analysis situs
+greek latin
+acquired modern topology
+middle century
+topology important area study mathematics
+topology subfields
+point set topology establishes foundational aspects topology investigates concepts inherent topological spaces
+basic examples include compactness connectedness
+algebraic topology measure degrees connectivity algebraic constructs homology homotopy groups
+geometric topology primarily studies manifolds embeddings
+placements
+manifolds
+active area geometric topology low dimensional topology
+studies manifolds fewer dimensions
+includes knot theory
+study mathematical knots
+topology glossary definitions terms topology topological space technical treatment subject
+topology began investigation questions geometry
+leonhard euler paper bridges regarded academic treatises modern topology
+term
+topologie
+introduced german johann benedict listing vorstudien zur topologie
+word ten years correspondence appearance print
+topology
+english form
+listing obituary journal nature distinguish
+qualitative geometry ordinary geometry quantitative relations chiefly treated
+term topologist sense specialist topology magazine spectator
+citation needed
+corresponds modern definition topology
+modern topology depends strongly ideas set theory
+developed georg cantor part century
+cantor
+addition establishing basic ideas set theory
+considered point sets euclidean space part study fourier series
+henri published analysis situs
+introducing concepts homotopy homology
+considered part algebraic topology
+maurice
+unifying work function spaces georg cantor
+vito volterra
+cesare
+jacques hadamard
+giulio ascoli
+introduced metric space
+metric space considered special case general topological space
+felix hausdorff coined term
+topological space
+gave definition called hausdorff space
+current usage
+topological space slight generalization hausdorff spaces
+kazimierz kuratowski
+citation needed
+developments
+point set topology algebraic topology
+topology
+branch mathematics
+formally defined
+study qualitative properties objects
+called topological spaces
+invariant kind transformation
+called continuous map
+properties invariant kind equivalence
+called homeomorphism
+put simply
+topology study continuity connectivity
+term topology refer structure imposed set
+structure essentially characterizes set topological space taking proper care properties convergence
+connectedness continuity
+transformation
+topological spaces show naturally branch mathematics
+made topology great unifying ideas mathematics
+motivating insight topology geometric problems depend exact shape objects involved
+put
+square circle properties common
+dimensional objects
+topological point view
+separate plane parts
+part inside part
+papers topology demonstration
+leonhard euler
+impossible find route town
+kaliningrad
+cross bridges
+result depend lengths bridges
+distance
+connectivity properties
+bridges connected islands riverbanks
+problem
+bridges
+famous problem introductory mathematics
+led branch mathematics graph theory
+similarly
+hairy ball theorem algebraic topology
+comb hair flat hairy ball creating cowlick
+fact immediately convincing people
+recognize formal statement theorem
+nonvanishing continuous tangent vector field sphere
+bridges
+result depend exact shape sphere
+applies pear shapes fact kind smooth blob
+long holes
+deal problems rely exact shape objects
+clear properties problems rely
+arises notion homeomorphism
+impossibility crossing bridge applies arrangement bridges homeomorphic
+hairy ball theorem applies space homeomorphic sphere
+intuitively spaces homeomorphic deformed cutting gluing
+traditional joke topologist distinguish coffee mug doughnut
+sufficiently pliable doughnut reshaped form coffee cup creating dimple progressively enlarging
+shrinking hole handle
+precise definition homeomorphic
+involving continuous function continuous inverse
+necessarily technical
+homeomorphism considered basic topological equivalence
+homotopy equivalence
+harder describe technical
+essential notion objects homotopy equivalent result
+squishing
+larger object
+introductory exercise classify uppercase letters english alphabet homeomorphism homotopy equivalence
+result depends partially font
+figures sans serif font named myriad
+notice homotopy equivalence rougher relationship homeomorphism
+homotopy equivalence class homeomorphism classes
+simple case homotopy equivalence show letters homotopy equivalent
+fits inside tail squished
+hole
+part
+homeomorphism classes
+hole tails
+holes tail
+holes
+hole tail
+holes tails
+bar tails
+bar
+short
+hole tail
+holes tails
+homotopy classes larger
+tails squished point
+homotopy classes
+hole
+holes
+holes
+classified letters correctly
+show letters class equivalent
+letters classes equivalent
+case homeomorphism
+suitably selecting points showing removal disconnects letters differently
+homeomorphic removing center point leaves pieces
+point corresponds point
+removal leave pieces
+case homotopy equivalence harder requires elaborate argument showing algebraic invariant
+fundamental group
+supposedly differing classes
+letter topology practical relevance stencil typography
+font braggadocio
+instance
+stencils made connected piece material
+set family subsets
+called topology
+topology
+pair
+called topological space
+notation denote set endowed topology
+members called open sets
+subset closed complement
+complement open
+subset open
+closed
+clopen set
+empty set clopen
+function map topological space called continuous inverse image open set open
+function maps real numbers real numbers
+spaces standard topology
+definition continuous equivalent definition continuous calculus
+continuous function
+inverse function continuous
+function called homeomorphism domain function homeomorphic range
+function natural extension topology
+spaces homeomorphic
+identical topological properties
+considered topologically
+cube sphere homeomorphic
+coffee cup doughnut
+circle homeomorphic doughnut
+general topology surprising connections areas mathematics
+counter intuitive theorems
+paradox
+list algebraic topology topics
+occasionally
+tools topology
+set points
+pointless topology considers lattice open sets basic notion theory
+grothendieck topologies structures defined arbitrary categories definition sheaves categories
+definition general cohomology theories

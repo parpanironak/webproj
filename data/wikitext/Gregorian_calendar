@@ -1,0 +1,844 @@
+Gregorian calendar
+
+gregorian calendar
+gregorian calendar
+called western calendar christian calendar
+internationally widely accepted civil calendar
+decades
+unofficial global standard
+adopted pragmatic interests international communication
+transportation commercial integration recognized international institutions united nations universal postal union
+introduced pope gregory xiii
+calendar named
+decree signed february
+decree
+papal bull
+opening words
+inter gravissimas
+gregorian calendar adopted initially catholic countries europe
+countries adopting centuries
+motivation gregorian reform julian calendar assumes time vernal equinoxes
+days
+fact minutes shorter
+discrepancy results drift days years
+time gregory reform drift days roman times
+resulting spring equinox falling march ecclesiastically fixed date march
+moving steadily earlier julian calendar
+spring equinox tied celebration easter
+roman catholic church considered steady movement date equinox undesirable
+gregorian reform contained parts
+reform julian calendar prior pope gregory time reform lunar cycle church
+julian calendar
+calculate date easter
+reform modification proposal made calabrian doctor aloysius lilius
+lilio
+lilius proposal included reducing number leap years centuries
+making centurial years common leap years
+part proposal suggested
+pietro pitati
+lilio produced original practical scheme adjusting epacts moon calculating annual date easter
+solving long standing obstacle calendar reform
+gregorian calendar modified julian calendar regular cycle leap years
+year divisible leap year
+years divisible
+centurial years divisible leap years
+year leap year
+year leap year
+addition change length calendar year
+days
+days hours
+days
+days hours minutes seconds
+reduction minutes seconds year
+gregorian calendar reform dealt accumulated difference lengths
+council nicaea held
+vernal equinox occurred approximately march
+time pope gregory bull
+vernal equinox moved backward calendar
+occurring march
+days earlier
+gregorian calendar began skipping calendar days
+restore march date vernal equinox
+protestants eastern orthodox christians recognize authority pope
+european countries initially follow gregorian reform
+maintained style systems
+eventually countries reform sake consistency
+time adherents julian calendar eastern europe
+russia greece
+changed gregorian system century
+drop days calendars
+due additional difference calendars accumulated
+gregorian calendar continued previous year numbering system
+anno domini
+counts years traditional date nativity
+originally calculated century europe high middle ages
+year numbering system
+called common era
+predominant international standard today
+gregorian calendar solar calendar
+regular gregorian year consists days leap year
+intercalary leap day added february making year days
+leap year occurs years
+gregorian calendar omits leap days years
+unlike julian calendar
+omit leap days
+gregorian year divided twelve months
+month length pattern irregular
+represented arithmetic expression floor
+mod
+month length days month number
+expression valid eleven twelve months
+february
+adjusted subtracting
+leap year adding
+gregorian years identified consecutive year numbers
+groups days years days
+repeats completely days
+fill years
+day weeks
+years
+common years days leap years days
+yields calendar year
+days
+days days
+hours
+minutes seconds
+result obtained summing fractional parts implied rule
+representation
+zeller congruence
+calendar date fully year
+numbered scheme scope calendar
+month
+identified number
+day month
+numbered sequentially starting
+calendar year runs january december
+year numbers based starting point calendar
+confusingly
+term
+anno domini
+specific point
+refers family year numbering systems starting points years
+section issue
+catholic church maintained tabular lunar calendar
+primarily calculate date easter
+lunar calendar required reform
+perpetual lunar calendar created
+sense arrangements
+lines expanded table epacts
+lunar months created
+arrangements applies century
+purpose
+century begins year divisible
+arrangement century communicated
+possession tables find age moon date
+calculate date easter
+motivation catholic church adjusting calendar celebrate easter time thought council nicaea agreed
+canon council implies churches easter
+church alexandria celebrated easter sunday day moon
+computed metonic cycle
+falls vernal equinox
+march
+church rome regarded march equinox
+cycle compute day moon
+alexandrian system
+day easter moon fall earliest march day fall earlier march april
+meant easter varied march april
+rome
+easter allowed fall april
+day parilia birthday rome pagan festival
+day easter moon fall earlier march april
+easter sunday day moon
+day allowed precede equinox
+systems produced dates generally compromise churches celebrate day
+century churches
+eastern border byzantine empire
+adopted alexandrian easter
+vernal equinox march
+bede noted drift drifted century
+worse
+reckoned moon compute easter fixed julian year year cycle
+approximation built error day years
+century lunar calendar phase real moon days
+council trent approved plan correcting calendrical errors
+requiring date vernal equinox restored held time council nicaea alteration calendar designed prevent future drift
+consistent accurate scheduling feast easter
+fix stages
+approximate correct length solar year
+chosen
+days decimal notation
+close tropical year
+days
+closer vernal equinox year
+days
+fact made choice approximation
+purpose creating calendar ensure vernal equinox specific date
+march
+accuracy
+stage devise model based approximation provide accurate simple
+rule based calendar
+formula designed aloysius lilius ultimately successful
+proposed day correction revert drift nicaea
+imposition leap day years year
+implement model
+provided years divisible leap years divisible
+millennium
+leap years
+millennium
+leap years
+theory expanded christopher clavius closely argued
+page volume
+defend lilius work detractors
+year cycle lunar calendar corrected day years
+times years
+corrections years longer leap years
+fact
+method computing date easter introduced
+compendium expert mathematicians reform commission comments
+experts
+including giambattista benedetti giuseppe moleto
+believed easter computed true motions sun moon
+tabular method
+recommendations adopted
+gregory dropped days bring calendar back synchronization seasons
+lilius originally proposed day correction implemented deleting julian leap day ten occurrences period years
+providing gradual return equinox march
+clavius opinion correction place move
+advice prevailed gregory
+calendar put
+error accumulated centuries council nicaea corrected deletion ten days
+day julian calendar thursday
+october day gregorian calendar
+friday
+october
+cycle weekdays affected
+gregory reform enacted solemn forms church
+bull authority catholic church papal states
+proposing civil calendar
+authority
+required adoption civil authorities country legal effect
+nicene council christians celebrate easter day
+centuries virtually christians achieved objective adopting rules church alexandria
+easter issues arose
+bull inter gravissimas law catholic church
+recognised protestant churches
+orthodox churches
+days easter related holidays celebrated christian churches diverged
+today
+vast majority countries gregorian calendar sole civil calendar
+countries adopted gregorian calendar saudi arabia
+ethiopia
+nepal
+iran afghanistan
+countries calendars alongside gregorian calendar
+india
+bangladesh
+israel myanmar
+countries modified version gregorian calendar
+sri lanka
+cambodia
+thailand
+japan
+north korea taiwan
+universal civil adoption gregorian calendar religious organizations
+retained calendars
+alternate calendars regions world today mark cycles religious astrological events
+catholic countries adopted calendar date bull
+catholic countries experienced delay adopting reform
+catholic countries
+subject decrees pope
+initially rejected simply reform altogether
+eventually adopted
+dates october october
+inclusive
+valid dates countries
+invalid
+spain
+portugal
+polish lithuanian commonwealth
+italy implemented calendar friday
+october
+immediately julian thursday
+october
+spanish portuguese colonies adopted calendar slowness communication
+france adopted calendar monday
+december
+immediately sunday
+december
+dutch provinces brabant
+zeeland staten generaal adopted december year
+provinces forming southern netherlands
+modern belgium
+duchy brabant january
+province holland suit january
+protestant countries initially objected adopting catholic invention
+protestants feared calendar part plot return catholic fold
+czech lands
+protestants resisted calendar imposed habsburg monarchy
+parts ireland
+catholic rebels defeat years war
+easter defiance english loyal authorities
+catholics practising secret petitioned propaganda fide dispensation observing calendar
+signaled disloyalty
+ole influence bring uniform adoption gregorian calendar protestant countries
+achieved practice
+denmark
+included norway protestant states germany
+adopted solar portion calendar monday
+march
+sunday
+february
+prussia adopted gregorian calendar day
+denmark adopt lunar portion
+decided calculate date easter astronomically instant vernal equinox full moon kepler rudolphine tables
+finally adopted lunar portion gregorian calendar
+remaining provinces dutch republic adopted gregorian calendar july
+gelderland
+december
+utrecht overijssel
+january
+friesland groningen
+sweden relationship gregorian calendar difficult
+sweden started make change julian calendar gregorian calendar
+decided make
+day
+adjustment gradually
+excluding leap days
+february
+successive leap years
+meantime
+swedish calendar step julian calendar gregorian calendar years
+difference constant change years
+system potential confusion working dates swedish events year period
+add confusion
+system poorly administered leap days excluded excluded
+swedish calendar
+transition plan
+days gregorian
+fact days
+king charles xii recognised gradual change system working
+abandoned
+proceeding directly gregorian calendar
+decided revert julian calendar
+achieved introducing unique date february year
+adjusting discrepancy calendars back days
+sweden finally adopted gregorian calendar
+wednesday
+february thursday
+march
+finland swedish rule time
+finland annexation russian empire revert
+autonomy granted
+government documents finland dated julian gregorian styles
+practice ended independence gained
+britain british empire
+including eastern part united states
+adopted gregorian calendar
+time correct days
+wednesday
+september thursday
+september
+claims rioters demanded
+give eleven days
+grew misinterpretation painting william hogarth
+british tax year britain continued operate julian calendar began april
+style
+tax year march
+skipped julian leap day changed start april
+changed julian leap day skipped
+tax year united kingdom begins april
+alaska
+change place friday
+october friday
+october purchase alaska russia
+julian calendar
+days
+skipped
+day week repeated successive days
+international date line shifted alaska eastern western boundary change gregorian calendar
+russia gregorian calendar accepted october revolution
+named place october julian calendar
+january council people commissars issued decree wednesday
+january thursday
+february
+dropping days calendar
+countries eastern europe
+notably orthodox countries
+adopted gregorian calendar early
+country eastern orthodox europe adopt gregorian calendar greece thursday
+march
+wednesday
+february
+change dropped days
+european powers colonized control parts world
+generally applied calendars countries
+countries generally retained gregorian calendars achieving independence
+japan decided officially replace traditional lunisolar calendar gregorian calendar
+day day twelfth month year meiji emperor rule
+january
+bringing japan calendar alignment major western powers
+excluding russia
+common nengo
+reign names common era anno domini system
+official documents
+instance
+meiji
+taisho
+showa
+heisei
+system increasingly replaced popular usage
+western calendar
+seireki
+twentieth century
+citation needed
+korea adopted gregorian calendar january active participation kil chun
+calendar continued number months
+multiple systems refer years
+joseon dynasty
+years numbered founding dynasty
+year
+korean era names years
+korea japanese rule
+japanese era names count years gregorian calendar korea
+citation needed
+south korea
+gregorian calendar years counted foundation gojoseon bce
+regarded year
+date legendary founding korea dangun
+dangi
+years
+numbering informally korean lunar calendar occasionally today
+north korea
+juche calendar number years
+year birth kim sung year
+citation needed
+republic china
+roc
+formally adopted gregorian calendar founding january
+china descended period warlordism warlords calendars
+unification china kuomintang october
+nationalist government decreed effective january gregorian calendar
+china retained chinese traditions numbering months modified era system
+backdating year roc
+system taiwan roc government retains control
+foundation
+people republic china continued gregorian calendar numbered months
+abolished roc era system adopted western numbered years
+greece orthodox country adopt gregorian calendar march
+adoptions civil state purposes
+national orthodox churches recognised gregorian calendar church religious purposes
+revised julian calendar proposed dropped days adopted leap year rule
+difference calendars
+orthodox churches constantinople
+alexandria
+antioch
+greece
+cyprus
+romania
+bulgaria adopted revised julian calendar
+calendarists celebrate christmas december gregorian calendar
+day western churches
+citation needed armenian apostolic church adopted gregorian calendar
+armenian patriarchate jerusalem
+julian calendar
+orthodox churches jerusalem
+russia
+serbia
+georgia
+poland
+macedonia greek calendarists accept revised julian calendar
+continue celebrate christmas december julian calendar
+january gregorian calendar
+refusal accept gregorian reforms impact date easter
+date easter determined reference march functional equinox
+continues apply julian calendar
+civil calendar native countries gregorian calendar
+citation needed
+eastern churches
+oriental orthodox churches
+coptic
+ethiopian
+eritrean
+syrian
+continue calendars
+result fixed dates celebrated accordance julian calendar
+indian orthodox church gregorian calendar
+assyrian church gregorian calendar enacted mar dinkha
+causing schism
+ancient assyrian church east continues julian calendar
+citation needed
+eastern churches continue julian easter sole exception finnish orthodox church
+adopted gregorian easter
+citation needed
+image
+timeline
+png
+date country adopted gregorian calendar
+equivalent
+marked horizontal time line
+vertical axis expansion show separate national names ease charting
+significance
+introduction gregorian calendar
+difference gregorian julian calendar dates increased days centuries
+extensive list conversion julian gregorian calendars
+section places intercalary day february obtained doubling february
+bissextum
+sixth
+bissextile day
+late middle ages
+gregorian calendar proleptic
+assumed exist
+julian calendar proleptic year
+quadrennial leap days
+equation number days
+dates
+gregorian calendar ahead julian calendar
+called secular difference calendars
+negative difference means julian calendar ahead gregorian calendar
+image
+math
+png secular difference
+image
+math
+png hundreds digits year astronomical year numbering
+year
+years
+image
+math
+png integer division
+truncates
+removes
+decimal fraction
+remainder
+division
+positive negative numbers
+calculated difference increases centurial year
+year ending
+february julian march gregorian
+whichever
+positive differences
+february julian
+negative differences
+march gregorian
+year dates roman republic roman empire consular year
+began day consuls entered
+march january
+julian calendar
+began
+continued january day year
+year dates changed
+civil year displayed months order january december roman republican period present
+middle ages
+influence christian church
+western european countries moved start year important christian december
+nativity jesus
+march
+annunciation
+easter
+france
+byzantine empire began year september russia march year moved september
+common usage
+january regarded year day celebrated
+century legal year england began march
+lady day
+parliamentary record lists execution charles january occurring
+year end march
+modern histories adjust start year january record execution occurring
+western european countries changed start year january adopted gregorian calendar
+scotland changed start scottish year january
+means short year
+england
+ireland british colonies changed start year january
+short year days
+tax year stayed march day
+april calendar
+year september gregorian calendar introduced britain british colonies
+section adoption
+reforms implemented calendar
+style
+act
+countries
+official decree law start year january
+countries identify specific year january year norm
+countries customs varied
+start year moved back fashion influence countries dictated customs
+papal bull attached canons explicitly fix date
+implied tables saint days
+labelled ends december
+full year begins january
+specifies epact relative january
+contrast julian calendar
+relative march
+inevitable result shift beginning julian year
+period
+countries adopted gregorian calendar
+european country adopted
+date event julian calendar gregorian calendar
+dual year accounts countries beginning numbered year january date
+year double dated beginnings year countries
+woolley
+writing biography john dee
+notes immediately english letter writers
+customarily
+dates
+letters
+style
+style
+added dates identify system british empire countries immediately change
+calendar act altered start year
+aligned british calendar gregorian calendar
+confusion terms
+start julian year adjusted start january
+contemporary documents start year
+date conforms julian calendar
+countries
+gregorian calendar
+gregorian calendar
+purposes
+extended backwards dates preceding official introduction
+producing proleptic gregorian calendar
+proleptic calendar great caution
+ordinary purposes
+dates events occurring prior october generally shown appeared julian calendar
+year starting january
+conversion gregorian equivalents
+battle agincourt universally fought october saint crispin day
+mapping dates dates start year adjustment works confusion events happened introduction gregorian calendar
+period introduction gregorian calendar october introduction britain september
+considerable confusion events continental western europe british domains english language histories
+events continental western europe reported english language histories happening gregorian calendar
+battle blenheim august
+confusion occurs event affects
+william iii england arrived brixham england november
+julian calendar
+setting sail netherlands november
+gregorian calendar
+shakespeare cervantes apparently died date
+april
+cervantes predeceased shakespeare ten days real time
+spain gregorian calendar
+britain julian calendar
+coincidence encouraged unesco make april world book copyright day
+astronomers avoid ambiguity julian day number
+dates year
+unlike proleptic gregorian calendar international standard iso
+traditional proleptic gregorian calendar
+julian calendar
+year ordinal numbers
+years
+traditional time line
+iso astronomical year numbering includes year negative numbers
+iso time line
+english speakers remember number days month memorizing traditional mnemonic verse
+variations alternate endings
+thirty days hath september
+language independent alternative countries hold fists index knuckle left hand index knuckle hand
+starting january knuckle left hand
+count knuckle
+space
+knuckle
+space months
+knuckle represents month days
+space represents short month
+day february day month
+junction hands counted
+index knuckles represent july august
+method works starting sequence hand knuckle
+continuing left
+hand
+counting fourth knuckle july
+start counting knuckle august
+similar mnemonic found piano keyboard
+starting key january
+moving keyboard semitones
+black notes give short months
+white notes long
+origins english naming gregorian calendar
+conjunction system months system weeks
+physical electronic calendar conversion date weekday
+shows multiple dates weekday month
+calculating day week simple
+irregularities gregorian system
+gregorian calendar adopted country
+alaskacitation needed
+weekly cycle continued uninterrupted
+case countries adopted reformed calendar date proposed gregory xiii calendar adoption
+friday
+october
+preceding date thursday
+october
+julian calendar
+opinions vary numbering days week
+iso
+common worldwide
+starts
+printed monthly calendar grids list mondays
+left
+column dates sundays
+software starts
+united states
+generally case
+sundays shown left column monthly calendar page
+gregorian calendar improves approximation made julian calendar skipping julian leap days years
+giving average year
+solar days long
+approximation error day years respect tropical year
+precession equinoxes
+error respect vernal equinox
+occurs
+average
+days
+day years
+criterion
+gregorian calendar substantially accurate day years error julian calendar
+average year
+days
+century
+sir john herschel proposed modification gregorian calendar leap days years
+leap days gregorian calendar insert period
+reduce average year
+days
+herschel proposal make year
+multiples thereof
+common leap
+modification proposed
+officially adopted
+time scales thousands years
+gregorian calendar falls astronomical seasons slowing earth rotation makes day slightly longer time
+tidal acceleration leap
+year maintains uniform duration
+borkowski reviewed mathematical models literature
+found results generally fall model mccarthy babcock
+stephenson morrison
+year
+calendar fall
+days
+year calendar fall days
+image
+commons
+thumb
+gregoriancalendarleap solstice
+svg
+gregoriancalendarleap solstice
+svg
+png
+image shows difference gregorian calendar astronomical seasons
+axis date june axis gregorian calendar years
+point date time june solstice year
+error shifts quarter day year
+centurial years ordinary years
+divisible
+case leap years
+correction years
+instance
+corrections december latest december solstice
+december earliest
+days variation compared seasonal event
+day year inconvenient compute
+partly leap day fall end year
+calendar exhibits repeating pattern number days months march july august december
+total days
+fact
+consecutive months february days
+common year starting sunday dominical letter
+year cycle gregorian calendar days weeks
+days week gregorian
+years divisible begin saturday
+year cycle
+months begin sunday
+friday
+day week
+week detailed explanation
+months
+begin sunday
+months
+begin saturday monday
+common cases
+smaller cycle years
+weeks
+date year
+day week repeats patterns
+dropped leap year
+temporarily disrupts year cycle repetitions
+doomsday algorithm method discern calendar variations year
+gregorian reformation
+based day february
+referred doomsday
+common years begin end day week
+multiple
+number weeks year number days week
+began monday ended monday
+leap years end day week begin
+began tuesday ended wednesday
+counting leap years
+calendar date move day week year
+birthday fell wednesday
+fell thursday
+leap years make things complicated
+move date occurring march days week year
+leaping
+extra day
+term leap year
+leap year
+calendar days march year
+moved days week
+calendar days occurring march make extra day week jump year leap year
+birthday june
+fallen friday sunday
+birthday february
+fallen thursday
+friday sunday
+year
+leap year
+july begins day week april
+difference july calendar page april calendar page year extra day july
+relationship exists september december
+march november
+extra day added september calendar
+calendar december obtained
+remove day march calendar
+november obtained
+common years
+leap years
+additional matches
+october duplicates january
+march november duplicate february days
+leap years
+set additional matches
+july duplicate january
+february duplicated days august
+addition
+years january duplicate year
+january
+applies february june year
+february duplicate days june year
+anno domini
+latin
+year
+lord
+system numbering years
+leap year rules written
+generally gregorian calendar
+english common era
+years beginning era english christ
+common era
+abbreviations
+bce
+year
+immediately
+naturally
+inter gravissimas written latin
+mandate english language nomenclature
+era names occur bull
+anno incarnationis
+year incarnation lord
+year signed
+anno nativitate domini nostri jesu christi
+year nativity lord jesus christ
+year printed
+anno domini
+inflections
+anni domini
+annus domini
+times canons attached bull
+proposed reforms gregorian calendar

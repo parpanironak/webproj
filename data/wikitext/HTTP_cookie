@@ -1,0 +1,725 @@
+HTTP cookie
+
+cookie
+cookie
+cookie
+web cookie
+browser cookie
+small piece data website stored user web browser user browsing website
+user browses website future
+data stored cookie retrieved website notify website user previous activity
+cookies designed reliable mechanism websites remember state website activity user past
+include clicking buttons
+logging
+record pages visited user months years ago
+cookies carry viruses
+install malware host computer
+tracking cookies party tracking cookies commonly ways compile long term records individuals browsing histories major privacy concern prompted european law makers action
+kinds cookies perform essential functions modern web
+importantly
+authentication cookies common method web servers user logged
+account logged
+mechanism
+site send page sensitive information
+require user authenticate logging
+security authentication cookie generally depends security issuing website user web browser
+cookie data encrypted
+security vulnerabilities cookie data read hacker
+gain access user data
+gain access
+user credentials
+website cookie belongs
+cross site scripting cross site request forgery examples
+term
+cookie
+derived
+magic cookie
+packet data program receives sends unchanged
+magic cookies computing computer programmer lou montulli idea web communications june
+time
+employee netscape communications
+developing commerce application customer
+customer mci application
+mci mall
+vint cerf john klensin represented mci technical discussions netscape communications
+wanting mci mall servers retain partial transaction states led mci request netscape find store state user computer
+cookies provided solution problem reliably implementing virtual shopping cart
+john giannandrea
+montulli wrote initial netscape cookie specification year
+version
+mosaic netscape
+released october
+supported cookies
+cookies
+labs
+checking visitors netscape website visited site
+montulli applied patent cookie technology
+granted
+support cookies integrated internet explorer version
+released october
+introduction cookies widely public time
+cookies accepted default
+users notified presence cookies
+general public learned financial times published article february
+year
+cookies received lot media attention
+potential privacy implications
+cookies discussed
+federal trade commission hearings
+development formal cookie specifications ongoing
+discussions formal specification started april www talk mailing list
+special working group ietf formed
+alternative proposals introducing state transactions proposed brian behlendorf david kristol
+group
+headed kristol aron afatsuom
+decided netscape specification starting point
+february
+working group identified party cookies considerable privacy threat
+specification produced group eventually published rfc february
+specifies party cookies allowed
+enabled default
+time
+advertising companies party cookies
+recommendation party cookies rfc netscape internet explorer
+rfc superseded rfc october
+definitive specification cookies real world published rfc april
+user session cookie
+memory cookie transient cookie
+website exists temporary memory user reading navigating website
+expiry date validity interval set cookie creation time
+session cookie created
+web browsers delete session cookies user closes browser
+persistent cookie outlast user sessions
+persistent cookie max age set year
+year
+initial set cookie back server time user visited server
+record vital piece information user initially website
+reason persistent cookies called tracking cookies
+secure cookie secure attribute enabled https
+ensuring cookie encrypted transmitting client server
+makes cookie exposed cookie theft eavesdropping
+httponly cookie supported modern browsers
+supported browser
+httponly session cookie transmitting
+https
+requests
+restricting access
+apis
+javascript
+restriction mitigates eliminate threat session cookie theft cross site scripting
+xss
+feature applies session management cookies
+browser cookies
+party cookies cookies set domain
+subdomain
+browser address bar
+party cookies cookies set domains shown address bar
+web pages domain feature content party domain
+banner advert run www
+advexample
+privacy setting options modern browsers block party tracking cookies
+suppose user visits www
+includes advert sets cookie domain
+foxytracking
+user visits www
+advert set cookie domain
+foxytracking
+eventually
+cookies advertiser loading ads visiting website
+advertiser cookies build browsing history user websites advertiser footprints
+supercookie
+cookie public suffix domain
+browsers
+default
+party cookie domain domain requesting host
+user visiting www
+cookie set domain www
+supercookie domain
+blocked browsers
+malicious website
+attacker
+set supercookie domain
+potentially disrupt impersonate legitimate user requests
+public suffix list cross vendor initiative provide accurate list domain suffixes changing
+older versions browsers date list
+vulnerable supercookies
+term
+supercookies
+tracking technologies rely cookies
+supercookie
+mechanisms found microsoft websites
+cookie syncing respawned muid cookies
+etag cookies
+due media attention
+microsoft disabled code
+cookies automatically recreated user deleted
+called zombie cookies
+accomplished script storing content cookie locations
+local storage flash content
+storages client side mechanisms
+recreating cookie backup stores cookie absence detected
+cookies maintain data related user navigation
+possibly multiple visits
+cookies introduced provide implement
+shopping cart
+shopping basket
+virtual device users store items purchase navigate site
+shopping basket applications today store list basket contents database server side
+storing basket items cookie
+web server typically sends cookie unique session identifier
+web browser send back session identifier subsequent request shopping basket items stored unique session identifier
+allowing users log website frequent cookies
+typically web server send cookie unique session identifier
+users submit credentials web application authenticates session user access services
+cookies remember information user visited website order show relevant content future
+web server send cookie username log website filled future visits
+websites cookies personalization based users preferences
+users select preferences entering web form submitting form server
+server encodes preferences cookie sends cookie back browser
+time user accesses page
+server cookie preferences stored
+personalize page user preferences
+website authenticated users choose webpage skin
+google search engine allowed users
+registered
+decide search results page
+tracking cookies track internet users web browsing
+part address computer requesting page referrer field request header
+cookies greater precision
+demonstrated
+analyzing log file collected process
+find pages user visited
+sequence
+long
+cookies arbitrary pieces data chosen web server browser
+browser returns unchanged server
+introducing state
+memory previous events
+stateless transactions
+cookies
+retrieval web page component web page isolated event
+unrelated views pages site
+set web server
+cookies set script language javascript
+supported enabled web browser
+cookie specifications suggest browsers save send back minimal number cookies
+web browser expected store cookies kilobytes
+cookies server domain
+transfer web pages hypertext transfer protocol
+cookies
+browsers request page web servers sending short text called request
+access page
+www
+index
+html
+browsers connect server www
+sending request
+index
+html
+host
+www
+server replies sending requested page preceded similar packet text
+called response
+packet lines requesting browser store cookies
+content type
+texthtml
+color
+green
+cookie
+color
+green
+cookie
+jun
+content page
+server sends lines set cookie server wishes browser store cookies
+set cookie directive browser store cookie send back future requests server
+subject expiration time cookie attributes
+browser supports cookies cookies enabled
+browser requests page
+www
+spec
+html sending server www
+request
+spec
+html
+host
+www
+cookie
+accept
+request page server
+differs string server previously browser
+server request related previous
+server answers sending requested page
+possibly adding cookies
+cookie modified server sending set cookie
+line response page request
+browser replaces
+cookie consist printable ascii character
+unicode
+excluding
+excluding whitespace
+cookie excludes delimiter
+cookie standard limiting implemented browsers
+term
+cookie crumb
+refer pair
+breadcrumb web navigation
+technique showing page list pages user previously visited
+technique
+implemented cookies
+cookies set javascript similar scripts running browser
+javascript
+object document
+cookie purpose
+instruction document
+cookie
+creates cookie temperature
+pair
+servers set cookie attributes
+cookie domain
+path
+expiration time maximum age
+secure flag httponly flag
+browsers send cookie attributes back server
+send pair
+cookie attributes browsers determine delete cookie
+block cookie send cookie
+pair
+servers
+cookie domain path define scope browser cookies back server domain path
+default domain path object requested
+set cookie directives website user logged
+set cookie
+vyg
+foo
+accounts
+jan
+gmt
+secure
+httponly set cookie
+dkrdst
+color
+green
+foo
+jan
+gmt
+httponly set cookie
+gteq
+color
+green
+foo
+jan
+gmt
+secure
+httponly
+cookie lsid default domain docs
+foo
+path
+accounts
+tells browser cookie requesting pages contained docs
+foo
+accounts
+cookies hsid ssid back browser requesting subdomain
+foo
+path
+www
+foo
+cookies set top domain domains
+setting cookies www
+foo
+www
+bar
+work security reasons
+expires directive tells browser delete cookie
+derived format rfc
+date form
+mon yyyy
+indicating exact date
+time cookie expire
+alternative setting cookie expiration absolute date
+time
+rfc max age attribute set expiration interval seconds future
+relative time browser received cookie
+set cookie directives website user logged
+set cookie
+jan
+gmt
+foo
+httponly set cookie
+made write
+foo
+set cookie
+reg
+color
+green
+jan
+gmt
+foo
+httponly
+cookie set expire jan
+client browser time
+cookie made write conn expiration date
+making session cookie
+deleted user closes browser
+cookie reg gate changed deleted
+expiration time past
+browser delete cookie note cookie deleted domain path attributes set cookie field match values cookie created
+secure httponly attributes values
+presence attribute names secure httponly behaviors
+secure attribute meant cookie communication limited encrypted transmission
+directing browsers cookies secure
+encrypted connections
+naturally
+web servers set secure cookies secure
+encrypted connections
+cookie information transmitted eavesdropping web browser
+httponly attribute directs browsers cookies protocol
+includes https
+httponly opposite secure
+httponly cookie accessible methods
+calls javascript
+referencing
+document
+cookie
+stolen easily cross site scripting
+pervasive attack technique
+modern browsers support cookies user disable
+common options
+browsers full wipe private data including cookies
+add tools managing cookie permissions exist
+cookies important implications privacy anonymity web users
+cookies server setting server internet domain
+web page images components stored servers domains
+cookies set retrieval components called party cookies
+standards cookies
+rfc rfc
+browsers protect user privacy party cookies default
+browsers
+mozilla firefox
+internet explorer
+opera google chrome party cookies default
+long party website compact privacy policy published
+advertising companies party cookies track user multiple sites
+advertising company track user pages advertising images web bugs
+knowledge pages visited user advertising company target advertisements user presumed preferences
+website operators disclose party cookie consumers run risk harming consumer trust cookie discovered
+clear disclosure
+privacy policy
+eliminate negative effects cookie discovery
+possibility building profile users considered potential privacy threat
+tracking multiple domains party cookies
+reason
+countries legislation cookies
+united states government set strict rules setting cookies disclosed white house drug policy office cookies track computer users viewing online anti drug advertising
+privacy activist daniel brandt found cia leaving persistent cookies computers visited website
+notified violating policy
+cia stated cookies intentionally set stopped setting
+december
+brandt discovered national security agency
+nsa
+leaving persistent cookies visitors computers due software upgrade
+informed
+national security agency immediately disabled cookies
+european union launched directive privacy electronic communications
+policy requiring end consent placement cookies
+similar technologies storing accessing information equipment
+article paragraph mandates storing data computer user provided information data
+user possibility denying storing operation
+directive
+defines data
+freely specific informed indication wishes data subject signifies agreement personal data relating
+consent involve form communication individuals knowingly acceptance
+policy amended directive
+included change article paragraph
+option users opt cookie storage
+revised directive requires consent obtained cookie storage
+june
+european data protection authorities adopted opinion clarifies cookie users exempt requirement gain consent
+response largely negative
+viewed directive infernal doomsday machine
+kill online sales
+kill internet
+robert bond law firm speechly bircham describes effects
+reaching incredibly onerous
+companies
+simon davis privacy international argues proper enforcement
+destroy entire industry
+specification offers possibility server state privacy policy header
+specifies kind information collects purpose
+policies include
+limited
+information gathered cookies
+specification
+browser accept reject cookies comparing privacy policy stored user preferences user
+presenting privacy policy declared server
+specification criticized web developers complexity
+internet explorer adequate support specification
+websites incorrect code headers
+facebook
+period
+jokingly
+honk
+header
+party cookies blocked browsers increase privacy reduce tracking advertising tracking companies negatively affecting user web experience
+advertising operators opt option behavioural advertising
+generic cookie browser stopping behavioural advertising
+websites cookies identifiers user sessions
+methods identifying web users limitations vulnerabilities
+website cookies session identifiers
+attackers impersonate requests stealing full set cookies
+web server point view
+request attacker authentication requests
+request performed behalf session
+listed scenarios cookie theft user session hijacking
+stealing user cookies
+work websites rely solely cookies user identification
+traffic network intercepted read computers network sender receiver
+unencrypted open
+traffic includes cookies ordinary unencrypted sessions
+network traffic encrypted
+attackers read communications users network
+including cookies entire contents conversations
+purpose man middle attack
+attacker intercepted cookies impersonate user perform malicious task
+transferring money bank account
+issue resolved securing communication user computer server employing transport layer security
+https protocol
+encrypt connection
+server secure flag setting cookie
+browser send cookie encrypted channel
+ssl connection
+dns cache poisoning
+attacker dns server cache fabricated dns entry
+www
+server address
+attacker post image url server
+www
+img cookie
+jpg
+victims reading message download image
+www
+www
+domain www
+browsers submit
+related cookies server
+compromised cookies include httponly cookies
+clarification needed
+vulnerability internet service providers fix
+securing dns servers
+mitigated www
+secure cookies
+browsers submit secure cookies image encrypted connections
+attacker chose https img cookie
+jpg download
+challenge obtaining ssl certificate
+www
+certificate authority
+proper ssl certificate
+browsers display
+visible
+warning messages invalid certificate
+alerting victims security officials www
+require inform security officials
+scripting languages javascript allowed access cookie values means send arbitrary values arbitrary servers internet
+facts combination sites allowing users post html content users
+attacker post message www
+link
+user clicks link
+browser executes piece code onclick attribute
+replacing string document
+cookie list cookies user active page
+result
+list cookies attacker
+server
+posting https
+www
+secure cookies attacker
+plain text
+cross site scripting constant threat
+crackers find slipping script tags websites
+responsibility website developers filter malicious code
+meantime
+attacks mitigated httponly cookies
+cookies accessible client side script
+attacker gather cookies
+attacker insert piece script page www
+browser execute script
+script simply carry attack
+attack browser send requests servers directly
+browser submit relevant cookies
+including httponly cookies
+secure cookies script request https
+myspace
+samy posted short message profile
+hidden script send samy post message profile
+user reading profile send samy post message profile
+person reading profile
+pretty
+samy worm fastest spreading worms time
+type attack
+automated scripts
+work website captcha challenge client requests
+older versions browsers
+security holes allowing attackers script proxy request xmlhttprequest
+victim reading posting www
+script executed browser
+script generates request www
+proxy server attacker
+request www
+cookies request
+routed proxy server
+attacker harvest cookies
+attack work secure cookie
+secure cookies https connections
+protocol dictates end end encryption
+information encrypted browser decrypted destination server www
+proxy servers encrypted bits bytes
+bob browsing chat forum user
+mallory
+posted message
+suppose mallory crafted html image element references action bob bank website
+image file
+bob bank authentication information cookie
+cookie expired
+attempt bob browser load image submit withdrawal form cookie
+authorizing transaction bob approval
+privacy concerns
+cookies technical drawbacks
+accurately identify users
+security attacks
+odds representational state transfer
+rest
+software architectural style
+browser computer
+separate storage area cookies
+cookies identify person
+combination user account
+computer
+web browser
+multiple accounts
+computers
+browsers multiple sets cookies
+likewise
+cookies differentiate multiple users share user account
+computer
+browser
+cookies generate inconsistency state client state stored cookie
+user acquires cookie clicks
+back
+button browser
+state browser generally acquisition
+shopping cart online shop built cookies
+content cart change user back browser history
+user presses button add item shopping cart clicks
+back
+button
+item remains shopping cart
+intention user
+possibly wanted undo addition item
+lead unreliability
+confusion
+bugs
+web developers aware issue implement measures handle situations
+problem mobile cookies devices implement cookies
+nokia supports cookies devices
+motorola supports cookies phones
+addition
+gateways networks
+verizon
+alltel
+metropcs
+strip cookies
+networks simulate cookies behalf mobile devices
+dramatic variations wireless markets world
+united kingdom devices support wireless cookies
+united states support
+support cookies greater east
+wireless devices commonly access web
+mobile cookies practice place japan
+watching podcast
+video
+clicking loan calculator gps wireless set tracking capturing wireless behaviors
+operations cookies mechanisms
+users tracked based address computer requesting page
+server address computer running browser proxy
+theoretically link user session address
+addresses
+generally
+reliable track session identify user
+computers designed single user
+office pcs home pcs
+network address translator
+nat
+means pcs share public address
+systems
+tor
+designed retain internet anonymity
+rendering tracking address impractical
+impossible
+security risk
+precise technique based embedding information urls
+query string part url typically purpose
+parts
+java servlet php session mechanisms method cookies enabled
+method consists web server appending query strings links web page holds sending browser
+user link
+browser returns attached query string server
+query strings cookies similar
+arbitrary pieces information chosen server back browser
+differences
+query string part url
+url reused
+attached piece information server
+preferences user encoded query string url user sends url user mail
+preferences user
+user accesses page times
+guarantee query string views
+user arrives page coming page internal site time external search engine time
+relative query strings typically cookies
+details
+query string
+drawbacks query strings related security
+storing data identifies session query string enables simplifies session fixation attacks
+referrer logging attacks security exploits
+transferring session identifiers cookies secure
+form session tracking web forms hidden fields
+technique similar url query strings hold information advantages drawbacks
+form handled method
+fields part url browser send form submission
+forms handled post
+form information
+including hidden fields
+appended extra input part url
+cookie
+approach presents advantages point view tracker
+tracking information html source post input url means noticed average user
+session information copied user copies url
+save page disk send email
+method easily framework supports web forms
+current web browsers store fairly large amount data
+javascript dom property window
+data session cookies cross domain
+technique coupled json
+javascript objects store complex sets session variables client side
+downside separate window tab initially empty window
+times tabbed browsing means individually opened tabs
+initiation user
+window
+window
+tracking visitors websites
+making concern internet privacy
+respects secure cookies due involving server
+vulnerable network cookie sniffing attacks
+special measures protect data
+vulnerable attacks data websites opened window tab
+protocol includes basic access authentication digest access authentication protocols
+access web page user provided correct username password
+server requires credentials granting access web page
+browser requests user
+obtained
+browser stores sends subsequent page request
+information track user
+article based material free line dictionary computing prior november incorporated
+relicensing
+terms gfdl
+version

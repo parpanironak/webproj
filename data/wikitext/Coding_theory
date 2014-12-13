@@ -1,0 +1,221 @@
+Coding theory
+
+coding theory
+coding theory study properties codes fitness specific application
+codes data compression
+cryptography
+error correction recently network coding
+codes studied scientific information theory
+electrical engineering
+mathematics
+computer purpose designing efficient reliable data transmission methods
+typically involves removal redundancy correction
+detection
+errors transmitted data
+essentially aspects coding theory
+aspects studied combination
+source encoding attempts compress data source order transmit efficiently
+practice found day internet common zip data compression reduce network load make files smaller
+channel encoding
+adds extra data bits make transmission data robust disturbances present transmission channel
+ordinary user aware applications channel coding
+typical music reed solomon code correct scratches dust
+application transmission channel
+cell phones coding techniques correct fading noise high frequency radio transmission
+data modems
+telephone transmissions
+nasa employ channel coding techniques bits
+turbo code ldpc codes
+aim source coding source data make smaller
+entropy source measure information
+basically
+source codes reduce redundancy present source
+represent source fewer bits carry information
+data compression explicitly minimize average length messages assumed probability model called entropy encoding
+techniques source coding schemes achieve limit entropy source
+entropy source
+bitrate
+bitrate compression
+source coding scheme entropy source
+facsimile transmission simple run length code
+source coding removes data superfluous transmitter
+decreasing bandwidth required transmission
+purpose channel coding theory find codes transmit quickly
+valid code words correct detect errors
+mutually exclusive
+performance areas trade
+codes optimal applications
+needed properties code depend probability errors happening transmission
+typical
+impairment dust scratches
+codes interleaved manner
+citation needed data spread disk
+good code
+simple repeat code serve understandable
+suppose block data bits
+representing sound
+send times
+receiver examine repetitions bit bit majority vote
+twist send bits order
+interleave
+block data bits divided smaller blocks
+cycle block send bit
+times spread data surface disk
+context simple repeat code
+effective
+powerful codes effective correcting
+burst
+error scratch dust spot interleaving technique
+codes applications
+deep space communications limited thermal noise receiver continuous nature bursty nature
+likewise
+narrowband modems limited noise
+present telephone network modeled continuous disturbance
+citation needed cell phones subject rapid fading
+high frequencies rapid fading signal receiver moved inches
+class channel codes designed combat fading
+citation needed
+term algebraic coding theory denotes field coding theory properties codes expressed algebraic terms researched
+citation needed
+algebraic coding theory basically divided major types codes
+citation needed
+analyzes properties code
+citation needed
+linear block codes property linearity
+sum codewords code word
+applied source bits blocks
+linear block codes
+block codes linear
+difficult prove code good property
+linear block codes summarized symbol alphabets
+binary ternary
+parameters
+dmin
+types linear block codes
+block codes tied sphere packing problem
+received attention years
+dimensions
+easy visualize
+bunch pennies flat table push
+result hexagon pattern bee nest
+block codes rely dimensions easily visualized
+powerful
+golay code deep space communications dimensions
+binary code
+dimensions refer length codeword defined
+theory coding dimensional sphere model
+pennies packed circle tabletop
+dimensions
+marbles packed globe
+considerations enter choice code
+hexagon packing constraint rectangular box leave empty space corners
+dimensions larger
+percentage empty space grows smaller
+dimensions
+packing space codes called
+perfect
+codes
+nontrivial perfect codes distance hamming codes parameters satisfying
+binary
+ternary golay codes
+code property number neighbors single codeword
+pennies
+pack pennies rectangular grid
+penny neighbors
+corners farther
+hexagon
+penny neighbors
+increase dimensions
+number neighbors increases rapidly
+result number ways noise make receiver choose neighbor
+error
+grows
+fundamental limitation block codes
+codes
+harder error single neighbor
+number neighbors large total error probability suffers
+properties linear block codes applications
+syndrome coset uniqueness property linear block codes trellis shaping
+shaping codes
+property sensor networks distributed source coding
+idea convolutional code make codeword symbol weighted sum input message symbols
+convolution lti systems find output system
+input impulse response
+generally find output system convolutional encoder
+convolution input bit
+states convolution encoder
+registers
+fundamentally
+convolutional codes offer protection noise equivalent block code
+cases
+generally offer greater simplicity implementation block code equal power
+encoder simple circuit state memory feedback logic
+xor gates
+decoder implemented software firmware
+viterbi algorithm optimum algorithm decode convolutional codes
+simplifications reduce computational load
+rely searching paths
+optimum
+generally found give good results lower noise environments
+convolutional codes voiceband modems
+gsm mobile phones
+satellite military communication devices
+concern coding theory designing codes synchronization
+code designed phase shift easily detected corrected multiple signals channel
+citation needed
+application codes
+mobile phone systems
+code division multiple access
+cdma
+phone assigned code sequence approximately uncorrelated codes phones
+citation needed transmitting
+code word modulate data bits representing voice message
+receiver
+demodulation process performed recover data
+properties class codes users
+codes
+radio channel time
+receiver
+signals users demodulator low level noise
+citation needed
+general class codes automatic repeat request
+arq
+codes
+codes sender adds redundancy message error checking
+adding check bits
+check bits consistent rest message arrives
+receiver sender retransmit message
+simplest wide area network protocols arq
+common protocols include sdlc
+ibm
+tcp
+internet
+international
+extensive field research topic problem matching rejected packet packet
+retransmission
+typically numbering schemes
+tcp
+rfcs
+internet engineering task force
+ietf
+tools
+ietf
+html
+group testing codes
+large group items
+defective products infected test subjects
+idea group testing determine items
+tests
+origin problem roots world war united states army air forces needed test soldiers syphilis
+originated ground breaking paper robert dorfman
+information encoded analogously neural networks brains
+analog signal processing
+analog electronics
+aspects analog coding include analog error correction
+analog data compression
+analog encryption
+neural coding neuroscience related field concerned sensory information represented brain networks neurons
+main goal studying neural coding characterize relationship stimulus individual ensemble neuronal responses relationship electrical activity neurons ensemble
+thought neurons encode digital analog information
+neurons follow principles information theory compress information
+detect correct errors signals brain wider nervous system

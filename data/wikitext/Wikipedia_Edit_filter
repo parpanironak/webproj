@@ -1,0 +1,95 @@
+Wikipedia:Edit filter
+
+filter
+edit filter tool trusted users set specific controls user activity create automated reactions behaviors
+edits trigger edit filter listed log
+abuse filter extension developed werdna support foundation
+live english march
+july
+user facing elements filter refer
+edit filter
+edits flags abusive
+software special pages retains original
+extension automatic filters
+heuristics applied edits
+specific rules developed
+users fewer edits blocked moving pages titles match regular expression
+rules bit complicated
+filters default publicly viewable
+set private
+filters
+including hidden public view
+general summary rule targets
+displayed log
+list active filters
+error messages generated filter
+implementation abusefilter due abuse filters tested days
+log
+mode
+brought full force
+warn
+disallow
+throttle
+modes
+members specific groups allowed modify filters
+group assignable administrators
+assignment edit filter manager user admins highly restricted
+requested highly trusted users
+clear
+demonstrated
+demonstrated ability safely absolutely critical
+widespread disruption entire encyclopedia easily smallest mistakes changing edit filters
+demonstrated knowledge extension syntax confidence understanding crafting regular expressions
+regexes
+absolutely essential
+admins helping requested edit filters troubleshooting false positives demonstrate skills
+requests assignment group admins made talk
+edit filter
+discussion held week prior decision made
+extensive normalisation
+regex matching
+length comparison regular comparisons
+greater
+equal
+matching
+combining filters boolean logic
+user triggers filter
+abusefilter apply sanctions based severity offense
+actions wiki
+note
+individual sanctions disabled selectively
+edit filter manager restore autoconfirmed status case error
+edits triggering action produce report special
+abuselog
+page
+log entry entered
+users permissions view log summary
+users higher permissions view details log entry
+includes information filter ran
+debugging purposes
+users highest level log viewing permissions view private data action caused log event
+user address
+abusefilter documentation details permissions structure
+details link brings screen
+protect wiki poorly configured filters
+technical limit imposed maximum percentage actions trigger filter
+technical limits process written
+notifications based template filter
+standard notifications shown user triggering filter action
+generic warning message
+admins advised custom warnings
+existing filters warnings
+blanking
+removal
+filter set warn disallow
+user clicking
+save page
+alternatively warning standard disallowed message
+extension initially installed
+actions include blocking removing privileged groups
+restricted usage determined community consensus
+extension successful
+community decide enable block
+rangeblock degroup actions wiki
+admins wishing block users triggering abuse filter template
+full technical details implementation mediawiki bug tracker bug

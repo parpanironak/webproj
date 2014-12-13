@@ -1,0 +1,450 @@
+Fundamental theorem of algebra
+
+fundamental theorem algebra
+fundamental theorem algebra states constant single variable polynomial complex coefficients complex root
+includes polynomials real coefficients
+real number complex number imaginary part
+equivalently
+definition
+theorem states field complex numbers algebraically closed
+theorem stated
+single variable
+degree polynomial complex coefficients
+counted multiplicity
+roots
+equivalence statements proven successive polynomial division
+spite
+purely algebraic proof theorem
+proof completeness reals
+equivalent formulation completeness
+algebraic concept
+additionally
+fundamental modern algebra
+time study algebra concerned solutions polynomial equations real complex coefficients
+peter rothe
+book arithmetica philosophica
+published
+wrote polynomial equation degree
+real coefficients
+solutions
+albert girard
+book linvention nouvelle
+published
+asserted polynomial equation degree solutions
+state real numbers
+added assertion holds equation
+meant coefficient equal
+explains detail means
+clear believes assertion true
+instance
+shows equation
+incomplete
+solutions
+counting multiplicities
+mentioned
+fundamental theorem algebra constant polynomial real coefficients written product polynomials real coefficients degree
+leibniz polynomial type
+real distinct
+written
+nikolaus bernoulli made assertion polynomial
+letter euler told polynomial happened equal
+square root
+euler mentioned
+attempt proving theorem made dalembert
+proof incomplete
+problems
+assumed implicitly theorem
+puiseux theorem
+proved century
+proof assumed fundamental theorem algebra
+attempts made euler
+foncenex
+lagrange
+laplace
+attempts assumed implicitly girard assertion
+precise
+existence solutions assumed remained proved form real numbers
+modern terms
+euler
+foncenex
+lagrange
+laplace assuming existence splitting field polynomial
+end century
+proofs published assume existence roots
+due james wood algebraic
+published totally
+wood proof algebraic gap
+published gauss geometric
+topological gap
+filled alexander ostrowski
+discussed smale
+smale writes
+point immense gap gauss proof contained
+subtle point today real algebraic plane curve enter disk leaving
+fact gauss redid proof years
+gap remained
+gauss proof completed
+reference gauss
+ostrowski paper excellent discussion problem
+rigorous proof published argand
+time
+fundamental theorem algebra stated polynomials complex coefficients
+real coefficients
+gauss produced proofs version original proof
+textbook proof theorem cauchy cours danalyse royale polytechnique
+contained argand proof
+argand credited
+proofs mentioned constructive
+weierstrass raised time
+middle century
+problem finding constructive proof fundamental theorem algebra
+presented solution
+amounts modern terms combination method homotopy continuation principle
+proof kind obtained hellmuth kneser simplified son martin kneser
+countable choice
+constructively prove fundamental theorem algebra complex numbers based dedekind real numbers
+constructively equivalent cauchy real numbers countable choice
+fred richman proved reformulated version theorem work
+proofs involve analysis
+topological concept continuity real complex functions
+differentiable analytic functions
+fact led remark fundamental theorem algebra fundamental
+theorem algebra
+proofs theorem prove constant polynomial real coefficients complex root
+establish theorem general case
+constant polynomial
+complex coefficients
+polynomial
+real coefficients
+conjugate root
+large number algebraic proofs theorem fact
+called
+degree polynomial function
+dominant coefficient behaves large
+precise statement
+positive real number
+find closed disk radius centered origin
+minimum
+exist compact
+achieved point interior
+point boundary
+maximum modulus principle
+applied
+implies
+words
+variation proof require maximum modulus principle
+fact
+argument minor proof maximum modulus principle holomorphic functions
+precisely
+assume contradiction
+expanding
+powers write
+simply coefficients polynomial
+index coefficient constant term
+sufficiently close behavior asymptotically similar simpler polynomial image
+math
+png
+sense
+easy check
+function image
+math
+png bounded positive constant neighborhood
+define image
+math
+png image
+math
+png
+sufficiently small positive number
+bound mentioned holds
+triangle inequality
+sufficiently close upper bound
+strictly smaller
+contradiction definition
+geometrically
+found explicit direction approaches direction obtain values
+smaller absolute
+analytic proof obtained line thought observing
+minimum
+complex plane achieved
+bounded holomorphic function entire complex plane
+complex number
+applying liouville theorem
+states bounded entire function constant
+imply
+constant constant
+contradiction
+analytic proof argument principle
+positive real number large root
+absolute smaller
+number exist constant polynomial function degree zeros
+number
+circle centered radius oriented counterclockwise
+argument principle number number zeros
+open ball centered radius
+total number zeros
+hand
+integral
+divided equal
+difference numbers
+numerator rational expression integrated degree degree denominator
+number
+number equal
+complex analytic proof combining linear algebra cauchy theorem
+establish complex polynomial degree
+suffices show complex square matrix size
+complex
+eigenvalue
+proof statement contradiction
+complex square matrix size unit matrix size
+assume eigenvalues
+resolvent function
+meromorphic function complex plane values vector space matrices
+eigenvalues precisely poles
+assumption
+eigenvalues
+function
+entire function cauchy theorem implies
+hand
+expanded geometric series
+formula valid closed disc radius
+operator norm
+summand nonzero integral
+contradiction
+eigenvalue
+finally
+theorem shortest proof theorem
+minimum
+complex plane achieved
+proof liouville theorem number exist
+write
+polynomial
+natural number complex numbers
+kth root
+positive sufficiently small
+impossible
+minimum
+topological proof contradiction
+suppose
+zeros
+choose large positive number
+leading term
+dominates terms combined
+words
+traverses circle equation counter clockwise
+winds times counter clockwise
+extreme
+simply single
+nonzero
+point
+winding number
+loop continuously deformed extremes
+path
+deforms continuously
+explicitly write deformation image
+math
+png greater equal equal
+views variable time
+time curve
+time curve
+point
+original assumption
+deformation
+curve crosses
+winding number curve change
+winding number started ended
+absurd
+proofs facts real numbers require small amount analysis
+precisely
+intermediate theorem
+fact
+quadratic formula
+implies theorem real quadratic polynomials
+words
+algebraic proofs fundamental theorem show real closed field
+extension
+algebraically closed
+mentioned
+suffices check statement constant polynomial
+real coefficients complex
+statement proved induction greatest negative integer divides degree
+coefficient
+splitting field
+words
+field elements
+odd
+real root
+suppose
+odd
+theorem proved degree polynomial form odd
+real number
+define
+coefficients
+symmetric polynomials real coefficients
+expressed polynomials real coefficients elementary symmetric polynomials
+fact real coefficients
+degree
+odd number
+induction hypothesis
+complex root
+words
+complex distinct elements
+real numbers pairs
+find distinct real numbers complex
+zizj complex numbers
+easy check complex number complex square root
+complex polynomial degree complex root quadratic formula
+complex numbers
+roots quadratic polynomial
+shipman showed assumption odd degree polynomials roots stronger
+field polynomials prime degree roots algebraically closed
+odd
+replaced
+odd prime
+holds fields characteristics
+axiomatization algebraically closed fields
+counterexamples single prime excluded
+counterexamples rely square root
+field square root
+polynomial degree root
+fixed infinite set odd numbers
+polynomial
+odd degree root
+root
+chosen deg
+algebraic proof fundamental theorem galois theory
+suffices show proper finite field extension
+finite extension
+normal closure finite degree
+assume loss generality normal extension
+galois extension
+algebraic extension field characteristic separable
+galois group extension
+sylow group
+order power
+index odd
+fundamental theorem galois theory
+exists subextension
+gal
+odd
+nonlinear irreducible real polynomials odd degree
+powers
+assuming contradiction
+group gal
+subgroup index
+exists subextension
+extension
+quadratic complex polynomial complex root
+mentioned
+exists approach fundamental theorem algebra
+due
+almira
+romero
+riemannian geometric arguments
+main idea prove existence constant polynomial
+zeroes implies existence flat riemannian metric sphere
+leads contradiction
+sphere flat
+recall riemannian surface
+flat gaussian curvature
+denote
+identically null
+theorem
+applied sphere
+claims
+proves sphere flat
+assume
+complex number
+define
+znp
+polynomial
+functional equation prove
+defined riemannian metric sphere
+identify extended complex plane
+simple computation shows
+real part analytic function harmonic
+proves
+fundamental theorem algebra statement field complex numbers algebraically closed
+theorem algebraically closed fields applies field complex numbers
+consequences theorem
+field real numbers relationship field real numbers field complex numbers
+fundamental theorem algebra states general existence result
+interest
+theoretical practical point view
+information location zeroes polynomial
+simpler result direction bound modulus
+zeroes monic polynomial image
+math
+png satisfy inequality
+notice
+stated
+existence result called priori bound
+solutions lie inside closed disk center origin radius
+coupled fundamental theorem algebra disk fact solution
+generally
+bound directly terms norm vector coefficients image
+math
+png
+precisely norm vector image
+math
+png
+conjugate exponent
+modulus solution bounded
+define
+reasonable coefficient polynomial
+case generic polynomial degree
+image
+math
+png
+reduced case monic
+dividing coefficients
+case root
+bounds roots follow immediately bounds image
+math
+png
+roots image
+math
+png
+finally
+distance image
+math
+png roots point image
+math
+png estimated
+image
+math
+png zeroes polynomial image
+math
+png
+coefficients taylor expansion
+image
+math
+png
+report proof bounds
+short elementary
+root polynomial image
+math
+png
+order prove inequality assume
+writing equation image
+math
+png
+inequality find image
+math
+png
+image
+math
+png
+image
+math
+png
+case
+taking account summation formula geometric progression
+image
+math
+png simplifying
+image
+math
+png
+image
+math
+png holds

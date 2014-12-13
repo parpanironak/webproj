@@ -1,0 +1,232 @@
+Mathematical model
+
+mathematical model
+mathematical model description system mathematical concepts language
+process developing mathematical model termed mathematical modelling
+mathematical models natural sciences
+physics
+biology
+earth science
+meteorology
+engineering disciplines
+computer science
+artificial intelligence
+social sciences
+economics
+psychology
+sociology political science
+physicists
+engineers
+statisticians
+operations research analysts economists mathematical models extensively
+model explain system study effects components
+make predictions behaviour
+mathematical models forms
+including limited dynamical systems
+statistical models
+differential equations
+game theoretic models
+types models overlap
+model involving variety abstract structures
+general
+mathematical models include logical models
+logic part mathematics
+cases
+quality scientific field depends mathematical models developed theoretical side agree results repeatable experiments
+lack agreement theoretical mathematical models experimental measurements leads important advances theories developed
+modeling requires selecting identifying relevant aspects situation real world
+mathematical models great importance natural sciences
+physics
+physical theories invariably expressed mathematical models
+history
+accurate mathematical models developed
+newton laws accurately describe everyday phenomena
+limits relativity theory quantum mechanics
+apply situations refinement
+obtain accurate models limits
+relativistic mechanics reduces newtonian mechanics speeds speed light
+quantum mechanics reduces classical physics quantum numbers high
+broglie wavelength tennis ball insignificantly small
+classical physics good approximation case
+common idealized models physics simplify things
+massless ropes
+point particles
+ideal gases particle box simplified models physics
+laws physics represented simple equations newton laws
+maxwell equations equation
+laws basis making mathematical models real situations
+real situations complex modeled approximate computer
+model computationally feasible compute made basic laws approximate models made basic laws
+molecules modeled molecular orbital models approximate solutions equation
+engineering
+physics models made mathematical methods finite element analysis
+mathematical models geometries necessarily accurate descriptions geometry universe
+euclidean geometry classical physics
+special relativity general relativity examples theories geometries euclidean
+prehistorical times simple models maps pre designed diagrams
+engineers analyze system controlled optimized
+mathematical model
+analysis
+engineers build descriptive model system hypothesis system work
+estimate unforeseeable event affect system
+similarly
+control system
+engineers control approaches simulations
+mathematical model describes system set variables set equations establish relationships variables
+variables types
+real integer numbers
+boolean values strings
+variables represent properties system
+measured system outputs form signals
+timing data
+counters
+event occurrence
+actual model set functions describe relations variables
+business engineering
+mathematical models maximize output
+system consideration require inputs
+system relating inputs outputs depends variables
+decision variables
+state variables
+exogenous variables
+random variables
+decision variables independent variables
+exogenous variables parameters constants
+variables independent state variables dependent decision
+input
+random
+exogenous variables
+output variables dependent state system
+represented state variables
+objectives constraints system users represented functions output variables state variables
+objective functions depend perspective model user
+depending context
+objective function index performance
+measure interest user
+limit number objective functions constraints model
+optimizing model involved
+computationally
+number increases
+economics students apply linear algebra input output models
+complicated mathematical models variables consolidated vectors symbol represents variables
+mathematical models classified ways
+mathematical modeling problems classified black box white box models
+priori information system
+black box model system priori information
+white box model
+called glass box clear box
+system information
+practically systems black box white box models
+concept intuitive guide deciding approach
+preferable priori information make model accurate
+white box models considered easier
+information correctly
+model behave correctly
+priori information forms knowing type functions relating variables
+make model medicine works human system
+amount medicine blood exponentially decaying function
+left unknown parameters
+rapidly medicine amount decay
+initial amount medicine blood
+completely white box model
+parameters estimated means model
+black box models estimate functional form relations variables numerical parameters functions
+priori information end
+set functions describe system adequately
+priori information functions general cover models
+approach black box models neural networks make assumptions incoming data
+problem large set functions describe system estimating parameters increasingly difficult amount parameters
+types functions
+increases
+incorporate subjective information mathematical model
+based intuition
+experience
+expert opinion
+based convenience mathematical form
+bayesian statistics theoretical framework incorporating subjectivity rigorous analysis
+specifies prior probability distribution
+subjective
+updates distribution based empirical data
+approach situation experimenter bends coin slightly tosses
+recording heads
+task predicting probability flip heads
+bending coin
+true probability coin heads unknown
+experimenter make arbitrary decision
+shape coin
+prior distribution
+incorporation subjective information case accurate prediction probability
+guess probability flip heads
+wrong
+general
+model complexity involves trade simplicity accuracy model
+occam razor principle relevant modeling
+essential idea models roughly equal predictive power
+simplest desirable
+added complexity improves realism model
+make model difficult understand analyze
+pose computational problems
+including numerical instability
+thomas kuhn argues science progresses
+explanations tend complex paradigm shift offers radical simplification
+modeling flight aircraft
+embed mechanical part aircraft model acquire white box model system
+computational cost adding huge amount detail effectively inhibit usage model
+additionally
+uncertainty increase due overly complex system
+separate part induces amount variance model
+make approximations reduce model size
+engineers accept approximations order robust simple model
+newton classical mechanics approximated model real world
+newton model sufficient ordinary life situations
+long particle speeds speed light
+study macro particles
+model pure white box parameters fit model system intended describe
+modeling neural network
+optimization parameters called training
+conventional modeling explicitly mathematical functions
+parameters determined curve fitting
+crucial part modeling process evaluation mathematical model describes system accurately
+question difficult answer involves types evaluation
+easiest part model evaluation checking model fits experimental measurements empirical data
+models parameters
+common approach test fit split data disjoint subsets
+training data verification data
+training data estimate model parameters
+accurate model closely match verification data data set model parameters
+practice referred cross validation statistics
+defining metric measure distances observed predicted data tool assessing model fit
+statistics
+decision theory
+economic models
+loss function plays similar role
+straightforward test appropriateness parameters
+difficult test validity general mathematical form model
+general
+mathematical tools developed test fit statistical models models involving differential equations
+tools parametric statistics evaluate data fit distribution general model makes minimal assumptions model mathematical form
+assessing scope model
+determining situations model applicable
+straightforward
+model constructed based set data
+determine systems situations data
+typical
+set data
+question model describes properties system data points called interpolation
+question events data points observed data called extrapolation
+typical limitations scope model
+evaluating newtonian classical mechanics
+note newton made measurements advanced equipment
+measure properties particles travelling speeds close speed light
+likewise
+measure movements molecules small particles
+macro particles
+surprising model extrapolate domains
+model sufficient ordinary life physics
+types modeling implicitly involve claims causality
+true models involving differential equations
+purpose modeling increase understanding world
+validity model rests fit empirical observations
+ability extrapolate situations data originally model
+argue model worthless insight direct investigation phenomenon studied
+criticism argument mathematical models optimal foraging theory offer insight common sense conclusions evolution basic principles ecology

@@ -1,0 +1,457 @@
+Statistical mechanics
+
+statistical mechanics
+statistical mechanics statistical thermodynamicsnote branch physics applies probability theory
+mathematical tools dealing large populations
+study thermodynamic behavior systems composed large number particles
+statistical mechanics framework relating microscopic properties individual atoms molecules macroscopic bulk properties materials observed everyday life
+explaining thermodynamics result classical quantum mechanical descriptions statistics mechanics microscopic level
+statistical mechanics molecular level interpretation macroscopic thermodynamic quantities work
+heat
+free energy
+entropy
+enables thermodynamic properties bulk materials related spectroscopic data individual molecules
+ability make macroscopic predictions based microscopic properties main advantage statistical mechanics classical thermodynamics
+theories governed law thermodynamics medium entropy
+entropy thermodynamics empirically
+statistical mechanics
+function distribution system micro states
+statistical mechanics initiated work austrian physicist ludwig boltzmann
+collectively published boltzmann lectures gas theory
+boltzmann original papers statistical interpretation thermodynamics
+theorem
+transport theory
+thermal equilibrium
+equation state gases
+similar subjects
+occupy pages proceedings vienna academy societies
+term
+statistical thermodynamics
+proposed american thermodynamicist physical chemist
+willard gibbs
+gibbs
+term
+statistical
+context mechanics
+statistical mechanics
+scottish physicist james clerk maxwell
+probabilistic mechanics
+today term
+statistical mechanics
+firmly entrenched
+essential problem statistical thermodynamics calculate distribution amount energy identical systems
+goal statistical thermodynamics understand interpret measurable macroscopic properties materials terms properties constituent particles interactions
+connecting thermodynamic functions quantum mechanical equations
+central quantities statistical thermodynamics boltzmann factor partition function
+image
+commons
+thumb
+office book
+svg
+office book
+svg
+png fundamentals statistical mechanics books
+central topics covered statistical thermodynamics include
+lastly
+importantly
+formal definition entropy thermodynamic system statistical perspective called statistical entropy
+defined
+boltzmann constant
+number microstates observed thermodynamic macrostate
+equation valid microstate equally accessible
+microstate equal probability occurring
+system large boltzmann distribution
+boltzmann distribution approximate result
+stands number particles occupying level number feasible microstates macrostate
+stands energy
+stands temperature
+boltzmann constant
+total number particles states
+distribution probability densities
+sum denominator levels
+swiss physicist mathematician daniel bernoulli published hydrodynamica laid basis kinetic theory gases
+work
+bernoulli posited argument
+day
+gases consist great numbers molecules moving directions
+impact surface gas pressure feel
+experience heat simply kinetic energy motion
+reading paper diffusion molecules rudolf clausius
+scottish physicist james clerk maxwell formulated maxwell distribution molecular velocities
+gave proportion molecules velocity specific range
+statistical law physics
+years
+ludwig boltzmann
+young student vienna
+paper inspired spent life developing subject
+foundations statistical thermodynamics laid late maxwell
+boltzmann
+max planck
+clausius
+josiah willard gibbs began apply statistical quantum atomic theory ideal gas bodies
+predominantly
+maxwell boltzmann
+working independently
+reached similar conclusions statistical nature gaseous bodies
+boltzmann
+father
+statistical thermodynamics derivation relationship entropy multiplicity
+number microscopic arrangements
+microstates
+producing macroscopic state
+macrostate
+system
+fundamental postulate statistical mechanics
+equal priori probability postulate
+postulate fundamental assumption statistical mechanics states system equilibrium preference microstates
+microstates energy
+probability finding system microstate
+postulate conclude system equilibrium
+thermodynamic state
+macrostate
+result largest number microstates probable macrostate system
+postulate justified part
+classical systems
+liouville theorem
+hamiltonian
+shows distribution system points accessible phase space uniform time
+remains times
+similar justification discrete system provided mechanism detailed balance
+definition information function
+context information theory
+probabilities
+rho
+equal
+maximal
+minimal information system
+information maximal
+rho equal rest
+state system
+function minimal
+information function reduced entropic function thermodynamics
+mark srednicki argued fundamental postulate derived assuming berry conjecture
+named michael berry
+applies system question
+berry conjecture believed hold chaotic systems
+roughly energy eigenstates distributed gaussian random variables
+realistic systems handful degrees freedom expected chaotic
+puts fundamental postulate firm footing
+berry conjecture shown equivalent information theoretic principle bias
+modern formulation statistical mechanics based description physical system ensemble represents configurations system probability realizing configuration
+ensemble partition function
+mathematical manipulation
+extract values thermodynamic properties system
+relationship system rest universe
+general types ensembles apply
+order increasing complexity
+constant ensemble
+microcanonical ensemble
+fixed
+law thermodynamics applies isolated systems
+case investigated correspond case
+microcanonical ensemble describes isolated system
+entropy system increase
+maximum entropy corresponds equilibrium state system
+isolated system constant energy
+total energy system fluctuate
+system access micro states correspond energy
+internal energy system strictly equal energy
+number micro states system energy
+macroscopic state maximal entropy system micro states equally occur
+probability
+system fluctuations
+system entropy
+canonical ensemble
+fixed
+invoking concept canonical ensemble
+derive probability macroscopic system thermal equilibrium environment
+microstate energy boltzmann distribution
+definition image
+math
+png
+thermodynamic beta inverse temperature
+temperature arises fact system thermal equilibrium environment
+probabilities microstates add
+normalization factor denominator canonical partition function
+energy ith microstate system
+partition function measure number states accessible system temperature
+article canonical ensemble derivation boltzmann factor form partition function principles
+sum
+probability finding system temperature state energy
+partition function weight factor ensemble
+partition function find expected
+average
+microscopic property system
+related macroscopic variables
+instance
+expected microscopic energy interpreted microscopic definition thermodynamic variable internal energy
+obtained taking derivative partition function respect temperature
+implies
+interpretation image
+math
+png
+microscopic definition internal energy
+entropy calculated
+shannon entropy
+implies
+helmholtz free energy system words
+microscopic expressions basic thermodynamic potentials
+internal energy
+entropy
+free energy
+sufficient derive expressions thermodynamic quantities
+basic strategy
+intensive extensive quantity enters explicitly expression microscopic energy
+instance magnetic field
+intensive
+volume
+extensive
+conjugate thermodynamic variables derivatives internal energy
+macroscopic magnetization
+extensive
+derivative respect
+intensive
+magnetic field
+pressure
+intensive
+derivative respect volume
+extensive
+treatment section assumes exchange matter
+fixed mass fixed particle numbers
+volume system variable means density variable
+probability find average
+corresponds macroscopic
+property
+depends energetic state system formula
+image
+math
+png average property
+equation applied internal energy
+subsequently
+equations combined thermodynamic relationships arrive expression pressure terms temperature
+volume partition function
+similar relationships terms partition function derived thermodynamic properties shown table
+note
+clarify
+grand canonical ensemble
+energy molecule distributed number modes
+translational energy refers portion energy motion center mass molecule
+configurational energy refers portion energy attractive repulsive forces molecules system
+modes considered internal molecule
+include rotational
+vibrational
+electronic nuclear modes
+assume mode independent
+questionable assumption
+total energy expressed sum components
+subscripts
+correspond translational
+configurational
+nuclear
+electronic
+rotational vibrational modes
+relationship equation substituted equation give
+assume modes completely uncoupled uncorrelated
+factors probability sense completely independent
+partition function defined mode
+simple expressions derived relating modes measurable molecular properties
+characteristic rotational vibrational frequencies
+expressions molecular partition functions shown table
+equations combined table determine contribution energy mode thermodynamic property
+rotational pressure
+determined manner
+total pressure found summing pressure contributions individual modes
+grand canonical ensemble
+chemical potential fixed
+system study open system
+matter exchanged
+particle number conserved
+introduce chemical potentials
+replace canonical partition function grand canonical partition function
+nij number jth species particles ith configuration
+variables add partition function
+conserved quantity
+safely interpreted chemical potentials
+condensed matter systems
+things nonrelativistic mass conserved
+condensed matter systems interest conserve particle number approximately
+metastably
+mass
+nonrelativistically
+sum number type particle times mass
+mass inversely related density
+conjugate variable pressure
+rest article
+ignore complication pretend chemical potentials matter
+rework grand canonical ensemble time
+volume left fixed figure treatment
+index particles species index microstate
+descriptions differ system fluctuate configurations
+micro canonical ensemble
+system exchanges energy world
+subject energy fluctuations
+canonical ensemble
+system free exchange energy form heat
+thermodynamic limit
+limit large systems
+fluctuations negligible
+descriptions converge description
+words
+macroscopic behavior system depend ensemble description
+considerations
+ensemble choose calculation properties macroscopic system ensemble result derived easily
+study long chain polymers source problems realms statistical mechanics
+reasons scientists interested study equations governing behavior polymer chain independent chain chemistry
+governing equation turns random walk
+diffusive walk
+space
+equation diffusion equation imaginary time
+random walk space
+particle undergoes random motion due external forces surrounding medium
+typical pollen grain beaker water
+dye
+path pollen grain
+path observed defined random walk
+toy problem
+train moving track direction
+suppose train moves distance
+step
+depending coin lands heads tails flipped
+start statistics steps toy train takes
+ith step
+quantity correlation function
+delta kronecker delta tells indices
+result
+kronecker delta
+correlation function returns
+makes sense
+step
+trivially shown average displacement train axis
+stated image
+math
+png
+sum
+shown
+method demonstrated
+calculate root square problem
+result calculation
+diffusion equation shown distance diffusing particle moves medium proportional root time system diffusing
+proportionality constant root diffusion constant
+relation
+cosmetically reveals similar physics
+simply number steps moved
+loosely connected time
+characteristic step length
+consequence diffusion random walk process
+random walks space thought snapshots path random walker time
+spatial configuration long chain polymers
+types random walk space
+avoiding random walks
+links polymer chain interact overlap space
+pure random walks
+links polymer chain interacting links free lie top
+type applicable physical systems
+solutions harder principles
+freely jointed
+interacting polymer chain
+end end vector
+vector position link chain
+result central limit theorem
+expect gaussian distribution end end vector
+make statements statistics links
+statistics individual links
+easily shown
+notice result found random walks time
+assuming
+stated
+distribution end end vectors large number identical polymer chains gaussian
+probability distribution form
+recall principle equally priori probabilities
+number microstates
+physical directly proportional probability distribution physical
+arbitrary proportionality constant
+distribution function
+maxima
+physically amounts microstates end end vector microstate
+helmholtz free energy
+shown
+form potential energy spring
+obeying hooke law
+result entropic spring result amounts stretching polymer chain work system drag
+preferred
+equilibrium state
+common elastic band
+composed long chain
+rubber
+polymers
+stretching elastic band work system band behaves conventional spring
+unlike case metal spring
+work appears immediately thermal energy
+thermodynamically similar case compressing ideal gas piston
+astonishing work stretching polymer chain related change entropy system result stretching
+typical systems store energy potential energy
+ideal gases
+systems driven entropy temperature
+case allowed work surroundings
+elastic band work environment contracting
+ideal gas work environment expanding
+free energy change cases derives entropy change internal
+potential
+energy conversion
+cases work drawn thermal energy polymer
+efficiency conversion thermal energy work
+ideal gas polymer
+made material entropy increase contraction makes loss entropy absorption thermal energy
+cooling material
+classical thermodynamics point view thermodynamic system gas molecules
+ammonia
+determines free energy characteristic compound
+classical thermodynamics provide answer
+spectroscopic data
+body gas molecules
+bond length
+bond angle
+bond rotation
+flexibility bonds free energy
+prove true
+bridge gap microscopic realm atoms molecules macroscopic realm classical thermodynamics
+physics
+statistical mechanics bridge teaching conceive thermodynamic system assembly units
+specifically
+demonstrates thermodynamic parameters system
+temperature pressure
+interpretable terms parameters descriptive constituent atoms molecules
+bounded system
+crucial characteristic microscopic units energies quantized
+energies accessible macroscopic system form virtual continuum possibilities
+energies open submicroscopic components limited discontinuous set alternatives integral values quantum number
+partition function
+identical properties
+identical particles
+microcanonical ensemble
+microcanonical ensemble
+canonical ensemble grand canonical ensemble
+maxwell boltzmann statistics
+redirect
+maxwell boltzmann distribution
+maxwell boltzmann distribution
+boltzmann
+boltzmann distribution
+boltzmann distribution
+gibbs paradox
+gibbs paradox
+bose gas
+debye model
+debye model
+redirect
+bose einstein condensate
+bose einstein condensate
+einstein
+redirect
+planck law black body radiation
+planck law black body radiation
+law black body
+fermi gas
+redirect
+fermion condensate
+fermion condensate

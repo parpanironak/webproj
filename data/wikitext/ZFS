@@ -1,0 +1,614 @@
+ZFS
+
+zfs
+zfs combined file system logical volume manager designed sun microsystems
+features zfs include protection data corruption
+support high storage capacities
+integration concepts filesystem volume management
+snapshots copy write clones
+continuous integrity checking automatic repair
+raid native acls
+zfs implemented open source software
+licensed common development distribution license
+cddl
+zfs trademark oracle september
+zfs designed implemented team sun led jeff bonwick matthew ahrens
+announced september
+development started
+source code zfs integrated main trunk solaris development october
+released part build opensolaris november
+sun announced zfs included
+update solaris june
+year opening opensolaris community
+originally stood
+zettabyte file system
+today stand
+zfs file system store quadrillion zettabytes
+zettabyte bytes
+features introduced version number zpool file system incremented designate format features
+legend
+note
+solaris version development sun release solaris codenamed nevada
+derived opensolaris codebase
+olaris nevada codename generation solaris eventually succeed solaris code pulled successively opensolaris nevada snapshot builds
+opensolaris discontinued openindiana forked
+final build
+opensolaris published oracle
+nov
+upgrade path solaris express
+major feature distinguishes zfs file systems zfs designed ground focus data integrity
+designed protect user data disk silent data corruption caused bit rot
+current spikes
+bugs disk firmware
+ghost writes
+data integrity high priority zfs recent research shows widespread file ufs
+ext
+xfs
+jfs
+hardware raid provide sufficient protection problems
+hardware raid issues data integrity
+initial research zfs protects data earlier solutions
+faster ufs dragonfly bsd hammer file system
+successor ufs
+modern hard disk devotes large portion capacity error detection data
+errors occur normal usage
+corrected disk internal software
+visible host software
+tiny fraction detected errors correctable
+modern enterprise sas disk specification estimates fraction uncorrected error bits
+modern enterprise fibre channel disk byte sectors support dif data integrity field standard combat data corruption
+reports similar error rates
+worst type errors unnoticed
+detected disk firmware host operating system
+silent corruption
+real life study
+million hdds netapp database found average sata drives silent corruption caught hardware raid verification process
+raid system works undetected error data read
+external error sources disk
+instance
+disk cable slightly loose
+power supply flaky
+external vibrations loud sound
+fibre channel switch faulty
+cosmic radiation types soft errors
+storage systems analyzed
+firmware bugs accounted storage failures
+error rates observed cern study silent corruption
+higher bits
+webshop amazon
+confirms high data corruption rates
+silent data corruption concern storage devices remained small slow
+user rarely faced silent corruption
+deemed problem required solution
+advent larger drives fast raid setups
+user capable transferring bits short time
+zfs creator jeff bonwick stated fast database greenplum database software company located san mateo
+california specializing enterprise data cloud solutions large scale data warehousing analytics faces silent corruption minutes
+reasons greenplum base fast database solution zfs
+large fast raid setups require file systems focus data integrity
+design goals zfs
+explained jeff bonwick
+zfs
+data integrity achieved
+fletcher based
+checksum
+sha
+hash file system tree
+block data checksummed checksum saved pointer actual block
+block pointer checksummed
+saved pointer
+checksumming continues file system data hierarchy root node
+checksummed
+creating merkle tree
+block accessed
+data meta data
+checksum calculated compared stored checksum
+checksums match
+data passed programming stack process asked
+values match
+zfs heal data storage pool redundancy zfs mirroring raid
+storage pool consists single disk provide redundancy
+means data stored
+thrice
+disk
+effectively halving
+reducing
+storage capacity disk
+redundancy exists
+zfs fetches copy data
+recreates raid recovery mechanism
+recalculates reproducing original time
+data pass integrity check
+system update copy good data redundancy restored
+zfs fully protect user data hardware raid controller
+perform automatic healing controls redundancy disks data
+zfs prefers direct
+exclusive access disks
+interferes
+user insists hardware level raid
+controller configured jbod mode
+turn raid functionality
+zfs guarantee data integrity
+note hardware raid configured jbod detach disks respond time
+require tler
+cctl
+erc enabled disks prevent drive dropouts
+limitations apply raid controller
+preferred method supplying disks zfs
+raid controller generally called host bus adapter
+hba
+operating system control timeout error control
+raid controller generally strict timeout control
+citation needed
+zfs fsck repair tool equivalent
+common unix filesystems
+file system validation file system repair
+zfs repair tool called
+scrub
+examines repairs silent corruption problems
+differences
+official recommendation sun
+oracle scrub month enterprise disks
+higher reliability cheap commodity disks
+cheap commodity disks
+scrub week
+system immune bugs hardware follow standards
+flush cache return
+cache flushed
+dirt cheap converter chips sends flush cache disk
+returns successful flush cache moment back
+nvram disk controller ignore cache flush
+interface converters reordering commands funny ways
+reordering happen
+uberblock written disk
+rest structure written disk
+cases zfs problems
+extra safety measure
+back time
+flag
+zpool
+command
+zfs copy write
+means data altered
+data edited updated
+data left intact
+edits stored location disk
+means change traced back time
+allowing user discard latest change caused problem revert earlier
+functional state
+zfs snapshots works
+unlike traditional file systems
+reside single devices require volume manager device
+zfs filesystems built top virtual storage pools called zpools
+zpool constructed virtual devices
+vdevs
+constructed block devices
+files
+hard drive partitions
+entire drives
+recommended usage
+block devices vdev configured ways
+depending space
+redundantly
+similar raid
+mirror
+raid
+devices
+raid
+similar raid
+group devices
+raid
+similar raid
+group devices
+july
+triple parity raid added opensolaris
+zpool
+zfs storage pool
+vaguely similar computer ram
+total ram pool capacity depends number ram memory sticks size stick
+likewise
+zpool consists vdevs
+vdev viewed group hard disks
+partitions
+files
+vdev redundancy vdev lost
+zpool lost
+vdev configured raid
+raid
+mirror
+change number drives existing vdev
+block pointer rewrite
+defragmentation
+increase storage capacity adding vdev zpool
+swap drive larger drive resilver
+repair
+zpool
+procedure repeated disk vdev
+zpool grow capacity drive resilvered
+vdev capacity smallest drive group
+instance
+vdev consisting drive
+capacity
+addition
+pools hot spares compensate failing disks
+mirroring
+block devices grouped physical chassis
+filesystem continue case failure entire chassis
+storage pool composition limited similar devices consist hoc
+heterogeneous collections devices
+zfs seamlessly pools
+subsequently doling space diverse filesystems needed
+arbitrary storage device types added existing pools expand size time
+storage capacity vdevs file system instances zpool
+quota set limit amount space file system instance occupy
+reservation set guarantee space file system instance
+zfs layers disk cache speed read write operations
+ideally
+data stored ram expensive
+data automatically cached hierarchy optimize performance cost
+frequently accessed data stored ram
+frequently accessed data stored slower media
+ssd disks
+data accessed cached left slow hard drives
+data suddenly read lot
+zfs automatically move data ssd disks ram
+level disk cache ram
+variant arc algorithm
+similar level cpu cache
+ram caching
+level present
+claims zfs servers huge amounts ram
+true
+misinterpretation desire large arc disk caches
+arc clever efficient
+means disks touched
+provided arc size sufficiently large
+worst case
+ram size small
+ram
+arc
+zfs reach disks
+means read performance degrades disk speed
+level disk cache ssd disks
+level optional
+easy add remove live usage shut zpool
+caches
+cache reads
+writes
+zfs bit file system
+citation needed address
+times data bit systems btrfs
+limitations zfs designed large encountered
+assured surpassing physical theoretical bit file system require energy needed boil oceans planet earth
+theoretical limits zfs
+zfs copy write transactional object model
+block pointers filesystem bit checksum bit hash
+choice fletcher
+fletcher
+sha
+target block verified block read
+blocks active data overwritten place
+block allocated
+modified data written
+metadata blocks referencing similarly read
+reallocated
+written
+reduce overhead process
+multiple updates grouped transaction groups
+zil
+intent log
+write cache synchronous write semantics required
+blocks arranged tree
+checksums
+merkle signature scheme
+advantage copy write zfs writes data
+blocks data retained
+allowing snapshot version file system maintained
+zfs snapshots created quickly data composing snapshot stored
+space efficient
+unchanged data shared file system snapshots
+writeable snapshots
+clones
+created
+resulting independent file systems share set blocks
+made clone file systems
+data blocks created reflect
+unchanged blocks continue shared
+matter clones exist
+implementation copy write principle
+zfs file systems moved pools
+remote hosts network
+send command creates stream representation file system state
+stream describe complete contents file system snapshot
+delta snapshots
+computing delta stream efficient
+size depends number blocks changed snapshots
+efficient strategy
+synchronizing offsite backups high availability mirrors pool
+dynamic striping devices maximize throughput means additional devices added zpool
+stripe width automatically expands include
+disks pool
+balances write load
+zfs variable sized blocks kilobytes
+code administrator tune maximum block size workloads perform large blocks
+data compression
+lzjb
+enabled
+variable block sizes
+block compressed fit smaller block size
+smaller size disk storage improve throughput
+cost increased cpu compression decompression operations
+zfs
+filesystem manipulation storage pool easier volume manipulation traditional filesystem
+time effort required create expand zfs filesystem closer making directory volume manipulation systems
+zfs arc
+method read cache management
+traditional solaris virtual memory page cache
+write caching
+zfs employs zfs intent log
+zil
+zfs makes allowances methods incorporate separate virtual devices improve total iops
+read operations
+cache
+vdev write operations
+log
+vdev
+pools zfs file systems moved platform architectures
+including systems implementing byte orders
+zfs block pointer format stores filesystem metadata endian adaptive
+individual metadata blocks written native byte order system writing block
+reading
+stored endianness match endianness system
+metadata byte swapped memory
+affect stored data
+usual posix systems
+files applications simple arrays bytes
+applications creating reading data remain responsible independent underlying system endianness
+deduplication capabilities added zfs source repository end october
+relevant opensolaris zfs development packages december
+build
+effective deduplication require large ram capacity
+recommendations range ram extra storage storage
+insufficient physical memory lack zfs cache result virtual memory thrashing
+lower performance
+result complete memory starvation
+citation needed ssds cache deduplication tables
+speeding deduplication performance factor morecitation needed
+oracle solaris
+encryption capability zfs embedded
+pipeline
+writes block compressed
+encrypted
+checksummed deduplicated order
+policy encryption set dataset level datasets
+file systems zvols
+created
+wrapping keys provided user
+administrator changed time taking file system line
+default behaviour wrapping key inherited child data sets
+data encryption keys randomly generated dataset creation time
+descendant datasets
+snapshots clones
+share data encryption keys
+command switch data encryption key clone time encrypt existing data
+utilising encrypted master key mechanism
+zfs part sun solaris operating system sparc based systems
+code zfs open source
+port operating systems platforms produced sun involvement
+oracle solaris express release
+net consolidation
+main code
+made proprietary closed source
+zfs upgrades implementations inside solaris
+encryption
+compatible proprietary implementations previous versions zfs
+creating zfs pool
+retain ability access pool proprietary solaris based distributions
+recommended upgrade solaris express opensolaris
+snv
+stay zfs version
+opensolaris
+zfs default filesystem
+dozen party distributions
+dozen mentioned
+openindiana illumos distributions included opensolaris distribution reference page
+openindiana zfs version
+implemented illumos
+upgrading opensolaris snv openindiana solaris express
+ability upgrade separately boot solaris express zfs pool
+install solaris express zfs incompatibilities introduced oracle past zfs version
+readydataos firmware
+embedded network attached storage
+nas
+distribution based nexenta
+zfs support nexenta
+runs netgear readydata hardware
+implementations zfs
+indication apple
+interest zfs april post opensolaris
+zfs discuss mailing list apple employee mentioned interested porting zfs operating system
+release version mac
+zfs read mode command line
+lacks possibility create zpools write
+release
+apple released
+zfs beta seed
+allowed read write access creation zpools
+installer
+zfs beta seed
+reported work version
+updated version
+august
+apple opened zfs project mac forge web site
+site
+apple provided source code binaries port zfs includes read write access
+installer party developer created
+october
+apple announced shutdown zfs project mac forge
+hosting involvement zfs summarily discontinued
+explanation
+statement
+zfs project discontinued
+mailing list repository removed shortly
+apple eventually release legally required
+cddl derived
+portion source code final public beta zfs
+code named
+complete zfs support advertised feature snow leopard server
+mac server
+time operating system released
+references feature silently removed features page
+apple commented omission
+apple
+source code release
+versions previously released source binaries
+preserved development adopted group enthusiasts
+maczfs project acted quickly mirror public archives apple project materials disappeared internet
+resume development
+maczfs community curated matured project
+supporting zfs mac releases
+project active mailing list
+july
+maczfs implements zpool version zfs version
+october release solaris
+additional historical information commentary found maczfs web site frequently asked questions page
+ten complement
+llc founded
+principal software engineer
+developer
+architect don brady senior software engineer apple
+twenty years company
+technical lead original hfs team
+founder apple original skunkworks zfs project
+primary engineer
+architect zfs mac august august
+january
+ten complement released zevo silver edition
+gui basic features command line features
+product plans included gold platinum editions advanced developer edition
+june
+time wwdc
+ten complement ceased selling zevo published
+making
+banner products page
+july
+ten complement announced transfer zevo greenbytes
+greenbytes announced addition don brady development team set launch date community edition zevo
+customers purchased silver edition transfer encouraged install freely update
+load mountain lion
+continue support ten complement area
+zevo community edition
+build
+released schedule
+cddl related source code build shared github announced days
+zevo silver zevo community edition zfs version zpool version
+netbsd zfs port started part google summer code august code merged netbsd source tree
+jakub dawidek ported zfs freebsd
+part freebsd version
+includes zfsboot
+booting freebsd directly zfs volume
+freebsd zfs implementation fully functional
+missing features kernel cifs server iscsi
+added externally packages
+samba provide userspace cifs server
+freebsd stable
+updates series versions
+committed
+zpool version
+freebsd version includes updated implementation zfs
+zpool version supported freebsd release
+zpool version support added stable branch january
+included freebsd release
+zpool version supported release
+stable branch gained support zpool version zfs version early june
+released mid april freebsd
+freebsd
+release zfs pool version
+midnightbsd
+desktop operating system derived freebsd
+supports zfs storage pool version
+release
+derived code included freebsd
+release
+update storage pool progress
+current based stable sources freebsd
+release code
+bsd desktop version freebsd
+inherits freebsd zfs support
+similarly freenas
+installation disk encryption geli
+graphical installer handle
+root
+zfs raid pool gnome installs start easy convenient
+gui
+current bsd
+isotope edition zfs filesystem version zfs storage pool version
+freenas
+embedded open source network attached storage
+nas
+distribution based freebsd
+zfs support freebsd bsd
+www
+embedded open source network attached storage
+nas
+distribution based freebsd
+zfs support freebsd
+zfs storage pool version
+project continuation freenas series project
+based freebsd kernel
+gnu
+kfreebsd zfs support kernel
+depends distribution gnu
+kfreebsd userland tools
+distribution system date
+debian gnu
+kfreebsd
+zfs utilities zfsutils package
+zpool version kfreebsd
+additionally
+debian installer supports installing operating system zfs architecture
+porting zfs linux complicated fact gnu general public license
+governs linux kernel
+incompatible sun cddl zfs distributed
+developerswho
+single derived work projects legally distributed
+simultaneously meet licenses requirements
+include zfs linux kernel cleanly reimplemented
+patents hamper
+solution problem port zfs linux fuse system filesystem runs userspace
+considered derived work kernel
+project sponsored google summer code program
+original zfs fuse project
+development zfs fuse
+linux takes place zfs fuse
+net
+native port zfs linux development
+zfs linux port produced lawrence livermore national laboratory
+llnl
+contract
+contract
+department energy
+doe
+lawrence livermore national security
+llc
+llns
+operation llnl
+approved release llnl code
+june
+port release candidate status version
+major distributions
+gentoo ubuntu arguably support zfs linux
+packages installed package manager
+configuring zfs root filesystem documented
+native port worked infotech
+port llnl zvol implementation starting point
+release supporting zpool released january
+mid
+infotech acquired company
+work zfs ceased
+code found github
+work infotech pulled back main llnl zfs linux project
+list operating systems
+distros add ons support zfs
+zpool version supports
+solaris build based

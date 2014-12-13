@@ -1,0 +1,266 @@
+Set theory
+
+set theory
+set theory branch mathematics studies sets
+collections objects
+type object collected set
+set theory applied objects relevant mathematics
+language set theory definitions mathematical objects
+modern study set theory initiated georg cantor richard dedekind
+discovery paradoxes naive set theory
+numerous axiom systems proposed early twentieth century
+axioms
+axiom choice
+set theory commonly employed foundational system mathematics
+form set theory axiom choice
+foundational role
+set theory branch mathematics
+active research community
+contemporary research set theory includes diverse collection topics
+ranging structure real number line study consistency large cardinals
+mathematical topics typically emerge evolve interactions researchers
+set theory
+founded single paper georg cantor
+characteristic property real algebraic numbers
+century
+beginning greek mathematician zeno elea west early indian mathematicians east
+mathematicians struggled concept
+notable work bernard bolzano half century
+modern understanding began
+cantor work number theory
+meeting cantor richard dedekind influenced cantor thinking culminated cantor paper
+cantor work initially polarized mathematicians day
+karl weierstrass dedekind supported cantor
+leopold kronecker
+founder mathematical constructivism
+cantorian set theory eventually widespread
+due utility cantorian concepts
+correspondence sets
+proof real numbers integers
+infinities
+cantor paradise
+resulting power set operation
+utility set theory led article
+mengenlehre
+contributed arthur schoenflies klein encyclopedia
+wave excitement set theory
+discovered cantorian set theory gave rise contradictions
+called antinomies paradoxes
+bertrand russell ernst zermelo independently found simplest paradox
+called russell paradox
+set sets members
+leads contradiction member
+member
+cantor posed question
+cardinal number set sets
+obtained related paradox
+russell paradox theme review continental mathematics principles mathematics
+momentum set theory debate paradoxes lead abandonment
+work zermelo abraham fraenkel resulted set axioms zfc
+commonly set axioms set theory
+work analysts henri lebesgue demonstrated great mathematical utility set theory
+woven fabric modern mathematics
+set theory commonly foundational system
+areas category theory thought preferred foundation
+set theory begins fundamental binary relation object set
+member
+element
+write
+sets objects
+membership relation relate sets
+derived binary relation sets subset relation
+called set inclusion
+members set members set
+subset
+denoted
+subset
+definition
+clear set subset
+cases wishes rule
+term proper subset defined
+called proper subset subset
+subset
+arithmetic features binary operations numbers
+set theory features binary operations sets
+basic sets central importance empty set
+unique set elements
+set natural numbers
+set real numbers
+set pure members sets
+members members sets
+set empty set nonempty pure set
+modern set theory
+common restrict attention von neumann universe pure sets
+systems axiomatic set theory designed axiomatize pure sets
+technical advantages restriction
+generality lost
+essentially mathematical concepts modeled pure sets
+sets von neumann universe organized cumulative hierarchy
+based deeply members
+members members
+nested
+set hierarchy assigned
+transfinite recursion
+ordinal number
+rank
+rank pure set defined upper bound successors ranks members
+empty set assigned rank
+set empty set assigned rank
+ordinal
+set defined consist pure sets rank
+entire von neumann universe denoted
+elementary set theory studied informally intuitively
+taught primary schools venn diagrams
+intuitive approach tacitly assumes set formed class objects satisfying defining condition
+assumption rise paradoxes
+simplest russell paradox burali forti paradox
+axiomatic set theory originally devised rid set theory paradoxes
+widely studied systems axiomatic set theory imply sets form cumulative hierarchy
+systems flavors
+ontology consists
+systems modified urelements
+objects members sets sets members
+systems foundations nfu
+allowing urelements
+lacking
+based cumulative hierarchy
+nfu include
+set
+relative set complement
+systems urelements matter
+nfu
+produces sets axiom choice hold
+systems constructive set theory
+cst
+czf
+izf
+embed set axioms intuitionistic logic order logic
+systems accept standard order logic feature nonstandard membership relation
+include rough set theory fuzzy set theory
+atomic formula embodying membership relation simply true false
+boolean valued models zfc related subject
+enrichment zfc called internal set theory proposed edward nelson
+mathematical concepts defined precisely set theoretic concepts
+mathematical structures diverse graphs
+manifolds
+rings
+vector spaces defined sets satisfying
+axiomatic
+properties
+equivalence order relations ubiquitous mathematics
+theory mathematical relations set theory
+set theory promising foundational system mathematics
+publication volume principia mathematica
+claimed mathematical theorems derived aptly designed set axioms set theory
+augmented definitions
+order logic
+properties natural real numbers derived set theory
+number system identified set equivalence classes suitable equivalence relation field infinite set
+set theory foundation mathematical analysis
+topology
+abstract algebra
+discrete mathematics likewise uncontroversial
+mathematicians accept
+principle
+theorems areas derived relevant definitions axioms set theory
+full derivations complex mathematical theorems set theory formally verified
+formal derivations longer natural language proofs mathematicians commonly present
+verification project
+metamath
+includes derivations theorems starting zfc axioms order logic
+set theory major area research mathematics
+interrelated subfields
+combinatorial set theory concerns extensions finite combinatorics infinite sets
+includes study cardinal arithmetic study extensions ramsey theorem theorem
+descriptive set theory study subsets real line
+generally
+subsets polish spaces
+begins study pointclasses borel hierarchy extends study complex hierarchies projective hierarchy wadge hierarchy
+properties borel sets established zfc
+proving properties hold complicated sets requires additional axioms related determinacy large cardinals
+field effective descriptive set theory set theory recursion theory
+includes study lightface pointclasses
+closely related hyperarithmetical theory
+cases
+results classical descriptive set theory effective versions
+cases
+results obtained proving effective version extending
+relativizing
+make broadly applicable
+recent area research concerns borel equivalence relations complicated definable equivalence relations
+important applications study invariants fields mathematics
+set theory cantor defined zermelo fraenkel axiomatized
+object member set
+fuzzy set theory condition relaxed lotfi
+zadeh object degree membership set
+number
+degree membership person set
+tall people
+flexible simple answer real number
+model set theory
+transitive class includes ordinals satisfies axioms
+canonical constructible universe developed
+reason study models interest prove consistency results
+shown model satisfies continuum hypothesis axiom choice
+model constructed inside original model satisfy generalized continuum hypothesis axiom choice
+assumption consistent
+model
+implies principles consistent
+study models common study determinacy large cardinals
+axioms axiom determinacy contradict axiom choice
+fixed model set theory satisfies axiom choice
+model fail satisfy axiom choice
+existence sufficiently large cardinals implies model satisfying axiom determinacy
+satisfying axiom choice
+large cardinal cardinal number extra property
+properties studied
+including inaccessible cardinals
+measurable cardinals
+properties typically imply cardinal number large
+existence cardinal property unprovable zermelo fraenkel set theory
+determinacy refers fact
+assumptions
+player games perfect information determined start sense player winning strategy
+existence strategies important consequences descriptive set theory
+assumption broader class games determined implies broader class sets topological property
+axiom determinacy
+important object study
+incompatible axiom choice
+implies subsets real line behaved
+measurable perfect set property
+prove wadge degrees elegant structure
+paul cohen invented method forcing searching model zfc axiom choice continuum hypothesis fails
+forcing adjoins model set theory additional sets order create larger model properties determined
+forced
+construction original model
+cohen construction adjoins additional subsets natural numbers changing cardinal numbers original model
+forcing methods proving relative consistency finitistic methods
+method boolean valued models
+cardinal invariant property real line measured cardinal number
+studied invariant smallest cardinality collection meagre sets reals union entire real line
+invariants sense isomorphic models set theory give cardinal invariant
+cardinal invariants studied
+relationships complex related axioms set theory
+set theoretic topology studies questions general topology set theoretic nature require advanced methods set theory solution
+theorems independent zfc
+requiring stronger axioms proof
+famous problem normal moore space question
+question general topology subject intense research
+answer normal moore space question eventually proved independent zfc
+set theory inception
+mathematicians objected foundation mathematics
+common objection set theory
+kronecker voiced set theory earliest years
+starts constructivist view mathematics loosely related computation
+view granted
+treatment infinite sets
+naive axiomatic set theory
+introduces mathematics methods objects computable principle
+ludwig wittgenstein questioned set theory handled infinities
+citation needed wittgenstein views foundations mathematics criticised georg kreisel paul bernays
+investigated crispin wright
+category theorists proposed topos theory alternative traditional axiomatic set theory
+topos theory interpret alternatives theory
+constructivism
+finite set theory
+computable set theory

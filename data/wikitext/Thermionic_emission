@@ -1,0 +1,226 @@
+Thermionic emission
+
+thermionic emission
+thermionic emission heat induced flow charge carriers surface potential energy barrier
+occurs thermal energy carrier overcomes binding potential
+work function metal
+charge carriers electrons ions
+older literature referred
+thermions
+emission
+charge initially left emitting region equal magnitude opposite sign total charge emitted
+emitter connected battery
+charge left neutralized charge supplied battery
+emitted charge carriers move emitter
+finally emitter state emission
+thermionic emission electrons thermal electron emission
+classical thermionic emission emission electrons hot cathode
+vacuum
+edison effect
+vacuum tube
+hot cathode metal filament
+coated metal filament
+separate structure metal carbides borides transition metals
+vacuum emission metals significant temperatures
+science dealing phenomenon thermionics
+gradually falling disuse
+term
+thermionic emission
+refer thermally excited charge emission process
+charge emitted solid state region
+process crucially important operation variety electronic devices electricity generation
+thermionic converter
+electrodynamic tether
+cooling
+magnitude charge flow increases dramatically increasing temperature
+electron identified separate physical particle work
+thomson
+word
+electron
+discussing experiments place date
+phenomenon initially reported frederick guthrie britain
+work charged objects
+guthrie discovered red hot iron sphere positive charge lose charge
+discharging air
+found happen sphere negative charge
+early contributors included johann wilhelm hittorf
+eugen goldstein
+julius elster hans friedrich geitel
+effect rediscovered thomas edison february
+discover reason breakage lamp filaments uneven blackening
+darkest terminal filament
+bulbs incandescent lamps
+edison built experiment bulbs
+extra wire
+metal plate
+foil inside bulb electrically separate filament
+serve electrode
+connected galvanometer
+device measure current
+output extra metal electrode
+foil charged negatively relative filament
+charge flowed filament foil
+filament emitting electrons
+attracted negatively charged foil
+addition
+charge flow foil filament foil heated emit charge
+called thermionic emission
+foil positive charge filament
+negative charge
+form electrons
+flow filament vacuum foil
+current called edison effect
+term occasionally refer thermionic emission
+found current emitted hot filament increased rapidly increasing voltage
+filed patent application voltage regulating device effect november
+patent
+patent electronic device
+found sufficient current pass device operate telegraph sounder
+exhibited international electrical exposition philadelphia september
+william preece
+british scientist back edison effect bulbs
+presented paper
+referred thermionic emission
+edison effect
+british physicist john ambrose fleming
+working british
+wireless telegraphy
+company
+discovered edison effect detect radio waves
+fleming develop element vacuum tube diode
+patented november
+thermionic diode configured device converts heat difference electric power directly moving parts
+thermionic converter
+type heat engine
+thomson identification electron
+british physicist owen willans richardson began work topic called
+thermionic emission
+received nobel prize physics
+work thermionic phenomenon discovery law named
+solid metal
+electrons atom free move atom atom
+collectively referred
+sea electrons
+velocities follow statistical distribution
+uniform
+occasionally electron velocity exit metal pulled back
+minimum amount energy needed electron leave surface called work function
+work function characteristic material metals order electronvolts
+thermionic currents increased decreasing work function
+desired goal achieved applying oxide coatings wire
+richardson published results experiments
+current heated wire depend exponentially temperature wire mathematical form similar arrhenius equation
+proposed emission law mathematical form
+emission current density
+temperature metal
+work function metal
+boltzmann constant
+parameter discussed
+taking logarithm sides
+equation showing relationship current densities temperatures
+period
+physical understanding behaviour electrons metals increased
+theoretical expressions
+based physical assumptions
+put forwards
+richardson
+saul dushman
+ralph
+fowler
+arnold sommerfeld lothar wolfgang nordheim
+years
+consensus interested theoreticians precise form expression
+agreement written form
+material specific correction factor typically order
+universal constant
+mass charge electron
+planck constant
+fact
+agreement
+due wave nature electrons
+proportion rav outgoing electrons reflected reached emitter surface
+emission current density reduced
+rav
+sees thermionic emission equation written form
+modern theoretical treatment modinos assumes band structure emitting material account
+introduce correction factor
+giving image
+math
+png
+experimental values
+generalized
+coefficient generally order magnitude
+differ significantly emitting materials
+differ crystallographic faces material
+qualitatively
+experimental differences explained due differences
+considerable confusion exists literature area
+sources distinguish
+symbol
+richardson constant
+indiscriminately
+equations correction factor denoted
+variety names exist equations
+including
+richardson equation
+dushman equation
+equation
+equation
+literature
+elementary equation circumstances generalized equation
+confusion
+avoid misunderstandings
+meaning
+symbol explicitly defined terms fundamental quantities involved
+exponential function
+current increases rapidly temperature
+essentially material
+melting occurs
+electron emission devices
+electron guns
+thermionic electron emitter biased negative relative surroundings
+creates electric field magnitude emitter surface
+field
+surface barrier escaping fermi level electron height equal local work function
+electric field lowers surface barrier amount
+increases emission current
+schottky effect
+named walter
+schottky
+field enhanced thermionic emission
+modeled simple modification richardson equation
+replacing
+equation
+electric constant
+called vacuum permittivity
+electron emission takes place field temperature regime modified equation applies called schottky emission
+equation accurate electric field strengths lower
+electric field strengths higher
+called fowler nordheim
+tunneling begins contribute significant emission current
+regime
+combined effects field enhanced thermionic field emission modeled murphy good equation thermo field
+emission
+higher fields
+tunneling dominant electron emission mechanism
+emitter operates called
+cold field electron emission
+cfe
+regime
+thermionic emission enhanced interaction forms excitation light
+excited vapours thermionic converters form clusters rydberg matter yield decrease collector emitting work function
+due long lived nature rydberg matter low work function remains low essentially increases low temperature efficiency
+photon enhanced thermionic emission
+pete
+process developed engineers stanford university
+harnesses light heat sun generate electricity increases efficiency solar power production current levels
+device developed process reaches peak efficiency reaches
+silicon solar cells inert reaching
+device work parabolic trough collectors
+reach temperatures
+team gallium nitride semiconductor
+proof concept
+device
+claims gallium arsenide increase device efficiency percent
+triple existing systems
+percent existing percent multi junction solar cells

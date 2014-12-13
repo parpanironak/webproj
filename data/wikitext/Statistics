@@ -1,0 +1,374 @@
+Statistics
+
+statistics
+statistics study collection
+organization
+analysis
+interpretation
+presentation data
+deals aspects
+including planning data collection terms design surveys experiments
+statistician versed ways thinking successful apply statistical analysis
+people gain experience working wide number fields
+discipline called mathematical statistics studies statistics mathematically
+word statistics
+referring scientific discipline
+singular
+statistics art
+confused word statistic
+referring quantity
+median
+calculated set data
+plural statistics
+statistic wrong
+statistics misleading
+statistics mathematical body science pertains collection
+analysis
+interpretation explanation
+presentation data
+branch mathematics concerned collecting interpreting data
+empirical roots focus applications
+statistics considered distinct mathematical science branch mathematics
+statistics mathematical
+ensuring data collection undertaken produces valid conclusions
+coding archiving data information retained made international comparisons official statistics
+reporting results summarised data
+tables graphs
+ways comprehensible
+implementing procedures ensure privacy census information
+statisticians improve data quality developing specific experiment designs survey samples
+statistics tools prediction forecasting data statistical models
+statistics applicable wide variety academic disciplines
+including natural social sciences
+government
+business
+statistical consultants organizations companies house expertise relevant questions
+statistical methods summarize describe collection data
+called descriptive statistics
+research
+communicating results experiments
+addition
+patterns data modeled accounts randomness uncertainty observations
+draw inferences process population study
+called inferential statistics
+inference vital element scientific advance
+draw conclusions data subject random variation
+prove propositions investigated
+conclusions tested
+part scientific method
+descriptive statistics analysis data tend provide information truth proposition
+applied statistics
+comprises descriptive statistics application inferential statistics
+verification needed theoretical statistics concerns logical arguments underlying justification approaches statistical inference
+encompassing mathematical statistics
+mathematical statistics includes manipulation probability distributions deriving results related methods estimation inference
+aspects computational statistics design experiments
+statistics closely related probability theory
+grouped
+difference
+roughly
+probability theory starts parameters total population deduce probabilities pertain samples
+statistical inference
+moves opposite inferring samples parameters larger total population
+statistical methods dates back century
+earliest writing statistics appears century book entitled manuscript deciphering cryptographic messages
+written kindi
+book
+kindi detailed description statistics frequency analysis decipher encrypted messages
+birth statistics cryptanalysis
+saudi engineer ibrahim kadi
+nuova cronica
+century history florence florentine banker official giovanni villani
+includes statistical information population
+ordinances
+commerce
+education
+religious facilities
+introduction statistics positive element history
+scholars pinpoint origin statistics
+publication natural political observations bills mortality john graunt
+early applications statistical thinking revolved states base policy demographic economic data
+stat etymology
+scope discipline statistics broadened early century include collection analysis data general
+today
+statistics widely employed government
+business
+natural social sciences
+mathematical foundations laid century development probability theory blaise pascal pierre fermat
+probability theory arose study games chance
+method squares carl friedrich gauss
+modern computers expedited large scale statistical computation
+made methods impractical perform manually
+applying statistics scientific
+industrial
+societal problem
+begin population process studied
+populations diverse topics
+persons living country
+atom composing crystal
+population composed observations process times
+data observation serving member group
+data collected kind
+population
+constitutes called time series
+practical reasons
+chosen subset population called sample opposed compiling data entire group
+operation called census
+sample representative population determined
+data collected sample members observational experimental setting
+data subjected statistical analysis
+serving related purposes
+description inference
+manipulation uncertainty interests
+concerned matter uncertain
+study mechanism rain
+rain
+concept correlation noteworthy potential confusion
+statistical analysis data set reveals variables
+properties
+population consideration tend vary
+connected
+study annual income age death find poor people tend shorter lives affluent people
+variables correlated
+correlation phenomena caused
+previously unconsidered phenomenon
+called lurking variable confounding variable
+reason
+immediately infer existence causal relationship variables
+correlation imply causation
+sample guide entire population
+important representat population
+representative sampling assures inferences conclusions safely extend sample population
+major problem lies determining extent sample chosen representative
+statistics offers methods estimate correct random trending sample data collection procedures
+methods experimental design experiments lessen issues outset study
+strengthening capability discern truths population
+randomness studied mathematical discipline probability theory
+probability
+mathematical statistics
+alternatively
+statistical theory
+study sampling distributions sample statistics
+generally
+properties statistical procedures
+statistical method valid system population consideration satisfies assumptions method
+misuse statistics produce subtle
+errors description sense experienced professionals make errors
+sense lead devastating decision errors
+instance
+social policy
+medical practice
+reliability structures bridges rely proper statistics
+discussion
+statistical techniques correctly applied
+results difficult interpret lacking expertise
+statistical significance trend measures extent trend caused random variation agree intuitive sense significance
+set basic statistical skills
+skepticism
+people deal information everyday lives properly referred statistical literacy
+common goal statistical research project investigate causality
+draw conclusion effect values predictors independent variables dependent variables response
+major types causal statistical studies
+experimental studies observational studies
+types studies
+effect differences independent variable
+variables
+behavior dependent variable observed
+difference types lies study conducted
+effective
+experimental study involves taking measurements system study
+manipulating system
+taking additional measurements procedure determine manipulation modified values measurements
+contrast
+observational study involve experimental manipulation
+data gathered correlations predictors response investigated
+basic steps statistical experiment
+experiments human behavior special concerns
+famous hawthorne study examined working environment hawthorne plant western electric company
+researchers interested determining increased illumination increase productivity assembly line workers
+researchers measured productivity plant
+modified illumination area plant checked illumination affected productivity
+turned productivity improved
+experimental conditions
+study heavily criticized today errors experimental procedures
+specifically lack control group blindness
+hawthorne effect refers finding outcome
+case
+worker productivity
+changed due observation
+hawthorne study productive lighting changed observed
+citation needed
+observational study explores correlation smoking lung cancer
+type study typically survey collect observations area interest performs statistical analysis
+case
+researchers collect observations smokers smokers
+case control study
+number cases lung cancer group
+main levels measurement statistics
+nominal
+ordinal
+interval
+ratio
+degrees usefulness statistical research
+ratio measurements meaningful distances measurements defined
+provide greatest flexibility statistical methods analyzing data
+citation needed interval measurements meaningful distances measurements defined
+arbitrary
+case longitude temperature measurements celsius fahrenheit
+ordinal measurements imprecise differences consecutive values
+meaningful order values
+nominal measurements meaningful rank order values
+variables conforming nominal ordinal measurements measured numerically
+grouped categorical variables
+ratio interval measurements grouped quantitative variables
+discrete continuous
+due numerical nature
+interpretation statistical information involve development null hypothesis assumption proposed effect variable measured
+illustration novice predicament encountered jury trial
+null hypothesis
+asserts defendant innocent
+alternative hypothesis
+asserts defendant guilty
+indictment suspicion guilt
+status quo
+stands opposition maintained supported evidence
+reasonable doubt
+failure reject
+case imply innocence
+evidence insufficient convict
+jury necessarily accept fails reject
+prove
+null hypothesis test close true power test
+tests type errors
+working null hypothesis basic forms error recognized
+error refers extent individual observations sample differ central
+sample population
+statistical methods seek minimize squared error
+called
+methods squares
+measurement processes generate statistical data subject error
+errors classified random
+noise
+systematic
+bias
+important types errors
+blunder
+analyst reports incorrect units
+important
+studies sample part population
+results fully represent population
+estimates obtained sample approximate population
+confidence intervals statisticians express closely sample estimate matches true population
+expressed confidence intervals
+formally
+confidence interval range
+sampling analysis repeated conditions
+yielding dataset
+interval include true
+population
+time
+imply probability true confidence interval
+frequentist perspective
+claim make sense
+true random variable
+true interval
+true
+data sampled plan construct confidence interval
+probability calculated interval cover true
+point
+limits interval observed random variables
+approach yield interval interpreted probability true credible interval bayesian statistics
+approach depends interpreting meant
+probability
+bayesian probability
+statistics rarely give simple
+type answer question asked
+interpretation level statistical significance applied numbers refers probability accurately rejecting null hypothesis
+referred
+referring statistical significance necessarily result significant real world terms
+large study drug shown drug statistically significant small beneficial effect
+drug patient noticeably
+criticisms arise hypothesis testing approach forces hypothesis
+null hypothesis
+favored
+exaggerate importance minor differences large studies
+difference highly statistically significant practical significance
+properly formulate tests account
+criticism hypothesis testing
+response involves reporting significance level include reporting hypothesis rejected accepted
+size effect
+increasingly common approach report confidence intervals
+produced calculations hypothesis tests values
+describe size effect uncertainty surrounding
+statistical tests procedures
+statistical techniques wide range types scientific social research
+including
+biostatistics
+computational biology
+computational sociology
+network biology
+social science
+sociology social research
+fields inquiry applied statistics extensively specialized terminology
+disciplines include
+addition
+types statistical analysis developed specialised terminology methodology
+statistics form key basis tool business manufacturing
+understand measurement systems variability
+control processes
+statistical process control spc
+summarizing data
+make data driven decisions
+roles
+key tool
+reliable tool
+rapid sustained increases computing power starting half century substantial impact practice statistical science
+early statistical models class linear models
+powerful computers
+coupled suitable numerical algorithms
+caused increased interest nonlinear models
+neural networks
+creation types
+generalized linear models multilevel models
+increased computing power led growing popularity computationally intensive methods based resampling
+permutation tests bootstrap
+techniques gibbs sampling made bayesian models feasible
+computer revolution implications future statistics emphasis
+experimental
+empirical
+statistics
+large number general special purpose statistical software
+general perception statistical knowledge frequently intentionally misused finding ways interpret data favorable presenter
+mistrust misunderstanding statistics quotation
+kinds lies
+lies
+damned lies
+statistics
+misuse statistics inadvertent intentional
+book lie statistics outlines range considerations
+attempt shed light misuse statistics
+reviews statistical techniques fields conducted
+warne
+lazo
+ramos
+ritter
+ways avoid misuse statistics include proper diagrams avoiding bias
+misuse occurs conclusions held representative universe deliberately unconsciously overlook sampling bias
+bar graphs arguably easiest diagrams understand
+made simple computer programs hand drawn
+people bias errors
+true represented
+make data gathered statistics believable accurate
+sample representative
+huff book states
+dependability sample destroyed degree skepticism
+traditionally
+statistics concerned drawing inferences semi standardized methodology
+required learning
+sciences
+changed statistics inferential contexts
+considered dry subject
+fields degree requirement
+viewed enthusiastically
+initially derided mathematical purists
+considered essential methodology areas

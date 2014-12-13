@@ -1,0 +1,371 @@
+Ordinary differential equation
+
+ordinary differential equation
+applied maths
+social sciences
+mathematics
+ordinary differential equation
+abbreviated ode
+equation function independent variable derivatives
+general forms ode
+classified practice
+derivatives ordinary partial derivatives apply functions independent variables
+partial differential equation
+subject odes sophisticated
+pdes
+primarily due forms ode integrated
+linear differential equations solutions added multiplied coefficients
+theory linear differential equations defined understood
+exact closed form solutions obtained
+contrast
+odes additive solutions linear
+finding solutions sophisticated rarely represent elementary functions closed form exact
+analytic
+solutions series integral form
+frequently graphical numerical methods generate solutions
+hand computer
+approximately
+accurately depending specific method
+properties solutions solving yield information
+needed
+ordinary differential equations arise contexts mathematics science
+social natural
+describing mathematically
+accurate differentials derivatives
+related
+differentials
+derivatives
+functions inevitably related equations
+differential equation result
+governing dynamical phenomena
+evolution variation
+quantities defined rate change quantities
+time derivatives
+gradients quantities
+enter differential equations
+specific mathematical fields include geometry analytical mechanics
+scientific fields include physics astronomy
+celestial mechanics
+geology
+weather modelling
+chemistry
+reaction rates
+biology
+infectious diseases
+genetic variation
+ecology population modelling
+population competition
+economics
+stock trends
+interest rates market equilibrium price
+mathematicians studied differential equations contributed field
+including newton
+leibniz
+bernoulli family
+riccati
+clairaut
+dalembert euler
+simple newton law motion relationship displacement time object force leads differential equation
+motion particle constant mass
+general
+depends position
+particle time
+unknown function
+appears sides differential equation
+notation
+dependent variable independent variable
+unknown function
+notation differentiation varies depending author notation task hand
+context leibniz notation
+dny
+dxn
+differentials integration
+newton lagrange notation
+representing derivatives order compactly
+function
+derivatives
+equation form
+called explicit ordinary differential equation order
+generally
+implicit ordinary differential equation order takes form
+classifications
+differential equation depending called autonomous
+differential equation linear written linear combination derivatives
+continuous functions
+linear equations written form
+function
+called source term
+leading important classifications
+homogeneous
+automatic
+solution trivial solution
+solution linear homogeneous equation complementary function
+denoted
+nonhomogeneous
+inhomogeneous
+additional solution complementary function integral
+denoted
+general solution linear equation written
+number coupled differential equations form system equations
+vector elements functions
+vector valued function derivatives
+explicit system ordinary differential equations order dimension
+column vector form
+necessarily linear
+implicit analogue
+vector
+matrix form
+differential equation
+function
+called solution integral curve
+times differentiable
+solutions
+called extension
+solution extension called maximal solution
+solution defined called global solution
+general solution order equation solution arbitrary independent constants integration
+solution derived general solution setting constants values
+chosen fulfill set initial conditions boundary conditions
+singular solution solution obtained assigning definite values arbitrary constants general solution
+theory singular solutions ordinary partial differential equations subject research time leibniz
+middle nineteenth century receive special attention
+valuable work subject houtain
+darboux
+starting
+leader theory
+geometric interpretation solutions opened field worked writers
+notably casorati cayley
+due
+theory singular solutions differential equations order accepted circa
+primitive attempt dealing differential equations view reduction quadratures
+hope eighteenth century algebraists find method solving general equation nth degree
+hope analysts find general method integrating differential equation
+gauss
+showed
+differential equation meets limitations complex numbers introduced
+analysts began substitute study functions
+opening fertile field
+cauchy importance view
+real question
+solution means functions integrals
+differential equation suffices definition function independent variable variables
+characteristic properties function
+memoirs fuchs
+crelle
+inspired approach
+subsequently elaborated frobenius
+collet prominent contributor beginning
+method integrating linear system communicated bertrand
+clebsch
+attacked theory lines parallel theory abelian integrals
+classified properties fundamental curve remains unchanged rational transformation
+clebsch proposed classify transcendent functions defined differential equations invariant properties surfaces rational transformations
+sophus lie work put theory differential equations satisfactory foundation
+showed integration theories older mathematicians
+introduction called lie groups
+referred common source
+ordinary differential equations admit infinitesimal transformations present comparable difficulties integration
+emphasized subject transformations contact
+lie group theory differential equations
+certified
+unifies hoc methods solving differential equations
+powerful ways find solutions
+theory applications ordinary partial differential equations
+general approach solve symmetry property differential equations
+continuous infinitesimal transformations solutions solutions
+lie theory
+continuous group theory
+lie algebras differential geometry understand structure linear nonlinear
+partial
+differential equations generating integrable equations
+find lax pairs
+recursion operators
+transform finally finding exact analytic solutions
+symmetry methods recognized study differential equations arising mathematics
+physics
+engineering
+disciplines
+theory theory eigenvalues eigenfunctions linear operators defined terms order homogeneous linear equations
+analysis partial differential equations
+theorems establish existence uniqueness solutions initial problems involving odes locally globally
+main theorems
+local results
+theorem stated simply
+equation initial problem
+continuous closed rectangle
+plane
+real
+symbolically
+denotes cartesian product
+square brackets denote closed intervals
+interval
+solution equation initial problem found
+solution unique
+restriction linear
+applies linear equations form
+applied systems equations
+hypotheses theorem satisfied
+local existence uniqueness extended global result
+precisely
+initial condition
+exists unique maximum
+possibly infinite
+open interval
+solution satisfies initial condition restriction solution satisfies initial condition domain imax
+case image
+math
+png
+possibilities
+open set defined
+image
+math
+png boundary
+note maximum domain solution
+means
+lipschitz continuous
+satisfying theorem
+simple setting
+maximum domain solution
+solution
+maximum domain
+shows maximum interval depend initial conditions
+domain image
+math
+png
+lead domain interval
+side opposite initial condition disconnected initial condition
+uniquely determined
+maximum domain
+cases theorem
+differential equations solved easily order equation reduced
+differential equation order
+written system order differential equations defining family unknown functions
+dimensional system order coupled differential equations
+compactly vector notation
+differential equations solutions written exact closed form
+important classes
+table
+integrable functions
+real constants
+arbitrary constants
+complex general
+differential equations equivalent alternative forms lead solution integration
+integral solutions
+dummy variables integration
+continuum analogues indices summation
+notation
+means integrate
+respect
+integration substitute
+adding constants
+explicitly stated
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+solution
+image
+math
+png
+image
+math
+png
+image
+math
+png
+functions integrals constant values
+set make final function
+satisfy initial equation
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+integral
+general method variation parameters
+simple
+inspection work
+image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+integral
+general method variation parameters
+simple
+inspection work
+solutions polynomial degree
+image
+math
+png
+image
+math
+png
+root repeated times
+image
+math
+png
+complex
+setting
+euler formula
+terms previous results written form
+arbitrary constant
+phase shift

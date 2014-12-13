@@ -1,0 +1,111 @@
+Web server
+
+web server
+web server refer hardware
+computer
+software
+computer application
+helps deliver web content accessed internet
+common web servers host websites
+gamingcitation needed
+data storagecitation needed running enterprise applicationscitation needed
+primary function web server deliver web pages request clients hypertext transfer protocol
+means delivery html documents additional content included document
+images
+style sheets scripts
+user agent
+commonly web browser web crawler
+initiates communication making request specific resource server responds content resource error message unable
+resource typically real file server secondary storage
+necessarily case depends web server implemented
+primary function serve content
+full implementation includes ways receiving content clients
+feature submitting web forms
+including uploading files
+generic web servers support server side scripting active server pages
+asp
+php
+scripting languages
+means behaviour web server scripted separate files
+actual server software remains unchanged
+function create html documents dynamically
+fly
+opposed returning static documents
+primarily retrieving
+modifying information databases
+typically faster easily cached
+web servers serving world wide web
+found embedded devices printers
+routers
+webcams serving local network
+web server part system monitoring
+administering device question
+means additional software installed client computer
+web browser required
+included operating systems
+tim berners lee proposed project employer cern
+goal easing exchange information scientists hypertext system
+project resulted berners lee writing programs
+simplicity effectiveness early technologies surf exchange data world wide web helped port operating systems spread scientific organizations universities
+industry
+tim berners lee decided constitute world wide web consortium
+regulate development technologies involved
+html
+standardization process
+web servers map path component uniform resource locator
+url
+static request url path client relative web server root directory
+url requested client
+client user agent translate connection www
+request
+web server www
+append path path root directory
+apache server
+commonly
+home
+www
+unix machines
+var
+www
+result local file system resource
+web server reads file
+exists sends response client web browser
+response describe content file file error message return file exist unavailable
+web server implemented kernel
+user space
+regular applications
+kernel web server
+tux gnu
+linux microsoft iis windows
+work faster
+part system
+directly hardware resources
+paged memory
+cpu time slices
+network adapters
+buffers
+web servers run user mode system permission memory cpu resources
+requests kernel time
+satisfied system reserves resources usage responsibility share hardware resources running applications
+applications access system internal buffers
+useless buffer copies create handicap user mode web servers
+consequence
+user mode web server match kernel mode performance raise quality code higher standards
+similar code web servers run kernel
+significant issue windows
+user mode overhead times greater linux
+web server
+program
+defined load limits
+handle limited number concurrent client connections
+default
+address
+tcp port
+serve maximum number requests depending
+web server limits
+unresponsive
+time web servers overloaded
+symptoms overloaded web server
+partially overcome load limits prevent overload
+popular web sites common techniques
+recent statistics market share top web servers internet netcraft survey july

@@ -1,0 +1,270 @@
+Measure (mathematics)
+
+measure
+mathematical analysis
+measure set systematic assign number suitable subset set
+intuitively interpreted size
+sense
+measure generalization concepts length
+area
+volume
+important lebesgue measure euclidean space
+assigns conventional length
+area
+volume euclidean geometry suitable subsets image
+math
+png dimensional euclidean space image
+math
+png
+instance
+lebesgue measure interval image
+math
+png real numbers length everyday sense
+technically
+measure function assigns negative real number
+subsets set image
+math
+png
+definition
+assign empty set
+countably
+additive
+measure large subset decomposed finite
+countable
+number maller disjoint subsets
+sum measures
+smaller
+subsets
+general
+associate consistent size subset set satisfying axioms measure
+finds trivial examples counting measure
+problem resolved defining measure collection subsets
+called measurable subsets
+required form image
+math
+png algebra
+means countable unions
+countable intersections complements measurable subsets measurable
+measurable sets euclidean space
+lebesgue measure defined consistently
+necessarily complicated sense badly mixed complement
+existence trivial consequence axiom choice
+measure theory developed successive stages late early centuries borel
+henri lebesgue
+johann radon maurice
+main applications measures foundations lebesgue integral
+andrey kolmogorov axiomatisation probability theory ergodic theory
+integration theory
+measure define integrals spaces general subsets euclidean space
+integral respect lebesgue measure euclidean spaces general richer theory predecessor
+riemann integral
+probability theory considers measures assign set size
+considers measurable subsets events probability measure
+ergodic theory considers measures invariant
+arise naturally
+dynamical system
+image
+math
+png set image
+math
+png image
+math
+png algebra image
+math
+png
+function image
+math
+png image
+math
+png extended real number line called measure satisfies properties
+require set image
+math
+png finite measure
+null set automatically measure countable additivity
+image
+math
+png
+image
+math
+png
+conditions definition measure met
+tex
+math
+png
+takes values image
+math
+png
+image
+math
+png called signed measure
+pair image
+math
+png called measurable space
+members image
+math
+png called measurable sets
+image
+math
+png measurable space function image
+math
+png called measurable image
+math
+png measurable set image
+math
+png
+inverse image image
+math
+png
+image
+math
+png
+composition measurable functions measurable
+making measurable spaces measurable functions category
+measurable spaces objects set measurable functions arrows
+triple image
+math
+png called measure space
+probability measure measure total measure
+image
+math
+probability space measure space probability measure
+measure spaces topological spaces compatibility conditions measure topology
+measures met practice analysis
+cases probability theory
+radon measures
+radon measures alternative definition terms linear functionals locally convex space continuous functions compact support
+approach bourbaki
+number sources
+details radon measure
+properties derived definition countably additive measure
+measure monotonic
+measurable sets
+measure countably subadditive
+countable sequence sets
+necessarily disjoint
+measure continuous
+measurable sets subset
+union sets measurable
+measure continuous
+measurable sets subset
+intersection sets measurable
+finite measure
+property false assumption finite measure
+instance
+infinite lebesgue measure
+intersection empty
+measure space
+called finite
+finite real number
+nonzero finite measures analogous probability measures sense finite measure image
+math
+png proportional probability measure image
+math
+png
+measure image
+math
+png called finite decomposed countable union measurable sets finite measure
+analogously
+set measure space finite measure countable union sets finite measure
+real numbers standard lebesgue measure finite finite
+closed intervals
+integers
+countably intervals
+measure
+union entire real line
+alternatively
+real numbers counting measure
+assigns finite set reals number points set
+measure space finite
+set finite measure finitely points
+uncountably sets cover entire real line
+finite measure spaces convenient properties
+finiteness compared respect property topological spaces
+thought vague generalization idea measure space uncountable measure
+measurable set called null set
+subset null set called negligible set
+negligible set measurable
+measurable negligible set automatically null set
+measure called complete negligible set measurable
+measure extended complete algebra subsets differ negligible set measurable set
+symmetric difference contained null set
+defines
+equal
+measures required countably additive
+condition strengthened
+set set nonnegative
+image
+math
+png define
+define sum image
+math
+png supremum sums finitely
+measure image
+math
+png image
+math
+png image
+math
+png additive image
+math
+png family image
+math
+png
+image
+math
+png hold
+note condition equivalent statement ideal null sets image
+math
+png complete
+important measures listed
+named measures theories include
+borel measure
+jordan measure
+ergodic measure
+euler measure
+gaussian measure
+baire measure
+radon measure young measure
+physics measure spatial distribution mass
+gravity potential
+negative extensive property
+conserved
+conservation law list
+negative values lead signed measures
+generalizations
+liouville measure
+natural volume form symplectic manifold
+classical statistical hamiltonian mechanics
+gibbs measure widely statistical mechanics
+canonical ensemble
+axiom choice assumed true
+subsets euclidean space lebesgue measurable
+examples sets include vitali set
+measurable sets postulated hausdorff paradox paradox
+purposes
+measure
+values restricted negative reals
+instance
+countably additive set function values
+signed
+real numbers called signed measure
+function values complex numbers called complex measure
+measures values banach spaces studied extensively
+citation needed measure takes values set adjoint projections hilbert space called projection valued measure
+functional analysis spectral theorem
+distinguish usual measures negative values generalizations
+term positive measure
+positive measures closed conical combination general linear combination
+signed measures linear closure positive measures
+generalization finitely additive measure
+called contents
+measure requiring countable additivity require finite additivity
+historically
+definition
+turns general
+finitely additive measures connected notions banach limits
+dual compactification
+linked axiom choice
+charge generalization directions
+finitely additive
+signed measure

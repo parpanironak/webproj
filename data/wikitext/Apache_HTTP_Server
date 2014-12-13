@@ -1,0 +1,138 @@
+Apache HTTP Server
+
+apache server
+edit
+months
+apache server
+commonly referred apache
+chee
+web server software notable playing key role initial growth world wide web
+web server software surpass million website milestone
+apache viable alternative netscape communications corporation web server
+named oracle iplanet web server
+evolved dominate web servers terms functionality performance
+citation neededwho
+typically apache run unix operating system
+developed linux
+apache developed maintained open community developers auspices apache software foundation
+application wide variety operating systems
+including unix
+freebsd
+linux
+solaris
+novell netware
+microsoft windows
+tpf
+ecomstation
+released apache license
+apache open source software
+apache originally based ncsa httpd code
+ncsa code removed apache
+due rewrite
+april apache popular server software
+december apache estimated serve
+active websites
+top servers domains
+faq apache project website
+apache chosen respect native american tribe apache superior skills warfare strategy
+website explains popular origin
+patchy server
+set software patches
+claims erroneous
+official documentation give explanation
+apache supports variety features
+implemented compiled modules extend core functionality
+range server side programming language support authentication schemes
+common language interfaces support perl
+python
+tcl
+php
+popular authentication modules include mod access
+mod auth
+mod digest
+mod auth digest
+successor mod digest
+sample features include secure sockets layer transport layer security support
+mod ssl
+proxy module
+mod proxy
+url rewriter
+mod rewrite
+custom log files
+mod log config
+filtering support
+mod include mod ext filter
+popular compression methods apache include external extension module
+mod gzip
+implemented reduction size
+weight
+web pages served
+modsecurity open source intrusion detection prevention engine web applications
+apache logs analyzed web browser free scripts awstats
+visitors
+virtual hosting apache installation serve actual websites
+machine apache installation simultaneously serve www
+www
+test server
+apache features configurable error messages
+dbms based authentication databases
+content negotiation
+supported graphical user interfaces
+guis
+supports password authentication digital certificate authentication
+apache built search engine html authorizing tool supports ftp
+source code freely
+adapt server specific
+large public library apache add ons
+open source software movement received enormous attention years
+characterized fundamentally develop software poses challenge commercial software businesses dominate software markets today
+main design goal apache
+fastest
+web server
+apache performance similar
+high performance
+web servers
+implementing single architecture
+apache variety multiprocessing modules
+mpms
+apache run process based
+hybrid
+process thread
+event hybrid mode
+match demands infrastructure
+implies choice correct mpm correct configuration important
+compromises performance made
+design apache reduce latency increase throughput
+relative simply handling requests
+ensuring consistent reliable processing requests reasonable time frames
+apache
+series considered significantly slower nginx delivering static pages
+remaining significantly faster dynamic pages
+address issue
+apache version considered apache foundation providing high performance multi threaded version mixes processes threads process
+architecture
+implemented apache
+series
+performance equivalent slightly event based webservers
+release apache
+change apache foundation license
+apache userswho
+change continued pre
+apache versions
+typically
+openbsd project extent effectively forking apache
+purposes
+apache server project collaborative software development effort aimed creating robust
+commercial grade
+feature rich freely source code implementation
+web
+server
+project jointly managed group volunteers located world
+internet web communicate
+plan
+develop server related documentation
+project part apache software foundation
+addition
+hundreds users contributed ideas
+code
+documentation project

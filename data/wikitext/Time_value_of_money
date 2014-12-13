@@ -1,0 +1,369 @@
+Time value of money
+
+time money
+time money money figuring amount interest earned inflation accrued amount time
+ultimate principle suggests amount money today buying power amount money future
+notion exists opportunity earn interest money inflation drive prices
+changing
+money
+time money central concept finance theory
+today money invested year earning interest worth year
+paid paid year recipient assumes interest
+time money terminology
+invested year interest future
+notion dates azpilcueta
+school salamanca
+method valuation stream income future
+annual incomes discounted added
+providing lump sum
+present
+entire income stream
+standard calculations time money derive basic algebraic expression present future sum
+discounted
+present amount equal time money
+sum received year discounted
+rate interest
+give sum present
+standard calculations based time money
+basic equations represent equalities listed
+solutions found
+cases
+formulas
+financial calculator spreadsheet
+formulas programmed financial calculators spreadsheet functions
+rate
+nper
+pmt
+equations
+formula rearranged determine unknowns
+case standard annuity formula
+closed form algebraic solution interest rate
+financial calculators spreadsheet programs readily determine solutions rapid trial error algorithms
+equations frequently combined
+bonds readily priced equations
+typical coupon bond composed types payments
+stream coupon payments similar annuity
+lump sum return capital end bond maturity
+future payment
+formulas combined determine present bond
+important note interest rate interest rate relevant period
+annuity makes payment year
+annual interest rate
+income payment stream payment schedule
+interest rate converted relevant periodic interest rate
+monthly rate mortgage monthly payments requires interest rate divided
+compound interest details converting periodic interest rates
+rate return calculations variable solved
+predefined variable measures discount rate
+interest
+inflation
+rate return
+cost equity
+cost debt number analogous concepts
+choice rate critical exercise
+incorrect discount rate make results meaningless
+calculations involving annuities
+decide payments made end period
+ordinary annuity
+beginning period
+annuity due
+financial calculator spreadsheet
+set calculation
+formulas ordinary annuity
+answer present annuity due simply multiply ordinary annuity
+present formula core formula time money
+formulae derived formula
+annuity formula sum series present calculations
+present
+formula variables
+solved
+cumulative present future cash flows calculated summing contributions fvt
+cash flow time
+note series summed
+general formula
+leads important special cases
+case cash flow values remain periods
+present annuity
+pva
+formula variables
+solved
+annuity due
+multiply equation
+case cash flow grows factor
+similar formula annuity
+present growing annuity
+pvga
+variables addition rate growth annuity
+annuity payment period
+calculation rarely provided financial calculators
+growing annuity due
+multiply equation
+perpetuity
+perpetual annuity
+formula simple division
+present int factor
+investment int
+compounded qtrly
+times year
+tenure yrs
+yrs qtrs year
+perpetual annuity payment grows fixed rate
+theoretically determined formula
+practice
+securities precise characteristics
+application valuation approach subject qualifications modifications
+importantly
+rare find growing perpetual annuity fixed rates growth true perpetual cash flow generation
+qualifications
+general approach valuations real estate
+equities
+assets
+redirect
+gordon model
+gordon model
+growth stock valuation
+future
+formula similar variables
+future annuity
+fva
+formula variables
+solved
+future growing annuity
+fva
+formula variables
+solved
+formula present regular stream future payments
+annuity
+derived sum formula future single future payment
+payment amount period
+single payment future time future future time
+summing payments time time
+reversing order terms substituting
+note geometric series
+initial
+multiplicative factor
+terms
+applying formula geometric series
+present annuity
+pva
+obtained simply dividing image
+math
+png
+simple intuitive derive future annuity endowment
+interest paid annuity
+principal remains constant
+principal hypothetical endowment computed interest equals annuity payment amount
+note money enters leaves combined system endowment principal accumulated annuity payments
+future system computed simply future formula
+initially
+payments
+present system endowment principal
+image
+math
+png
+end
+future endowment principal
+future total annuity payments
+image
+math
+png
+plugging back equation
+showing formal derivation
+perpetuity formula derived annuity formula
+specifically
+term
+approach grows larger
+equal
+leaving image
+math
+png term remaining
+hundred euros paid year
+expected rate return year
+worth today money
+present year
+year mortgage principal amount annual interest rate
+number monthly payments
+monthly interest rate
+annuity formula
+calculates monthly payment
+interest rate compounding monthly
+interest compound yearly
+monthly payment significantly
+deposit
+annual
+years needed deposit double
+algrebraic identity
+present formula rearranged
+method determine length time needed increase deposit sum
+long interest rate
+period time needed double investment
+rule shortcut reasonable approximation period needed
+similarly
+present formula rearranged determine rate return needed accumulate amount investment
+invested today return expected years
+rate return
+interest rate
+represent
+present formula restated terms interest rate
+calculate future stream savings deposit future requires steps
+alternatively
+combining steps large formula
+calculate present stream deposits year years earning interest
+sound
+remember future money discounted back today
+understandably lower
+calculate future
+end twenty year period
+steps combined single formula
+mentioned perpetuities
+securities indefinitely long maturity
+rare unrealistic
+growing payment
+fact
+types assets characteristics similar perpetuities
+examples include income oriented real estate
+preferred shares
+forms publicly traded stocks
+frequently
+terminology slightly
+based fundamentals time money calculations
+application methodology subject qualifications modifications
+gordon growth model
+stocks commonly noted trading
+ratio
+ratio easily recognized variation perpetuity growing perpetuity formulae save
+ratio cited inverse
+rate
+perpetuity formula
+substitute time
+price stock present
+earnings share stock cash annuity
+discount rate stock interest rate
+fact
+ratio analogous inverse interest rate
+discount rate
+stocks increasing earnings
+formulation growth earnings
+incorporate growth
+formula restated
+determine implied rate growth
+discount rate
+solve
+rates converted continuous compound interest rate equivalent continuous equivalent convenient
+easily differentiated
+restated continuous equivalents
+present time future payment time restated
+base natural logarithm continuously compounded rate
+generalized discount rates vary time
+constant discount rate
+function time
+case discount factor
+present
+cash flow time integral continuously compounded rate
+key reason continuous compounding simplify analysis varying discount rates tools calculus
+interest accrued capitalized overnight
+compounded daily
+continuous compounding close approximation actual daily compounding
+sophisticated analysis includes differential equations
+detailed
+continuous compounding yields formulas instruments
+formulas assume payment made payment period annuity ends time
+ordinary partial differential equations
+odes pdes
+equations involving derivatives
+multiple
+variables ubiquitous advanced treatments financial mathematics
+time money understood framework differential equations
+added sophistication sheds additional light time
+simple introduction complicated familiar situations
+exposition
+carr flesaker
+fundamental change differential equation perspective brings
+computing number
+present
+computes function
+present point future
+function analyzed change time compared functions
+formally
+statement
+decreases time
+defining linear differential operator image
+math
+png
+states values decreases
+time
+discount rate
+applied function yields
+instrument payment stream
+satisfies inhomogeneous order ode image
+math
+png
+inhomogeneous
+order
+derivatives higher derivatives
+encodes fact cash flow occurs
+instrument cash flow
+receive coupon
+remaining decreases
+standard technique tool analysis odes green functions
+solutions built
+terms time money
+green function
+time ode
+bond paying single point time stream cash flows obtained taking combinations basic cash flow
+mathematical terms
+instantaneous cash flow modeled delta function image
+math
+png
+green function time cash flow time
+heaviside step function notation
+image
+math
+png
+emphasize parameter
+fixed instance time cash flow occur
+variable
+time
+words
+future cash flows exponentially discounted
+exp
+sum
+integral
+image
+math
+png
+future discount rates
+image
+math
+png future
+discount rates
+past cash flows worth
+image
+math
+png
+occurred
+note moment cash flow defined discontinuity point
+convention
+assume cash flows occurred
+occurred
+simply define point
+case discount rate constant
+image
+math
+png simplifies
+image
+math
+png
+time remaining cash flow
+stream cash flows
+ending time
+set image
+math
+png time horizon
+time
+image
+math
+png combining values individual cash flows
+formalizes time money future values cash flows varying discount rates
+basis formulas financial mathematics
+formula varying interest rates

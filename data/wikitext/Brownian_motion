@@ -1,0 +1,544 @@
+Brownian motion
+
+brownian motion
+brownian motion pedesis
+greek
+leaping
+random moving particles suspended fluid
+liquid gas
+resulting bombardment fast moving atoms molecules gas liquid
+term
+brownian motion
+refer mathematical model describe random movements
+called particle theory
+botanist robert brown
+microscope pollen grains water
+noted grains moved water determine mechanisms caused motion
+direction force atomic bombardment constantly changing
+times pollen grain hit side
+leading seemingly random nature motion
+transport phenomena named robert brown
+mathematical model brownian motion real world applications
+instance
+stock market fluctuations cited
+benoit mandelbrot rejected applicability stock price movements part discontinuous
+brownian motion simplest continuous time stochastic
+probabilistic
+processes
+limit simpler complicated stochastic processes
+random walk donsker theorem
+universality closely related universality normal distribution
+cases
+mathematical convenience accuracy models motivates
+brownian motion
+time derivative infinite
+idealised approximation actual random physical processes
+finite time scale
+roman lucretius scientific poem
+nature things
+remarkable description brownian motion dust particles
+proof existence atoms
+observe sunbeams admitted building shed light shadowy places
+multitude tiny particles mingling multitude ways
+dancing actual indication underlying movements matter hidden sight
+originates atoms move
+spontaneously
+small compound bodies removed impetus atoms set motion impact invisible blows turn cannon slightly larger bodies
+movement mounts atoms gradually emerges level senses
+bodies motion sunbeams
+moved blows remain invisible
+mingling motion dust particles caused largely air currents
+glittering
+tumbling motion small dust particles
+caused chiefly true brownian dynamics
+jan ingenhousz irregular motion coal dust particles surface alcohol discovery credited botanist robert brown
+brown studying pollen grains plant clarkia pulchella suspended water microscope observed minute particles
+ejected pollen grains
+executing jittery motion
+repeating experiment particles inorganic matter rule motion life related
+origin explained
+person describe mathematics brownian motion thorvald
+thiele paper method squares published
+independently louis bachelier phd thesis
+theory speculation
+presented stochastic analysis stock option markets
+albert einstein
+papers
+marian smoluchowski
+brought solution problem attention physicists
+presented indirectly confirm existence atoms molecules
+equations describing brownian motion subsequently verified experimental work jean baptiste perrin
+parts einstein theory
+part consists formulation diffusion equation brownian particles
+diffusion coefficient related squared displacement brownian particle
+part consists relating diffusion coefficient measurable physical quantities
+citation needed einstein determine size atoms
+atoms mole
+molecular weight grams
+gas
+citation needed accordance avogadro law volume ideal gases
+liters standard temperature pressure
+number atoms contained volume referred avogadro number
+determination number tantamount knowledge mass atom obtained dividing mass mole gas avogadro number
+part einstein argument determine brownian particle travels time interval
+citation needed classical mechanics unable determine distance enormous number bombardments brownian particle undergo
+roughly order collisions
+einstein led collective motion brownian particles
+citation needed hecitation needed showed
+density brownian particles point time
+satisfies diffusion equation
+mass diffusivity
+assuming particles start origin initial time
+diffusion equation solution
+expression allowed einstein calculate moments directly
+moment vanish
+meaning brownian particle equally move left move
+moment
+vanishing
+expresses squared displacement terms time elapsed diffusivity
+expression einstein argued displacement brownian particle proportional elapsed time
+square root
+argument based conceptual switch
+ensemble
+brownian particles
+single
+brownian particle
+speak relative number particles single instant time takes brownian particle reach point
+part einstein theory relates diffusion constant physically measurable quantities
+squared displacement particle time interval
+result enables experimental determination avogadro number size molecules
+einstein analyzed dynamic equilibrium established opposing forces
+beauty argument final result depend forces involved setting dynamic equilibrium
+original treatment
+einstein considered osmotic pressure experiment
+conclusion reached ways
+instance
+particles suspended viscous fluid gravitational field
+gravity make particles settle
+diffusion acts homogenize
+driving regions smaller concentration
+action gravity
+particle acquires downward speed image
+math
+png
+image
+math
+png mass particle
+image
+math
+png acceleration due gravity
+image
+math
+png particle mobility fluid
+george stokes shown mobility spherical particle radius image
+math
+png image
+math
+png
+image
+math
+png dynamic viscosity fluid
+state dynamic equilibrium
+particles distributed barometric distribution
+image
+math
+png difference density particles separated height difference image
+math
+png
+image
+math
+png boltzmann constant
+ratio universal gas constant
+image
+math
+png
+avogadro number
+image
+math
+png
+image
+math
+png absolute temperature
+avogadro number determined
+dynamic equilibrium established particles pulled gravity
+greater tendency particles migrate regions lower concentration
+flux fick law
+image
+math
+png
+introducing formula image
+math
+png
+find
+state dynamical equilibrium
+speed equal image
+math
+png
+notice expressions image
+math
+png proportional image
+math
+png
+reflecting derivation independent type forces considered
+equating expressions yields formula diffusivity
+equality part einstein theory
+equality definition boltzmann constant image
+math
+png
+fourth equality stokes formula mobility
+measuring squared displacement time interval universal gas constant image
+math
+png
+temperature image
+math
+png
+viscosity image
+math
+png
+particle radius image
+math
+png
+avogadro number image
+math
+png determined
+type dynamical equilibrium proposed einstein
+pointed previously
+thomson series lectures yale university dynamic equilibrium velocity generated concentration gradient fick law velocity due variation partial pressure caused ions set motion
+method determining avogadro constant independent hypothesis shape size molecules
+act
+identical expression einstein formula diffusion coefficient found walther nernst expressed diffusion coefficient ratio osmotic pressure ratio frictional force velocity rise
+equated law van hoff stokes law
+writes image
+math
+png diffusion coefficient image
+math
+png
+image
+math
+png osmotic pressure image
+math
+png ratio frictional force molecular viscosity assumes stokes formula viscosity
+introducing ideal gas law unit volume osmotic pressure
+formula identical einstein
+stokes law nernst case
+einstein smoluchowski
+strictly applicable apply case radius sphere small comparison free path
+predictions einstein formula seemingly refuted series experiments svedberg
+gave displacements particles times predicted
+henri found displacements times greater einstein formula predicted
+einstein predictions finally confirmed series experiments carried chaudesaigues perrin
+confirmation einstein theory constituted empirical progress kinetic theory heat
+essence
+einstein showed motion predicted directly kinetic model thermal equilibrium
+importance theory lay fact confirmed kinetic theory account law thermodynamics essentially statistical law
+large balloon metres diameter
+imagine large balloon football stadium
+balloon large lies top members crowd
+excited
+fans hit balloon times directions motions completely random
+end
+balloon pushed random directions
+move average
+force exerted time
+supporters pushing
+supporters pushing left
+supporter exerting equivalent amounts force
+case
+forces exerted left imbalanced favor left
+balloon move slightly left
+type imbalance exists times
+random motion balloon
+situation
+supporters
+large balloon small object animated erratic movement
+particles emitted brown pollen grain moving randomly water
+water molecule
+size
+particles brown observed order micrometres size
+confused actual pollen particle micrometres
+particle pollen likened balloon
+water molecules fans
+case balloon surrounded fans
+brownian motion particle liquid due instantaneous imbalance combined forces exerted collisions particle smaller liquid molecules
+random thermal motion
+surrounding
+animation brownian motion concept java applet
+smoluchowski theory brownian motion starts premise einstein derives probability distribution image
+math
+png displacement brownian particle image
+math
+png time image
+math
+png
+expression squared displacement
+image
+math
+png
+relates particle mass image
+math
+png moving velocity image
+math
+png result frictional force governed stokes law
+finds
+image
+math
+png viscosity coefficient
+image
+math
+png radius particle
+associating kinetic energy image
+math
+png thermal energy image
+math
+png
+expression squared displacement
+times found einstein
+fraction
+commented arnold sommerfeld necrology smoluckowski
+numerical coefficient einstein
+differs smoluchowski
+put doubt
+smoluchowski attempts answer question brownian particle displaced bombardments smaller particles probabilities striking forward rear directions equal
+order
+unknowingly
+ballot theorem
+proved
+whitworth
+ballot theorem states candidate scores image
+math
+png votes candidate scores image
+math
+png probability counting votes image
+math
+png image
+math
+png
+matter large total number votes image
+math
+png
+words
+candidate edge candidate tend edge favoring candidate ballot extraction
+probability image
+math
+png gains image
+math
+png losses binomial distribution
+equal priori probabilities image
+math
+png
+total gain
+image
+math
+png large stirling approximation form
+expected total gain becitation needed
+showing increases square root total population
+suppose brownian particle mass image
+math
+png surrounded lighter particles mass image
+math
+png traveling speed image
+math
+png
+reasons smoluchowski
+collision surrounding brownian particles
+velocity transmitted image
+math
+png
+ratio order image
+math
+png
+sec
+consideration gas image
+math
+png collisions
+greater liquid expect image
+math
+png collision
+collisions tend accelerate brownian particle
+tend decelerate
+excess kind collision order image
+math
+png image
+math
+png collisions
+velocity brownian particle
+sec
+equal probabilities forward backward collisions net tendency brownian particle motion
+ballot theorem predicts
+orders magnitude exact consideration velocity brownian particle
+image
+math
+png
+depends collisions tend accelerate decelerate
+larger image
+math
+png
+greater collisions retard velocity brownian particle increase limit
+process occur
+tantamount perpetual motion type
+equipartition energy applies
+kinetic energy brownian particle
+image
+math
+png
+equal
+average
+kinetic energy surrounding fluid particle
+image
+math
+png
+smoluchowski published dimensional model describe particle undergoing brownian motion
+model assumes collisions test particle mass mass individual particles composing fluid
+assumed particle collisions confined dimension equally probable test particle hit left
+assumed collision imparts magnitude image
+math
+png
+image
+math
+png number collisions image
+math
+png number collisions left collisions particle velocity changed image
+math
+png
+multiplicity simply
+total number states image
+math
+png
+probability particle hit image
+math
+png times
+result simplicity
+smoluchowski model qualitatively describe brownian motion
+realistic particle undergoing brownian motion fluid assumptions made
+assumption average occurs equal number collisions left falls particle motion
+distribution image
+math
+pngs realistic situation
+equations governing brownian motion relate slightly differently definitions brownian motion start article
+mathematics
+brownian motion wiener process
+continuous time stochastic process named honor norbert wiener
+processes
+stochastic processes stationary independent increments
+occurs frequently pure applied mathematics
+economics physics
+wiener process image
+math
+png characterised facts
+image
+math
+png denotes normal distribution expected variance
+condition independent increments means image
+math
+png image
+math
+png image
+math
+png independent random variables
+alternative characterisation wiener process called characterisation wiener process surely continuous martingale image
+math
+png quadratic variation image
+math
+png
+characterisation wiener process spectral representation sine series coefficients independent image
+math
+png random variables
+representation obtained theorem
+wiener process constructed scaling limit random walk
+discrete time stochastic processes stationary independent increments
+donsker theorem
+random walk
+wiener process recurrent dimensions
+meaning returns surely fixed neighborhood origin infinitely
+recurrent dimensions higher
+unlike random walk
+scale invariant
+time evolution position brownian particle approximately langevin equation
+equation involves random force field representing effect thermal fluctuations solvent brownian particle
+long timescales
+mathematical brownian motion langevin equation
+small timescales
+inertial effects prevalent langevin equation
+mathematical brownian motion exempt inertial effects
+note inertial effects considered langevin equation
+equation singular
+clarification needed simply removing inertia term equation yield exact description
+singular behavior particle move
+clarification needed
+diffusion equation yields approximation time evolution probability density function position particle brownian movement physical definition
+approximation valid short timescales
+time evolution position brownian particle langevin equation
+equation involves random force field representing effect thermal fluctuations solvent particle
+displacement particle undergoing brownian motion obtained solving diffusion equation boundary conditions finding rms solution
+shows displacement varies square root time
+linearly
+explains previous experimental results velocity brownian particles gave nonsensical results
+linear time dependence incorrectly assumed
+short time scales
+motion particle dominated inertia displacement linearly dependent time
+instantaneous velocity brownian motion measured
+momentum relaxation time
+instantaneous velocity brownian particle
+glass microsphere trapped air optical tweezer
+measured successfully
+velocity data verified maxwell boltzmann velocity distribution
+equipartition theorem brownian particle
+brownian motion modeled random walk
+random walks porous media fractals anomalous
+general case
+brownian motion markov random process stochastic integral equations
+french mathematician paul proved theorem
+sufficient condition continuous valued stochastic process dimensional brownian motion
+condition alternative definition brownian motion
+continuous stochastic process probability space
+taking values
+equivalent
+infinitesimal generator
+characteristic operator
+brownian motion easily calculated
+denotes laplace operator
+observation defining brownian motion dimensional riemannian manifold
+brownian motion defined diffusion characteristic operator image
+math
+png local coordinates
+operator local coordinates
+sense inverse square matrix
+stellar dynamics
+massive body
+star
+black hole
+experience brownian motion responds gravitational forces surrounding stars
+rms velocity image
+math
+png massive object
+mass image
+math
+png
+related rms velocity image
+math
+png background stars
+image
+math
+png mass background stars
+gravitational force massive object nearby stars move faster
+increasing image
+math
+png image
+math
+png
+brownian velocity sgr
+supermassive black hole center milky galaxy
+predicted formula
+narrow escape problem ubiquitous problem biology
+biophysics cellular biology formulation
+brownian particle
+ion
+molecule
+protein
+confined bounded domain
+compartment cell
+reflecting boundary
+small window escape
+narrow escape problem calculating escape time
+time diverges window shrinks
+rendering calculation singular perturbation problem

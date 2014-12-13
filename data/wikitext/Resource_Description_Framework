@@ -1,0 +1,320 @@
+Resource Description Framework
+
+resource description framework
+resource description framework
+rdf
+family world wide web consortium
+specifications originally designed metadata data model
+general method conceptual description modeling information implemented web resources
+variety syntax formats
+rdf data model similar classic conceptual modeling approaches entity relationship class diagrams
+based idea making statements resources
+web resources
+form subject predicate object expressions
+expressions triples rdf terminology
+subject denotes resource
+predicate denotes traits aspects resource expresses relationship subject object
+represent notion
+sky color blue
+rdf triple
+subject denoting
+sky
+predicate denoting
+color
+object denoting
+blue
+rdf swaps object subject classical notation model object oriented design
+object
+sky
+attribute
+color
+blue
+rdf abstract model serialization formats
+file formats
+resource triple encoded varies format format
+mechanism describing resources major component semantic web activity
+evolutionary stage world wide web automated software store
+exchange
+machine readable information distributed web
+turn enabling users deal information greater efficiency certainty
+rdf simple data model ability model disparate
+abstract concepts led increasing knowledge management applications unrelated semantic web activity
+collection rdf statements intrinsically represents labeled
+directed multi graph
+rdf based data model naturally suited kinds knowledge representation relational model ontological models
+practice
+rdf data persisted relational database native representations called triplestores
+quad stores context
+named graph
+persisted rdf triple
+rdfs owl demonstrate
+build additional ontology languages rdf
+ancestors rdf
+technically closest mcf
+project initiated ramanathan
+guha apple computer continued
+contributions tim bray
+tenure netscape communications corporation
+ideas dublin core community
+pics
+platform internet content selection
+early web content labelling system
+key shaping direction rdf project
+published specification rdf data model xml syntax recommendation
+work began version published set related specifications
+implementations based recommendation completely updated
+adoption improved specifications rapid developed full public view
+unlike earlier technologies
+newcomers rdf unaware older specifications exist
+june
+organized workshop gather feedback web community discuss revisions improvements rdf
+libraries publish catalogue rdf
+hungarian library
+vocabulary defined rdf specification
+rdf
+statement
+rdf
+subject
+rdf
+predicate
+rdf
+object reification
+vocabulary foundation rdf schema extended
+common serialization formats
+xml format
+format called simply rdf introduced specifications defining rdf
+important distinguish xml format abstract rdf model
+mime media type
+application
+rdf xml
+registered rfc
+recommends rdf documents follow specifications
+addition serializing rdf xml
+introduced notation
+xml serialization rdf models designed easier write hand
+cases easier follow
+based tabular notation
+makes underlying triples encoded documents easily recognizable compared xml serialization
+closely related turtle triples formats
+triples stored triplestore
+subject rdf statement uniform resource identifier
+uri
+blank node
+denote resources
+resources blank nodes called anonymous resources
+directly identifiable rdf statement
+predicate uri resource
+representing relationship
+object uri
+blank node unicode string literal
+semantic web applications
+popular applications rdf rss foaf
+friend friend
+resources tend represented uris intentionally denote
+access
+actual data world wide web
+rdf
+general
+limited description internet based resources
+fact
+uri names resource dereferenceable
+uri begins
+subject rdf statement necessarily represent resource accessible
+represent tangible
+network accessible resource uri represent absolutely
+broad agreement bare uri
+symbol
+returns level coded response request treated denoting internet resource succeeds accessing
+producers consumers rdf statements agree semantics resource identifiers
+agreement inherent rdf
+controlled vocabularies common
+dublin core metadata
+partially mapped uri space rdf
+intent publishing rdf based ontologies web establish
+circumscribe
+intended meanings resource identifiers express data rdf
+uri
+www
+rec owl guide
+intended owners refer class merlot red wines vintner
+instances
+www
+rec owl guide
+represent class wine produced single vintner
+definition expressed owl ontology rdf document occurs
+careful analysis definition
+erroneously conclude instance
+www
+rec owl guide
+physical
+type wine
+note bare resource identifier
+uri reference
+character ending fragment identifier
+body knowledge modeled collection statements subjected reification
+statement
+triple subject predicate object altogether
+assigned uri treated resource additional statements made
+jane john author document
+reification important order deduce level confidence degree usefulness statement
+reified rdf database
+original statement
+resource
+additional statements made
+assert subject resource
+assert predicate resource
+assert object resource literal
+statements original statement exist
+depending application
+borrowing concepts logic
+illustrated graphical notations conceptual graphs topic maps
+rdf model implementations acknowledge group statements criteria
+called situations
+contexts
+scopes
+discussed articles rdf specification editor graham klyne
+statement context
+named uri
+order assert
+true
+relationship
+convenient group statements source
+identified uri
+uri rdf
+xml document
+updates made source
+statements changed model
+implementation scopes necessarily require fully reified statements
+implementations single scope identifier statement assigned uri
+likewise named graphs set triples named uri represent context reify triples
+predominant query language rdf graphs sparql
+sparql sql language
+recommendation january
+sparql query show country capitals africa
+fictional ontology
+ways query rdf graphs include
+website describing resource statements
+person identified
+www
+people
+eric miller
+email address
+title
+resource
+www
+people
+subject
+objects
+subject uri
+predicates uris
+uri predicate
+addition
+subject type
+uri
+www
+rdf syntax
+person
+uri
+www
+swap
+pim
+mailbox
+uri
+www
+swap
+pim
+subject
+predicate
+object
+rdf triples expressed
+concepts rdf logic linguistics
+subject predicate subject predicate object structures meanings similar
+distinct
+terms rdf
+demonstrates
+english language statement york postal abbreviation
+york subject
+postal abbreviation predicate object
+encoded rdf triple
+subject predicate resources named uris
+object resource literal element
+notation form rdf
+statement
+urn
+states
+uri resource denotes state york
+purl
+terms
+alternative
+uri predicate
+human readable definition found
+literal string
+note uris chosen standard
+long meaning reading
+triples standard serialization formats rdf
+triple equivalently represented standard rdf
+xml format
+restrictions syntax qnames
+dcterms
+alternative
+rdf graphs representable rdf
+xml
+manner
+wiki
+tony benn
+identifies resource
+uri traversed hyperlink
+resource article tony benn
+title resource
+tony benn
+publisher
+assertions expressed valid rdf statements
+triples form rdf
+statements
+statements expressed rdf
+xml
+english speaking person
+information represented simply
+title resource
+published
+tony benn
+rdf puts information formal machine understand
+purpose rdf provide encoding interpretation mechanism resources software understand
+words
+software access information
+versions statements wordy requirement rdf resource
+subject predicate
+unique
+subject resource unique attempt pinpoint exact resource
+predicate unique order reduce chance idea title publisher ambiguous software working description
+software recognizes
+purl
+elements
+title
+specific definition concept title established dublin core metadata initiative
+title land title honorary title letters put
+shows simple claims elaborated
+combining multiple rdf vocabularies
+note primary topic page
+person
+tony benn
+rdf include research social networking
+important governments track undesirables
+people business fields understand relationships members industries product placement
+scientists understand people connected
+rdf understanding road traffic patterns
+information traffic patterns websites
+rdf integrate information sources web
+common methodology keyword searching
+method problematic synonyms
+ontologies situation
+issues efficiently study traffic fully understand traffic
+concepts related people
+streets
+roads understood
+human concepts
+require addition fuzzy logic
+values describing roads
+slipperiness
+precise concepts measured
+imply solution incorporate fuzzy logic ontology

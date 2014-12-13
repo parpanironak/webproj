@@ -1,0 +1,117 @@
+Uniform resource locator
+
+uniform resource locator
+uniform resource locator
+abbreviated url
+web address
+specific character string constitutes reference resource
+web browsers
+url web page displayed top inside address bar
+typical url
+wiki
+main page
+url technically type uniform resource identifier
+uri
+technical documents verbal discussions
+url synonym uri
+uniform resource locator created tim berners lee uri working group internet engineering task force
+ietf
+outcome collaboration started ietf living documents
+birds feather
+session
+format combines pre existing system domain names
+created
+file path syntax
+forward slashes separate folder file names
+conventions existed server names prepended complete file paths
+preceded double slash
+url consists
+scheme
+commonly called protocol
+colon
+slashes
+note
+depending scheme
+server
+exp
+ftp
+www
+smtp
+dot
+domain namenote
+alternatively
+address
+port number
+path resource fetched program run
+programs common gateway interface
+cgi
+scripts
+query string
+optional fragment identifier
+syntax
+domain
+port
+path
+query
+examples scheme names include https
+gopher
+wais
+ftp
+urls https scheme
+https
+require requests responses made secure connection website
+schemes require authentication username
+password
+embedded url
+ftp
+passwords embedded conducive secure working
+full syntax
+username
+port
+path
+query
+unreserved
+encoded
+reserved
+encoded
+details found rfc
+www
+addressing
+url
+uri spec
+html
+url uri
+addition identifying resource
+means locating resource describing
+primary access mechanism
+network location
+internet
+hostname domain assigned host computer
+combination host local parent domain
+consists local hostname
+domain
+hostname translated address local hosts file
+domain system
+dns
+resolver
+single host computer hostnames
+generally operating system host prefers hostname host
+domain hostname
+long restrictions mentioned
+hostnames addresses assigned
+domain
+xyz
+hostname address
+xyz
+hostname
+hostnames domain names
+domain names hostnames
+major computer manufacturers apple begun deprecate apis local paths parameters
+favour urls
+remote local resources
+file
+scheme
+represented url
+additionally provide protocol
+remote items
+credentials

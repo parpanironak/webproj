@@ -1,0 +1,185 @@
+Mathematical finance
+
+mathematical finance
+mathematical finance field applied mathematics
+concerned financial markets
+generally
+mathematical finance derive extend mathematical numerical models necessarily establishing link financial theory
+taking observed market prices input
+financial economist study structural reasons company share price
+financial mathematician share price
+attempt stochastic calculus obtain derivatives stock
+valuation options
+financial modeling
+fundamental theorem arbitrage free pricing key theorems mathematical finance
+equation formula key results
+mathematical finance overlaps heavily field computational finance
+financial engineering
+focuses application
+focuses modeling derivation
+quantitative analyst
+stochastic asset models
+general
+exist separate branches finance require advanced quantitative techniques
+derivatives pricing hand
+risk portfolio management
+universities offer degree research programs mathematical finance
+master mathematical finance
+exist separate branches finance require advanced quantitative techniques
+derivatives pricing risk portfolio management
+main differences probabilities
+risk neutral probability
+arbitrage pricing probability
+denoted
+actual
+actuarial
+probability
+denoted
+goal derivatives pricing determine fair price security terms liquid securities price determined law supply demand
+meaning
+fair
+depends
+considers buying selling security
+examples securities priced plain vanilla exotic options
+convertible bonds
+fair price determined
+sell side trader make market security
+derivatives pricing complex
+extrapolation
+exercise define current market security
+sell side community
+quantitative derivatives pricing initiated louis bachelier theory speculation
+published
+introduction basic influential processes
+brownian motion
+applications pricing options
+bachelier modeled time series logarithm stock prices random walk short term finite variance
+longer term follow gaussian distribution
+bachelier work
+largely unknown academia
+citation needed
+theory remained dormant fischer black myron scholes
+fundamental contributions robert
+merton
+applied influential process
+geometric brownian motion
+option pricing
+scholes
+merton awarded nobel memorial prize economic sciences
+black ineligible prize death
+important step fundamental theorem asset pricing harrison pliska
+suitably normalized current price security arbitrage free
+fair
+exists stochastic process constant expected describes future evolution
+image
+math
+png
+process satisfying
+called
+martingale
+martingale reward risk
+probability normalized security price process called
+risk neutral
+typically denoted blackboard font letter
+image
+math
+png
+relationship
+hold times
+processes derivatives pricing naturally set continuous time
+quants operate world derivatives pricing specialists deep knowledge specific products model
+securities priced individually
+problems world low dimensional nature
+calibration main challenges world
+continuous time parametric process calibrated set traded securities relationship
+similar relationship define price derivatives
+main quantitative tools handle continuous time processes stochastic calculus partial differential equations
+risk portfolio management aims modelling probability distribution market prices securities future investment horizon
+real
+probability distribution market prices typically denoted blackboard font letter
+tex
+math
+png
+opposed
+risk neutral
+probability
+image
+math
+png
+derivatives pricing
+based distribution
+buy side community takes decisions securities purchase order improve prospective profit loss profile positions considered portfolio
+quantitative theory risk portfolio management started variance framework harry markowitz
+caused shift concept identify individual stock investment
+linear regression strategy understand quantify risk
+variance
+return
+entire portfolio stocks
+bonds
+securities
+optimization strategy choose portfolio largest return subject acceptable levels variance return
+breakthrough advances made capital asset pricing model
+capm
+arbitrage pricing theory
+apt
+developed treynor
+mossin
+william sharpe
+lintner
+ross
+pioneering work
+markowitz sharpe
+merton miller
+shared nobel memorial prize economic sciences
+time awarded work finance
+portfolio selection work markowitz sharpe introduced mathematics
+black art
+investment management
+time
+mathematics sophisticated
+robert merton paul samuelson
+period models replaced continuous time
+brownian motion models
+quadratic utility function implicit optimization replaced general increasing
+concave utility functions
+recent years focus shifted estimation risk
+dangers incorrectly assuming advanced time series analysis provide completely accurate estimates market parameters
+effort study financial markets prices vary time
+charles dow
+founders dow jones company wall street journal
+enunciated set ideas subject called dow theory
+basis called technical analysis method attempting predict future
+tenets
+technical analysis
+market trends give indication future
+short term
+claims technical analysts disputed academics
+years
+increasingly sophisticated mathematical models derivative pricing strategies developed
+credibility damaged financial crisis
+contemporary practice mathematical finance subjected criticism figures field notably
+nassim nicholas taleb
+nassim nicholas taleb
+nicholas
+professor financial engineering polytechnic institute york university
+book black swan paul wilmott
+taleb claims prices financial assets characterized simple models
+rendering current practice irrelevant
+worst
+dangerously misleading
+wilmott emanuel derman published financial modelers manifesto january addresses concerns
+bodies
+institute economic thinking
+institute economic thinking
+economic attempting establish effective theories methods
+general
+modeling distributions finite variance
+increasingly
+inappropriate
+discovered mandelbrot prices follow gaussian distribution
+modeled alpha stable distributions
+scale change
+volatility
+depends length time interval power bit
+large calculate gaussian distribution estimated standard deviation
+financial models long tailed distributions volatility clustering

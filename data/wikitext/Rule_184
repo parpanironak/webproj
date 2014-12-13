@@ -1,0 +1,176 @@
+Rule 184
+
+rule
+rule dimensional binary cellular automaton rule
+notable solving majority problem ability simultaneously describe
+seemingly
+particle systems
+apparent contradiction descriptions resolved ways features automaton state particles
+rule wolfram code defines evolution states
+earliest research rule papers
+krug spohn
+krug spohn describe types particle system modeled rule
+state rule automaton consists dimensional array cells
+binary
+step evolution
+rule automaton applies rule cells array
+simultaneously cells
+determine state cell
+entry table defines state cell function previous state previous values neighboring cells side
+rule
+rule
+wolfram code describing state table
+bottom row table
+viewed binary number
+equal decimal number
+rule set rule intuitively
+ways
+descriptions rules
+important properties dynamics immediately
+rule
+finite set cells periodic boundary conditions
+number number pattern remains invariant pattern evolution
+similarly
+density defined infinite array cells
+remains invariant automaton carries steps
+rule symmetric left reversal
+symmetry
+reversing left time swapping roles symbols produces cellular automaton update rule
+patterns rule typically quickly stabilize
+pattern cell states move lockstep position leftwards step
+pattern moves position rightwards step
+specifically
+initial density cells state
+pattern stabilizes clusters cells state
+spaced units
+clusters separated blocks cells state
+patterns type move rightwards
+hand
+initial density greater
+pattern stabilizes clusters cells state
+spaced units
+clusters separated blocks cells state
+patterns type move leftwards
+density
+initial pattern stabilizes
+slowly
+pattern equivalently viewed moving leftwards rightwards step
+alternating sequence
+view rule solving majority problem
+constructing cellular automaton determine initial configuration majority cells active
+rule run finite set cells periodic boundary conditions
+number active cells half cells
+cell eventually consecutive states infinitely
+consecutive states finitely
+number active cells forms majority cells cell eventually consecutive infinitely consecutive zeros finitely
+majority problem solved perfectly required cells eventually stabilize majority state rule solution avoids impossibility result relaxing criterion automaton recognizes majority
+interpret cell rule particle
+particles behave ways similarly automobiles single lane traffic
+move forwards constant speed open space front
+stop
+traffic models rule generalizations discretize space time commonly called particle hopping models
+primitive
+rule model traffic flow predicts familiar emergent features real traffic
+clusters freely moving cars separated stretches open road traffic light
+waves stop traffic heavy
+difficult pinpoint rule traffic flow simulation
+part focus research area achieving greatest level mathematical abstraction verisimilitude
+earlier papers cellular automaton based traffic flow simulation typically make model complex order accurately simulate real traffic
+rule fundamental traffic simulation cellular automata
+wang
+instance
+state
+basic cellular automaton model describing dimensional traffic flow problem rule
+nagel
+writes
+work models traffic based model
+authors describe dimensional models vehicles moving multiple speeds
+models degenerate rule single speed case
+gaylord nishidate
+extend rule dynamics lane highway traffic lane
+model shares rule property symmetric simultaneous left reversal
+biham
+describe dimensional city grid model dynamics individual lanes traffic essentially rule
+depth survey cellular automaton traffic modeling statistical mechanics
+maerivoet moor
+chowdhury
+viewing rule traffic model
+natural average speed vehicles
+density traffic
+average speed simply unit distance unit time
+system stabilizes
+car slows
+density number greater
+average speed traffic image
+math
+png
+system exhibits order kinetic phase transition
+critical average speed approaches stationary limit square root number steps
+critical approach exponential
+shown figure
+originally krug spohn
+rule model deposition particles surface
+model
+set particles forming surface
+particles assume positions square lattice oriented diagonally
+particle present position lattice
+lattice positions
+left particle filled
+time step
+surface grows deposition particles local minimum surface
+position add particle
+model process rule
+observe boundary filled unfilled lattice positions marked polygonal line
+segments separate adjacent lattice positions slopes
+model segment slope automaton cell state
+segment slope automaton cell state
+local minima surface points segment slope lies left segment slope
+automaton
+position cell state lies left cell state
+adding particle position corresponds changing states adjacent cells
+behavior rule
+related work model concerns deposition arrival times additional particles random
+particles arrive local minima simultaneously
+stochastic growth processes modeled asynchronous cellular automaton
+ballistic annihilation describes process moving particles antiparticles annihilate collide
+simplest version process
+system consists single type particle antiparticle
+moving equal speeds opposite directions dimensional medium
+process modeled rule
+view particles aligned
+cells automaton
+interstices cells
+consecutive cells state
+view transition forming particle moves rightwards cell time step
+hand
+consecutive cells state
+view transition forming antiparticle moves leftwards cell time step
+consecutive cells differing states considered form part background material particles
+observed particles interact ballistic annihilation
+rightwards moving particle leftwards moving antiparticle meet
+result region background particles vanished
+effect nearby particles
+behavior systems
+dimensional cyclic cellular automata
+terms ballistic annihilation
+technical restriction particle positions ballistic annihilation view rule arise systems
+stemming alternating pattern background
+particle system rule state
+consecutive particles type odd number cells
+opposite types number cells
+parity restriction play role statistical behavior system
+pivato
+similar complicated particle system view rule
+views alternating regions background
+considers regions consisting solely single state background
+based view describes particles formed boundaries regions
+classifies interactions
+chopard droz
+general survey physics annihilation processes
+book kind science
+stephen wolfram points rule
+run patterns density
+interpreted parsing context free language describing strings formed nested parentheses
+interpretation closely related ballistic annihilation view rule
+wolfram interpretation
+open parenthesis corresponds left moving particle close parenthesis corresponds moving particle

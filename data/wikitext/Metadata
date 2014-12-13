@@ -1,0 +1,492 @@
+Metadata
+
+metadata
+term metadata ambiguous
+fundamentally concepts
+types
+expression
+data data
+apply
+structural metadata
+design specification data structures
+data
+design time application data
+case correct description
+data containers data
+descriptive metadata
+hand
+individual instances application data
+data content
+case
+description
+resulting disambiguating neologism
+data data content
+content content
+metacontent
+descriptive
+guide national information standards organization concept administrative metadata subtypes metacontent
+citation needed
+metadata
+metacontent
+traditionally found card catalogs libraries
+information increasingly digital
+metadata describe digital data metadata standards specific discipline
+describing contents context data files
+quality original data
+files greatly increased
+webpage include metadata language written
+tools create
+subject
+allowing browsers automatically improve experience users
+metadata
+metacontent
+defined data providing information aspects data
+digital image include metadata describe large picture
+color depth
+image resolution
+image created
+data
+text document metadata information long document
+author
+document written
+short summary document
+metadata data
+metadata stored managed database
+called metadata registry metadata repository
+context point reference
+impossible identify metadata
+database numbers
+digits long results calculations list numbers plug equation context
+numbers perceived data
+context database log book collection
+digit numbers identified isbns information refers book
+information book
+term
+metadata
+coined philip bagley
+book
+extension programming language concepts
+clear term iso
+traditional
+sense
+structural metadata
+data containers data
+alternate sense
+content individual instances data content
+metacontent
+type data found library catalogues
+fields information management
+information science
+information technology
+librarianship gis widely adopted term
+fields word metadata defined
+data data
+generally accepted definition
+disciplines adopted specific explanation term
+metadata forms means cataloging archived information
+dewey decimal system employed libraries classification library materials early metadata usage
+library catalogues inch cards display book title
+author
+subject matter
+plot synopsis abbreviated alpha numeric identification system physical location book library shelves
+data classify
+aggregate
+identify
+locate book
+form older metadata collection census bureau
+long form
+long form asks questions create demographic data find patterns distribution
+purposes article
+object
+refers
+metadata written digital photo file identify owns
+copyright contact information
+camera created file
+exposure information descriptive information keywords photo
+making file searchable computer
+internet
+metadata written camera input photographer
+software downloading computer
+digital cameras enable edit metadata
+functionality nikon dslrs nikon canon cameras canon eos
+photographic metadata standards governed organizations develop standards
+include
+limited
+metadata video
+information contents
+transcripts conversations text descriptions scenes
+directly understandable computer
+efficient search desirable
+web pages include metadata form meta tags
+description keywords meta tags commonly describe web page content
+search engines data adding pages search index
+metadata created automated information processing manual work
+elementary metadata captured computers include information file created
+created
+updated
+file size file extension
+metadata application manyfold covering large variety fields application specialised accepted models types metadata
+bretheron singley
+distinguish distinct classes
+structural
+control metadata guide metadata
+structural metadata describe structure computer systems tables
+columns indexes
+guide metadata humans find specific items expressed set keywords natural language
+ralph kimball metadata divided similar categories
+technical metadata business metadata
+technical metadata correspond internal metadata
+business metadata external metadata
+kimball adds category named process metadata
+hand
+niso distinguishes types metadata
+descriptive
+structural administrative
+descriptive metadata information search locate object title
+author
+subjects
+keywords
+publisher
+structural metadata give description components object organised
+administrative metadata refer technical information including file type
+types administrative metadata rights management metadata preservation metadata
+metadata
+metacontent
+correctly
+vocabularies assemble metadata
+metacontent
+statements
+typically structured standardized concept defined metadata scheme
+including
+metadata standards metadata models
+tools controlled vocabularies
+taxonomies
+thesauri
+data dictionaries metadata registries apply standardization metadata
+structural metadata commonality paramount importance data model development database design
+metadata
+metacontent
+syntax refers rules created structure fields elements metadata
+metacontent
+single metadata scheme expressed number markup programming languages
+requires syntax
+dublin core expressed plain text
+html
+xml rdf
+common
+guide
+metacontent bibliographic classification
+subject
+dewey decimal class number
+implied statement
+classification
+object
+classify object
+dewey class number
+topology
+books number spine
+implied statement
+subject predicate object triple
+importantly
+class attribute triple
+elements triple
+class
+attribute
+pieces structural metadata defined semantic
+element
+preferably controlled vocabulary
+reference
+master
+data
+combination metadata master data elements results statement metacontent statement
+metacontent metadata master data
+elements thought
+vocabulary
+metadata master data vocabularies assembled metacontent statements
+sources vocabularies
+meta master data
+uml
+edifact
+xsd
+dewey
+udc
+loc
+skos
+iso
+pantone
+linnaean binomial nomenclature
+controlled vocabularies components metacontent statements
+indexing finding
+endorsed iso
+indexer searcher guided choose term concept
+relevant documents retrieved
+relevant behemoth internet
+google
+simply indexing matching text strings
+intelligence
+inferencing
+occurring
+metadata schema hierarchical nature relationships exist metadata elements elements nested parent child relationships exist elements
+hierarchical metadata schema ieee lom schema metadata elements belong parent metadata element
+metadata schema dimensional
+linear
+element completely discrete elements classified dimension
+linear metadata schema dublin core schema dimensional
+metadata schema dimensional
+planar
+element completely discrete elements classified orthogonal dimensions
+cases metadata schemata exceed planar depiction
+type hypermapping required enable display view metadata chosen aspect serve special views
+hypermapping frequently applies layering geographical geological information overlays
+degree data metadata structured referred granularity
+metadata high granularity deeper structured information enable greater levels technical manipulation
+lower level granularity means metadata created considerably lower costs provide detailed information
+major impact granularity creation capture
+maintenance
+metadata structures outdated
+access referred data outdated
+granularity account effort create effort maintain
+international standards apply metadata
+work accomplished national international standards communities
+ansi
+american national standards institute
+iso
+international organization standardization
+reach consensus standardizing metadata registries
+core standard iso
+iec
+subsequent standards
+iso
+iec
+published registrations standard cover definition metadata serve structuring metadata storage retrieval administrative standardisation
+important note standard refers metadata data containers data metadata
+metacontent
+data data contents
+noted standard describes originally
+data element
+registry
+describing disembodied data elements
+explicitly disavows capability complex structures
+original term
+data element
+applicable applied buzzword
+metadata
+dublin core metadata terms set vocabulary terms describe resources purposes discovery
+original set classic metadata terms
+dublin core metadata element set endorsed standards documents
+standard
+microformat
+microformat
+mentionned section metadata internet
+web based approach semantic markup seeks existing html
+xhtml tags convey metadata
+microformat xhtml html standards standard
+advocate microformats
+tantek
+characterized problem alternative approaches
+data virtualization emerged software technology complete virtualization stack enterprise
+metadata data virtualization servers enterprise infrastructure components
+alongside database application servers
+metadata servers saved persistent repository describe business objects enterprise systems applications
+structural metadata commonality important support data virtualization
+svn maintains
+svn hidden files created web root folder reveal crucial information code repositories
+standardization work large impact efforts build metadata systems statistical community
+metadata standards
+importance statistical agencies discussed
+applications standards census bureau
+environmental protection agency
+bureau labor statistics
+statistics canada
+emphasis impact metadata registry statistical agency
+libraries employ metadata library catalogues
+commonly part integrated library management system
+metadata obtained cataloguing resources books
+periodicals
+dvds
+web pages digital images
+data stored integrated library management system
+ilms
+marc metadata standard
+purpose direct patrons physical electronic location items areas seek provide description item
+question
+recent specialized instances library metadata include establishment digital libraries including print repositories digital image libraries
+based library principles
+focus librarian
+providing metadata
+means follow traditional common cataloging approaches
+custom nature included materials
+metadata fields specially created
+taxonomic classification fields
+location fields
+keywords copyright statement
+standard file information file size format automatically included
+standardization library operation key topic international standardization
+iso
+decades
+standards metadata digital libraries include dublin core
+mets
+mods
+ddi
+iso standard digital object identifier
+doi
+iso standard uniform resource
+urn
+premis schema
+ecological metadata language
+oai pmh
+leading libraries world give hints metadata standards strategies
+problems involving metadata litigation united states widespread
+courts looked questions involving metadata
+including discoverability metadata parties
+federal rules civil procedure rules electronic documents
+subsequent case law elaborated requirement parties reveal metadata
+october
+arizona supreme court ruled metadata records public record
+document metadata proven important legal environments litigation requested metadata
+include sensitive information detrimental party court
+metadata removal tools
+clean
+documents mitigate risks unwittingly sending sensitive data
+process partially
+data remanence
+protects law firms potentially damaging leaking sensitive data electronic discovery
+australian researches medicine started lot metadata definition applications health care
+approach offers recognized attempt adhere international standards medical sciences defining proprietary standard umbrella
+medical community approve follow metadata standards respective research
+data warehouse
+repository organization electronically stored data
+data warehouses designed manage store data business intelligence
+focuses usage data facilitate reporting analysis
+purpose data warehouse house standardized
+structured
+consistent
+integrated
+correct
+cleansed timely data
+extracted operational systems organization
+extracted data integrated data warehouse environment order provide enterprise wide perspective
+version truth
+data structured specifically address reporting analytic requirements
+design structural metadata commonality data modeling method entity relationship model diagramming important data warehouse development effort
+essential component data warehouse
+business intelligence system metadata tools manage retrieve metadata
+ralph kimball describes metadata dna data warehouse metadata defines elements data warehouse work
+kimball
+refers main categories metadata
+technical metadata
+business metadata process metadata
+technical metadata primarily definitional
+business metadata process metadata primarily descriptive
+mind categories overlap
+html format define web pages inclusion variety types metadata
+basic descriptive text
+dates keywords advanced metadata schemes dublin core
+gms
+agls standards
+pages geotagged coordinates
+metadata included page header separate file
+microformats metadata added page data users
+computers readily access
+interestingly
+search engines cautious metadata ranking algorithms due exploitation metadata practice search engine optimization
+seo
+improve rankings
+meta element article discussion
+studies show search engines respond web pages metadata implementations
+broadcast industry
+metadata linked audio video broadcast media
+metadata linked video media video servers
+latest broadcasted sport events fifa world cup olympic games metadata distribute video content stations keywords
+host broadcaster charge organizing metadata international broadcast centre video servers
+metadata recorded images entered metadata operators
+loggers
+associate live metadata metadata grids software
+multicam
+lsm
+ipdirector fifa world cup olympic games
+metadata describe geographic objects
+datasets
+maps
+features
+simply documents geospatial component
+history dating back
+refer mit library page fgdc metadata
+class metadata fully geospatial metadata page
+ecological environmental metadata intended document
+data collection study
+metadata generated format commonly relevant science community
+darwin core
+ecological metadata language
+dublin core
+metadata editing tools exist facilitate metadata generation
+metavist
+mercury
+metadata search system
+morpho
+metadata describe provenance data
+originated
+transformations data underwent
+give credit
+cite
+data products
+cds recordings music carry layer metadata recordings dates
+artist
+genre
+copyright owner
+metadata
+displayed players
+accessed displayed specialized music playback
+editing applications
+metadata compressed uncompressed digital music encoded tag
+common editors taglib support
+ogg vorbis
+flac
+mpc
+speex
+wavpack trueaudio
+wav
+aiff
+asf file formats
+availability cloud applications
+include add metadata content
+metadata increasingly internet
+metadata stored internally
+file data
+externally
+separate file
+metadata embedded content called embedded metadata
+data repository typically stores metadata detached data
+ways advantages disadvantages
+question data format
+storing metadata human readable format xml users understand edit specialized tools
+hand
+formats optimized storage capacity
+store metadata binary
+human readable format speed transfer save memory
+metadata management end end process governance framework creating
+controlling
+enhancing
+attributing
+defining managing metadata schema
+model structured aggregation
+independently repository supporting processes
+enable management content
+world wide web consortium
+identified governance key challenge advancement generation web technologies
+web
+semantic web
+number research prototypes
+explore semantic modeling identify practical solutions
+relational database system mechanisms storing metadata
+examples relational database metadata include
+database terminology
+set metadata referred catalog
+sql standard specifies uniform means access catalog
+called information schema
+databases implement
+implement aspects sql standard
+database specific metadata access methods
+oracle metadata
+programmatic access metadata apis jdbc
+schemacrawler

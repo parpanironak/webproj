@@ -1,0 +1,572 @@
+Diode
+
+diode
+electronics
+diode terminal electronic component asymmetric transfer characteristic
+low
+ideally
+resistance current flow direction
+high
+ideally infinite
+resistance
+semiconductor diode
+common type today
+crystalline piece semiconductor material junction connected electrical terminals
+vacuum tube diode vacuum tube electrodes
+plate
+anode
+heated cathode
+common function diode electric current pass direction
+called diode forward direction
+blocking current opposite direction
+reverse direction
+diode viewed electronic version check valve
+unidirectional behavior called rectification
+convert alternating current direct current
+including extraction modulation radio signals radio diodes forms rectifiers
+diodes complicated behavior simple action
+semiconductor diodes begin conducting electricity threshold voltage cut voltage present forward direction
+state diode forward biased
+voltage drop forward biased diode varies current
+function temperature
+effect temperature sensor voltage reference
+semiconductor diodes nonlinear characteristic tailored varying semiconductor materials doping
+introducing impurities materials
+exploited special purpose diodes perform functions
+diodes regulate voltage
+zener diodes
+protect circuits high voltage surges
+avalanche diodes
+electronically tune radio receivers
+varactor diodes
+generate radio frequency oscillations
+tunnel diodes
+gunn diodes
+impatt diodes
+produce light
+light emitting diodes
+tunnel diodes exhibit negative resistance
+makes types circuits
+diodes semiconductor electronic devices
+discovery crystals rectifying abilities made german physicist ferdinand braun
+semiconductor diodes
+called cat whisker diodes
+developed
+made mineral crystals galena
+today diodes made silicon
+semiconductors germanium
+thermionic
+vacuum tube
+diodes solid state
+semiconductor
+diodes developed separately
+approximately time
+early
+radio receiver detectors
+vacuum tube diodes radios semiconductor alternatives
+cat whiskers
+stable
+receiving sets vacuum tubes amplification easily diodes included tube
+double diode triode
+vacuum tube rectifiers gas filled rectifiers handled high voltage
+high current rectification tasks capabilities semiconductor diodes
+selenium rectifiers
+time
+frederick guthrie discovered basic principle operation thermionic diodes
+guthrie discovered positively charged electroscope discharged bringing grounded piece white hot metal close
+touching
+apply negatively charged electroscope
+indicating current flow direction
+thomas edison independently rediscovered principle february
+time
+edison investigating filaments carbon filament light bulbs burned positive connected end
+special bulb made metal plate sealed glass envelope
+device
+confirmed invisible current flowed glowing filament vacuum metal plate
+plate connected positive supply
+edison devised circuit modified light bulb effectively replaced resistor voltmeter
+edison awarded patent invention
+apparent practical device time
+patent application simply precaution case find called edison effect
+years
+john ambrose fleming
+scientific adviser marconi company edison employee
+realized edison effect precision radio detector
+fleming patented true thermionic diode
+fleming valve
+britain november
+patent november
+german scientist karl ferdinand braun discovered
+unilateral conduction
+crystals
+braun patented crystal rectifier
+copper oxide selenium rectifiers developed power applications
+indian scientist jagadish chandra bose crystal detecting radio waves
+crystal detector developed practical device wireless telegraphy greenleaf whittier pickard
+invented silicon crystal detector received patent november
+experimenters variety substances
+widely mineral galena
+lead sulfide
+substances offered slightly performance
+galena widely advantage cheap easy obtain
+crystal detector early crystal radio sets consisted adjustable wire point contact
+called
+cat whisker
+manually moved face crystal order obtain optimum signal
+troublesome device superseded thermionic diodes
+high purity semiconductor materials
+crystal detector returned dominant advent inexpensive fixed germanium diodes
+time invention
+devices rectifiers
+year tetrodes invented
+william henry eccles coined term diode greek roots
+meaning
+ode
+meaning
+path
+diodes rectify
+term rectifier reserved higher currents voltages found rectification lower power signals
+examples include
+thermionic diodes thermionic valve devices
+vacuum tubes
+tubes
+valves
+arrangements electrodes surrounded vacuum glass envelope
+early examples fairly similar appearance incandescent light bulbs
+thermionic valve diodes
+current heater filament indirectly heats thermionic cathode
+internal electrode treated mixture barium strontium oxides
+oxides alkaline earth metals
+substances chosen small work function
+valves direct heating
+tungsten filament acts heater cathode
+heat thermionic emission electrons vacuum
+forward operation
+surrounding metal electrode called anode positively charged electrostatically attracts emitted electrons
+electrons easily released unheated anode surface voltage polarity reversed
+reverse flow negligible
+mercury arc valve
+arc forms refractory conductive anode pool liquid mercury acting cathode
+units made ratings hundreds kilowatts
+important development hvdc power transmission
+types smaller thermionic rectifiers mercury vapor fill reduce forward voltage drop increase current rating thermionic hard vacuum devices
+development semiconductor diodes
+valve diodes analog signal applications rectifiers power supplies
+rapidly ceased purposes
+exception high voltage high current applications subject large transient peaks
+robustness abuse makes choice
+enthusiasts favoured vacuum tube amplifiers audio applications
+valve semiconductor rectifiers
+symbol semiconductor diode circuit diagram specifies type diode
+alternate symbols types diodes
+differences minor
+diode
+light emitting diode
+led
+photodiode
+schottky diode
+transient voltage suppression
+tvs
+tunnel diode
+varicap
+zener diode
+point contact diode works junction diodes
+construction simpler
+block type semiconductor built
+conducting sharp point contact made group metal contact semiconductor
+metal migrates semiconductor make small region type semiconductor contact
+long popular germanium version radio receivers detector occasionally specialized analog electronics
+diodes today silicon junction diodes
+junction formed regions called depletion region
+junction diode made crystal semiconductor
+impurities added create region side negative charge carriers
+electrons
+called type semiconductor
+region side positive charge carriers
+holes
+called type semiconductor
+materials
+type type attached
+momentary flow electrons occur side resulting region charge carriers present
+called depletion region due absence charge carriers
+electrons holes case
+diode terminals attached regions
+boundary regions
+called junction
+action diode takes place
+crystal electrons flow type side
+called cathode
+type side
+called anode
+opposite direction
+type junction diode
+schottky diode
+formed junction junction
+reduces capacitance increases switching speed
+semiconductor behavior circuit characteristic
+graph
+graph
+shape curve determined transport charge carriers called depletion layer depletion region exists junction differing semiconductors
+junction created
+conduction band
+mobile
+electrons doped region diffuse doped region large population holes
+vacant places electrons
+electrons
+recombine
+mobile electron recombines hole
+hole electron vanish
+leaving immobile positively charged donor
+dopant
+side negatively charged acceptor
+dopant
+side
+region junction depleted charge carriers behaves insulator
+width depletion region
+called depletion width
+grow limit
+pair recombines
+positively charged dopant ion left doped region
+negatively charged dopant ion left doped region
+recombination proceeds ions created
+increasing electric field develops depletion zone acts slow finally stop recombination
+point
+built
+potential depletion zone
+external voltage diode polarity built potential
+depletion zone continues act insulator
+preventing significant electric current flow
+electron
+hole pairs actively created junction
+instance
+light
+photodiode
+reverse bias phenomenon
+polarity external voltage opposes built potential
+recombination proceed
+resulting substantial electric current junction
+substantial numbers electrons holes recombine junction
+silicon diodes
+built potential approximately
+germanium
+schottky
+external current passed diode
+developed diode doped region positive respect doped region diode
+turned
+forward bias
+characteristic approximated regions operation
+large reverse bias
+peak inverse voltage piv
+process called reverse breakdown occurs large increase current
+large number electrons holes created
+move junction
+damages device permanently
+avalanche diode deliberately designed avalanche region
+zener diode
+concept piv applicable
+zener diode heavily doped junction allowing electrons tunnel valence band type material conduction band type material
+reverse voltage
+clamped
+called zener voltage
+avalanche occur
+devices
+limit maximum current power clamped reverse voltage region
+end forward conduction diode
+reverse current short time
+device attain full blocking capability reverse current ceases
+region
+reverse biases positive piv
+small reverse saturation current
+reverse bias region normal rectifier diode
+current device low
+range
+temperature dependent
+sufficiently high temperatures
+substantial amount reverse current observed
+region forward small bias
+small forward current conducted
+potential difference increased arbitrarily defined
+cut voltage
+voltage
+diode forward voltage drop
+diode current appreciable
+level current considered
+appreciable
+cut voltage depends application
+diode presents low resistance
+curve exponential
+normal silicon diode rated currents
+arbitrary cut voltage defined
+volts
+diode diodes rated low
+germanium diodes
+red blue light emitting diodes
+leds
+values
+higher currents forward voltage drop diode increases
+drop
+typical full rated current power diodes
+shockley ideal diode equation diode law
+named transistor inventor william bradford shockley
+characteristic ideal diode forward reverse bias
+bias
+shockley ideal diode equation equation
+ideality factor
+equal
+thermal voltage approximately
+temperature close
+room temperature
+commonly device simulation software
+temperature constant defined
+boltzmann constant
+absolute temperature junction
+magnitude charge electron
+elementary charge
+reverse saturation current
+constant device
+varies temperature
+significantly
+typically decreases increases
+shockley ideal diode equation diode law derived assumption processes giving rise current diode drift
+due electrical field
+diffusion
+thermal
+equation derived setting
+assumes current depletion region insignificant
+means shockley ideal diode equation account processes involved reverse breakdown photon assisted
+additionally
+describe
+leveling
+curve high forward bias due internal resistance
+introducing ideality factor
+accounts recombination generation carriers
+reverse bias voltages
+figure
+exponential diode equation negligible
+current constant
+negative
+reverse current
+reverse breakdown region modeled shockley diode equation
+small forward bias voltages
+figure
+exponential large thermal voltage small
+subtracted diode equation negligible forward diode current approximated
+diode equation circuit problems illustrated article diode modeling
+circuit design
+small signal model diode behavior proves
+specific diode modeling discussed article small signal circuits
+end forward conduction type diode
+reverse current flows short time
+device attain blocking capability mobile charge junction depleted
+effect significant switching large currents quickly
+amount
+reverse recovery time
+order tens nanoseconds microseconds
+required remove reverse recovery charge diode
+recovery time
+diode conduct reverse direction
+real world cases important losses incurred ideal diode effect
+slew rate current severe
+line frequency
+effect safely
+applications
+effect negligible schottky diodes
+reverse current ceases abruptly stored charge depleted
+abrupt stop exploited step recovery diodes generation extremely short pulses
+types junction diodes
+emphasize physical aspect diode geometric scaling
+doping level
+choosing electrodes
+application diode special circuit
+devices gunn laser diode mosfet
+normal
+diodes
+operate
+made doped silicon
+rarely
+germanium
+development silicon power rectifier diodes
+cuprous oxide selenium
+low efficiency gave higher forward voltage drop
+typically
+cell
+multiple cells stacked increase peak inverse voltage rating high voltage rectifiers
+required large heat sink
+extension metal substrate
+larger silicon diode current ratings require
+vast majority diodes diodes found cmos integrated circuits
+include diodes pin internal diodes
+avalanche diodes
+whisker crystal diodes
+constant current diodes
+esaki tunnel diodes
+gunn diodes
+light emitting diodes
+leds
+laser diodes
+thermal diodes
+photodiodes
+pin diodes
+schottky diodes
+super barrier diodes
+gold doped diodes
+snap step recovery diodes
+stabistors forward reference diodes
+transient voltage suppression diode
+tvs
+varicap varactor diodes
+zener diodes
+semiconductor diodes include sensing temperature
+computing analog logarithms
+operational amplifier output
+number common
+standard manufacturer driven numbering coding schemes diodes
+common eia
+jedec standard european pro electron standard
+standardized series numbering system introduced eia
+jedec
+joint electron device engineering council
+popular series
+germanium signal
+silicon signal
+silicon power rectifier
+silicon power rectifier
+jis semiconductor designation system semiconductor diode designations starting
+european pro electron coding system active components introduced comprises letters part code
+letter represents semiconductor material component
+germanium silicon
+letter represents general function part
+diodes
+low power
+signal
+variable capacitance
+multiplier
+rectifier voltage reference
+common numbering
+coding systems
+generally manufacturer driven
+include
+common codes
+manufacturers organisations systems
+optics
+equivalent device diode laser light optical isolator
+optical diode
+light pass direction
+faraday rotator main component
+diode demodulation amplitude modulated
+radio broadcasts
+history discovery treated depth radio article
+summary
+signal consists alternating positive negative peaks radio carrier wave
+amplitude envelope proportional original audio signal
+diode
+originally crystal diode
+rectifies radio frequency signal
+leaving positive peaks carrier wave
+audio extracted rectified carrier wave simple filter fed audio amplifier transducer
+generates sound waves
+rectifiers constructed diodes
+convert alternating current
+electricity direct current
+automotive alternators common
+diode
+rectifies
+performance commutator earlier
+dynamo
+similarly
+diodes voltage multipliers convert higher voltages
+diodes frequently conduct damaging high voltages sensitive electronic devices
+reverse biased
+conducting
+normal circumstances
+voltage rises normal range
+diodes forward biased
+conducting
+diodes
+stepper motor bridge
+motor controller relay circuits energize coils rapidly damaging voltage spikes occur
+diode application called flyback diode
+integrated circuits incorporate diodes connection pins prevent external voltages damaging sensitive transistors
+specialized diodes protect voltages higher power
+diode types
+diodes combined components construct logic gates
+referred diode logic
+addition light
+mentioned
+semiconductor diodes sensitive energetic radiation
+electronics
+cosmic rays sources ionizing radiation noise pulses single multiple bit errors
+effect exploited particle detectors detect radiation
+single particle radiation
+thousands millions electron volts energy
+generates charge carrier pairs
+energy deposited semiconductor material
+depletion layer large catch shower stop heavy particle
+fairly accurate measurement energy made
+simply measuring charge conducted complexity magnetic spectrometer
+semiconductor radiation detectors efficient uniform charge collection low leakage current
+cooled liquid nitrogen
+longer range
+centimetre
+particles
+large depletion depth large area
+short range particles
+contact depleted semiconductor surface thin
+back bias voltages breakdown
+thousand volts centimetre
+germanium silicon common materials
+detectors sense position energy
+finite life
+detecting heavy particles
+radiation damage
+silicon germanium ability convert gamma rays electron showers
+semiconductor detectors high energy particles large numbers
+energy loss fluctuations
+accurate measurement energy deposited
+diode temperature measuring device
+forward voltage drop diode depends temperature
+silicon bandgap temperature sensor
+shockley ideal diode equation
+voltage positive temperature coefficient
+constant current
+variation reverse saturation current term significant variation thermal voltage term
+diodes negative temperature coefficient
+typically
+silicon diodes room temperature
+approximately linear temperatures kelvins
+graphs
+series
+cryogenic temperature sensor
+diodes prevent currents unintended directions
+supply power electrical circuit power failure
+circuit draw current battery
+uninterruptible power supply diodes ensure current drawn battery
+likewise
+small boats typically circuits battery
+batteries
+engine starting
+domestics
+charged single alternator
+heavy duty split charge diode prevent higher charge battery
+typically engine battery
+discharging lower charge battery alternator running
+diodes electronic musical keyboards
+reduce amount wiring needed electronic musical keyboards
+instruments keyboard matrix circuits
+keyboard controller scans rows columns determine note player pressed
+problem matrix circuits
+notes pressed
+current flow backwards circuit trigger
+phantom keys
+ghost
+notes play
+avoid triggering unwanted notes
+keyboard matrix circuits diodes soldered switch key musical keyboard
+principle switch matrix solid state pinball machines
+diodes referred diode pcbs
+abbreviation crystal rectifier
+terminal nonlinear devices exist
+neon lamp terminals glass envelope interesting nonlinear properties
+lamps including arc discharge lamps
+incandescent lamps
+fluorescent lamps mercury vapor lamps terminals display nonlinear characteristics

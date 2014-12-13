@@ -1,0 +1,106 @@
+Graph isomorphism
+
+graph isomorphism
+graph theory
+isomorphism graphs bijection vertex sets
+vertices adjacent
+adjacent
+kind bijection commonly called
+edge preserving bijection
+accordance general notion isomorphism structure preserving bijection
+definition
+graphs understood undirected labeled weighted graphs
+notion isomorphism applied variants notion graph
+adding requirements preserve additional elements structure
+arc directions
+edge weights
+exception
+spoken graph labeling unique labels
+commonly integer range
+number vertices graph
+labeled graphs isomorphic underlying unlabeled graphs isomorphic
+isomorphism exists graphs
+graphs called isomorphic write image
+math
+png
+case bijection mapping graph
+graph
+bijection called automorphism
+graph isomorphism equivalence relation graphs partitions class graphs equivalence classes
+set graphs isomorphic called isomorphism class graphs
+graphs shown isomorphic
+drawings
+formal notion
+isomorphism
+graph isomorphism
+captures informal notion objects
+structure
+ignores individual distinctions
+atomic
+components objects question
+individuality
+atomic
+components
+vertices edges
+graphs
+important correct representation modeled graphs
+model refined imposing additional restrictions structure
+mathematical objects
+digraphs
+labeled graphs
+colored graphs
+rooted trees
+isomorphism relation defined generalizations graphs
+isomorphism bijection preserve elements structure define object type question
+arcs
+labels
+vertex
+edge colors
+root rooted tree
+notion
+graph isomorphism
+distinguish graph properties inherent structures graphs properties graph representations
+graph drawings
+data structures graphs
+graph labelings
+graph cycle
+graphs isomorphism class cycle
+hand
+common case vertices graph
+represented
+integers
+expression
+isomorphic graphs
+whitney graph isomorphism theorem
+shown
+whitney
+states connected graphs isomorphic line graphs isomorphic
+single exception
+complete graph vertices
+complete bipartite graph
+isomorphic line graph
+whitney graph theorem extended hypergraphs
+graph isomorphism studied classical mathematical
+exemplified whitney theorem
+recognized problem tackled algorithmic approach
+computational problem determining finite graphs isomorphic called graph isomorphism problem
+practical applications include primarily cheminformatics
+mathematical chemistry
+identification chemical compounds
+electronic design automation
+verification equivalence representations design electronic circuit
+graph isomorphism problem standard problems computational complexity theory belonging
+belong
+disjoint
+subsets
+complete
+total
+problems listed garey johnson
+complexity remains unresolved
+integer factorization
+problem complete polynomial hierarchy collapses finite level
+generalization
+subgraph isomorphism problem
+complete
+main areas research problem design fast algorithms theoretical investigations computational complexity
+general problem special classes graphs

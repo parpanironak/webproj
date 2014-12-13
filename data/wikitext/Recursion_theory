@@ -1,0 +1,456 @@
+Computability theory
+
+computability theory
+computability theory
+called recursion theory
+branch mathematical logic
+computer science
+theory computation originated study computable functions turing degrees
+field grown include study generalized computability definability
+areas
+recursion theory overlaps proof theory effective descriptive set theory
+basic questions addressed recursion theory
+function natural numbers computable
+noncomputable functions classified hierarchy based level noncomputability
+answers questions led rich theory actively researched
+recursion theorists mathematical logic study theory relative computability
+reducibility notions degree structures article
+contrasts theory subrecursive hierarchies
+formal methods formal languages common study computability theory computer science
+considerable overlap knowledge methods research communities
+firm line drawn
+recursion theory originated
+work kurt
+alonzo church
+alan turing
+stephen kleene emil post
+fundamental results researchers obtained established turing computability correct formalization informal idea effective calculation
+results led stephen kleene
+coin names
+church thesis
+kleene
+turing thesis
+nowadays considered single hypothesis
+thesis
+states function computable algorithm computable function
+initially skeptical
+argued favor thesis
+definition effective calculation proofs problems mathematics effectively decided
+church
+turing
+inspired techniques
+prove incompleteness theorems
+independently demonstrated entscheidungsproblem effectively decidable
+result showed algorithmic procedure correctly decide arbitrary mathematical propositions true false
+problems mathematics shown undecidable initial examples established
+markov post published independent papers showing word problem semigroups effectively decided
+extending result
+pyotr novikov william boone showed independently word problem groups effectively solvable
+effective procedure
+word finitely presented group
+decide element represented word identity element group
+yuri matiyasevich proved
+results julia robinson
+matiyasevich theorem
+implies hilbert tenth problem effective solution
+problem asked effective procedure decide diophantine equation integers solution integers
+list undecidable problems additional examples problems computable solution
+study mathematical constructions effectively performed called recursive mathematics
+handbook recursive mathematics
+ershov
+covers results field
+main form computability studied recursion theory introduced turing
+set natural numbers computable set
+called decidable
+recursive
+turing computable set
+turing machine
+number
+halts output set halts output set
+function natural numbers recursive
+turing
+computable function turing machine
+input
+halts returns output
+turing machines
+models computation computing power turing machines
+recursive functions obtained primitive recursion operator
+terminology recursive functions sets completely standardized
+definition terms recursive functions definition rekursiv functions led traditional recursive sets functions computable turing machine
+word decidable stems german word entscheidungsproblem original papers turing
+contemporary
+term
+computable function
+definitions
+cutland
+partial recursive function
+undefined inputs
+soare
+total recursive
+equivalently
+general recursive
+function
+article conventions
+soare
+additional comments terminology
+set natural numbers computable
+halting problem
+set
+descriptions
+turing machines halt input
+noncomputable set
+existence noncomputable sets facts countably turing machines
+countably computable sets
+uncountably sets natural numbers
+halting problem computable
+simulate program execution produce infinite list programs halt
+halting problem recursively enumerable set
+set enumerated turing machine
+terms recursively enumerable include computably enumerable semidecidable
+equivalently
+set recursively enumerable range computable function
+recursively enumerable sets
+decidable general
+studied detail recursion theory
+beginning theory recursive sets functions
+field recursion theory grown include study closely related topics
+independent areas research
+areas draws ideas results
+recursion theorists familiar majority
+recursion theory mathematical logic traditionally focused relative computability
+generalization turing computability defined oracle turing machines
+introduced turing
+oracle turing machine hypothetical device
+addition performing actions regular turing machine
+questions oracle
+set natural numbers
+oracle machine questions form
+oracle set
+question immediately answered correctly
+oracle set computable
+oracle machine noncomputable oracle compute sets computable oracle
+informally
+set natural numbers turing reducible set oracle machine correctly tells numbers run oracle set
+case
+set
+computable recursive
+set turing reducible set turing reducible sets turing degree
+called degree unsolvability
+turing degree set precise measure uncomputable set
+natural examples sets computable
+including sets encode variants halting problem
+properties common
+reductions
+stronger
+turing reductions
+set reducible set
+turing reducible
+converse hold
+natural examples noncomputable sets equivalent
+construct recursively enumerable sets turing reducible reducible
+shown recursively enumerable set reducible halting problem
+halting problem complicated recursively enumerable set respect reducibility respect turing reducibility
+post
+asked recursively enumerable set computable turing equivalent halting problem
+recursively enumerable set turing degree intermediate
+intermediate results
+post defined natural types recursively enumerable sets simple
+hypersimple hyperhypersimple sets
+post showed sets strictly computable sets halting problem respect reducibility
+post showed strictly intermediate reducibility notions stronger turing reducibility
+post left open main problem existence recursively enumerable sets intermediate turing degree
+problem post problem
+ten years
+kleene post showed intermediate turing degrees computable sets halting problem
+failed show degrees recursively enumerable set
+friedberg muchnik independently solved post problem establishing existence recursively enumerable sets intermediate degree
+groundbreaking result opened wide study turing degrees recursively enumerable sets turned possess complicated trivial structure
+uncountably sets recursively enumerable
+investigation turing degrees sets central recursion theory investigation recursively enumerable turing degrees
+degrees special properties constructed
+hyperimmune free degrees function computable relative degree majorized
+unrelativized
+computable function
+high degrees relative compute function dominates computable function sense constant depending
+random degrees algorithmically random sets
+generic degrees generic sets
+degrees halting problem limit recursive sets
+study arbitrary
+necessarily recursively enumerable
+turing degrees involves study turing jump
+set
+turing jump set natural numbers encoding solution halting problem oracle turing machines running oracle
+turing jump set higher turing degree original set
+theorem friedburg shows set computes halting problem obtained turing jump set
+post theorem establishes close relationship turing jump operation arithmetical hierarchy
+classification subsets natural numbers based definability arithmetic
+recent research turing degrees focused structure set turing degrees set turing degrees recursively enumerable sets
+deep theorem shore slaman
+states function mapping degree degree turing jump definable partial order turing degrees
+recent survey ambos spies fejer
+overview research historical progression
+ongoing area research recursion theory studies reducibility relations turing reducibility
+post
+introduced strong reducibilities
+named imply truth table reducibility
+turing machine implementing strong reducibility compute total function oracle presented
+weak reducibilities reduction process terminate oracles
+turing reducibility
+strong reducibilities include
+reducibilities
+positive
+disjunctive
+conjunctive
+linear weak bounded versions
+discussed article reduction
+recursion theory
+major research strong reducibilities compare theories
+class recursively enumerable sets class subsets natural numbers
+relations reducibilities studied
+turing degree truth table degree union infinitely truth table degrees
+reducibilities weaker turing reducibility
+reducibilities implied turing reducibility
+studied
+arithmetical reducibility hyperarithmetical reducibility
+reducibilities closely connected definability standard model arithmetic
+rice showed nontrivial class
+sets
+index set
+eth
+set property halting problem complement reducible
+mapped reduction
+rice theorem detail
+index sets complicated halting problem
+type sets classified arithmetical hierarchy
+index set fin class finite sets level
+index set rec class recursive sets level
+index set cofin cofinite sets level index set comp class turing complete sets
+hierarchy levels defined inductively
+sets recursively enumerable relative
+recursively enumerable sets
+index sets complete levels
+sets levels reduced index sets
+program reverse mathematics asks set existence axioms prove theorems mathematics subsystems order arithmetic
+study initiated harvey friedman studied detail stephen simpson
+simpson
+detailed discussion program
+set existence axioms question correspond informally axioms powerset natural numbers closed reducibility notions
+weakest axiom studied reverse mathematics recursive comprehension
+states powerset naturals closed turing reducibility
+numbering enumeration functions
+parameters
+outputs function numbering input
+numberings partial recursive members total recursive
+computable functions
+admissible numberings translated
+friedberg numbering
+named discoverer
+numbering partial recursive functions
+necessarily admissible numbering
+research dealt numberings classes classes recursively enumerable sets
+goncharov discovered class recursively enumerable sets numberings fall classes respect recursive isomorphisms
+post problem solved method called priority method
+proof method called priority argument
+method primarily construct recursively enumerable sets properties
+method
+desired properties set constructed broken infinite list goals
+requirements
+satisfying requirements set constructed desired properties
+requirement assigned natural number representing priority requirement
+assigned important priority
+important
+set constructed stages
+stage attempting satisfy requirements adding numbers set banning numbers set final set satisfy requirement
+happen satisfying requirement unsatisfied
+priority order decide event
+priority arguments employed solve problems recursion theory
+classified hierarchy based complexity
+soare
+complex priority arguments technical difficult follow
+traditionally considered desirable prove results priority arguments
+results proved priority arguments proved
+kummer published paper proof existence friedberg numberings priority method
+post defined notion simple set
+set infinite complement infinite
+set
+started study structure recursively enumerable sets inclusion
+lattice studied structure
+recursive sets defined structure basic result set recursive set complement recursively enumerable
+infinite
+sets infinite recursive subsets
+hand
+simple sets exist coinfinite recursive superset
+post
+introduced hypersimple hyperhypersimple sets
+maximal sets constructed
+sets
+superset finite variant maximal set finite
+post original motivation study lattice find structural notion set satisfies property turing degree recursive sets turing degree halting problem
+post find property solution problem applied priority methods
+harrington soare
+found eventually property
+important question existence automorphisms recursion theoretic structures
+structures recursively enumerable sets inclusion modulo finite difference
+structure
+set difference finite
+maximal sets
+defined previous paragraph
+property automorphic maximal sets
+automorphism recursive enumerable sets structure mentioned
+maximal set mapped maximal set
+soare
+showed converse holds
+maximal sets automorphic
+maximal sets form orbit
+automorphism preserves maximality maximal sets transformed automorphism
+harrington gave automorphic property
+creative sets
+sets equivalent halting problem
+lattice recursively enumerable sets
+automorphisms studied structure turing degrees sets structure turing degrees
+sets
+cases
+cooper claims constructed nontrivial automorphisms map degrees degrees
+construction
+verified colleagues construction errors question nontrivial automorphism turing degrees main unsolved questions area
+slaman woodin
+ambos spies fejer
+field kolmogorov complexity algorithmic randomness developed chaitin
+kolmogorov
+levin
+martin solomonoff
+names alphabetical order
+research independent
+unity concept randomness understood time
+main idea universal turing machine measure complexity number
+string
+length shortest input
+outputs
+approach revolutionized earlier ways determine infinite sequence
+equivalently
+characteristic function subset natural numbers
+random invoking notion randomness finite objects
+kolmogorov complexity subject independent study applied subjects tool obtaining proofs
+open problems area
+reason
+recent research conference area held january list open problems maintained joseph miller andre nies
+branch recursion theory analyzed question
+fixed
+functions compute inputs
+tuple numbers
+equations
+true
+sets
+recursive sets
+major result branch recursion theory trakhtenbrot result set computable
+recursive
+hand
+jockusch semirecursive sets
+informally jockusch introduced
+examples set
+recursive
+uncountably sets recursively enumerable noncomputable sets type
+degtev established hierarchy recursively enumerable sets
+recursive
+recursive
+long phase research russian scientists
+subject repopularized west beigel thesis bounded queries
+linked frequency computation mentioned bounded reducibilities related notions
+major results kummer cardinality theory states set computable algorithm enumerates tuple numbers choices cardinality set numbers intersected
+choices true cardinality leave false
+recursion theoretic branch learning theory
+based gold model learning limit developed models learning
+general scenario
+class computable functions
+learner
+recursive functional
+outputs input form
+hypothesis
+learner learns function hypotheses index respect previously agreed acceptable numbering computable functions
+learns learns
+basic results recursively enumerable classes functions learnable class rec computable functions learnable
+related models considered learning classes recursively enumerable sets positive data topic studied gold pioneering paper onwards
+recursion theory includes study generalized notions field arithmetic reducibility
+hyperarithmetical reducibility recursion theory
+sacks
+generalized notions include reducibilities executed turing machines natural generalizations turing reducibility
+studies include approaches investigate analytical hierarchy differs arithmetical hierarchy permitting quantification sets natural numbers addition quantification individual numbers
+areas linked theories orderings trees
+set indices recursive
+nonbinary
+trees infinite branches complete level image
+math
+png analytical hierarchy
+turing reducibility hyperarithmetical reducibility important field effective descriptive set theory
+general notion degrees constructibility studied set theory
+computability theory digital computation developed
+computability theory developed analog computation occurs analog computers
+analog signal processing
+analog electronics
+neural networks continuous time control theory
+modelled differential equations continuous dynamical systems
+close relationships turing degree set natural numbers difficulty
+terms arithmetical hierarchy
+defining set order formula
+relationship made precise post theorem
+weaker relationship demonstrated kurt proofs completeness theorem incompleteness theorems
+proofs show set logical consequences effective order theory recursively enumerable set
+theory strong set uncomputable
+similarly
+tarski indefinability theorem interpreted terms definability terms computability
+recursion theory linked order arithmetic
+formal theory natural numbers sets natural numbers
+fact sets computable computable implies sets defined weak subsystems order arithmetic
+program reverse mathematics subsystems measure noncomputability inherent mathematical theorems
+discusses aspects order arithmetic reverse mathematics
+field proof theory includes study order arithmetic peano arithmetic
+formal theories natural numbers weaker peano arithmetic
+method classifying strength weak systems characterizing computable functions system prove total
+fairtlough wainer
+primitive recursive arithmetic computable function provably total primitive recursive
+peano arithmetic proves functions ackerman function
+primitive recursive
+total
+total computable function provably total peano arithmetic
+function provided goodstein theorem
+field mathematical logic dealing computability generalizations called
+recursion theory
+early days
+robert
+soare
+prominent researcher field
+proposed
+soare
+field called
+computability theory
+argues turing terminology word
+computable
+natural widely understood terminology word
+recursive
+introduced kleene
+contemporary researchers begun alternate terminology
+researchers terminology partial computable function computably enumerable
+set partial recursive function recursively enumerable
+set
+researchers convinced
+explained fortnow simpson
+commentators argue names recursion theory computability theory fail convey fact objects studied recursion theory computable
+rogers
+suggested key property recursion theory results structures invariant computable bijections natural numbers
+suggestion draws ideas erlangen program geometry
+idea computable bijection renames numbers set
+indicating structure set
+rotation euclidean plane change geometric aspect lines drawn
+infinite computable sets linked computable bijection
+proposal identifies infinite computable sets
+finite computable sets viewed trivial
+rogers
+sets interest recursion theory noncomputable sets
+partitioned equivalence classes computable bijections natural numbers
+main professional organization recursion theory association symbolic logic
+holds research conferences year
+interdisciplinary research association computability europe
+cie
+organizes series annual conferences
+cie turing centenary conference
+held cambridge part alan turing year
