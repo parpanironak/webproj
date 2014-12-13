@@ -12,12 +12,18 @@ app.controller('MyCtrl', function($scope, $http){
   $scope.nextflag = true
   $scope.prevflag = true
   $scope.results = []
-  $scope.doSomething = function(typedthings){
+  $scope.doSomething = function(typedthings, user){
     //console.log("Do something like reload data with this: " + typedthings );
-	
+	console.log("do something user test:" + user)
 	if(typedthings.length > 0)
     {
-		$http.get("http://localhost:25809/search?query="+typedthings+"&ranker=comprehensive").success(function(response) 
+		var temp = ""
+		if(user.length > 0)
+			temp = "http://localhost:25809/instant?query="+typedthings+"&username="+user;
+		else
+			temp = "http://localhost:25809/instant?query="+typedthings
+		
+		$http.get().success(function(response) 
 		{$scope.suggest = response.data});
 	}
 	else

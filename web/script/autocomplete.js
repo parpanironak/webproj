@@ -57,7 +57,7 @@ app.directive('autocomplete', function() {
 
         // function thats passed to on-type attribute gets executed
         if($scope.onType)
-          $scope.onType($scope.searchParam);
+          $scope.onType($scope.searchParam, $scope.username);
 		  
 		
       });
@@ -101,7 +101,7 @@ app.directive('autocomplete', function() {
 	  $scope.search = function(){
 	  	if($scope.searchParam){
 			if($scope.onSearchRange)
-            	$scope.onSearchRange($scope.searchParam, 0, 10);
+            	$scope.onSearchRange($scope.searchParam, 0, 10,$scope.username);
 		}
 	  };
 	  
@@ -116,7 +116,7 @@ app.directive('autocomplete', function() {
 	  	console.log($scope.username)
 		if($scope.searchParam){ 
 			if($scope.onSearchRange)
-            	$scope.onSearchRange($scope.searchParam, start, end);
+            	$scope.onSearchRange($scope.searchParam, start, end, $scope.username);
 		}
 	  };
 	  
