@@ -242,7 +242,7 @@ public class SearchEngine {
     //This indexer indexes query suggestions
     //It suggests queries when users type partial queries
     QIndexerInvertedCompressed qindexer = new QIndexerInvertedCompressed(SearchEngine.OPTIONS);
-    //qindexer.loadIndex();
+    qindexer.loadIndex();
     InstantQueryHandler instantHandler = new InstantQueryHandler(qindexer);
     
     // Create the handler and its associated indexer.

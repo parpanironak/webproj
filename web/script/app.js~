@@ -18,7 +18,7 @@ app.controller('MyCtrl', function($scope, $http){
 	if(typedthings.length > 0)
         {
 		$http.get("http://localhost:25809/instant?query="+typedthings+"&username=kumar").success(function(response) 
-		{$scope.suggest = response.data});
+		{$scope.suggest = response.title});
 	}
 	else
 		$scope.suggest = []
