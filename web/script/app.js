@@ -21,7 +21,7 @@ app.controller('MyCtrl', function($scope, $http){
 		var temp = ""
 		
 		
-		if(user == 'undefined')
+		if(user)
 			temp = "http://localhost:25809/instant?query="+typedthings
 		else if(user.length <= 0)
 			temp = "http://localhost:25809/instant?query="+typedthings 
@@ -64,7 +64,7 @@ app.controller('MyCtrl', function($scope, $http){
 	if(query.length > 0)
 	{
 		var temp = ""
-		if(user == 'undefined')
+		if(user)
 			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end;
 		else if(user.length <= 0)
 			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end;
