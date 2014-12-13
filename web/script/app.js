@@ -39,9 +39,7 @@ app.controller('MyCtrl', function($scope, $http){
 				$scope.data = response.data;
 			 	$scope.total = response.total;
 				$scope.next = {}
-  				$scope.prev = {}
-				
-								
+  				$scope.prev = {}			
 			 	
 			});
   }
@@ -49,11 +47,18 @@ app.controller('MyCtrl', function($scope, $http){
   $scope.searchrequestrange = function(query, start, end, user){
 	
 
-		console.log(user)	
+	console.log(user)	
 	
   	console.log("Suggestion selected: " + query);
 	if(query.length > 0)
-    	$http.get("http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end).success(
+	{
+		var temp = ""
+		if(user.length > 0)
+			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end+"&username="+user;
+		else
+			temp = "http://localhost:25809/search?query="+query+"&ranker=comprehensive&start="+start+"&end="+end;
+				
+    	$http.get(temp).success(
 		function(response) 
 			{
 				$scope.data = response.data;
@@ -89,6 +94,7 @@ app.controller('MyCtrl', function($scope, $http){
 				console.log($scope.nextflag);
 				console.log($scope.prevflag);			 
 			});
+	}
   }
 
 
