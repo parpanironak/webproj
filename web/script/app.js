@@ -16,8 +16,8 @@ app.controller('MyCtrl', function($scope, $http){
     //console.log("Do something like reload data with this: " + typedthings );
 	
 	if(typedthings.length > 0)
-        {
-		$http.get("http://localhost:25809/instant?query="+typedthings+"&username=kumar").success(function(response) 
+    {
+		$http.get("http://localhost:25809/search?query="+typedthings+"&ranker=comprehensive").success(function(response) 
 		{$scope.suggest = response.data});
 	}
 	else
