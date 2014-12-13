@@ -55,6 +55,7 @@ for file in wiki:
 
     if heading:
         print(heading, file=opfile);
+        print(heading, file=opfile);
 
     if paragraphlist:
         for p in paragraphlist:

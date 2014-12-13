@@ -3,6 +3,7 @@ package edu.nyu.cs.cs2580;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
@@ -14,27 +15,24 @@ import java.util.Set;
 import java.util.SortedMap;
 import java.util.Vector;
 
-import edu.nyu.cs.cs2580.QueryHandler.CgiArguments;
+import edu.nyu.cs.cs2580.InstantQueryHandler.CgiArguments;
 import edu.nyu.cs.cs2580.SearchEngine.Options;
 
 public class QueryRanker {
   
   private QIndexerInvertedCompressed qindexer;
-  private Options _options;
-  private CgiArguments _arguments;
   private int numSuggestionsFromTrie = 20;
   private double lambda1 = 0.2;
   private double lambda2 = 9000;
   private double lambda3 = 999;
-  private double lambda4 = 0.8;
+  private double lambda4 = 0.6;
+  private double lambda5 = 0.2;
   
-  protected QueryRanker(Options options, CgiArguments arguments, QIndexerInvertedCompressed qindexer) {
-    _options = options;
-    _arguments = arguments;
+  protected QueryRanker(QIndexerInvertedCompressed qindexer) {
     this.qindexer = qindexer;
   }
   
-  public Vector<ScoredQueryDocument> runQuery(final Query query, int numResults) {
+  public Vector<ScoredQueryDocument> runQuery(final Query query, CgiArguments cgiArgs) {
     //We use the trie to try to complete the last word being typed
     Vector<ScoredQueryDocument> results = new Vector<ScoredQueryDocument>();
     String lastWord = query._tokens.get(query._tokens.size()-1);
@@ -134,6 +132,9 @@ public class QueryRanker {
         break;
       }
     }
+    
+    int numResults = cgiArgs.numQueryResults;
+    
     Collections.sort(results, Collections.reverseOrder());
     for(int j=results.size()-1;j>=numResults;j--) {
       results.remove(j);

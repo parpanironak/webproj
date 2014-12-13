@@ -49,6 +49,8 @@ public class QIndexerInvertedCompressed implements Serializable{
   protected long totalwordsincorpus = 0;
   protected long totalnumviews = 0;
   
+  protected HashMap<String,HashMap<String,Integer>> userData = new HashMap<String,HashMap<String,Integer>>();
+  
   protected PatriciaTrie<String, Double> trie = new PatriciaTrie<String, Double>(StringKeyAnalyzer.INSTANCE);
   private HashMap<String,HashMap<String,Double>> coOccurrenceMap = new HashMap<String,HashMap<String,Double>>();
   
