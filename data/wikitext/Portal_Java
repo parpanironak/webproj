@@ -1,0 +1,254 @@
+Portal:Java
+
+java platform
+micro edition
+java
+java platform designed embedded systems
+mobile devices kind systems
+target devices range industrial controls mobile phones
+feature phones
+set top boxes
+java java platform
+micro edition
+java designed sun microsystems
+acquired oracle corporation
+platform replaced similar technology
+personaljava
+originally developed java community process jsr
+flavors java evolved separate jsrs
+sun reference implementation specification
+tended provide free binary implementations java runtime environment mobile devices
+relying parties provide
+december
+java source code licensed gnu general public license
+released project phoneme
+java platforms restricted jre
+features version class file format
+internally version
+oracle declare round java configuration versions support class file formats language features
+jre
+notably
+generics
+entail extra work part platform vendors update jres
+java devices implement profile
+common mobile information device profile aimed mobile devices
+cell phones
+personal profile aimed consumer products embedded devices set top boxes pdas
+profiles subsets configurations
+connected limited device configuration
+cldc
+connected device configuration
+cdc
+billion java enabled mobile phones pdas
+today newest mobile platforms
+iphone
+windows phone
+blackberry
+android
+continues popular devices nokia series
+bada operating system symbian native software
+implementations windows
+windows mobile
+maemo
+meego android separate download
+connected limited device configuration
+cldc
+strict subset java class libraries
+minimum amount needed java virtual machine operate
+cldc basically classifying myriad devices fixed configuration
+configuration basic set libraries virtual machine features present implementation environment
+coupled profiles
+connected limited device configuration developers solid java platform creating applications consumer embedded devices
+configuration designed devices total memory
+minimum rom ram java platform
+designed mobile phones
+mobile information device profile includes gui
+data storage api
+midp
+includes basic gaming api
+applications written profile called midlets
+cell phones midp implementation
+facto standard downloadable cell phone games
+cellphones run midlets approved carrier
+north america
+citation needed
+jsr
+mobile information device profile
+final release dec
+generation mobile information device profile
+expanding functionality areas improving interoperability devices
+key design goal backward compatibility content
+information module profile
+imp
+profile embedded
+headless
+devices vending machines
+industrial embedded applications
+security systems
+similar devices simple display limited network connectivity
+originally introduced siemens mobile nokia jsr
+imp
+strict subset midp
+include user interface apis words
+include support java package javax
+microedition
+lcdui
+jsr
+imp
+imp generation based midp
+leveraging midp
+security networking types apis
+apis pushregistry platformrequest
+include apis
+game
+connected device configuration subset java
+libraries gui related
+richer cldc
+foundation profile java connected device configuration
+cdc
+profile
+profile intended devices requiring complete implementation java virtual machine including entire java platform
+standard edition api
+typical implementations subset api set depending additional profiles supported
+specification developed java community process
+personal basis profile extends foundation profile include lightweight gui support form awt subset
+platform built
+sun reference implementation configurations profiles midp cdc
+starting javame
+sdk
+netbeans based ide support single ide
+contrast numerous binary implementations java platform built sun servers workstations
+sun provide binaries platforms java targets exception midp
+jre
+jvm
+palm
+sun jre microsoft windows mobile
+pocket
+based devices
+open letter campaign sun release rumored internal implementation personaljava code
+captain america
+party implementations jblend jbed widely windows mobile vendors htc samsung
+operating systems targeting java implemented docomo form doja
+savaje savaje
+company purchased sun april forms basis sun javafx mobile
+company java virtual machine
+microjvm
+rtos rtos
+qualified baremetal
+baremetal
+virtual machine
+rtos
+device boots java
+microemulator open source
+lgpl
+implementation midp emulator
+java applet based emulator embedded web pages
+open source mika aims implement javame cdc
+certified
+certified implementations required charge royalties
+impractical open source project
+devices implementation allowed claim javame cdc compatibility
+esr consortium devoted standards embedded java
+cost effective standards
+typical applications domains industrial control
+machine machine
+medical
+metering
+home automation
+consumer
+human machine interface
+typical photo sun tech days java events
+held spain
+image
+commons
+aujac sun tech day sabadell
+jpg
+information
+patrick naughton
+born
+american software developer
+original creators java programming language
+sun engineer
+patrick naughton increasingly frustrated state sun apis
+application programming interfaces
+tools
+moving
+naughton offered chance work technology stealth project started
+stealth project renamed green project james gosling mike sheridan joining naughton
+engineers
+began work small office sand hill road menlo park
+california
+attempting develop technology programming generation smart appliances
+sun expected major opportunity
+june july
+days brainstorming john gage
+director science sun
+james gosling
+bill joy
+naughton
+wayne rosing
+eric schmidt
+team targeted platform world wide web
+felt advent graphical web browser
+mosaic
+internet evolving highly interactive medium envisioned cable
+prototype
+naughton wrote small browser
+webrunner
+renamed hotjava
+read
+trick software
+piece software written
+java released
+javascript named essentially unrelated java
+java original
+green
+oak
+stealth
+firstperson
+duke coffee
+true false
+interface private protected
+lists
+articles
+alexnewartbot
+articles recently identified possibly java related
+list generated rules
+questions feedback
+search run manually
+eventually run recent days results
+alexnewartbot archives tedderbot archives rules match log errors
+opened wikiproject java
+portal
+enjoy
+java
+bot
+java applet experimentation tunings bach temperaments
+globetrotter
+selected soundindex
+html
+portal
+java
+selected sound
+sound
+learn cool features jdk danny coward
+chief architect client software sun microsystems
+blip
+selected videoindex
+html
+portal
+java
+selected video
+video
+category java applets
+category
+java applets
+java part wider categories computing computer science
+image
+commons
+thumb
+gore
+jpg
+gore
+jpg
+read edit wikiquote

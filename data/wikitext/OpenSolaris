@@ -1,0 +1,238 @@
+OpenSolaris
+
+opensolaris
+opensolaris
+pron
+open source computer operating system based solaris created sun microsystems
+project initiated sun build developer user community software
+acquisition sun microsystems
+oracle decided discontinue open development core software
+replaced opensolaris distribution model proprietary solaris express
+prior oracle moving core development
+closed doors
+group opensolaris developers decided
+fork
+core software openindiana
+project
+part illumos foundation
+aims continue development distribution opensolaris codebase
+opensolaris descendant unix system release
+code base developed sun late
+version system variant unix open source
+opensolaris developed combination software consolidations open sourced subsequent solaris
+includes variety free software
+including popular desktop server software
+friday
+august
+details started emerge relating restructuring opensolaris project
+pending release future commercial version solaris
+solaris
+open source community interactions adjusted
+opensolaris based solaris
+originally released sun
+solaris version unix system release
+jointly developed sun merge features existing unix systems
+licensed sun novell replace sunos
+planning opensolaris started early
+pilot program formed september sun community members ran months growing external participants
+sun submitted cddl
+common development distribution license
+osi
+approved january
+part solaris code base open sourced solaris dynamic tracing facility
+commonly dtrace
+tool aids analysis
+debugging
+tuning applications systems
+dtrace released cddl january
+newly launched opensolaris
+website
+bulk solaris system code released june
+remains system code open sourced
+pre compiled binary files
+direct newly fledged project
+community advisory board announced april
+elected pilot community
+employees appointed sun
+appointed broader free software community sun
+members roy fielding
+hopper
+rich teer
+casper dik
+simon phipps
+february
+sun approved opensolaris charter
+reestablished body independent opensolaris governing board
+task creating governance document
+constitution
+organization ogb invited members
+stephen hahn keith wesolowski
+developers sun solaris organization
+ben rockwood
+prominent opensolaris community member
+generation solaris version development sun eventually succeed solaris codenamed nevada
+derived opensolaris codebase code pulled opensolaris nevada snapshot builds
+sun microsystems control
+weekly snapshots solaris nevada
+codename generation solaris eventually succeed solaris
+code pulled opensolaris preview snapshots genunix
+stable releases opensolaris based nevada builds
+initially
+sun solaris express program provided distribution based opensolaris code combination software found solaris releases
+independent distribution released june
+emerged
+march
+sun announced hired ian murdock
+founder debian
+head project indiana
+effort produce complete opensolaris distribution
+gnome userland tools gnu
+network based package management system
+distribution planned refresh user experience
+successor solaris express basis future releases solaris
+opensolaris
+released format booted live installed directly
+gnome desktop environment primary user interface
+opensolaris
+release included gui zfs snapshotting capabilities
+time slider
+functionality similar mac time machine
+december
+sun microsystems toshiba america information systems announced plans distribute toshiba laptops pre installed opensolaris
+april
+tecra preinstalled opensolaris
+release supplemental software packages
+june
+opensolaris
+released
+support sparc platform
+january
+announced solaris express program closed opensolaris binary release scheduled released march
+opensolaris
+release appeared
+august
+oracle rumored discontinued opensolaris binary distribution focus solaris express binary distribution program
+source code continue accepted community oracle source code continue released open source
+oracle code releases occur binary releases
+internal email released opensolaris kernel developer unconfirmed oracle
+post confirming leak posted opensolaris forums august
+upstream contributions continue oracle web site
+downstream source code publishing continue
+binary distribution continue solaris express model
+release source code occur binary cuts
+binary cuts frequent
+september
+openindiana formally launched jisc centre london
+openindiana fork technical sense
+continuation opensolaris spirit
+project intends deliver system family operating system binary compatible oracle products solaris solaris express
+based
+net consolidation opensolaris
+openindiana distribution based illumos
+release based
+net
+project ips package management system opensolaris
+november
+final build opensolaris
+published oracle
+release repository serve upgrade path solaris express
+oracle solaris express
+preview solaris release post opensolaris distribution oracle
+released november
+image
+timeline
+png
+opensolaris offered development
+unstable
+production
+stable
+releases
+opensolaris installed rom
+usb drives
+network automated installer
+usb
+network install images made types releases
+opensolaris network aware package management system called image packaging system
+pkg
+add
+remove
+manage installed software update newer releases
+packages development releases opensolaris published oracle typically weeks
+dev repository
+production releases
+release repository receive updates production release
+sun customers paid support contracts access updates production releases
+paid support production releases access security updates bug fixes offered sun
+support repository pkg
+sun
+hardware compatibility list
+hcl
+opensolaris consulted choosing hardware opensolaris deployment
+extensive opensolaris administration
+usage
+development documentation online
+including community contributed information
+sun released solaris source code common development distribution license
+cddl
+based mozilla public license
+mpl
+version
+cddl approved open source license open source initiative
+osi
+january
+files licensed cddl combined files licensed licenses
+open source proprietary
+sun announcement java release gnu general public license
+gpl
+jonathan schwartz rich green hinted possibility releasing solaris gpl
+green
+averse relicensing gpl
+schwartz pressed
+jokingly
+green sun
+close
+january
+eweek reported anonymous sources sun told opensolaris dual licensed cddl
+green responded blog day article incorrect
+sun giving
+consideration
+dual licensing arrangement
+subject agreement rest opensolaris community
+annual opensolaris developer conference
+abbreviated osdevcon
+organized german unix user group
+guug
+place february march
+freie berlin germany
+osdevcon joint effort guug czech opensolaris user group
+czosug
+place june
+prague
+czech republic
+osdevcon place october
+dresden
+germany
+sun microsystems organized opensolaris developer summit
+held weekend october
+university california
+santa cruz united states
+opensolaris developer summit returned ucsc
+place immediately prior launch sun opensolaris distribution
+communityone conference san francisco
+california
+opensolaris storage summit organized sun held september
+preceding snia storage developer conference
+sdc
+santa clara
+california
+opensolaris storage summit preceded usenix conference file storage technologies
+fast
+february
+san francisco
+united states
+november
+solaris
+opensolaris security summit held sun harbor area baltimore
+maryland
+preceding large installation system administration conference
+lisa

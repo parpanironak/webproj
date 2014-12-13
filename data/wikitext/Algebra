@@ -1,0 +1,305 @@
+Algebra
+
+algebra
+algebra discipline mathematics
+historical reasons
+word
+algebra
+meanings bare word
+depending context
+word constitutes terms mathematics
+showing variation meaning
+article broad overview
+including history
+single word
+algebra
+adjective
+algebraic
+means relation abstract algebra
+algebraic structure
+cases refers equation solving
+reflecting evolution field
+elementary algebra
+part curriculum secondary education
+introduces concept variables representing numbers
+statements based variables manipulated rules operations apply numbers
+addition
+variety reasons
+including equation solving
+algebra branch mathematics broader elementary algebra
+studying
+arithmetics normal numbers
+rules operations relations
+leads constructions concepts arising
+including terms
+polynomials
+equations
+rules addition multiplication generalized
+precise definitions lead notions algebraic structures groups
+rings fields
+studied area mathematics called abstract algebra
+algebra main branches pure mathematics
+geometry
+analysis
+topology
+combinatorics
+number theory
+roots algebra traced ancient babylonians
+developed advanced arithmetical system calculations algorithmic fashion
+babylonians developed formulas calculate solutions problems typically solved today linear equations
+quadratic equations
+indeterminate linear equations
+contrast
+egyptians era
+greek chinese mathematics millennium
+solved equations geometric methods
+rhind mathematical papyrus
+euclid elements
+chapters mathematical art
+geometric work greeks
+typified elements
+provided framework generalizing formulae solution problems general systems stating solving equations
+realized mathematics developed medieval islam
+time plato
+greek mathematics undergone drastic change
+greeks created geometric algebra terms represented sides geometric objects
+lines
+letters
+diophantus
+century
+called
+father algebra
+alexandrian greek mathematician author series books called arithmetica
+texts deal solving algebraic equations
+word algebra arabic language
+jabr
+restoration
+methods arabic
+islamic mathematics
+earlier traditions discussed direct influence muhammad ibn
+wrote compendious book calculation completion balancing
+established algebra mathematical discipline independent geometry arithmetic
+hellenistic mathematicians hero alexandria diophantus indian mathematicians brahmagupta continued traditions egypt babylon
+diophantus arithmetica brahmagupta brahmasphutasiddhanta higher level
+complete arithmetic solution
+including negative solutions
+quadratic equations brahmagupta book brahmasphutasiddhanta
+arabic muslim mathematicians developed algebraic methods higher degree sophistication
+diophantus babylonians special hoc methods solve equations
+khwarizmi contribution fundamental
+solved linear quadratic equations algebraic symbolism
+negative numbers
+distinguish types equations
+greek mathematician diophantus traditionally
+father algebra
+recent times debate khwarizmi
+founded discipline jabr
+deserves title
+support diophantus point fact algebra found jabr slightly elementary algebra found arithmetica arithmetica syncopated jabr fully rhetorical
+support khwarizmi point fact introduced methods
+reduction
+balancing
+transposition subtracted terms side equation
+cancellation terms opposite sides equation
+term jabr originally referred
+gave exhaustive explanation solving quadratic equations
+supported geometric proofs
+treating algebra independent discipline
+algebra longer concerned
+series problems resolved
+exposition starts primitive terms combinations give prototypes equations
+henceforward explicitly constitute true object study
+studied equation sake
+generic manner
+simply emerge solving problem
+specifically called define infinite class problems
+persian mathematician omar khayyam credited identifying foundations algebraic geometry found general geometric solution cubic equation
+persian mathematician
+sharaf
+found algebraic numerical solutions cases cubic equations
+developed concept function
+indian mathematicians mahavira bhaskara
+persian mathematician karaji
+chinese mathematician zhu shijie
+solved cases cubic
+quartic
+quintic higher order polynomial equations numerical methods
+century
+solution cubic equation fibonacci representative beginning revival european algebra
+islamic world declining
+european world ascending
+algebra developed
+work close century marks start classical discipline algebra
+descartes published
+inventing analytic geometry introducing modern algebraic notation
+key event development algebra general algebraic solution cubic quartic equations
+developed mid century
+idea determinant developed japanese mathematician kowa seki century
+independently gottfried leibniz ten years
+purpose solving systems simultaneous linear equations matrices
+gabriel cramer work matrices determinants century
+permutations studied joseph lagrange paper sur des devoted solutions algebraic equations
+introduced lagrange resolvents
+paolo ruffini person develop theory permutation groups
+predecessors
+context solving algebraic equations
+abstract algebra developed century
+deriving interest solving equations
+initially focusing called galois theory
+constructibility issues
+modern algebra
+deep nineteenth century roots work
+richard dedekind leopold kronecker profound interconnections branches mathematics algebraic number theory algebraic geometry
+george peacock founder axiomatic thinking arithmetic algebra
+augustus morgan discovered relation algebra syllabus proposed system logic
+josiah willard gibbs developed algebra vectors dimensional space
+arthur cayley developed algebra matrices
+noncommutative algebra
+mathematical structures called algebras
+elementary algebra basic form algebra
+taught students presumed knowledge mathematics basic principles arithmetic
+arithmetic
+numbers arithmetical operations
+occur
+algebra
+numbers denoted symbols
+polynomial expression constructed variables constants
+operations addition
+subtraction
+multiplication
+repeated multiplication variable conventionally denoted exponentiation constant nonnegative integer exponent
+polynomial single variable
+important class problems algebra factorization polynomials
+expressing polynomial product polynomials
+polynomial factored
+related class problems finding algebraic expressions roots polynomial single variable
+suggested elementary algebra taught young eleven years
+recent years common public lessons begin eighth grade level
+united states
+virginia tech universities begun personalized model teaching algebra combines instant feedback specialized computer software small group tutoring
+reduced costs increased student achievement
+abstract algebra extends familiar concepts found elementary algebra arithmetic numbers general concepts
+listed fundamental concepts abstract algebra
+sets
+types numbers
+abstract algebra deals general concept sets
+collection objects
+called elements
+selected property
+specific set
+collections familiar types numbers sets
+examples sets include set matrices
+set degree polynomials
+set dimensional vectors plane
+finite groups cyclic groups group integers modulo
+set theory branch logic technically branch algebra
+binary operations
+notion addition
+abstracted give binary operation
+notion binary operation meaningless set operation defined
+elements set
+element set
+condition called closure
+addition
+subtraction
+multiplication
+division
+binary operations defined sets
+addition multiplication matrices
+vectors
+polynomials
+identity elements
+numbers abstracted give notion identity element operation
+identity element addition identity element multiplication
+general binary operator identity element satisfy
+holds addition multiplication
+sets operator combinations identity element
+positive natural numbers
+identity element addition
+inverse elements
+negative numbers give rise concept inverse elements
+addition
+inverse written
+multiplication inverse written
+general sided inverse element satisfies property
+associativity
+addition integers property called associativity
+grouping numbers added affect sum
+general
+property shared binary operations
+subtraction division octonion multiplication
+commutativity
+addition multiplication real numbers commutative
+order numbers affect result
+general
+property hold binary operations
+matrix multiplication quaternion multiplication commutative
+combining concepts important structures mathematics
+group
+group combination set single binary operation
+defined choose
+properties
+group
+members
+identical group abelian
+set integers operation addition group
+group
+identity element inverse element negation
+associativity requirement met
+integers
+nonzero rational numbers form group multiplication
+identity element
+rational number
+inverse
+integers multiplication operation
+form group
+general
+multiplicative inverse integer integer
+integer
+multiplicative inverse
+integer
+theory groups studied group theory
+major result theory classification finite simple groups
+published
+separates finite simple groups roughly basic types
+semigroups
+quasigroups
+monoids structures similar groups
+general
+comprise set closed binary operation
+necessarily satisfy conditions
+semigroup associative binary operation
+identity element
+monoid semigroup identity inverse element
+quasigroup satisfies requirement element turned unique left multiplication multiplication
+binary operation associative
+groups monoids
+monoids semigroups
+groups binary operation
+fully explain behaviour types numbers
+structures operators studied
+important rings
+fields
+ring binary operations
+distributive
+operator
+forms abelian group
+operator
+associative
+identity
+inverse
+division required
+additive
+identity element written additive inverse written
+distributivity generalises distributive law numbers
+specifies order operators applied
+called precedence
+integers
+distributive
+integers ring
+integers additional properties make integral domain
+field ring additional property elements excluding form abelian group
+multiplicative
+identity written multiplicative inverse written
+rational numbers
+real numbers complex numbers examples fields

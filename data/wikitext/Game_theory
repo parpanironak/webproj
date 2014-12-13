@@ -1,0 +1,719 @@
+Game theory
+
+game theory
+game theory study strategic decision making
+formally
+study mathematical models conflict cooperation intelligent rational decision makers
+alternative term suggested
+descriptive discipline
+interactive decision theory
+game theory economics
+political science
+psychology
+logic biology
+subject addressed sum games
+person gains equal net losses participant
+today
+game theory applies wide range class relations
+developed umbrella term logical side science
+include human humans
+computers
+classic include sense balance numerous games
+person found developed tactic successfully results
+approach
+modern game theory began idea existence mixed strategy equilibria person sum games proof john von neumann
+von neumann original proof brouwer fixed point theorem continuous mappings compact convex sets
+standard method game theory mathematical economics
+paper book theory games economic behavior
+oskar morgenstern
+considered cooperative games players
+edition book provided axiomatic theory expected utility
+allowed mathematical statisticians economists treat decision making uncertainty
+theory developed extensively scholars
+game theory explicitly applied biology
+similar developments back
+game theory widely recognized important tool fields
+game theorists won nobel memorial prize economic sciences
+john maynard smith awarded crafoord prize application game theory biology
+games studied game theory defined mathematical objects
+game consists set players
+set moves
+strategies
+players
+specification payoffs combination strategies
+cooperative games presented characteristic function form
+extensive normal forms define noncooperative games
+extensive form formalize games time sequencing moves
+games played trees
+pictured left
+vertex
+node
+represents point choice player
+player number listed vertex
+lines vertex represent action player
+payoffs bottom tree
+extensive form viewed multi player generalization decision tree
+fudenberg tirole
+game pictured left
+players
+player moves chooses
+player sees player move chooses
+suppose player chooses player chooses
+player player
+extensive form capture simultaneous move games games imperfect information
+represent
+dotted line connects vertices represent part information set
+players point
+closed line drawn
+imperfect information section
+normal
+strategic form
+game represented matrix shows players
+strategies
+pay offs
+generally represented function associates payoff player combination actions
+accompanying players
+chooses row chooses column
+player strategies
+number rows number columns
+payoffs provided interior
+number payoff received row player
+player
+payoff column player
+player
+suppose player plays player plays left
+player payoff
+player
+game presented normal form
+presumed player acts simultaneously
+knowing actions
+players information choices players
+game presented extensive form
+extensive form game equivalent normal form game
+transformation normal form result exponential blowup size representation
+making computationally impractical
+leyton brown shoham
+games possess removable utility separate rewards
+characteristic function decides payoff unity
+idea unity empty
+speak
+receive reward
+origin form found john von neumann oskar morgenstern book
+instances
+guessed union image
+math
+png appears
+works fraction image
+math
+png individuals playing normal game
+balanced payoff basic function
+differing examples determine coalitional amounts normal games
+function form derived
+formally
+characteristic function
+represents group people image
+math
+png normal utility
+characteristic functions expanded describe games removable utility
+characteristic function form ignores externalities coalition formation
+partition function form payoff coalition depends members
+rest players partitioned
+thrall lucas
+method applied mathematics
+game theory study wide variety human animal behaviors
+initially developed economics understand large collection economic behaviors
+including behaviors firms
+markets
+consumers
+game theory social sciences expanded
+game theory applied political
+sociological
+psychological behaviors
+game theoretic analysis initially study animal behavior ronald fisher
+charles darwin makes informal game theoretic statements
+work predates
+game theory
+shares important features field
+developments economics applied biology largely john maynard smith book evolution theory games
+addition describe
+predict
+explain behavior
+game theory develop theories ethical normative behavior prescribe behavior
+economics philosophy
+scholars applied game theory understanding good proper behavior
+game theoretic arguments type found back plato
+describe model human populations behave
+somewho
+scholars finding equilibria games predict actual human populations behave confronted situations analogous game studied
+view game theory recent criticism
+criticized assumptions made game theorists violated
+game theorists assume players act directly maximize wins
+homo economicus model
+practice
+human behavior deviates model
+explanations phenomenon
+irrationality
+models deliberation
+motives
+altruism
+game theorists respond comparing assumptions physics
+assumptions hold
+treat game theory reasonable scientific ideal akin models physicists
+centipede game
+guess
+average game
+dictator game
+people regularly play nash equilibria
+experiments demonstrated individuals play equilibrium strategies
+ongoing debate importance experiments
+alternatively
+somewho
+authors claim nash equilibria provide predictions human populations
+provide explanation populations play nash equilibria remain state
+question populations reach points remains open
+somewho
+game theorists turned evolutionary game theory order resolve issues
+models presume rationality bounded rationality part players
+evolutionary game theory necessarily presume natural selection biological sense
+evolutionary game theory includes biological cultural evolution models individual learning
+fictitious play dynamics
+hand
+somewho
+scholars game theory predictive tool behavior human beings
+suggestion people behave
+strategy
+nash equilibrium game constitutes response actions players provided
+nash equilibrium
+playing strategy part nash equilibrium
+rationality decision proved special cases
+normative game theory criticism
+cases play equilibrium strategy expects play equilibrium strategies
+guess
+average
+prisoner dilemma presents potential counterexample
+prisoner dilemma
+player pursuing interest leads players worse pursued interests
+game theory major method mathematical economics business modeling competing behaviors interacting agents
+applications include wide array economic phenomena approaches
+auctions
+bargaining
+mergers acquisitions pricing
+fair division
+duopolies
+oligopolies
+social network formation
+agent based computational economics
+general equilibrium
+mechanism design
+voting systems
+broad areas experimental economics
+behavioral economics
+information economics
+industrial organization
+political economy
+research focuses sets strategies equilibria games
+solution concepts
+based required norms rationality
+cooperative games
+famous nash equilibrium
+set strategies nash equilibrium represents response strategies
+players playing strategies nash equilibrium
+unilateral incentive deviate
+strategy
+payoffs game generally represent utility individual players
+modeling situations payoffs represent money
+corresponds individual utility
+assumption
+faulty
+prototypical paper game theory economics begins presenting game abstraction economic situation
+solution concepts chosen
+author demonstrates strategy sets presented game equilibria type
+naturally information put
+economists business professors suggest primary
+noted
+descriptive prescriptive
+application game theory political science focused overlapping areas fair division
+political economy
+public choice
+war bargaining
+positive political theory
+social choice theory
+areas
+researchers developed game theoretic models players voters
+states
+special interest groups
+politicians
+early examples game theory applied political science
+work anthony downs
+book economic theory democracy
+applies hotelling firm location model political process
+downsian model
+political candidates commit ideologies dimensional policy space
+downs shows political candidates converge ideology preferred median voter voters fully informed
+argues voters choose remain rationally ignorant candidate divergence
+game theoretic explanation democratic peace public open debate democracies send clear reliable information intentions states
+contrast
+difficult intentions nondemocratic leaders
+effect concessions
+promises
+mistrust unwillingness make concessions parties dispute democracy
+levy
+unlike economics
+payoffs games biology interpreted fitness
+addition
+focus equilibria correspond notion rationality
+maintained evolutionary forces
+equilibrium biology evolutionarily stable strategy
+ess
+introduced
+smith price
+initial motivation involve mental requirements nash equilibrium
+ess nash equilibrium
+biology
+game theory understand phenomena
+explain evolution
+stability
+approximate
+sex ratios
+fisher
+suggested
+sex ratios result evolutionary forces acting individuals maximize number grandchildren
+additionally
+biologists evolutionary game theory ess explain emergence animal communication
+harper maynard smith
+analysis signaling games communication games provided insight evolution communication animals
+mobbing behavior species
+large number prey animals attack larger predator
+spontaneous emergent organization
+ants shown exhibit feed forward behavior akin fashion
+butterfly economics
+biologists game chicken analyze fighting behavior territoriality
+citation needed
+maynard smith
+preface evolution theory games
+writes
+paradoxically
+turned game theory readily applied biology field economic behaviour originally designed
+evolutionary game theory explain seemingly incongruous phenomena nature
+phenomenon biological altruism
+situation organism appears act benefits organisms detrimental
+distinct traditional notions altruism actions conscious
+evolutionary adaptations increase fitness
+examples found species ranging vampire bats regurgitate blood obtained night hunting give group members failed feed
+worker bees care queen bee entire lives mate
+vervet monkeys warn group members predator approach
+endangers individual chance survival
+actions increase fitness group
+occur cost individual
+evolutionary game theory explains altruism idea kin selection
+altruists discriminate individuals favor relatives
+hamilton rule explains evolutionary reasoning selection equation cost
+altruist benefit
+recipient multiplied coefficient relatedness
+closely related organisms incidences altruism increase share alleles
+means altruistic individual
+ensuring alleles close relative passed
+survival offspring
+forgo option offspring number alleles passed
+helping sibling
+diploid animals
+coefficient
+average
+individual shares alleles sibling offspring
+ensuring offspring survive adulthood precludes necessity altruistic individual producing offspring
+coefficient values depend heavily scope playing field
+choice favor includes genetic living things
+relatives
+assume discrepancy humans accounts approximately diversity playing field
+efficient smaller field
+similarly considered information genetic nature
+epigenetics
+religion
+science
+persisted time playing field larger
+discrepancies smaller
+game theory play increasingly important role logic computer science
+logical theories basis game semantics
+addition
+computer scientists games model interactive computations
+game theory theoretical basis field multi agent systems
+separately
+game theory played role online algorithms
+server problem
+past referred games moving costs request answer games
+ben david
+borodin karp
+yao principle game theoretic technique proving lower bounds computational complexity randomized algorithms
+online algorithms
+emergence internet motivated development algorithms finding equilibria games
+markets
+computational auctions
+peer peer systems
+security information markets
+algorithmic game theory algorithmic mechanism design combine computational algorithm design analysis complex systems economic theory
+game theory put philosophy
+responding papers
+lewis
+game theory develop philosophical account convention
+provided analysis common knowledge employed analyzing play coordination games
+addition
+suggested understand meaning terms signaling games
+suggestion pursued philosophers lewis
+skyrms
+grim
+kokalis
+alai tafti
+lewis
+game theoretic account conventions
+edna ullmann margalit
+bicchieri
+developed theories social norms define nash equilibria result transforming mixed motive game coordination game
+game theory challenged philosophers terms interactive epistemology
+means collective common beliefs knowledge
+consequences knowledge social outcomes resulting agents interactions
+philosophers worked area include bicchieri
+skyrms
+stalnaker
+ethics
+somewho
+authors attempted pursue project
+begun thomas hobbes
+deriving morality interest
+games prisoner dilemma present apparent conflict morality interest
+explaining cooperation required interest important component project
+general strategy component general social contract view political philosophy
+examples
+gauthier
+kavka
+authors attempted evolutionary game theory order explain emergence human attitudes morality animal behaviors
+authors games including prisoner dilemma
+stag hunt
+nash bargaining game providing explanation emergence attitudes morality
+sober
+assumptions parts game theory challenged philosophy
+psychological egoism states rationality reduces claim debated philosophers
+psychological
+game cooperative players form binding commitments
+instance legal system requires adhere promises
+noncooperative games
+assumed communication players allowed cooperative games
+noncooperative
+classification binary criteria questioned
+rejected
+harsanyi
+types games
+noncooperative games model situations finest details
+producing accurate results
+cooperative games focus game large
+considerable efforts made link approaches
+called nash programmeclarification needed established cooperative solutions noncooperative equilibria
+hybrid games cooperative cooperative elements
+instance
+coalitions players formed cooperative game
+play cooperative fashion
+symmetric game game payoffs playing strategy depend strategies employed
+playing
+identities players changed changing payoff strategies
+game symmetric
+commonly studied games symmetric
+standard representations chicken
+prisoner dilemma
+stag hunt symmetric games
+somewho
+scholars asymmetric games examples games
+common payoffs games symmetric
+commonly studied asymmetric games games identical strategy sets players
+instance
+ultimatum game similarly dictator game strategies player
+game identical strategies players
+asymmetric
+game pictured asymmetric identical strategy sets players
+sum games special case constant sum games
+choices players increase decrease resources
+sum games total benefit players game
+combination strategies
+adds
+informally
+player benefits equal expense
+poker exemplifies sum game
+ignoring possibility house cut
+wins amount opponents lose
+sum games include matching pennies classical board games including chess
+games studied game theorists
+including infamous prisoner dilemma
+sum games
+outcome net results greater
+informally
+sum games
+gain player necessarily correspond loss
+constant sum games correspond activities theft gambling
+fundamental economic situation potential gains trade
+transform game
+possibly asymmetric
+sum game adding additional dummy player
+called
+board
+losses compensate players net winnings
+simultaneous games games players move simultaneously
+move simultaneously
+players unaware earlier players actions
+making effectively simultaneous
+sequential games
+dynamic games
+games players knowledge earlier actions
+perfect information action earlier players
+knowledge
+instance
+player earlier player perform action
+actions player performed
+difference simultaneous sequential games captured representations discussed
+normal form represent simultaneous games
+extensive form represent sequential
+transformation extensive normal form
+meaning multiple extensive form games correspond normal form
+notions equilibrium simultaneous games insufficient reasoning sequential games
+subgame perfection
+short
+differences sequential simultaneous games
+important subset sequential games consists games perfect information
+game perfect information players moves previously made players
+sequential games games perfect information players simultaneous games actions players
+games studied game theory imperfect information games
+interesting examples perfect information games include ultimatum game centipede game
+recreational games perfect information games include chess
+mancala
+card games games imperfect information
+instance poker contract bridge
+perfect information confused complete information
+similar concept
+complete information requires player strategies payoffs players necessarily actions
+games incomplete information reduced
+games imperfect information introducing
+moves nature
+leyton brown shoham
+games difficulty finding optimal strategy stems multiplicity moves called combinatorial games
+examples include chess
+games involve imperfect incomplete information strong combinatorial character
+instance backgammon
+unified theory addressing combinatorial elements games
+mathematical tools solve problems answer general questions
+games perfect information studied combinatorial game theory
+developed representations
+surreal numbers
+combinatorial algebraic
+constructive
+proof methods solve games types
+including
+loopy
+games result infinitely long sequences moves
+methods address games higher combinatorial complexity considered traditional
+economic
+game theory
+typical game solved hex
+related field study
+drawing computational complexity theory
+game complexity
+concerned estimating computational difficulty finding optimal strategies
+research artificial intelligence addressed perfect imperfect
+incomplete
+information games complex combinatorial structures
+chess
+backgammon
+provable optimal strategies found
+practical solutions involve computational heuristics
+alpha beta pruning artificial neural networks trained reinforcement learning
+make games tractable computing practice
+games
+studied economists real world game players
+generally finished finitely moves
+pure mathematicians constrained
+set theorists study games infinitely moves
+winner
+payoff
+moves completed
+focus attention play game
+simply player winning strategy
+proven
+axiom choice
+perfect information
+outcomes
+win
+lose
+player winning strategy
+existence strategies
+cleverly designed games
+important consequences descriptive set theory
+game theory concerned finite
+discrete games
+finite number players
+moves
+events
+outcomes
+concepts extended
+continuous games players choose strategy continuous strategy set
+instance
+cournot competition typically modeled players strategies negative quantities
+including fractional quantities
+differential games continuous pursuit evasion game continuous games evolution players state variables governed differential equations
+problem finding optimal strategy differential game closely related optimal control theory
+types strategies
+open loop strategies found pontryagin maximum principle closed loop strategies found bellman dynamic programming method
+case differential games games random time horizon
+games
+terminal time random variable probability distribution function
+players maximize mathematical expectation cost function
+shown modified optimization problem reformulated discounted differential game infinite time interval
+games arbitrary
+finite
+number players called person games
+luce raiffa
+evolutionary game theory considers games involving population decision makers
+frequency decision made change time response decisions made individuals population
+biology
+intended model
+biological
+evolution
+genetically programmed organisms pass strategy programming offspring
+economics
+theory intended capture population people play game times lifetime
+consciously
+rationally
+switch strategies
+webb
+individual decision problems stochastic outcomes considered
+player games
+situations considered game theoretical authors
+modeled similar tools related disciplines decision theory
+operations research
+areas artificial intelligence
+planning
+uncertainty
+multi agent system
+fields motivators
+mathematics involved substantially
+markov decision processes
+mdp
+citation needed
+stochastic outcomes modeled terms game theory adding randomly acting player makes
+chance moves
+moves nature
+osborne rubinstein
+player typically considered player player game
+serves provide roll dice required game
+problems
+approaches modeling stochastic outcomes lead solutions
+difference approach mdps minimax solution considers worst case set adversarial moves
+reasoning expectation moves fixed probability distribution
+minimax approach advantageous stochastic models uncertainty
+overestimating extremely
+costly
+events
+dramatically swaying strategy scenarios assumed adversary force event happen
+black swan theory discussion kind modeling issue
+relates predicting limiting losses investment banking
+general models include elements stochastic outcomes
+adversaries
+partial noisy observability
+moves players
+studied
+gold standard
+considered partially observable stochastic game
+posg
+realistic problems computationally feasible posg representation
+games play development rules game
+target subject game
+metagames seek maximize utility rule set developed
+theory metagames related mechanism design theory
+term metagame analysis refer practical approach developed nigel howard
+howard
+situation framed strategic game stakeholders realise objectives means options
+subsequent developments led formulation confrontation analysis
+early discussions examples person games occurred long rise modern
+mathematical game theory
+discussion game theory occurred letter written james waldegrave
+letter
+waldegrave minimax mixed strategy solution person version card game
+james madison made recognize game theoretic analysis ways states expected behave systems taxation
+recherches sur les principes des richesses
+researches mathematical principles theory wealth
+antoine augustin cournot considered duopoly presents solution restricted version nash equilibrium
+danish mathematician zeuthen proved mathematical model winning strategy brouwer fixed point theorem
+book applications aux jeux hasard earlier notes
+borel proved minimax theorem person sum matrix games pay matrix symmetric
+borel conjectured existence mixed strategy equilibria person sum games occur
+conjecture proved false
+game theory exist unique field john von neumann published paper
+von neumann original proof brouwer fixed point theorem continuous mappings compact convex sets
+standard method game theory mathematical economics
+paper book theory games economic behavior
+edition book provided axiomatic theory utility
+reincarnated daniel bernoulli theory utility
+money
+independent discipline
+von neumann work game theory culminated book
+foundational work method finding mutually consistent solutions person sum games
+time period
+work game theory primarily focused cooperative game theory
+analyzes optimal strategies groups individuals
+presuming enforce agreements proper strategies
+mathematical discussion prisoner dilemma appeared
+experiment undertaken notable mathematicians merrill
+flood melvin dresher
+part rand corporation investigations game theory
+rand pursued studies applications global nuclear strategy
+time
+john nash developed criterion mutual consistency players strategies
+nash equilibrium
+applicable wider variety games criterion proposed von neumann morgenstern
+equilibrium sufficiently general analysis cooperative games addition cooperative
+game theory experienced flurry activity
+time concepts core
+extensive form game
+fictitious play
+repeated games
+shapley developed
+addition
+applications game theory philosophy political science occurred time
+reinhard selten introduced solution concept subgame perfect equilibria
+refined nash equilibrium
+introduce trembling hand perfection
+john harsanyi developed concepts complete information bayesian games
+nash
+selten harsanyi economics nobel laureates contributions economic game theory
+game theory extensively applied biology
+largely result work john maynard smith evolutionarily stable strategy
+addition
+concepts correlated equilibrium
+trembling hand perfection
+common knowledge introduced analyzed
+game theorists thomas schelling robert aumann nash
+selten harsanyi nobel laureates
+schelling worked dynamic models
+early examples evolutionary game theory
+aumann contributed equilibrium school
+introducing equilibrium coarsening
+correlated equilibrium
+developing extensive formal analysis assumption common knowledge consequences
+leonid hurwicz
+eric maskin roger myerson
+awarded nobel prize economics
+laid foundations mechanism design theory
+myerson contributions include notion proper equilibrium
+important graduate text
+game theory
+analysis conflict
+myerson
+hurwicz introduced formalized concept incentive compatibility
+life story game theorist mathematician john nash turned biopic
+beautiful mind starring russell crowe
+based namesake book sylvia nasar
+games theory
+theory games
+mentioned military science fiction starship troopers robert
+heinlein
+film character carl jenkins refers assignment
+military intelligence
+games theory
+main gameplay decision making mechanics video game escape
+virtue reward based game theory
+characters reference prisoner dilemma

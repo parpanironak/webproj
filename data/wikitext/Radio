@@ -1,0 +1,830 @@
+Radio
+
+radio
+radio wireless transmission signals free space electromagnetic radiation frequency significantly visible light
+radio frequency range
+waves called radio waves
+electromagnetic radiation travels means oscillating electromagnetic fields pass air vacuum space
+information
+sound
+carried systematically changing
+modulating
+property radiated waves
+amplitude
+frequency
+phase
+pulse width
+radio waves strike electrical conductor
+oscillating fields induce alternating current conductor
+information waves extracted transformed back original form
+etymology
+radio
+radiotelegraphy
+reveals called
+wireless telegraphy
+shortened
+wireless
+britain
+prefix radio sense wireless transmission
+recorded word radioconductor
+description provided french physicist branly
+based verb radiate
+latin
+radius
+means
+spoke wheel
+beam light
+ray
+word
+radio
+appears article lee forest
+adopted united states navy
+distinguish radio wireless communication technologies
+photophone
+term common time commercial broadcasts united states
+noun
+broadcasting
+agricultural term
+meaning
+scattering seeds widely
+term adopted languages europe asia
+british commonwealth countries continued commonly term
+wireless
+mid century
+magazine bbc called radio times published early
+recent years general term
+wireless
+gained renewed popularity rapid growth short range computer networking
+wireless local area network
+wlan
+bluetooth
+mobile telephony
+gsm umts
+today
+term
+radio
+specifies actual type transceiver device chip
+wireless
+refers lack physical connections
+talks radio transceivers
+wireless devices wireless sensor networks
+radio systems communications elements
+years development
+process implemented wide range methods
+specialized communications purposes
+system transmitter
+consists source electrical energy
+producing alternating current desired frequency oscillation
+transmitter system modulate
+change
+property energy produced impress signal
+modulation simple turning energy
+altering subtle properties amplitude
+frequency
+phase
+combinations properties
+transmitter sends modulated electrical energy tuned resonant antenna
+structure converts rapidly changing alternating current electromagnetic wave move free space
+polarization
+amplitude modulation carrier wave works varying strength transmitted signal proportion information
+signal strength reflect sounds reproduced speaker
+light intensity television pixels
+method audio radio transmissions
+remains today
+refer mediumwave broadcast band
+radio
+frequency modulation varies frequency carrier
+instantaneous frequency carrier directly proportional instantaneous input signal
+digital data shifting carrier frequency set discrete values
+technique frequency shift keying
+commonly vhf radio frequencies high fidelity broadcasts music speech
+broadcasting
+normal
+analog
+sound broadcast
+angle modulation alters instantaneous phase carrier wave transmit signal
+term phase modulation
+antenna
+aerial
+electrical device converts electric currents radio waves
+vice versa
+radio transmitter radio receiver
+transmission
+radio transmitter applies oscillating radio frequency electric current antenna terminals
+antenna radiates energy current electromagnetic waves
+radio waves
+reception
+antenna intercepts power electromagnetic wave order produce tiny voltage terminals
+applied receiver amplified
+antenna transmitting receiving
+generated
+electromagnetic waves travel space directly
+path altered reflection
+refraction diffraction
+intensity waves diminishes due geometric dispersion
+inverse square law
+energy absorbed intervening medium cases
+noise generally alter desired signal
+electromagnetic interference natural sources
+artificial sources transmitters accidental radiators
+noise produced step due inherent properties devices
+magnitude noise large
+desired signal longer discernible
+fundamental limit range radio communications
+electrical resonance tuned circuits radios individual stations selected
+resonant circuit respond strongly frequency
+differing frequencies
+radio receiver discriminate multiple signals differing frequency
+electromagnetic wave intercepted tuned receiving antenna
+structure captures energy wave returns form oscillating electrical currents
+receiver
+currents demodulated
+conversion usable signal form detector system
+receiver
+tuned
+respond preferentially desired signals
+reject undesired signals
+early radio systems relied energy collected antenna produce signals operator
+radio invention electronic devices vacuum tube transistor
+made amplify weak signals
+today radio systems applications walkie talkie children toys control space vehicles
+broadcasting
+applications
+radio receiver receives input antenna
+electronic filters separate wanted radio signal signals picked antenna
+amplifies level suitable processing
+finally converts demodulation decoding signal form usable consumer
+sound
+pictures
+digital data
+measurement values
+navigational positions
+radio frequencies occupy range hertz
+commercially important radio small part spectrum
+types electromagnetic radiation
+frequencies range
+infrared
+visible light
+ultraviolet
+rays gamma rays
+energy individual photon radio frequency low remove electron atom
+radio waves classified ionizing radiation
+radio communication system sends signals radio
+types radio communication systems deployed depend technology
+standards
+regulations
+radio spectrum allocation
+user requirements
+service positioning
+investment
+radio equipment involved communication systems includes transmitter receiver
+antenna terminal equipment microphone transmitter loudspeaker receiver case voice communication system
+power consumed transmitting station varies depending distance communication transmission conditions
+power received receiving station tiny fraction transmitter output
+communication depends receiving information
+energy
+transmitted
+classical radio communications systems frequency division multiplexing
+fdm
+strategy split share radio frequency bandwidth parties communications concurrently
+modern radio communication systems include divide radio frequency band time division multiplexing
+tdm
+code division multiplexing
+cdm
+alternatives classical fdm strategy
+systems offer tradeoffs supporting multiple users
+fdm strategy ideal broadcast radio applications mobile telephony
+radio communication system send information
+broadcasting single transmitter sends signals receivers
+stations turns sending receiving
+single radio frequency
+called
+simplex
+radio frequencies
+stations continuously concurrently send receive signals called
+duplex
+operation
+meaning usage word
+radio
+developed parallel developments field communications distinct phases
+electromagnetic waves experimentation
+wireless communication technical development
+radio broadcasting commercialization
+engineers
+developers
+businessmen contributed produce modern idea radio origins invention multiple controversial
+early radio designs transmit sound speech called
+wireless telegraph
+development laboratory demonstration commercial entity spanned decades required efforts practitioners
+david
+hughes noticed sparks heard telephone receiver experimenting carbon microphone
+developed carbon based detector eventually detect signals hundred yards
+demonstrated discovery royal society
+told induction
+abandoned research
+experiments undertaken thomas edison employees menlo park
+edison applied
+patent office patent electrostatic coupling system elevated terminals
+patent granted
+patent december
+marconi company purchase rights edison patent protect legally lawsuits
+louis
+missouri
+serbian american inventor nikola tesla made devices experiments electricity
+addressing franklin institute philadelphia national electric light association
+demonstrated principles wireless work
+descriptions contained elements incorporated radio systems development vacuum tube
+initially experimented magnetic receivers
+unlike coherers
+detecting devices consisting tubes filled iron filings invented temistocle calzecchi onesti fermo italy
+guglielmo marconi early experimenters
+demonstration wireless telegraphy place lecture theater oxford university museum natural history august
+carried professor oliver lodge alexander muirhead
+demonstration radio signal neighboring clarendon laboratory building
+received apparatus lecture theater
+november public demonstration town hall kolkata
+jagadish chandra bose ignited gunpowder rang bell distance millimetre range wavelength microwaves
+bose wrote bengali essay
+adrisya alok
+invisible light
+invisible light easily pass brick walls
+buildings
+messages transmitted means mediation wires
+scientific paper
+polarisation electric rays double refracting communicated asiatic society bengal
+paper communicated royal society london lord rayleigh october
+december
+london journal electrician
+vol
+published paper
+electro
+time
+word coherer
+coined lodge
+english speaking world hertzian wave receivers detectors
+electrician readily commented coherer
+december
+englishman
+january
+quoted electrician commented
+professor bose succeed perfecting patenting
+time system coast lighting navigable world revolutionised bengali scientist working single handed presidency college laboratory
+bose planned thought patenting
+alexander stepanovich popov built radio receiver
+contained coherer
+refined lightning detector
+presented russian physical chemical society
+depiction popov lightning detector printed journal russian physical chemical society year
+recently
+mistakenly believed description
+publication minutes
+session december issue journal rpcs
+fact description device dmitry aleksandrovich lachinov july edition
+fundamentals meteorology climatology
+russia
+popov receiver created improved basis lodge receiver
+originally intended reproduction experiments
+marconi scientist achieve successful radio transmission
+marconi built wireless system capable transmitting signals long distances
+radio transmission technology
+early public experimenters made short distance broadcasts
+marconi achieved long range signalling due wireless transmitting apparatus radio receiver claimed
+marconi experiments
+phenomenon transmission range proportional square antenna height
+marconi law
+marconi experimental apparatus proved engineering complete
+commercially successful radio transmission system
+proceedings united states naval institute
+marconi instruments
+coherer
+principle discovered twenty years ago
+electrical instrument device contained apparatus
+marconi awarded british patent
+improvements transmitting electrical impulses signals apparatus
+radio
+established radio station isle wight
+england
+marconi opened
+wireless
+factory silk works hall street
+chelmsford
+england
+employing people
+shortly
+marconi held patent rights radio
+brazilian priest roberto landell moura transmitted human voice wireless
+newspaper jornal comercio
+june
+conducted public experiment june
+front journalists general consul great britain
+lupton
+paulo
+brazil
+distance approximately
+points transmission reception alto santana paulista avenue
+year experiment
+received patent brazilian government
+equipment purpose phonetic transmissions space
+land water elements distance wires
+months
+knowing invention real
+left brazil united states america intent patenting machine patent office washington
+resources
+rely friends push project
+spite great difficulty
+patents awarded
+wave transmitter
+october
+precursor today radio transceiver
+wireless telephone
+wireless telegraph
+dated november
+june rms titanic disaster
+due increased production marconi opened world purpose built radio factory street works
+chelmsford
+england
+advancement vacuum tube detector
+invented westinghouse engineers
+christmas eve
+reginald fessenden synchronous rotary spark transmitter radio program broadcast
+ocean bluff brant rock
+massachusetts
+ships sea heard broadcast included fessenden playing holy night violin reading passage bible
+intents purposes
+transmission amplitude modulation radio
+radio news program broadcast august
+station detroit
+michigan
+survives today news format station wwj ownership cbs network
+college radio station began broadcasting october
+union college
+schenectady
+york personal call letters wendell king
+african american student school
+month
+renamed wruc
+aired believed public entertainment broadcast united states
+series thursday night concerts initially heard mile
+radius mile
+radius
+november
+aired broadcast sporting event
+august
+sociedad radio argentina aired live performance richard wagner opera parsifal coliseo theater downtown buenos aires
+twenty homes city receivers tune radio program
+regular entertainment broadcasts commenced marconi research centre writtle
+england
+sports broadcasting began time
+including college football radio broadcast west virginia
+pittsburgh football game
+united states supreme court invalidated marconi patents
+number
+basis anticipated tesla
+lodge
+years patent battles marconi company
+united states supreme court
+case marconi wireless telegraph
+america
+united states
+held important advance basic patent marconi disclosed
+marconi claimed knowledge prior art adjustable
+circuit
+transformer configuration radio transmission reception
+supreme court considered claim false
+addition ruling supreme court
+united states court claims invalidated fundamental marconi patent
+decision overturn marconi original patents
+reputation person develop practical radiotelegraphic communication
+adoption adjustable transformers transmitting receiving circuits
+improvement initial invention
+anticipated patents issued oliver lodge john stone stone
+decision unanimous
+contrast
+related developments united kingdom high court justice uphold marconi british patent
+issued april
+patent disclosed circuit system
+strikingly similar circuit system disclosed
+patent issued earlier tesla march
+emphasized tesla patent meant radio transmission apparatus exhibit presence variable inductance varying tuning frequency circuits
+surprising tesla barely understanding electromagnetic radio physicdubious discuss
+radio signals predicted maxwell experimentally shown hertz existed
+matter invention
+held marconi knowingly unknowingly scientific experimental work devising radio tuning apparatus time
+work american electrical engineer john stone stone issued
+patents
+made marconi successful ability commercialize radio equipment global business
+dubious discuss
+developments early century aircraft commercial radio stations navigation
+continued early vor systems widespread
+early
+single sideband frequency modulation invented amateur radio operators
+end decade
+established commercial modes
+radio transmit pictures visible television early
+commercial television transmissions started north america europe
+regency company introduced pocket transistor radio
+powered
+standard
+battery
+newly formed sony company introduced transistorized radio
+small fit vest pocket
+powered small battery
+durable
+vacuum tubes burn
+years
+transistors replaced tubes completely high power transmitters
+color television broadcast commercially
+broadcasts programs color
+radio
+communication satellite
+telstar
+launched
+late
+long distance telephone network began convert digital network
+employing digital radios links
+loran premier radio navigation system
+navy experimented satellite navigation
+culminating launch global positioning system
+gps
+constellation
+early
+amateur radio experimenters began personal computers audio cards process radio signals
+army darpa launched aggressive
+successful project construct software defined radio programmed virtually radio changing software program
+digital transmissions began applied broadcasting late
+early maritime
+sending telegraphic messages morse code ships land
+earliest users included japanese navy scouting russian fleet battle tsushima
+memorable marine telegraphy sinking rms titanic
+including communications operators sinking ship nearby vessels
+communications shore stations listing survivors
+radio pass orders communications armies navies sides world war
+germany radio communications diplomatic messages discovered submarine cables tapped british
+united states passed president woodrow wilson fourteen points germany radio war
+broadcasting began san jose
+california
+feasible
+widespread introduction radio receivers
+europe united states
+broadcasting
+point point broadcasting
+including telephone messages relays radio programs
+widespread
+radio pre war years development detection locating aircraft ships radar
+radio detection ranging
+today
+radio takes forms
+including wireless networks mobile communications types
+radio broadcasting
+advent television
+commercial radio broadcasts included news music
+dramas
+comedies
+variety shows
+forms entertainment
+era late mid commonly called radio
+golden age
+radio unique methods dramatic presentation sound
+radio programming
+radio amplitude modulation
+amplitude transmitted signal made proportional sound amplitude captured
+transduced
+microphone
+transmitted frequency remains unchanged
+transmissions affected static interference lightning sources radio emissions frequency add amplitudes original transmitted amplitude
+early part century
+american radio stations broadcast powers high
+heard worldwide
+stations transmitters commandeered military government world war
+maximum broadcast power civilian radio station united states canada
+majority stations emit signals powerful grandfathered
+list radio stations united states
+ktnn received granted watt license
+stations generally called
+clear channel
+stations
+confused clear channel communications
+north america stations exclusive broadcast frequency part broadcast day
+broadcast radio sends music voice noise radio
+mistakenly thought higher fidelity case
+capable audio bandwidth employs
+receivers typically narrower filters receiver recover signal noise
+stereo receivers reproduce audio bandwidth due wider filter stereo receiver
+nowadays
+radios limit audio bandpass maximum
+frequency modulation
+amplitude variation microphone transmitter frequency fluctuate
+audio signal modulates frequency amplitude
+signal subject static interference signals
+due wider bandwidth
+transmitted high frequency
+vhf
+radio spectrum
+vhf radio waves act light
+traveling straight lines
+reception range generally limited miles
+unusual upper atmospheric conditions
+signals occasionally reflected back earth ionosphere
+resulting long distance reception
+receivers subject capture effect
+radio receive strongest signal multiple signals frequency
+receivers immune lightning spark interference
+high power penetrating buildings
+diffracting hills
+refracting dense atmosphere horizon distance horizon
+watt stations regularly heard miles
+farther
+miles
+competing signals
+grandfathered
+stations conform power rules
+wbct
+grand rapids
+michigan
+runs watts erp
+increase watts erp terms original license
+huge power level increase range expect
+vhf frequencies travel straight lines horizon space
+fewer stations competing
+station heard bloomington
+illinois
+miles
+citation needed
+subcarrier services secondary signals transmitted
+piggyback
+fashion main program
+special receivers required utilize services
+analog channels alternative programming
+reading services blind
+background music stereo sound signals
+extremely crowded metropolitan areas
+channel program alternate foreign language radio program ethnic groups
+carriers transmit digital data
+station identification
+current song
+web addresses
+stock quotes
+countries
+radios automatically tune channel district bands
+aviation voice radios vhf
+multiple stations channel received
+result stronger stations blocking reception weaker stations due capture effect
+aircraft fly high transmitters received hundreds miles
+kilometres
+vhf
+marine voice radios single sideband voice
+ssb
+shortwave high frequency
+radio spectrum long ranges narrowband vhf spectrum shorter ranges
+narrowband sacrifices fidelity make channels radio spectrum
+smaller range radio frequencies
+khz deviation
+versus commercial broadcasts
+sound
+government
+police
+fire commercial voice services narrowband special frequencies
+early police radios receivers receive dispatches
+civil military
+high frequency
+voice services shortwave radio contact ships sea
+aircraft isolated settlements
+single sideband voice
+ssb
+bandwidth
+radio ssb sounds ducks quacking
+adults charlie brown cartoon
+viewed graph frequency versus power
+signal shows power frequencies voice add subtract main radio frequency
+ssb cuts bandwidth half suppressing carrier sidebands
+makes transmitter times powerful
+transmit unused carrier sideband
+tetra
+terrestrial trunked radio digital cell phone system military
+police ambulances
+commercial services
+worldspace sirius offer encrypted digital satellite radio
+mobile phones transmit local cell site
+transmitter
+receiver
+ultimately connects public switched telephone network
+pstn
+optic fiber microwave radio network elements
+mobile phone nears edge cell site radio coverage area
+central computer switches phone cell
+cell phones originally
+digital modulation schemes
+recent developments sweden
+dropme
+instant downloading digital material radio broadcast
+song
+mobile phone
+satellite phones satellites cell towers communicate
+television sends picture sound
+sound carrier fixed frequency
+ntsc system
+video carrier
+analog television vestigial sideband video carrier reduce bandwidth required
+digital television modulation north america
+atsc digital television standard
+cofdm modulation world
+dvb standard
+error correction code adds redundant correction codes reliable reception moderate data loss
+current future codecs mpeg transport stream container format
+systems standard definition format identical dvd
+mpeg video anamorphic widescreen mpeg layer
+audio
+high definition television simply higher resolution picture
+avc considered replacement video codec regions improved compression
+compression improved modulation involved
+single
+channel
+high definition program standard definition programs
+satellite navigation systems satellites precision clocks
+satellite transmits position
+time transmission
+receiver listens satellites
+figure position line tangent spherical shell satellite
+determined time flight radio signals satellite
+computer receiver math
+radio direction finding oldest form radio navigation
+navigators movable loop antennas locate commercial stations cities
+cases marine radiolocation beacons
+share range frequencies radio amateur radio operators
+loran systems time flight radio signals
+radio stations ground
+vor
+high frequency omnidirectional range
+systems
+aircraft
+antenna array transmits signals simultaneously
+directional signal rotates lighthouse fixed rate
+directional signal facing north
+omnidirectional signal pulses
+measuring difference phase signals
+aircraft determine bearing radial station
+establishing line position
+aircraft readings vors locate position intersection radials
+fix
+vor station collocated dme
+distance measuring equipment
+aircraft determine bearing range station
+providing fix ground station
+stations called vor
+dmes
+military operates similar system navaids
+called tacans
+built vor stations
+stations called vortacs
+tacans include distance measuring equipment
+vor
+dme vortac stations identical navigation potential civil aircraft
+radar
+radio detection ranging
+detects objects distance bouncing radio waves
+delay caused echo measures distance
+direction beam determines direction reflection
+polarization frequency return sense type surface
+navigational radars scan wide area times minute
+short waves reflect earth stone
+common commercial ships long distance commercial aircraft
+general purpose radars generally navigational radar frequencies
+modulate polarize pulse receiver determine type surface reflector
+general purpose radars distinguish rain heavy storms
+land vehicles
+superimpose sonar data map data gps position
+search radars scan wide area pulses short radio waves
+scan area times minute
+search radars doppler effect separate moving vehicles clutter
+targeting radars principle search radar scan smaller area
+times
+weather radars resemble search radars
+radio waves circular polarization wavelength reflect water droplets
+weather radar doppler effect measure wind speeds
+radio systems digital
+digital
+satellite radio
+digital audio broadcasting
+oldest form digital broadcast spark gap telegraphy
+pioneers marconi
+pressing key
+operator send messages morse code energizing rotating commutating spark gap
+rotating commutator produced tone receiver
+simple spark gap produce hiss
+indistinguishable static
+spark gap transmitters illegal
+transmissions span hundred megahertz
+wasteful radio frequencies power
+advance continuous wave telegraphy
+continuous wave
+pure radio frequency
+produced vacuum tube electronic oscillator switched key
+receiver local oscillator
+heterodyne
+pure radio frequency
+creating whistle audio tone
+bandwidth
+days primarily amateur radio operators
+hams
+strictly
+keying carrier
+interrupted continuous wave
+icw keying
+ook
+radioteletype equipment operates short wave
+loved military create written information skilled operator
+send bit tones frequency shift keying
+groups bits character printed teleprinter
+radioteletype commercial messages developed countries
+military weather services
+aircraft baud radioteletype service vhf send
+altitude position
+gate connecting flight data
+microwave dishes satellites
+telephone exchanges stations quadrature amplitude modulation
+qam
+qam sends data changing phase amplitude radio signal
+engineers qam packs bits radio signal exclusive
+shared
+fixed narrowband frequency range
+bits
+frames
+repeat
+special bit pattern locate beginning frame
+communication systems limit fixed narrowband frequency range vulnerable jamming
+variety jamming resistant spread spectrum techniques initially developed military
+famously global positioning system satellite transmissions
+commercial spread spectrum began
+bluetooth
+cell phones
+version forms spread spectrum
+systems reliability
+share frequency services
+coded orthogonal frequency division multiplexing
+cofdm
+cofdm breaks digital signal hundred slower subchannels
+digital signal qam subchannels
+modern cofdm systems small computer make decode signal digital signal processing
+flexible expensive older systems implemented separate electronic channels
+cofdm resists fading ghosting narrow channel qam signals slowly
+adaptive system
+sends error correction codes resist interference
+interference affect qam channels
+cofdm
+cell phones
+digital radio mondiale
+eureka
+local area network
+digital radio standards
+radio frequency energy generated heating objects generally intended radiate generating equipment
+prevent interference radio signals
+microwave ovens intense radio waves heat food
+diathermy equipment surgery sealing blood vessels
+induction furnaces melting metal casting
+induction hobs cooking
+amateur radio
+ham radio
+hobby enthusiasts licensed communicate number bands radio frequency spectrum commercially enjoyment
+provide emergency public service assistance
+beneficial emergencies
+saving lives instances
+radio amateurs variety modes
+including nostalgic morse code experimental low frequency experimental radio
+forms radio pioneered radio amateurs commercially important
+including
+single sideband
+ssb
+digital packet radio satellite repeaters
+amateur frequencies disrupted illegally power line internet service
+unlicensed
+government authorized personal radio services citizens band radio australia
+europe
+family radio service multi radio service north america exist provide simple
+short range communication individuals small groups
+overhead licensing
+similar services exist parts world
+radio services involve handheld units
+free radio stations
+called pirate radio
+clandestine
+stations
+unauthorized
+unlicensed
+illegal broadcasting stations
+low power transmitters operated sporadic schedules hobbyists
+community activists
+political cultural dissidents
+pirate stations operating offshore parts europe united kingdom closely resembled legal stations
+maintaining regular schedules
+high power
+selling commercial advertising time
+radio remote controls radio waves transmit control data remote object early forms guided missile
+early remotes range model boats
+cars airplanes
+large industrial remote controlled equipment cranes switching locomotives digital radio techniques ensure safety reliability
+madison square garden
+electrical exhibition
+nikola tesla successfully demonstrated radio controlled boat
+awarded
+patent
+method apparatus controlling mechanism moving vessels vehicles

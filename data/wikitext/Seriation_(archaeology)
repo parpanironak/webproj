@@ -1,0 +1,168 @@
+Seriation (archaeology)
+
+seriation
+archaeology
+seriation relative dating method assemblages artifacts numerous sites
+culture
+chronological order
+absolute dating methods
+carbon dating
+applied
+archaeologists relative dating methods date archaeological finds features
+seriation standard method dating archaeology
+date stone tools
+pottery fragments
+artifacts
+europe
+frequently reconstruct chronological sequence graves cemetery
+nieveler
+variants seriation applied
+contextual seriation frequency seriation
+renfrew bahn
+contextual seriation based presence absence design style
+frequency seriation relies measuring proportional abundance frequency design style
+contextual seriation reconstructing chronological sequence graves presence absence design style type important
+frequency seriation applied case large quantities objects belonging style
+assemblages pottery sherds including roughly range types proportions
+flinders petrie excavated diospolis parva egypt late nineteenth century
+found graves uncovering contained evidence dates discrete nature meant sequence constructed stratigraphy
+petrie listed contents grave strip cardboard swapped papers arrived sequence satisfied
+reasoned accurate sequence concentrations design styles shortest duration sequence papers
+renfrew bahn
+kendall
+shennan
+petrie considered inventor contextual seriation
+bainerd
+robinson
+address problem frequency seriation
+shennan
+assuming design styles follow bell curve starting slowly
+growing peak dying style basis frequency seriation
+assumes design popularity broadly similar site site culture
+addition
+vital lifespans design styles overlap
+rules
+assemblage objects sequence sites similar proportions styles
+lock
+task identifying design styles
+form groups objects belonging design style means trivial
+creating typology frequently basis seriation
+errors typology result errors seriation
+design style peaks popularity
+bimodal distribution
+design style seriation inclusion analysis result strange results
+design styles long time shape constructed handy improvement ornament added
+design styles eligible chronological seriation
+knives early medieval times europe show chronological variation
+addition temporal organization
+seriation results reflect assemblage differences social status
+age
+sex resulting regional variation
+combination factors
+shennan
+presents seriation result danish hoards based artefact types daggers
+axes
+swords
+result chronological sequence due selection types
+ordering start extremely male hoards ends extremely female
+doran hodson
+list conditions satisfied obtain chronological seriation result
+nowadays
+seriation results longer produced manually petrie times algorithms
+david george kendall
+petrie paper showed deep understanding mathematics seriation problem
+quote
+view petrie ranked greatest applied mathematicians nineteenth century
+baxter
+list landmarks statistics archaeology paper robinson
+entry
+robinson based frequency seriation method similarity matrix
+kendall proposed multidimensional scaling techniques seriation problems
+approach scientists
+baxter
+baxter presents review statistical methods seriation description approaches
+doran hodson
+summarized state art seriation methods
+giving detailed descriptions kendall robinson approaches
+today
+popular seriation method contextual frequency problems based correspondence analysis
+sequence axis correspondence analysis considered seriation order
+shennan
+lock
+jensen nielsen
+technique
+sequence objects design styles established
+note external evidence needed establish direction sequence calculated
+method object sequence oldest youngest object
+kendall
+applied multidimensional scaling cemetery data
+resulting scatterplot showed form horse shoe graves arranged curve chronological order
+similarly
+mapping component scores axes correspondence analysis result display parabola design styles considered controlled factor
+chronology
+called arch effect hill gauch
+kendall jensen nielsen
+created artificial data sets show parabola results ideal circumstances
+recommended inspecting scatterplot axes correspondence analysis find factors play role
+examples
+factor important
+arch effect distort results
+hill gauch
+presented method remove effect
+groenen poblome adapted correspondence analysis algorithm combine seriation absolute dates stratigraphic relationships
+small inspired flinders petrie serial ordering egyptian pottery published renfrew bahn
+raw data stored unsorted binary contingency table indicating design style found context star symbol
+column
+context design styles blackrim
+bottle
+handle
+beaker contained contexts
+contextual seriation sorts design styles contexts star symbols found close diagonal table
+small examples
+computer programs needed find ordering
+larger data sets graves studied petrie extremely helpful
+data presented simulated winbasp
+initially contexts
+called units winbasp
+created types
+contexts labeled chronological order numbers
+types labeled form
+type represented object object relevant chronological sequence provide link context
+similarly
+contexts object irrelevant seriation
+contexts object types represented object eliminated
+resulting raw simulated data consisting contexts types shown left
+expected
+dots indicating occurrence type context close diagonal table
+image hand side shows result seriation data set
+note dots compact diagonal table compared raw data
+shows minor problem seriation
+fact
+intervals production longer calculated algorithm
+general
+sequences contexts types calculated seriation algorithm correct chronological sequences fairly close
+image shows scatterplot typical parabola shape axes correspondence analysis contexts simulated data set
+contingency table shows contexts ideal seriation data created kendall jensen nielsen
+context type appears type disappears
+regular data
+reasonable assume constant time intervals contexts adjacent time
+correspondence analysis results shown figures calculated basis contexts ideal seriation data
+scatterplot correspondence analysis axes shows typical parabola shape
+display scores axes exhibits points lying degree polynomial curve
+similarly
+plot scores fourth axes show fourth degree polynomial ideal data
+note distances scores adjacent contexts axis vary
+beginning end
+distances extremely small
+largest distances centre times large smallest distance
+hill gauch
+created similar contingency table regular structure context types
+note
+context distances smaller ends middle
+reasons proposed adjustment called detrended correspondence analysis
+archaeologists linear transformation scores axis basis absolute dates create good estimates unknown absolute dates
+approach basis method presented groenen poblome
+combine relative absolute dates
+ideal shows linear transformation cases
+simulation study van velden
+groenen poblome conclusion predictions approach good

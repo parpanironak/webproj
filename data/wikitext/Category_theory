@@ -1,0 +1,294 @@
+Category theory
+
+category theory
+category theory formalize mathematics concepts collection objects arrows
+called morphisms
+category theory formalize concepts high level abstractions set theory
+field theory
+group theory
+terms category theory
+including term
+morphism
+differ mathematics
+category theory
+morphism
+obeys set conditions specific category theory
+care understand context statements made
+significant areas mathematics formalised category theory categories
+category theory abstraction mathematics intricate subtle mathematical results fields stated
+proved
+simpler categories
+accessible category category sets
+objects sets arrows functions set
+objects category sets arrows functions
+formalising mathematical concept meets basic conditions behaviour objects arrows valid category
+results category theory apply
+simplest examples category groupoid
+defined category arrows morphisms invertible
+groupoid concept important topology
+categories branches mathematics
+areas theoretical computer science correspond types
+mathematical physics describe vector spaces
+categories introduced samuel eilenberg saunders mac lane
+connection algebraic topology
+category theory faces specialists
+mathematicians
+term dating
+general abstract nonsense
+refers high level abstraction
+compared classical branches mathematics
+homological algebra category theory aspect organising suggesting manipulations abstract algebra
+study categories attempt axiomatically capture commonly found classes related mathematical structures relating structure preserving functions
+systematic study category theory prove general results types mathematical structures axioms category
+class grp groups consists objects
+group structure
+proceed prove theorems groups making logical deductions set axioms
+immediately proven axioms identity element group unique
+focusing individual objects
+groups
+possessing structure
+category theory emphasizes morphisms structure preserving mappings objects
+studying morphisms
+learn structure objects
+case groups
+morphisms group homomorphisms
+group homomorphism groups
+preserves group structure
+precise sense
+process
+taking group
+carries information structure group group
+study group homomorphisms tool studying general properties groups consequences group axioms
+similar type investigation occurs mathematical theories
+study continuous maps
+morphisms
+topological spaces topology
+category called top
+study smooth functions
+morphisms
+manifold theory
+axiomatizes relations functions
+obtains theory allegories
+category type mathematical structure
+processes
+preserve structure sense
+process called functor
+diagram chasing visual method arguing abstract
+arrows
+joined diagrams
+functors represented arrows categories
+subject specific defining commutativity conditions
+functors define
+construct
+categorical diagrams sequences
+mitchell
+functor associates object category object category
+morphism category morphism
+fact
+define category categories functors objects categories
+morphisms
+categories
+functors
+studying categories functors
+studying class mathematical structures morphisms
+studying relationships classes mathematical structures
+fundamental idea
+surfaced algebraic topology
+difficult topological questions translated algebraic questions easier solve
+basic constructions
+fundamental group fundamental groupoid topological space
+expressed fundamental functors category groupoids
+concept pervasive algebra applications
+abstracting
+diagrammatic
+sequential constructions
+naturally related
+vague notion
+sight
+leads clarifying concept natural transformation
+map
+functor
+important constructions mathematics studied context
+naturality
+principle
+general covariance physics
+cuts deeper initially apparent
+arrow functors natural transformation subject naturality commutativity conditions
+functors natural transformations
+naturality
+key concepts category theory
+category consists mathematical entities
+relations morphisms
+depicted commutative diagrams
+points
+corners
+representing objects
+arrows
+representing morphisms
+morphisms properties
+morphism
+retraction epimorphism
+section monomorphism
+statements equivalent
+functors structure preserving maps categories
+thought morphisms category
+small
+categories
+covariant
+functor category category
+written
+consists
+properties hold
+contravariant functor
+covariant functor
+turns morphisms
+reverses arrows
+specifically
+morphism
+assigned morphism
+words
+contravariant functor acts covariant functor opposite category cop
+natural transformation relation functors
+functors describe
+natural constructions
+natural transformations describe
+natural homomorphisms
+constructions
+constructions yield
+result
+expressed natural isomorphism functors
+covariant
+functors categories
+natural transformation associates object morphism
+morphism
+means diagram commutative
+functors called naturally isomorphic exists natural transformation isomorphism object
+language category theory
+areas mathematical study categorized
+categories include sets
+groups
+topologies
+category distinguished properties objects common
+empty set product topologies
+definition category
+objects considered atomic
+object set
+topology
+abstract concept
+challenge define special objects referring internal structure objects
+define empty set referring elements
+product topology referring open sets
+characterize objects terms relations objects
+morphisms respective categories
+task find universal properties uniquely determine objects interest
+turns numerous important constructions purely categorical
+central concept needed purpose called categorical limit
+dualized yield notion colimit
+natural question
+conditions categories considered
+essentially
+sense theorems category readily transformed theorems category
+major tool employs describe situation called equivalence categories
+functors categories
+categorical equivalence found numerous applications mathematics
+definitions categories functors provide basics categorical algebra
+additional important topics listed
+strong interrelations topics
+order considered guideline reading
+concepts
+equivalence categories
+adjoint functor pairs
+functor categories
+situated context higher dimensional categories
+briefly
+morphism objects
+process taking object
+higher dimensional categories profitably generalize
+higher dimensional processes
+strict
+category category
+morphisms morphisms
+processes transform morphism
+compose
+bimorphisms
+horizontally vertically
+require dimensional
+exchange law
+hold
+relating composition laws
+context
+standard cat
+category
+small
+categories
+bimorphisms morphisms simply natural transformations morphisms usual sense
+basic category single object
+essentially monoidal categories
+bicategories weaker notion dimensional categories composition morphisms strictly associative
+associative
+isomorphism
+process extended natural numbers
+called categories
+notion category ordinal number
+higher dimensional categories part broader mathematical field higher dimensional algebra
+concept introduced ronald brown
+conversational introduction ideas
+john baez
+tale categories
+samuel eilenberg saunders mac lane introduced categories
+functors
+natural transformations part work topology
+algebraic topology
+work important part transition intuitive geometric homology axiomatic homology theory
+eilenberg mac lane wrote goal understand natural transformations
+order
+functors defined
+required categories
+stanislaw ulam
+writing behalf
+claimed related ideas current late poland
+eilenberg polish
+studied mathematics poland
+category theory
+sense
+continuation work emmy noether
+mac lane teachers
+formalizing abstract processes
+noether realized order understand type mathematical structure
+understand processes preserving structure
+order achieve understanding
+eilenberg mac lane proposed axiomatic formalization relation structures processes preserving
+subsequent development category theory powered computational homological algebra
+axiomatic algebraic geometry
+field resistant grounded axiomatic set theory russell whitehead view united foundations
+general category theory
+extension universal algebra features allowing semantic flexibility higher order logic
+applied mathematics
+categories called topoi
+singular topos
+serve alternative axiomatic set theory foundation mathematics
+topos considered specific type category additional topos axioms
+foundational applications category theory worked fair detail basis
+justification
+constructive mathematics
+topos theory form abstract sheaf theory
+geometric origins
+leads ideas pointless topology
+categorical logic defined field based type theory intuitionistic logics
+applications functional programming domain theory
+cartesian closed category syntactic description lambda calculus
+category theoretic language clarifies related areas common
+abstract sense
+category theory applied fields
+john baez shown link feynman diagrams physics monoidal categories
+application category theory
+specifically
+topos theory
+made mathematical music theory
+book topos music
+geometric logic concepts
+theory
+performance guerino mazzola
+recent efforts introduce undergraduates categories foundation mathematics include william lawvere rosebrugh
+lawvere stephen schanuel
+mirroslav yotov

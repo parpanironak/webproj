@@ -1,0 +1,648 @@
+Artificial intelligence
+
+artificial intelligence
+artificial intelligence
+intelligence machines robots branch computer science aims create
+textbooks define field
+study design intelligent agents
+intelligent agent system perceives environment takes actions maximize chances success
+john mccarthy
+coined term
+defines
+science engineering making intelligent machines
+research highly technical specialised
+deeply divided subfields fail communicate
+division due social cultural factors
+subfields grown institutions work individual researchers
+research divided technical issues
+subfields focused solution specific problems
+approaches
+widely differing tools accomplishment applications
+central problems include traits reasoning
+knowledge
+planning
+learning
+communication
+perception ability move manipulate objects
+general intelligence
+strong
+field long term goals
+popular approaches include statistical methods
+computational intelligence traditional symbolic
+enormous number tools
+including versions search mathematical optimization
+logic
+methods based probability economics
+field founded claim central property humans
+intelligence
+sapience homo sapiens
+precisely emulated machine
+raises philosophical issues nature mind ethics creating artificial beings
+issues addressed myth
+fiction philosophy antiquity
+artificial intelligence subject optimism
+suffered setbacks today
+essential part technology industry
+providing heavy lifting difficult problems computer science
+thinking machines artificial beings greek myths
+talos crete
+bronze robot hephaestus
+pygmalion galatea
+human likenesses believed intelligence built major civilization
+animated cult images worshiped egypt greece humanoid automatons built yan shi
+hero alexandria jazari
+widely believed artificial beings created ibn
+judah loew paracelsus
+centuries
+artificial beings common feature fiction
+mary shelley frankenstein karel
+rossum universal robots
+pamela mccorduck argues examples ancient urge
+describes
+forge gods
+stories creatures fates discuss hopes
+fears ethical concerns presented artificial intelligence
+mechanical
+formal
+reasoning developed philosophers mathematicians antiquity
+study logic led directly invention programmable digital electronic computer
+based work mathematician alan turing
+turing theory computation suggested machine
+shuffling symbols simple
+simulate conceivable
+imaginable
+act mathematical deduction
+concurrent discoveries neurology
+information theory cybernetics
+inspired small group researchers begin possibility building electronic brain
+field research founded conference campus dartmouth college summer
+attendees
+including john mccarthy
+marvin minsky
+allen newell herbert simon
+leaders research decades
+students wrote programs
+people
+simply astonishing
+computers solving word problems algebra
+proving logical theorems speaking english
+middle
+research
+heavily funded department defense laboratories established world
+founders profoundly optimistic future field
+herbert simon predicted
+machines capable
+twenty years
+work man
+marvin minsky agreed
+writing
+problem creating artificial intelligence substantially solved
+failed recognize difficulty problems faced
+response criticism sir james lighthill ongoing pressure congress fund productive projects
+british governments cut undirected exploratory research
+years
+funding projects hard find
+called
+winter
+early
+research revived commercial success expert systems
+form program simulated knowledge analytical skills human experts
+market reached billion dollars
+time
+japan generation computer project inspired
+british governments restore funding academic research field
+beginning collapse lisp machine market
+fell disrepute
+longer lasting winter began
+early century
+achieved greatest successes
+albeit scenes
+artificial intelligence logistics
+data mining
+medical diagnosis areas technology industry
+success due factors
+increasing computational power computers
+moore law
+greater emphasis solving specific subproblems
+creation ties fields working similar problems
+commitment researchers solid mathematical methods rigorous scientific standards
+deep blue computer chess playing system beat reigning world chess champion
+garry kasparov
+stanford robot won darpa grand challenge driving autonomously miles unrehearsed desert trail
+years
+team cmu won darpa urban challenge vehicle autonomously navigated miles urban environment adhering traffic hazards traffic laws
+february
+jeopardy
+quiz show exhibition match
+ibm question answering system
+watson
+defeated greatest jeopardy
+champions
+brad rutter ken jennings
+significant margin
+kinect
+interface xbox
+algorithms emerged lengthy research iphones siri
+general problem simulating
+creating
+intelligence broken number specific problems
+consist traits capabilities researchers intelligent system display
+traits received attention
+early researchers developed algorithms imitated step step reasoning humans solve puzzles make logical deductions
+late
+research developed highly successful methods dealing uncertain incomplete information
+employing concepts probability economics
+difficult problems
+algorithms require enormous computational resources experience
+combinatorial explosion
+amount memory computer time required astronomical problem size
+search efficient problem solving algorithms high priority research
+human beings solve problems fast
+intuitive judgements conscious
+step step deduction early research model
+made progress imitating kind
+symbolic
+problem solving
+embodied agent approaches emphasize importance sensorimotor skills higher reasoning
+neural net research attempts simulate structures inside brain give rise skill
+statistical approaches mimic probabilistic nature human ability guess
+knowledge representation knowledge engineering central research
+problems machines expected solve require extensive knowledge world
+things represent
+objects
+properties
+categories relations objects
+situations
+events
+states time
+effects
+knowledge knowledge
+people
+researched domains
+representation
+exists
+ontology
+borrowing word traditional philosophy
+general called upper ontologies
+difficult problems knowledge representation
+intelligent agents set goals achieve
+visualize future
+representation state world make predictions actions change
+make choices maximize utility
+choices
+classical planning problems
+agent assume thing acting world consequences actions
+agent actor
+periodically ascertain world matches predictions change plan
+requiring agent reason uncertainty
+multi agent planning cooperation competition agents achieve goal
+emergent behavior evolutionary algorithms swarm intelligence
+machine learning study computer algorithms improve automatically experience
+central research beginning
+unsupervised learning ability find patterns stream input
+supervised learning includes classification numerical regression
+classification determine category belongs
+number examples things categories
+regression attempt produce function describes relationship inputs outputs predicts outputs change inputs change
+reinforcement learning agent rewarded good responses punished bad
+analyzed terms decision theory
+concepts utility
+mathematical analysis machine learning algorithms performance branch theoretical computer science computational learning theory
+natural language processing machines ability read understand languages humans speak
+sufficiently powerful natural language processing system enable natural language user interfaces acquisition knowledge directly human written sources
+internet texts
+straightforward applications natural language processing include information retrieval
+text mining
+machine translation
+common method processing extracting meaning natural language semantic indexing
+increases processing speeds drop cost data storage makes indexing large volumes abstractions users input efficient
+field robotics closely related
+intelligence required robots handle tasks object manipulation navigation
+problems localization
+knowing
+finding things
+mapping
+learning
+building map environment
+motion planning
+figuring
+path planning
+point space point
+involve compliant motion robot moves maintaining physical contact object
+machine perception ability input sensors
+cameras
+microphones
+sonar exotic
+deduce aspects world
+computer vision ability analyze visual input
+selected subproblems speech recognition
+facial recognition object recognition
+affective computing study development systems devices recognize
+interpret
+process
+simulate human affects
+interdisciplinary field spanning computer sciences
+psychology
+cognitive science
+origins field traced back early philosophical inquiries emotion
+modern branch computer science originated rosalind picard paper affective computing
+motivation research ability simulate empathy
+machine interpret emotional state humans adapt behaviour
+giving response emotions
+emotion social skills play roles intelligent agent
+predict actions
+understanding motives emotional states
+involves elements game theory
+decision theory
+ability model human emotions perceptual skills detect emotions
+effort facilitate human computer interaction
+intelligent machine display experience order sensitive emotional dynamics human interaction
+field addresses creativity theoretically
+philosophical psychological perspective
+practically
+specific implementations systems generate outputs considered creative
+systems identify assess creativity
+related areas computational research artificial intuition artificial imagination
+researchers work eventually incorporated machine general intelligence
+strong
+combining skills exceeding human abilities
+anthropomorphic features artificial consciousness artificial brain required project
+problems considered complete
+solve problem
+solve
+straightforward
+specific task machine translation requires machine follow author argument
+reason
+talked
+knowledge
+faithfully reproduce author intention
+social intelligence
+machine translation
+believed complete
+require strong humans
+established unifying theory paradigm guides research
+researchers disagree issues
+long standing questions remained unanswered
+artificial intelligence simulate natural intelligence studying psychology neurology
+human biology irrelevant research bird biology aeronautical engineering
+intelligent behavior simple
+elegant principles
+logic optimization
+necessarily require solving large number completely unrelated problems
+intelligence reproduced high level symbols
+similar words ideas
+require
+symbolic
+processing
+john haugeland
+coined term gofai
+good fashioned artificial intelligence
+proposed properly referred synthetic intelligence
+term adopted gofai researchers
+number researchers explored connection neurology
+information theory
+cybernetics
+built machines electronic networks exhibit rudimentary intelligence
+grey walter turtles johns hopkins beast
+researchers gathered meetings teleological society princeton university ratio club england
+approach largely abandoned
+elements revived
+access digital computers middle
+research began explore possibility human intelligence reduced symbol manipulation
+research centered institutions
+carnegie mellon university
+stanford mit
+developed style research
+john haugeland named approaches
+good fashioned
+gofai
+symbolic approaches achieved great success simulating high level thinking small demonstration programs
+approaches based cybernetics neural networks abandoned pushed background
+researchers convinced symbolic approaches eventually succeed creating machine artificial general intelligence considered goal field
+progress symbolic stall believed symbolic systems imitate processes human cognition
+perception
+robotics
+learning pattern recognition
+number researchers began
+symbolic
+approaches specific problems
+researchers developed sophisticated mathematical tools solve specific subproblems
+tools scientific
+sense results measurable verifiable
+responsible recent successes
+shared mathematical language permitted high level collaboration established fields
+mathematics
+economics operations research
+stuart russell peter norvig describe movement
+revolution
+victory neats
+critics argue techniques focused problems failed address long term goal general intelligence
+ongoing debate relevance validity statistical approaches
+exemplified part exchanges peter norvig noam chomsky
+years research
+developed large number tools solve difficult problems computer science
+general methods discussed
+problems solved theory intelligently searching solutions
+reasoning reduced performing search
+logical proof viewed searching path leads premises conclusions
+step application inference rule
+planning algorithms search trees goals subgoals
+attempting find path target goal
+process called means ends analysis
+robotics algorithms moving limbs grasping objects local searches configuration space
+learning algorithms search algorithms based optimization
+simple exhaustive searches rarely sufficient real world problems
+search space
+number places search
+quickly grows astronomical numbers
+result search slow completes
+solution
+problems
+heuristics
+rules thumb
+eliminate choices lead goal
+called
+pruning search tree
+heuristics supply program
+guess
+path solution lies
+kind search prominence
+based mathematical theory optimization
+problems
+begin search form guess refine guess incrementally refinements made
+algorithms visualized blind hill climbing
+begin search random point landscape
+jumps steps
+moving guess uphill
+reach top
+optimization algorithms simulated annealing
+beam search random optimization
+evolutionary computation form optimization search
+begin population organisms
+guesses
+mutate recombine
+selecting fittest survive generation
+refining guesses
+forms evolutionary computation include swarm intelligence algorithms
+ant colony particle swarm optimization
+evolutionary algorithms
+genetic algorithms
+gene expression programming
+genetic programming
+logic knowledge representation problem solving
+applied problems
+satplan algorithm logic planning inductive logic programming method learning
+forms logic research
+propositional sentential logic logic statements true false
+order logic quantifiers predicates
+express facts objects
+properties
+relations
+fuzzy logic
+version order logic truth statement represented
+simply true
+false
+fuzzy systems uncertain reasoning widely modern industrial consumer product control systems
+subjective logic models uncertainty explicit manner fuzzy logic
+binomial opinion satisfies belief disbelief uncertainty beta distribution
+method
+ignorance distinguished probabilistic statements agent makes high confidence
+default logics
+monotonic logics circumscription forms logic designed default reasoning qualification problem
+extensions logic designed handle specific domains knowledge
+description logics
+situation calculus
+event calculus fluent calculus
+representing events time
+causal calculus
+belief calculus
+modal logics
+problems
+reasoning
+planning
+learning
+perception robotics
+require agent operate incomplete uncertain information
+researchers devised number powerful tools solve problems methods probability theory economics
+bayesian networks general tool large number problems
+reasoning
+bayesian inference algorithm
+learning
+expectation maximization algorithm
+planning
+decision networks
+perception
+dynamic bayesian networks
+probabilistic algorithms filtering
+prediction
+smoothing finding explanations streams data
+helping perception systems analyze processes occur time
+hidden markov models kalman filters
+key concept science economics
+utility
+measure valuable intelligent agent
+precise mathematical tools developed analyze agent make choices plan
+decision theory
+decision analysis
+information theory
+tools include models markov decision processes
+dynamic decision networks
+game theory mechanism design
+simplest applications divided types
+classifiers
+shiny diamond
+controllers
+shiny pick
+controllers classify conditions inferring actions
+classification forms central part systems
+classifiers functions pattern matching determine closest match
+tuned examples
+making attractive
+examples observations patterns
+supervised learning
+pattern belongs predefined class
+class decision made
+observations combined class labels data set
+observation received
+observation classified based previous experience
+classifier trained ways
+statistical machine learning approaches
+widely classifiers neural network
+kernel methods support vector machine
+nearest neighbor algorithm
+gaussian mixture model
+naive bayes classifier
+decision tree
+performance classifiers compared wide range tasks
+classifier performance depends greatly characteristics data classified
+single classifier works problems
+referred
+free lunch
+theorem
+determining suitable classifier problem art science
+study artificial neural networks began decade field research founded
+work walter pitts warren mccullough
+important early researchers frank rosenblatt
+invented perceptron paul werbos developed backpropagation algorithm
+main categories networks acyclic feedforward neural networks
+signal passes direction
+recurrent neural networks
+feedback
+popular feedforward networks perceptrons
+multi layer perceptrons radial basis networks
+recurrent networks
+famous hopfield net
+form attractor network
+john hopfield
+neural networks applied problem intelligent control
+robotics
+learning
+techniques hebbian learning competitive learning
+hierarchical temporal memory approach models structural algorithmic properties neocortex
+control theory
+grandchild cybernetics
+important applications
+robotics
+researchers developed specialized languages research
+including lisp prolog
+alan turing proposed general procedure test intelligence agent turing test
+procedure major problems artificial intelligence tested
+difficult challenge present agents fail
+artificial intelligence evaluated specific problems small problems chemistry
+hand writing recognition game playing
+tests termed subject matter expert turing tests
+smaller problems provide achievable goals increasing number positive results
+classification outcomes test
+performance draughts optimal
+performance chess super human nearing strong super human
+computer chess
+versus human
+performance everyday tasks
+recognizing face crossing room bumping
+human
+approach measures machine intelligence tests developed mathematical definitions intelligence
+examples kinds tests start late nineties devising intelligence tests notions kolmogorov complexity data compression
+major advantages mathematical definitions applicability nonhuman intelligences absence requirement human testers
+area artificial intelligence contributed greatly intrusion detection
+artificial intelligence techniques pervasive numerous list
+frequently
+technique reaches mainstream
+longer considered artificial intelligence
+phenomenon effect
+number competitions prizes promote research artificial intelligence
+main areas promoted
+general machine intelligence
+conversational behavior
+data mining
+driverless cars
+robot soccer games
+platform
+computing platform
+defined
+sort hardware architecture software framework
+including application frameworks
+software run
+rodney brooks pointed years ago
+artificial intelligence software defines features platform
+actual platform affects results
+work problems real world platforms isolation
+wide variety platforms allowed aspects develop
+ranging expert systems
+albeit based entire real world system
+robot platforms widely roomba open interface
+artificial intelligence
+claiming recreate capabilities human mind
+challenge inspiration philosophy
+limits intelligent machines
+essential difference human intelligence artificial intelligence
+machine mind consciousness
+influential answers questions
+artificial intelligence common topic science fiction projections future technology society
+existence artificial intelligence rivals human intelligence raises difficult ethical issues
+potential power technology inspires hopes fears
+fiction
+artificial intelligence appeared fulfilling roles
+include
+mary shelley frankenstein considers key issue ethics artificial intelligence
+machine created intelligence
+feel
+feel
+rights human
+idea appears modern science fiction
+including films robot
+blade runner
+artificial intelligence
+humanoid machines ability feel human emotions
+issue
+robot rights
+considered
+california institute future
+critics discussion premature
+subject profoundly discussed documentary film plug pray
+martin ford
+author lights tunnel
+automation
+accelerating technology economy future
+argue specialized artificial intelligence applications
+robotics forms automation ultimately result significant unemployment machines begin match exceed capability workers perform routine repetitive jobs
+ford predicts knowledge based entry level increasingly susceptible automation expert systems
+machine learning enhanced applications
+based applications amplify capabilities low wage offshore workers
+making feasible outsource knowledge work
+joseph weizenbaum wrote applications
+definition
+successfully simulate genuine human empathy technology fields customer service psychotherapy deeply misguided
+weizenbaum bothered researchers
+philosophers
+view human mind computer program
+position computationalism
+weizenbaum points suggest research devalues human life
+futurists artificial intelligence ultimately transcend limits progress
+ray kurzweil moore law
+describes relentless exponential improvement digital technology
+calculate desktop computers processing power human brains year
+predicts artificial intelligence reach point improve rate exceeds conceivable past
+scenario science fiction writer vernor vinge named
+singularity
+robot designer hans moravec
+cyberneticist kevin warwick inventor ray kurzweil predicted humans machines merge future cyborgs capable powerful
+idea
+called transhumanism
+roots aldous huxley robert ettinger
+illustrated fiction
+manga ghost shell science fiction series dune
+artist hajime sorayama sexy robots series painted published japan depicting actual organic human form life muscular metallic skins
+gynoids
+book influenced movie makers including george lucas creatives
+sorayama considered organic robots real part nature unnatural product human mind
+fantasy existing mind realized actual form
+years
+robotic pet
+aibo
+companion people
+aibo grew sony computer science laboratory
+csl
+famed engineer
+toshitada doi credited original progenitor
+started work robots artificial intelligence expert masahiro fujita csl sony
+doi
+friend
+artist hajime sorayama
+enlisted create initial designs aibo body
+designs part permanent collections museum modern art smithsonian institution
+versions aibo studies carnegie mellon university
+aibo added carnegie mellon university
+robot hall fame
+political scientist charles
+rubin believes designed guaranteed friendly
+argues
+sufficiently advanced benevolence indistinguishable malevolence
+humans assume machines robots treat favorably
+priori reason sympathetic system morality
+evolved biology
+ais share
+edward fredkin argues
+artificial intelligence stage evolution
+idea proposed samuel butler
+darwin machines
+expanded george dyson book

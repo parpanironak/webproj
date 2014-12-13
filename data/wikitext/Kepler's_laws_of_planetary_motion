@@ -1,0 +1,370 @@
+Kepler's laws of planetary motion
+
+kepler laws planetary motion
+astronomy
+kepler laws planetary motion scientific laws describing orbital motion
+originally formulated describe motion planets sun
+kepler laws
+johannes kepler published laws
+found analyzing astronomical observations tycho brahe
+kepler discovered law years
+published
+time
+kepler laws radical claims
+prevailing belief
+epicycle based theories
+orbits perfect circles
+planetary orbits closely approximated circles
+immediately evident orbits ellipses
+detailed calculations orbit planet mars kepler elliptical shape
+inferred heavenly bodies
+including farther sun
+elliptical orbits
+kepler laws analysis observations based challenged long accepted geocentric models aristotle ptolemy
+generally supported heliocentric theory nicolaus copernicus
+kepler ellipses likewise copernicus circular orbits epicycles
+asserting earth orbited sun
+proving planets speeds varied
+elliptical orbits circular orbits epicycles
+decades
+isaac newton proved relationships kepler apply ideal conditions good approximation fulfilled solar system
+consequences newton laws motion law universal gravitation
+nonzero planetary masses resulting perturbations
+kepler laws apply approximately motions solar system
+voltaire philosophie newton
+elements newton philosophy
+publication call kepler laws
+laws
+newton mathematical theories
+part foundation modern astronomy physics
+ellipse closed plane curve resembles stretched circle
+figure
+note sun center ellipse
+foci
+focal point
+marked lighter dot
+physical significance orbit
+center ellipse midpoint line segment joining focal points
+circle special case ellipse focal points coincide
+stretched ellipse perfect circle eccentricity
+parameter greater equal
+circle
+eccentricity
+ellipse parabola
+eccentricities planets kepler varied
+venus
+mercury
+list planetary objects solar system detail
+kepler death
+bodies highly eccentric orbits identified
+comets asteroids
+dwarf planet pluto discovered late
+delay due small size
+distance
+optical faintness
+heavenly bodies comets parabolic hyperbolic orbits newtonian theory observed
+symbolically
+ellipse represented polar coordinates
+polar coordinates
+focus
+ellipse
+semi latus rectum
+eccentricity ellipse
+planet orbiting sun
+distance sun planet angle planet current position closest approach
+sun vertex
+perihelion
+distance minimum
+distance image
+math
+png
+aphelion
+distance maximum
+semi major axis arithmetic rmin rmax
+semi minor axis geometric rmin rmax
+semi latus rectum harmonic rmin rmax
+eccentricity coefficient variation rmin rmax
+area ellipse
+special case circle
+resulting rmin rmax
+small time image
+math
+png planet sweeps small triangle base line image
+math
+png height image
+math
+png
+area triangle image
+math
+png constant areal velocity
+tex
+math
+png
+law states planet ellipse
+planet distances sun parts orbit
+planet move faster closer sun sweeps equal areas equal times
+total area enclosed elliptical orbit
+period
+satisfies
+angular velocity
+newton notation differentiation
+motion planet sun
+kepler law commonly represented
+image
+math
+png period
+image
+math
+png newton constant gravity
+image
+math
+png mass larger body
+image
+math
+png distance centers mass bodies
+law
+published kepler captures relationship distance planets sun
+orbital periods
+symbolically
+law expressed
+image
+math
+png orbital period planet image
+math
+png semi major axis orbit
+constant proportionality
+sidereal year
+astronomical unit
+numeric values list gravitationally rounded objects solar system
+kepler enunciated law laborious attempt determine viewed
+music spheres
+precise laws
+express terms musical notation
+harmonic law
+godefroy wendelin
+noted kepler law applies brightest moons jupiter
+fact
+laws approximately describe motion bodies orbit
+statement law focus closer exactitude masses closer mass
+masses
+statements laws closer exactitude masses closer mass perturbations tend
+masses bodies equal
+small proportion
+great proportion
+cases body motion
+rotation barycenter bodies
+center mass focus ellipse
+orbits ellipses focus barycenter
+ratio masses large
+barycenter deep larger object
+close center mass
+case require sophisticated precision measurements detect separation barycenter center mass larger object
+case planets orbiting sun
+largest mass
+jupiter
+saturn
+solar mass
+long solar system barycenter body sun
+solar diameter center
+kepler law
+approximation
+accurately describe orbits planets sun classical physics
+kepler laws refine model copernicus
+assumed circular orbits
+eccentricity planetary orbit
+kepler laws state
+eccentricities orbits planets copernicus kepler small
+rules give excellent approximations planetary motion
+kepler laws fit observations
+kepler corrections copernican model obvious
+nonzero eccentricity orbit earth makes time march equinox september equinox
+days
+unequal time september equinox march equinox
+days
+diameter cut orbit equal parts
+equator cuts orbit parts areas ratio
+eccentricity orbit earth approximately
+close correct
+earth orbit
+calculation correct perihelion
+date earth closest sun
+solstice
+current perihelion
+january
+fairly close solstice december
+isaac newton computed naturalis principia mathematica acceleration planet moving kepler law
+suggests sun physical acceleration planets
+newton defined force planet product mass acceleration
+newton laws motion
+sun plays unsymmetrical part
+unjustified
+assumed newton law universal gravitation
+planets small masses compared sun
+orbits conform kepler laws approximately
+newton model improves kepler model fits actual observations accurately
+body problem
+deviation motion planet kepler laws due gravity planets called perturbation
+kepler laws compute position planet function time
+method involves solution transcendental equation called kepler equation
+procedure calculating heliocentric polar coordinates
+planet function time perihelion
+motion
+steps
+important special case circular orbit
+simply
+uniform circular motion considered normal
+deviation motion considered anomaly
+proof procedure shown
+keplerian problem assumes elliptical orbit points
+problem compute polar coordinates
+planet time perihelion
+solved steps
+kepler considered circle major axis diameter
+sector areas related image
+math
+png
+circular sector area image
+math
+png
+area swept perihelion
+kepler law proportional time perihelion
+anomaly
+proportional time perihelion
+motion
+anomaly computed
+goal compute true anomaly
+function
+elementary
+kepler solution
+intermediate variable
+compute function solving kepler equation
+compute true anomaly eccentric anomaly
+details
+division
+kepler equation
+equation function
+determining inverse problem
+iterative numerical algorithms commonly
+computed eccentric anomaly
+step calculate true anomaly
+note figure
+dividing image
+math
+png inserting kepler law
+result usable relationship eccentric anomaly true anomaly
+computationally convenient form substituting trigonometric identity
+multiplying
+taking square root result
+completed step connection time position orbit
+fourth step compute heliocentric distance true anomaly kepler law
+principia mathematica philosophiae naturalis
+newton showed kepler laws imply acceleration planets directed sun depend distance sun inverse square law
+geometrical method newton prove result complicated
+demonstration based calculus
+heliocentric point view vector planet image
+math
+png image
+math
+png distance planet direction image
+math
+png unit vector
+planet moves direction vector image
+math
+png
+image
+math
+png unit vector orthogonal image
+math
+png pointing direction rotation
+image
+math
+png polar angle
+dot top variable signifies differentiation respect time
+differentiating position vector obtain velocity acceleration vectors
+radial acceleration
+tangential acceleration
+kepler law implies areal velocity image
+math
+png constant motion
+tangential acceleration image
+math
+png kepler law
+acceleration planet obeying kepler law directed sun
+kepler law implies area enclosed orbit image
+math
+png
+image
+math
+png semi major axis image
+math
+png semi minor axis ellipse
+period image
+math
+png satisfies image
+math
+png
+motion planet sun
+radial acceleration image
+math
+png
+kepler law states orbit equation
+differentiating respect time
+differentiating
+radial acceleration image
+math
+png satisfies
+substituting equation ellipse
+relation image
+math
+png simple final result
+means acceleration vector image
+math
+png planet obeying kepler law satisfies inverse square law
+constant
+image
+math
+png unit vector pointing sun planet
+image
+math
+png distance planet sun
+kepler law
+image
+math
+png planets
+inverse square law planetary accelerations applies entire solar system
+inverse square law differential equation
+solutions differential equation includes keplerian motions
+shown
+include motions orbit hyperbola parabola straight line
+kepler orbit
+newton law
+gravitational force acts planet
+image
+math
+png depends properties sun
+newton law
+sun pulled planet force magnitude
+force proportional mass planet
+symmetric consideration
+proportional mass sun
+equation gravitational force
+image
+math
+png universal constant
+newton law universal gravitation
+acceleration solar system body
+newton laws
+image
+math
+png mass body
+image
+math
+png distance body body
+image
+math
+png unit vector body pointing body
+vector summation bodies world
+special case bodies world
+planet sun
+acceleration
+acceleration kepler motion

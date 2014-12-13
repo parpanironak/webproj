@@ -1,0 +1,202 @@
+Abstract algebra
+
+abstract algebra
+abstract algebra subject area mathematics studies algebraic structures groups
+rings
+fields
+modules
+vector spaces
+algebras
+phrase abstract algebra coined turn century distinguish area referred algebra
+study rules manipulating formulae algebraic expressions involving unknowns real complex numbers
+called elementary algebra
+distinction rarely made recent writings
+contemporary mathematics mathematical physics make extensive abstract algebra
+theoretical physics draws lie algebras
+subject areas algebraic number theory
+algebraic topology
+algebraic geometry apply algebraic methods areas mathematics
+representation theory
+roughly speaking
+takes abstract abstract algebra
+studying concrete side structure
+model theory
+mathematical subject areas study properties algebraic structures viewed universal algebra category theory
+algebraic structures
+homomorphisms
+form categories
+category theory powerful formalism studying comparing algebraic structures
+parts mathematics
+concrete problems examples played important roles development algebra
+end nineteenth century
+problems related theory algebraic equations
+major themes include
+numerous textbooks abstract algebra start axiomatic definitions algebraic structures proceed establish properties
+creates false impression algebra axioms served motivation basis study
+true order historical development opposite
+hypercomplex numbers nineteenth century kinematic physical motivations challenged comprehension
+theories recognized parts algebra started collections disparate facts branches mathematics
+acquired common theme served core results grouped
+finally unified basis common set concepts
+archetypical progressive synthesis history group theory
+threads early development group theory
+modern language loosely number theory
+theory equations
+geometry
+leonhard euler considered algebraic operations numbers modulo integer
+modular arithmetic
+generalization fermat theorem
+investigations carl friedrich gauss
+considered structure multiplicative groups residues mod established properties cyclic general abelian groups arise
+investigations composition binary quadratic forms
+gauss explicitly stated associative law composition forms
+euler
+interested concrete results general theory
+leopold kronecker gave definition abelian group context ideal class groups number field
+generalizing gauss work
+appears tie definition previous work groups
+permutation groups
+question
+heinrich
+weber realized connection gave similar definition involved cancellation property omitted existence inverse element
+sufficient context
+finite groups
+permutations studied joseph lagrange paper sur des
+thoughts solving algebraic equations
+devoted solutions algebraic equations
+introduced lagrange resolvents
+lagrange goal understand equations fourth degree admit formulae solutions
+identified key objects permutations roots
+important step lagrange paper abstract view roots
+symbols numbers
+composition permutations
+serendipitously
+edition edward waring meditationes algebraicae
+meditations algebra
+appeared year
+expanded version published
+waring proved main theorem symmetric functions
+specially considered relation roots quartic equation resolvent cubic
+sur des
+memoire solving equations
+alexandre vandermonde
+developed theory symmetric functions slightly angle
+lagrange
+goal understanding solvability algebraic equations
+paolo ruffini person develop theory permutation groups
+predecessors
+context solving algebraic equations
+goal establish impossibility algebraic solution general algebraic equation degree greater
+route goal introduced notion order element group
+conjugacy
+cycle decomposition elements permutation groups notions primitive imprimitive proved important theorems relating concepts
+note
+formalizing concept group
+permutation group
+step galois
+work remained unpublished
+considered time called closure property group permutations
+expressed
+theory permutation groups received reaching development hands augustin cauchy camille jordan
+introduction concepts
+primarily
+great wealth results special classes permutation groups general theorems
+things
+jordan defined notion isomorphism
+context permutation groups
+incidentally
+put term group wide
+abstract notion group appeared time arthur cayley papers
+cayley realized group permutation group
+finite
+consist matrices
+algebraic properties
+multiplication inverses
+systematically investigated succeeding years
+cayley revisit question abstract groups general permutation groups
+establish
+fact
+group isomorphic group permutations
+end beginning century tremendous shift methodology mathematics
+abstract algebra emerged start century
+modern algebra
+study part drive intellectual rigor mathematics
+initially
+assumptions classical algebra
+mathematics
+major parts natural sciences
+depend
+form axiomatic systems
+longer satisfied establishing properties concrete objects
+mathematicians started turn attention general theory
+formal definitions algebraic structures began emerge century
+results groups permutations instances general theorems concern general notion abstract group
+questions structure classification mathematical objects forefront
+processes occurring mathematics
+pronounced algebra
+formal definition primitive operations axioms proposed basic algebraic structures
+groups
+rings
+fields
+things group theory ring theory places pure mathematics
+algebraic investigations general fields ernst steinitz commutative general rings david hilbert
+emil artin emmy noether
+building work ernst kummer
+leopold kronecker richard dedekind
+considered ideals commutative rings
+georg frobenius issai schur
+representation theory groups
+define abstract algebra
+developments quarter century quarter century systematically exposed bartel van der waerden moderne algebra
+volume monograph published forever changed mathematical world meaning word algebra theory equations theory algebraic structures
+abstracting amounts detail
+mathematicians created theories algebraic structures apply objects
+instance
+systems studied sets
+theorems set theory apply
+sets binary operation defined form magmas
+concepts magmas
+sets
+apply
+add additional constraints algebraic structure
+associativity
+form semigroups
+associativity
+identity
+inverses
+form groups
+complex structures
+additional structure
+theorems proved
+generality reduced
+hierarchy
+algebraic objects
+terms generality
+creates hierarchy theories
+instance
+theorems group theory apply rings
+algebraic objects binary operations axioms
+ring group operations
+mathematicians choose balance amount generality richness theory
+examples algebraic structures single binary operation
+complicated examples include
+generality
+abstract algebra fields mathematics science
+instance
+algebraic topology algebraic objects study topologies
+recently proved conjecture asserts fundamental group manifold
+encodes information connectedness
+determine manifold sphere
+algebraic number theory studies number rings generalize set integers
+tools algebraic number theory
+andrew wiles proved fermat theorem
+physics
+groups represent symmetry operations
+usage group theory simplify differential equations
+gauge theory
+requirement local symmetry deduce equations describing system
+groups describe symmetries lie groups
+study lie groups lie algebras reveals physical system
+instance
+number force carriers theory equal dimension lie algebra
+bosons interact force mediate lie algebra nonabelian

@@ -1,0 +1,862 @@
+Internet access
+
+internet access
+internet access means individual terminals
+computers
+mobile devices
+local area networks connected global internet
+basically
+source internet users access internet services
+internet access sold internet service providers
+isps
+technologies offering wide range data rates end user
+consumer popular dial connections
+decade century
+consumers switched dial dedicated connections
+internet access products marketed term
+broadband
+broadband penetration treated key economic indicator
+internet began network funded
+government support projects government universities research laboratories grew time include world large universities research arms technology companies
+wider audience restrictions internet carry commercial traffic lifted
+early mid
+internet access personal computers workstations directly connected local area networks dial connections modems analog telephone lines
+lans typically operated mbit
+grew support mbit
+modem data rates grew bit
+kbit
+mid late
+initially dial connections made terminals computers running terminal emulation software terminal servers lans
+dial connections support end end internet protocols provided terminal host connections
+introduction network access servers
+nass
+supporting serial line internet protocol
+slip
+point point protocol
+ppp
+extended internet protocols made full range internet services dial users
+subject limitations imposed lower data rates dial
+broadband internet access
+shortened broadband high speed internet access
+services provide bit rates considerably higher kbit
+modem
+national broadband plan
+federal communications commission
+fcc
+defined broadband access
+internet access faster traditional dial access
+fcc defined differently years
+term broadband originally reference multi frequency communication
+opposed narrowband baseband
+broadband marketing term telephone
+cable
+companies sell expensive higher data rate products
+broadband services provide continuous
+connection
+dial process required
+phone lines
+broadband improved access internet services
+national information infrastructure initiative
+made broadband internet access public policy issue
+internet access homes provided dial
+businesses schools broadband connections
+million dial subscriptions oecd countries fewer million broadband subscriptions
+broadband grown dial declined number subscriptions roughly equal million
+oecd countries
+internet access subscriptions broadband
+broadband grown million subscriptions
+dial subscriptions declined fewer million
+broadband technologies widest adsl cable internet access
+newer technologies include vdsl optical fibre extended closer subscriber telephone cable plants
+fibre optic communication
+recently premises curb schemes
+played crucial role enabling broadband internet access making transmission information high data rates longer distances cost effective copper wire technology
+areas served adsl cable
+community organizations local governments installing networks
+wireless satellite internet rural
+undeveloped
+hard serve areas wired internet readily
+newer technologies deployed fixed
+stationary
+mobile broadband access include wimax
+lte
+fixed wireless
+motorola canopy
+starting roughly
+mobile broadband access increasingly consumer level
+technologies hspa
+hspa
+lte
+addition access home
+school
+workplace internet access public places libraries internet cafes
+computers internet connections
+libraries provide stations connecting users laptops local area networks
+lans
+wireless internet access points public places airport halls
+cases standing
+access points provide coin operated computers
+terms
+public internet kiosk
+public access terminal
+web payphone
+hotels public terminals
+fee based
+coffee shops
+shopping malls
+venues increasingly offer wireless access computer networks
+referred hotspots
+users bring wireless enabled devices laptop pda
+services free
+free customers
+fee based
+hotspot limited confined location
+campus park
+entire city enabled
+grassroots efforts led wireless community networks
+additionally
+mobile broadband access smart phones digital devices connect internet location mobile phone call made
+subject capabilities mobile network
+bit rates dial modems range bit
+late
+maximum kbit
+late
+dial connections generally require dedicated telephone line
+data compression boost effective bit rate dial modem connection
+kbit
+effectiveness data compression variable
+depending type data
+condition telephone line
+number factors
+reality
+data rate rarely exceeds kbit
+broadband technologies supply considerably higher bit rates dial
+generally disrupting regular telephone
+minimum data rates maximum latencies definitions broadband
+ranging
+ccitt standards body defined
+broadband service
+requiring transmission channels capable supporting bit rates greater primary rate ranged
+organization economic operation development
+oecd
+report defined broadband download data transfer rates equal faster
+federal communications commission
+fcc
+defined
+basic broadband
+data transmission speeds mbit
+downstream
+internet computer
+upstream
+computer internet
+trend raise threshold broadband definition higher data rate services
+higher data rate dial modems broadband services
+asymmetric
+higher data rates download
+user
+internet
+data rates
+including article
+defined advertised terms maximum peak download rate
+practice
+maximum data rates reliably customer
+actual end end data rates lower due number factors
+physical link quality vary distance wireless access terrain
+weather
+building construction
+antenna placement
+interference radio sources
+network bottlenecks exist points path end user remote server service link providing internet access end user
+users share access common network infrastructure
+users full connection capacity time
+aggregation strategy
+contended service
+works users burst full data rate periods
+peer peer
+file sharing high quality streaming video require high data rates extended periods
+violates assumptions service oversubscribed
+resulting congestion poor performance
+tcp protocol includes flow control mechanisms automatically throttle back bandwidth periods network congestion
+fair sense users experience congestion receive bandwidth
+frustrating customers major problem isps
+cases amount bandwidth fall threshold required support service video conferencing streaming live making service unavailable
+traffic heavy
+isp deliberately throttle back bandwidth classes users services
+traffic shaping careful ensure quality service time critical services extremely busy networks
+overuse lead concerns fairness network neutrality charges censorship
+types traffic severely completely blocked
+access technologies generally modem
+converts digital data analog transmission analog networks telephone cable networks
+local area networks
+lans
+provide internet access computers devices limited area home
+school
+computer laboratory
+office building
+high data rates typically range mbit
+wired wireless lans
+ethernet twisted pair cabling common technologies build lans today
+arcnet
+token ring
+localtalk
+fddi
+technologies past
+internet access today lan
+small lan devices attached
+lans important form internet access
+begs question data rate lan connected rest global internet
+technologies make connections
+dial access modem phone call public switched telephone network
+pstn
+connect pool modems operated isp
+modem converts computer digital signal analog signal travels phone line local loop reaches telephone company switching facilities central office
+switched phone line connects modem remote end connection
+operating single channel
+dial connection monopolizes phone line slowest methods accessing internet
+dial form internet access rural areas requires infrastructure existing telephone network
+connect internet
+typically
+dial connections exceed speed kbit
+primarily made modems operate maximum data rate kbit
+downstream
+end user
+kbit
+upstream
+global internet
+term broadband includes broad range technologies
+provide higher data rate access internet
+technologies wires fiber optic cables contrast wireless broadband
+multilink dial increased bandwidth bonding dial connections treating single data channel
+requires modems
+phone lines
+dial accounts
+isp supports multilinking line data charges doubled
+inverse multiplexing option briefly popular high end users isdn
+dsl technologies
+diamond vendors created special modems support multilinking
+integrated services digital network
+isdn
+switched telephone service capable transporting voice digital data
+oldest internet access methods
+isdn voice
+video conferencing
+broadband data applications
+isdn popular europe
+common north america
+peaked late availability dsl cable modem technologies
+basic rate isdn
+isdn bri
+kbit
+bearer
+channels
+channels separately voice data calls bonded provide
+service
+multiple isdn bri lines bonded provide data rates kbit
+primary rate isdn
+isdn pri
+bearer channels
+kbit
+combined data rate
+standard
+isdn
+european standard
+line bearer channels combined data rate
+leased lines dedicated lines primarily isps
+business
+large enterprises connect lans campus networks internet existing infrastructure public telephone network providers
+delivered wire
+optical fiber
+radio
+leased lines provide internet access directly building blocks forms internet access created
+carrier technology dates data rates range kbit
+mbit
+mbit
+line carries voice data channels
+customers channels data voice traffic channels clear channel data
+line carries
+channels
+fractional lines multiples provide data rates kbit
+carrier lines require special termination equipment separate integrated router switch purchased leased isp
+japan equivalent standard
+europe
+slightly standard
+carrier
+user channels
+kbit
+mbit
+user channels
+mbit
+synchronous optical networking
+sonet
+canada
+synchronous digital hierarchy
+sdh
+rest world
+standard multiplexing protocols carry high data rate digital bit streams optical fiber lasers highly coherent light light emitting diodes
+leds
+lower transmission rates data transferred electrical interface
+basic unit framing
+optical
+sts
+electrical
+carries
+mbit
+carry
+mbit
+payloads capacity include full
+higher data rates delivered multiples providing
+mbit
+gbit
+gbit
+gbit
+end labels stands
+concatenated
+single data stream multiplexed data streams
+gigabit ethernet
+gbe
+ieee standards
+digital data delivered copper wiring distances optical fiber distances
+cable internet cable modem access internet access hybrid fiber coaxial wiring originally developed carry television signals
+fiber optic coaxial copper cable connect node customer location connection cable drop
+cable modem termination system
+nodes cable subscribers neighborhood connect cable company central office
+head end
+cable company connects internet variety means fiber optic cable digital satellite microwave transmissions
+dsl
+broadband cable continuous connection isp
+downstream
+direction user
+bit rates
+business connections
+residential service countries
+upstream traffic
+originating user
+ranges
+broadband cable access service fewer business customers existing television cable networks tend service residential buildings commercial buildings include wiring coaxial cable networks
+addition
+broadband cable subscribers share local line
+communications intercepted neighboring subscribers
+cable networks regularly provide encryption schemes data traveling customers
+schemes thwarted
+digital subscriber line
+dsl
+service connection internet telephone network
+unlike dial
+dsl operate single phone line preventing normal telephone line voice phone calls
+dsl high frequencies
+low
+audible
+frequencies line left free regular telephone communication
+frequency bands subsequently separated filters installed customer premises
+dsl originally stood
+digital subscriber loop
+telecommunications marketing
+term digital subscriber line widely understood asymmetric digital subscriber line
+adsl
+commonly installed variety dsl
+data throughput consumer dsl services typically ranges
+direction customer
+downstream
+depending dsl technology
+line conditions
+service level implementation
+adsl
+data throughput upstream direction
+direction service provider
+lower downstream direction
+customer
+designation asymmetric
+symmetric digital subscriber line
+sdsl
+downstream upstream data rates equal
+high bit rate digital subscriber line
+vdsl vhdsl
+itu
+digital subscriber line
+dsl
+standard approved data rates mbit
+downstream mbit
+upstream copper wires mbit
+upstream coaxial cable
+vdsl capable supporting applications high definition television
+telephone services
+voice
+general internet access
+single physical connection
+itu
+generation version enhancement vdsl
+approved february
+provide data rates exceeding mbit
+simultaneously upstream downstream directions
+maximum data rate achieved range meters performance degrades distance loop attenuation increases
+dsl rings
+dslr
+bonded dsl rings ring topology dsl technology existing copper telephone wires provide data rates
+fiber home
+ftth
+member fiber
+fttx
+family includes fiber building basement
+fttb
+fiber premises
+fttp
+fiber desk
+fttd
+fiber curb
+fttc
+fiber node
+fttn
+methods bring data closer end user optical fibers
+differences methods close end user delivery fiber
+delivery methods similar hybrid fiber coaxial
+hfc
+systems provide cable internet access
+optical fiber offers higher data rates longer distances
+high capacity internet cable television backbones fiber optic technology
+data switched technologies
+dsl
+cable
+pots
+final delivery customers
+australia begun rolling national broadband network country fiber optic cables percent australian homes
+schools
+businesses
+similar efforts underway italy
+canada
+india
+countries
+fiber premises country
+power line internet
+broadband power lines
+bpl
+carries internet data conductor electric power transmission
+extensive power line infrastructure place
+technology provide people rural low population areas access internet cost terms transmission equipment
+cables
+wires
+data rates asymmetric generally range kbit
+mbit
+systems parts radio spectrum allocated air communication services
+interference services limiting factor introduction power line internet systems
+ieee standard specifies powerline protocols detect existing usage avoid interfering
+power line internet developed faster europe
+due historical difference power system design philosophies
+data signals pass step transformers repeater installed transformer
+transformer serves small clusters houses
+europe
+common larger transformer service larger clusters houses
+typical
+city requires order magnitude repeaters comparable european city
+asynchronous transfer mode
+atm
+frame relay wide area networking standards provide internet access directly building blocks access technologies
+dsl implementations atm layer low level bitstream layer enable number technologies link
+customer lans typically connected atm switch frame relay node leased lines wide range data rates
+widely
+advent ethernet optical fiber
+mpls
+vpns broadband services cable modem dsl
+atm frame relay longer play prominent role
+wireless broadband provide fixed mobile internet access
+popular
+wireless local area network
+ieee
+standards
+trademark alliance
+individual homes businesses connect laptops smart phones internet
+hotspots found coffee shops public establishments
+create campus wide city wide wireless networks
+networks built wireless routers called access points
+hoc
+computer computer
+networks
+network connected larger internet dsl
+cable modem
+internet access technologies
+data rates range mbit
+service range fairly short
+typically meters feet
+data rate range variable depending protocol
+location
+frequency
+building construction
+interference devices
+directional antennas careful engineering extended operate distances kilometers
+wireless isp
+wireless isps typically employ low cost
+radio systems link remote locations great distances
+higher power radio communications systems
+traditional
+unlicensed omnidirectional service designed span meters
+focusing radio signal directional antenna
+operate reliably distance kilometres
+miles
+technology line sight requirements hamper connectivity areas hilly heavily foliated terrain
+addition
+compared hard wired connectivity
+security risks
+robust security protocols enabled
+data rates significantly slower
+times slower
+network stable
+due interference wireless devices networks
+weather line sight problems
+rural wireless isp installations typically commercial nature patchwork systems built hobbyists mounting antennas radio masts towers
+agricultural storage silos
+tall trees
+tall objects
+number companies provide service
+motorola canopy proprietary technologies offer wireless access rural markets hard reach wimax
+wimax
+worldwide interoperability microwave access
+set interoperable implementations ieee
+family wireless network standards certified wimax forum
+wimax enables
+delivery mile wireless broadband access alternative cable dsl
+original ieee
+standard
+called
+fixed wimax
+published provided megabit data rates
+mobility support added
+update data rates gbit
+fixed stations
+wimax offers metropolitan area network signal radius
+miles
+surpassing metre
+foot
+wireless range conventional local area network
+lan
+wimax signals penetrate building walls effectively
+satellites provide fixed
+portable
+mobile internet access
+expensive forms broadband internet access
+choice remote areas
+data rates range kbit
+gbit
+downstream kbit
+mbit
+upstream
+satellite communication typically requires clear line sight
+work trees vegetation
+adversely affected moisture
+rain
+snow
+rain fade
+require fairly large
+carefully aimed
+directional antenna
+satellites geostationary earth orbit
+geo
+operate fixed position
+miles
+earth equator
+speed light
+miles
+takes quarter radio signal travel earth satellite back
+switching routing delays added delays doubled full round trip transmission
+total delay
+seconds
+latency large compared forms internet access typical latencies range
+seconds
+long latencies make applications
+video conferencing
+voice
+multiplayer games
+remote control equipment
+require real time response impracticable satellite
+tcp tuning tcp acceleration techniques mitigate problems
+geo satellites cover earth polar regions
+hughesnet viasat geo systems
+satellites low earth orbit
+leo
+miles
+medium earth orbit
+meo
+miles
+common
+operate lower altitudes
+fixed position earth
+lower altitudes lower latencies make real time interactive internet applications feasible
+leo systems include globalstar iridium
+satellite constellation proposed meo system latency
+leo system
+scheduled launch
+expected latency
+mobile broadband marketing term wireless internet access delivered mobile phone towers computers
+mobile phones
+called
+cell phones
+north america south africa
+digital devices portable modems
+mobile services device connected internet single cellular connection process called tethering
+modem built laptop computers
+tablets
+mobile phones
+devices
+added devices cards
+usb modems
+usb sticks dongles
+separate wireless modems
+roughly ten years mobile phone technology infrastructure involving change fundamental nature service
+backwards compatible transmission technology
+higher peak data rates
+frequency bands
+wider channel frequency bandwidth hertz
+transitions referred generations
+generation
+generation
+fourth generation
+download
+user
+internet
+data rates peak maximum rates end users typically experience lower data rates
+wimax
+detail
+originally developed deliver fixed wireless service wireless mobility added
+mbwa
+mobile broadband wireless access
+longer actively developed
+world population lived areas coverage
+lived areas coverage
+local multipoint distribution service
+lmds
+broadband wireless access technology microwave signals operating
+originally designed digital television transmission
+dtv
+conceived fixed wireless
+point multipoint technology utilization mile
+data rates range kbit
+mbit
+distance typically limited
+miles
+links miles
+base station circumstances
+lmds surpassed technological commercial potential lte wimax standards
+internet access limited relation pricing resources spend
+estimated world population year spend ict
+mexico
+poorest society counts estimated year
+month
+brazil
+poorest population counts year spend ict
+month
+latin america borderline ict necessity good ict luxury good roughly person month
+year
+amount ict spending people esteem basic necessity
+current internet access prices exceed resources large countries
+dial users pay costs making local long distance phone calls
+pay monthly subscription fee
+subject additional minute traffic based charges
+connect time limits isp
+common today past
+dial access offered
+free
+return watching banner ads part dial service
+netzero
+bluelight
+juno
+freenet
+free nets examples services providing free access
+wireless community networks continue tradition providing free internet access
+fixed broadband internet access sold
+unlimited
+flat rate pricing model
+price determined maximum data rate chosen customer
+minute traffic based charge
+minute traffic based charges traffic caps common mobile broadband internet access
+increased consumer demand streaming content video demand peer peer file sharing
+demand bandwidth increased rapidly isps flat rate pricing model unsustainable
+fixed costs estimated represent cost providing broadband service
+marginal cost carry additional traffic low
+isps disclose costs
+cost transmit gigabyte data estimated
+isps estimate users consume total bandwidth
+ensure high bandwidth users slow network
+isps
+experimenting
+implemented combinations traffic based pricing
+time day
+peak
+peak
+pricing
+bandwidth traffic caps
+canada
+rogers speed internet bell canada imposed bandwidth caps
+time warner experimented usage based pricing beaumont
+texas
+effort time warner expand usage based pricing rochester
+york area met public resistance
+abandoned
+access internet grew estimated million people
+million
+million
+billion
+market saturation
+growth number internet users slowing industrialized countries
+continues asia
+africa
+latin america
+caribbean
+middle east
+roughly
+billion fixed broadband subscribers
+billion mobile broadband subscribers
+developed countries people frequently fixed mobile broadband networks
+developing countries mobile broadband access method
+tremendous growth
+internet access distributed equally countries
+digital divide refers gap people effective access information communications technology
+ict
+limited
+gap people internet access aspects digital divide
+access internet depend greatly financial status
+geographical location government policies
+income
+rural
+minority populations received special scrutiny technological
+nots
+government policies play tremendous role bringing internet access limiting access underserved groups
+regions
+countries
+pakistan
+pursuing aggressive policy aimed boosting drive economic modernization
+number internet users grew
+population
+million
+population
+countries north korea cuba access internet due governments fear political instability accompany benefits access global internet
+trade embargo barrier limiting internet access cuba
+united states
+billions dollars invested efforts narrow digital divide bring internet access people low income rural areas united states
+obama administration continued commitment narrowing digital divide stimulus funding
+national center education statistics reported
+classroom computers internet access roughly computer internet access students
+percentage ratio students computers rural schools
+computer
+students
+access computers dominant factor determining level internet access
+developing countries
+households computer internet access
+developed countries figures households computer internet access
+buying computers legalized cuba
+private ownership computers soared
+computers island
+increase
+internet access changed people integral part peoples economic
+political
+social lives
+providing internet access people world advantage
+social
+economic
+educational
+career internet
+principles adopted world summit information society convened united nations geneva
+directly address digital divide
+promote economic development reduction digital divide
+national broadband plans developed increase availability affordable high speed internet access world
+great challenges internet access general broadband access provide service potential customers areas low population density
+farmers
+ranchers
+small towns
+cities population density high
+easier service provider recover equipment costs
+rural customer require expensive equipment connected
+americans internet connection
+figure rural areas
+pew internet american life project
+virgin media advertised towns united kingdom
+cwmbran clydebank
+access
+service
+wireless internet service provider
+wisps
+rapidly popular broadband option rural areas
+technology line sight requirements hamper connectivity areas hilly heavily foliated terrain
+tegola project
+successful pilot remote scotland
+demonstrates wireless viable option
+broadband rural nova scotia initiative program north america guarantee access
+civic addresses
+region
+based motorola canopy technology
+november
+households reported access problems
+deployment cell network canopy provider
+eastlink
+expected provide alternative
+service
+possibly special unmetered rate
+areas harder serve canopy
+countries adopted laws make internet access requiring state work ensure internet access broadly
+preventing states unreasonably restricting individual access information internet
+december
+world summit information society
+wsis
+convened auspice united nations
+lengthy negotiations governments
+businesses civil society representatives wsis declaration principles adopted reaffirming importance information society maintaining strengthening human rights
+wsis declaration principles makes specific reference importance freedom expression
+information society
+stating
+poll adults countries
+including internet users
+conducted bbc world service november february found internet users users world felt access internet fundamental
+strongly agreed
+agreed
+disagreed
+strongly disagreed
+gave opinion
+recommendations made special rapporteur promotion protection freedom opinion expression report human rights council united nations general assembly include bear question internet access
+statements
+opinions
+recommendations led suggestion internet access fundamental human
+natural disasters disrupt internet access profound ways
+telecommunication companies networks businesses
+emergency crew displaced citizens
+situation worsened hospitals buildings disaster response lose connection
+knowledge gained studying past internet disruptions natural disasters put planning recovery
+additionally
+natural man made disasters
+studies network resiliency conducted prevent large scale outages
+natural disasters impact internet connection damaging end networks
+subnets
+making unreachable
+study local networks hurricane katrina found subnets storm coverage unreachable
+hurricane peak intensity
+networks mississippi power
+networks disrupted
+unreachable subnets
+disrupted weeks longer edges important emergency organizations hospitals government agencies
+extensive infrastructure damage inaccessible areas explanations long delay returning service
+company cisco revealed network emergency response vehicle
+nerv
+truck makes portable communications emergency responders traditional networks disrupted
+natural disasters destroy internet connectivity severing submarine optic cables ocean floor provide international internet connection
+undersea earthquake taiwan
+richter scale
+cut international cables connected country caused tsunami wiped cable landing stations
+impact slowed disabled internet connection days asia pacific region region united states europe
+rise popularity cloud computing
+concern grown access cloud hosted data event natural disaster
+amazon web services
+aws
+news major network outages april june
+aws
+major cloud hosting companies
+prepares typical outages large scale natural disasters backup power backup data centers locations
+aws divides globe regions splits region availability zones
+data center availability zone backed data center availability zone
+theoretically
+natural disaster affect availability zone
+theory plays long human error added mix
+june major storm disabled primary data center
+human error disabled secondary tertiary backups
+affecting companies netflix
+pinterest
+reddit
+instagram
+revision
+tia
+eia

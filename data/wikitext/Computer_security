@@ -1,0 +1,354 @@
+Computer security
+
+computer security
+computer security information security applied computers networks
+field covers processes mechanisms computer based equipment
+information services protected unintended unauthorized access
+change destruction
+computer security includes protection unplanned events natural disasters
+approach computer security security base features
+techniques approach include
+security architecture defined design artifacts describe security controls
+security countermeasures
+positioned
+relate information technology architecture
+controls serve maintain system quality attributes
+confidentiality
+integrity
+availability
+accountability assurance services
+hardware based assisted computer security offers alternative software computer security
+devices dongles
+case intrusion detection
+drive locks
+disabling usb ports
+rom drives considered secure due physical access required order compromisedoriginal research
+term computer security refers technology implement secure operating system
+technology based science developed produce impenetrable operating systems
+valid
+technology limited today
+primarily imposes system management widely understood
+ultra strong secure operating systems based operating system kernel technology guarantee security policies absolutely enforced operating environment
+computer security policy bell lapadula model
+strategy based coupling special microprocessor hardware features
+involving memory management unit
+special correctly implemented operating system kernel
+forms foundation secure operating system
+critical parts designed implemented correctly
+ensure absolute impossibility penetration hostile elements
+capability enabled configuration imposes security policy
+theory completely protects corruption
+ordinary operating systems
+hand
+lack features assure maximal level security
+design methodology produce secure systems precise
+deterministic logical
+systems designed methodology represent state artclarification needed computer security products security widely
+sharp contrast kinds software
+meet specifications verifiable certainty comparable specifications size
+weight power
+secure operating systems designed primarily protect national security information
+military secrets
+data international financial institutions
+powerful security tools secure operating systems certified highest level
+orange book
+operate range
+top secret
+unclassified
+including honeywell scomp
+usaf sacdin
+nsa blacker boeing mls lan
+assurance security depends soundness design strategy
+assurance correctness implementation
+degrees security strength defined compusec
+common criteria quantifies security strength products terms components
+security functionality assurance level
+eal levels
+protection profile requirements security target product descriptions
+ultra high assurance secure general purpose operating systems produced decades certified common criteria
+usa parlance
+term high assurance suggests system security functions implemented robustly protect dod doe classified information
+medium assurance suggests protect valuable information
+income tax information
+secure operating systems designed meet medium robustness levels security functionality assurance wider government commercial markets
+medium robust systems provide security functions high assurance secure operating systems lower assurance level
+common criteria levels
+lower levels security functions implemented flawlessly
+dependable
+systems found web servers
+guards
+database servers
+management hosts protect data stored systems provide high level protection network connections routing services
+operating environment based secure operating system capable maintaining domain execution
+capable protecting application code malicious subversion
+capable protecting system subverted code
+high degrees security understandably
+secure operating systems implemented
+commercial systems fall low security category rely features supported secure operating systems
+portability
+low security operating environments
+applications relied participate protection
+effort secure coding practices make application resistant malicious subversion
+commercial environments
+majority software subversion vulnerabilities result kinds coding defects
+common software defects include buffer overflows
+format string vulnerabilities
+integer overflow
+code
+command injection
+defects target system execute putative data
+data
+executable instructions
+allowing attacker gain control processor
+common languages vulnerable defects
+seacord
+secure coding
+languages
+java
+resistant defects
+prone code
+command injection software defects facilitate subversion
+recently bad coding practice scrutiny
+dangling pointers
+exploit problem presented july
+publication problem considered academic practically exploitable
+theoretical model
+secure coding
+practices
+practically achievable
+code
+ideally
+read
+data
+generally read
+write
+generally form defect
+computer systems
+security models capable enforcing privilege separation access control lists
+acls
+capability based security
+semantics acls proven insecure situations
+confused deputy problem
+shown promise acls giving access object person guaranteed practice
+problems resolved capabilities
+practical flaws exist acl based systems
+designers utilities responsibility ensure introduce flaws
+citation needed
+capabilities restricted research operating systems commercial oss acls
+capabilities
+implemented language level
+leading style programming essentially refinement standard object oriented design
+open source project area language
+secure computers connected internet shielded interference
+real world
+secure systems operating systems security add
+computer security critical technology driven industry operates computer systems
+issues computer based systems addressing countless vulnerabilities integral part maintaining operational industry
+security cloud challengingcitation needed
+due varied degrees security features management schemes cloud entitites
+connection logical protocol base evolve entire gamut components operates synchronously securelyoriginal research
+aviation industry important analyzing computer security involved risks include human life
+expensive equipment
+cargo
+transportation infrastructure
+security compromised hardware software malpractice
+human error
+faulty operating environments
+threats exploit computer vulnerabilities stem sabotage
+espionage
+industrial competition
+terrorist attack
+mechanical malfunction
+human error
+consequences successful deliberate inadvertent misuse computer system aviation industry range loss confidentiality loss system integrity
+lead concerns data theft loss
+network air traffic control outages
+turn lead airport closures
+loss aircraft
+loss passenger life
+military systems control munitions pose greater risk
+proper attack high tech funded
+power outage airport repercussions worldwide
+easiest
+arguably
+difficult trace security vulnerabilities achievable transmitting unauthorized communications specific radio frequencies
+transmissions spoof air traffic controllers simply disrupt communications altogether
+incidents common
+altered flight courses commercial aircraft caused panic confusion past
+citation needed controlling aircraft oceans dangerous radar surveillance extends miles offshore
+radar sight controllers rely periodic radio communications party
+lightning
+power fluctuations
+surges
+brownouts
+blown fuses
+power outages instantly disable computer systems
+dependent electrical source
+accidental intentional faults caused significant disruption safety critical systems decades dependence reliable communication electrical power jeopardizes computer safety
+citation needed
+hundred intrusions made unidentified hackers rome laboratory
+air force main command research facility
+trojan horse viruses
+hackers obtain unrestricted access rome networking systems remove traces activities
+intruders obtain classified files
+air tasking order systems data penetrate connected networks national aeronautics space administration goddard space flight center
+wright patterson air force base
+defense contractors
+private sector organizations
+posing trusted rome center user
+true story shows mainstream generative technology leads terms online security breaches story internet worm
+computers connected internet
+pcs
+mainframes
+minicomputers professional workstations
+november
+computers acted strangely
+started slow
+running malicious code demanded processor time spread computers
+purpose software transmit copy machines run parallel existing software repeat
+exploited flaw common mail transmission program running computer rewriting facilitate entrance guessed users password
+time
+passwords simple
+username harry password
+harry
+related list common passwords tested computer
+software traced back year cornell university graduate student robert tappan morris
+questioned motive actions
+morris wanted count machines connected internet
+explanation verified code
+turned buggy
+april
+senator jay rockefeller
+introduced
+cybersecurity act
+full text
+senate
+bill
+written senators evan bayh
+barbara mikulski
+bill nelson
+olympia snowe
+referred committee commerce
+science
+transportation
+approved revised version bill
+cybersecurity act
+march
+bill seeks increase collaboration public private sector cybersecurity issues
+private entities infrastructures critical national security interests
+bill quotes john brennan
+assistant president homeland security counterterrorism
+security economic prosperity depend security
+stability
+integrity communications information infrastructure largely privately owned globally operated
+talks country response
+cyber katrina
+increase public awareness cybersecurity issues
+foster fund cybersecurity research
+controversial parts bill include paragraph
+grants president
+order limitation shutdown internet traffic compromised federal government united states critical infrastructure information system network
+electronic frontier foundation
+international profit digital rights advocacy legal organization based united states
+characterized bill promoting
+potentially dangerous approach favors dramatic sober response
+march
+representative yvette clarke
+introduced
+international cybercrime reporting cooperation act
+full text
+house representatives
+bill
+sponsored representatives
+republican
+referred house committees
+bill seeks make administration congress informed information infrastructure
+cybercrime
+end user protection worldwide
+directs president give priority assistance improve legal
+judicial
+enforcement capabilities respect cybercrime countries low information communications technology levels development utilization critical infrastructure
+telecommunications systems
+financial industries
+develop action plan annual compliance assessment countries
+cyber concern
+june
+united states senator joe lieberman
+introduced bill called
+protecting cyberspace national asset act
+full text pdf
+wrote senator susan collins
+senator thomas carper
+signed law
+controversial bill
+american media dubbed
+kill switch bill
+grant president emergency powers internet
+authors bill issued statement claiming
+bill
+narrowed existing broad presidential authority telecommunications networks
+white house congress proposed cybersecurity law designed force companies fend cyberattacks
+threat reinforced recent reports vulnerabilities systems power water utilities
+june
+german minister home affairs
+officially opened german ncaz
+national center cyber defense
+nationales cyber abwehrzentrum
+located bonn
+ncaz closely cooperates bsi
+federal office information security
+bundesamt sicherheit der informationstechnik
+bka
+federal police organisation
+bundeskriminalamt
+deutschland
+bnd
+federal intelligence service
+bundesnachrichtendienst
+mad
+military intelligence service
+amt den abschirmdienst national organisations germany taking care national security aspects
+minister primary task organisation founded feb
+detect prevent attacks national infrastructure mentioned incidents stuxnet
+stuxnet
+significant debate legality hacking back digital attackers
+attempt successfully breach individual
+entity
+nation computer
+arguments counter attacks based notions equity
+active defense
+vigilantism
+minutiae computer fraud abuse act
+cfaa
+arguments majorly based legal definition intrusion unauthorized access
+defined cfaa
+debate ongoing
+terms engineering secure systems explained
+items belong computer insecurity article
+main challenges main complaints antivirus industry lack global web regulations
+global base common rules judge
+eventually punish
+cyber crimes cyber criminals
+fact
+nowadays
+antivirus firm locates cyber criminal creation virus piece malware form cyber attack
+local authorities action die lack laws prosecute
+caused fact country regulation cyber crimes
+computer viruses switch country
+jurisdiction moving world
+fact capability globally police operations
+internet free plane tickets online criminals world
+mikko
+due european antivirus firms
+avira
+bullguard
+secure
+frisk
+panda
+soft
+solve problem
+european commission decided establish european cybercrime centre
+effectively opened january focal point fight cyber crime
+contributing faster reaction online crimes
+support member states institutions building operational analytical capacity investigations
+cooperation international partners

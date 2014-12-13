@@ -1,0 +1,97 @@
+Ménage problem
+
+problem
+combinatorial mathematics
+problem des asks number ways seat set male female couples dining table men women alternate sits partner
+problem formulated lucas independently
+years earlier
+peter guthrie tait connection knot theory
+number couples equal
+number seating arrangements
+mathematicians developed formulas recurrence equations computing numbers related sequences numbers
+applications etiquette knot theory
+numbers graph theoretic interpretation
+count numbers matchings hamiltonian cycles families graphs
+denote number seating arrangements couples
+touchard
+derived formula
+subsequent work alternative proofs formula generalized versions problem count seating arrangements couples permitted sit
+formula involving chebyshev polynomials wyman moser
+work bogart doyle
+solutions problem form finding seating arrangements women counting
+partial seating arrangements
+number ways completing seating men wives
+bogart doyle showed
+touchard formula directly derived seating arrangements factoring participation women
+ways seating women
+choices set seats place women
+choices place set seats
+seating arrangement women
+ways seating men
+formula simply omits
+factor touchard formula
+resulting sequence smaller numbers
+starting
+called sequence numbers
+satisfy recurrence relation
+simpler term recurrence
+numbers easily calculated
+solutions problem interpreted graph theoretic terms
+directed hamiltonian cycles crown graphs
+crown graph formed removing perfect matching complete bipartite graph
+vertices colors
+vertex color connected vertices color
+case problem
+vertices graph represent men women
+edges represent pairs men women allowed sit
+graph formed removing perfect matching formed male female couples complete bipartite graph connects man woman
+valid seating arrangement sequence people order table
+forms hamiltonian cycle graph
+hamiltonian cycles considered equivalent connect vertices cyclic order starting vertex
+problem starting position considered significant
+alice tea party
+guests shift positions seat
+considered seating arrangement cycle
+number oriented hamiltonian cycles crown graph smaller factor number seating arrangements
+larger factor
+numbers
+sequence numbers cycles graphs
+starting
+graph theoretic description problem
+women seated
+seating arrangements remaining men perfect matchings graph formed removing single hamiltonian cycle complete bipartite graph
+graph edges connecting open seats men
+removal cycle corresponds forbidding men sit open seats adjacent wives
+problem counting matchings bipartite graph
+fortiori problem computing numbers
+solved permanents matrices
+case problem
+matrices arising view problem circulant matrices
+tait motivation studying problem find complete listing mathematical knots number crossings
+dowker notation knot diagrams
+early form tait
+points knot knots crosses
+consecutive order knot
+labeled numbers
+reduced diagram
+labels crossing consecutive
+set pairs labels crossing
+dowker notation represent knot
+interpreted perfect matching graph vertex number range edge pair numbers parity consecutive modulo
+graph formed removing hamiltonian cycle
+connecting consecutive numbers
+complete bipartite graph
+connecting pairs numbers parity
+number matchings equal number
+alternating knots
+matching describe knot diagram
+knots
+additional positive negative sign crossing pair determine strands crossing lies strand
+knot listing problem additional symmetries present problem
+obtains dowker notations knot diagram begins labeling crossing point
+notations counted representing diagram
+reason
+matchings differ cyclic permutation treated equivalent counted
+gilbert
+solved modified enumeration problem
+showing number matchings

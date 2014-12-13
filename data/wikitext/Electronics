@@ -1,0 +1,187 @@
+Electronics
+
+electronics
+electronics deals electrical circuits involve active electrical components vacuum tubes
+transistors
+diodes integrated circuits
+passive interconnection technologies
+nonlinear behaviour active components ability control electron flows makes amplification weak signals electronics widely information processing
+telecommunications
+signal processing
+ability electronic devices act switches makes digital information processing
+interconnection technologies circuit boards
+electronics packaging technology
+varied forms communication infrastructure complete circuit functionality transform mixed components regular working system
+electronics distinct electrical electro mechanical science technology
+deals generation
+distribution
+switching
+storage
+conversion electrical energy energy forms wires
+motors
+generators
+batteries
+switches
+relays
+transformers
+resistors
+passive components
+distinction started invention lee forest triode
+made electrical amplification weak radio signals audio signals mechanical device
+field called
+radio technology
+principal application design theory radio transmitters
+receivers
+vacuum tubes
+today
+electronic devices semiconductor components perform electron control
+study semiconductor devices related technology considered branch solid state physics
+design construction electronic circuits solve practical problems electronics engineering
+article focuses engineering aspects electronics
+electronic component physical entity electronic system affect electrons fields manner consistent intended function electronic system
+components generally intended connected
+soldered printed circuit board
+pcb
+create electronic circuit function
+amplifier
+radio receiver
+oscillator
+components packaged singly
+complex groups integrated circuits
+common electronic components capacitors
+inductors
+resistors
+diodes
+transistors
+components categorized active
+transistors thyristors
+passive
+resistors capacitors
+vacuum tubes earliest electronic components
+dominated electronics middle
+time
+solid state devices completely
+vacuum tubes specialist applications high power amplifiers
+cathode ray tubes
+specialist audio equipment microwave devices
+circuits components divided groups
+analog digital
+device consist circuitry mix types
+analog electronic appliances
+radio receivers
+constructed combinations types basic circuits
+analog circuits continuous range voltage opposed discrete levels digital circuits
+number analog circuits devised huge
+circuit defined single component
+systems thousands components
+analog circuits called linear circuits linear effects analog circuits mixers
+modulators
+good examples analog circuits include vacuum tube transistor amplifiers
+operational amplifiers oscillators
+rarely finds modern circuits analog
+days analog circuitry digital microprocessor techniques improve performance
+type circuit called
+mixed signal
+analog digital
+difficult differentiate analog digital circuits elements linear linear operation
+comparator takes continuous range voltage outputs levels digital circuit
+similarly
+overdriven transistor amplifier characteristics controlled switch essentially levels output
+digital circuits electric circuits based number discrete voltage levels
+digital circuits common physical representation boolean algebra
+basis digital computers
+engineers
+terms
+digital circuit
+digital system
+logic
+interchangeable context digital circuits
+digital circuits binary system voltage levels labeled
+logic
+lower voltage referred
+low
+logic
+referred
+high
+systems reverse definition
+high
+current based
+ternary
+states
+logic studied
+prototype computers made
+computers
+electronic clocks
+programmable logic controllers
+control industrial processes
+constructed digital circuits
+digital signal processors
+building blocks
+highly integrated devices
+heat generated electronic circuitry dissipated prevent failure improve long term reliability
+techniques heat dissipation include heat sinks fans air cooling
+forms computer cooling water cooling
+techniques convection
+conduction
+radiation heat energy
+electronic noise defined unwanted disturbances superposed signal tend obscure information content
+noise signal distortion caused circuit
+noise electronic circuits
+noise electromagnetically thermally generated
+decreased lowering operating temperature circuit
+types noise
+shot noise removed due limitations physical properties
+mathematical methods integral study electronics
+proficient electronics proficient mathematics circuit analysis
+circuit analysis study methods solving generally linear systems unknown variables voltage node current branch network
+common analytical tool spice circuit simulator
+important electronics study understanding electromagnetic field theory
+due empirical nature electronics theory
+laboratory experimentation important part study electronics
+experiments prove
+verify
+reinforce laws theorems ohm law
+kirchhoff laws
+historically
+electronics labs consisted electronics devices equipment located physical space
+recent years trend electronics lab simulation software
+circuitlogix
+multisim
+pspice
+today electronics engineers ability design circuits premanufactured building blocks power supplies
+semiconductors
+transistors
+integrated circuits
+electronic design automation software programs include schematic capture programs printed circuit board design programs
+popular names eda software world multisim
+cadence
+orcad
+eagle pcb schematic
+mentor
+pads pcb logic schematic
+altium
+protel
+labcentre electronics
+proteus
+geda
+kicad
+methods connecting components years
+instance
+early electronics point point wiring components attached wooden breadboards construct circuits
+cordwood construction wire wraps methods
+modern day electronics printed circuit boards made materials
+cheaper
+hard wearing
+synthetic resin bonded paper
+srbp
+paxoline
+paxolin
+trade marks
+characterised light yellow brown colour
+health environmental concerns electronics assembly gained increased attention recent years
+products destined european union
+restriction hazardous substances directive
+rohs
+waste electrical electronic equipment directive
+weee
+force july

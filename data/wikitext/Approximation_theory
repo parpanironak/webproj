@@ -1,0 +1,216 @@
+Approximation theory
+
+approximation theory
+mathematics
+approximation theory concerned functions approximated simpler functions
+quantitatively characterizing errors introduced
+note meant simpler depend application
+closely related topic approximation functions generalized fourier series
+approximations based summation series terms based orthogonal polynomials
+problem interest approximating function computer mathematical library
+operations performed computer calculator
+addition multiplication
+result close actual function
+typically polynomial rational
+ratio polynomials
+approximations
+objective make approximation close actual function
+typically accuracy close underlying computer floating point arithmetic
+accomplished polynomial high degree
+narrowing domain polynomial approximate function
+narrowing domain addition scaling formulas function approximated
+modern mathematical libraries reduce domain tiny segments low degree polynomial segment
+domain degree polynomial chosen
+polynomial chosen minimize worst case error
+goal minimize maximum image
+math
+png
+approximating polynomial
+actual function
+behaved functions
+exists nth degree polynomial lead error curve oscillates back image
+math
+png image
+math
+png total times
+giving worst case error image
+math
+png
+nth degree polynomial interpolate points curve
+polynomial optimal
+make contrived functions
+polynomial exists
+occur rarely practice
+graphs shown show error approximating log
+exp
+red curves
+optimal polynomial
+level
+oscillate image
+math
+png image
+math
+png
+note
+case
+number extrema
+extrema end points interval
+left edges graphs
+prove true general
+suppose polynomial degree property
+rise error function extrema
+alternating signs equal magnitudes
+red graph shows error function
+suppose
+error function shown blue
+degree polynomial approximation
+closer extreme occurs
+maximum occurs
+minimum occurs
+graph
+alternate sign values
+reduces
+polynomial degree
+function sign times
+intermediate theorem
+zeroes
+impossible polynomial degree
+obtain polynomials close optimal expanding function terms chebyshev polynomials cutting expansion desired degree
+similar fourier analysis function
+chebyshev polynomials usual trigonometric functions
+calculates coefficients chebyshev expansion function
+cuts series image
+math
+png term
+nth degree polynomial approximating
+reason polynomial optimal
+functions rapidly converging power series
+series cut term
+total error arising cutoff close term cutoff
+term cutoff dominates terms
+true expansion terms chebyshev polynomials
+chebyshev expansion cut image
+math
+png
+error form close multiple image
+math
+png
+chebyshev polynomials property level oscillate interval
+image
+math
+png level extrema
+means error
+chebyshev expansion image
+math
+png close level function extrema
+close optimal nth degree polynomial
+graphs
+note blue error function
+inside
+red function
+worse
+meaning optimal polynomial
+note discrepancy exp function
+extremely rapidly converging power series
+log function
+chebyshev approximation basis quadrature
+numerical integration technique
+remez algorithm
+spelled remes
+produce optimal polynomial
+approximating function
+interval
+iterative algorithm converges polynomial error function level extrema
+theorem
+polynomial optimal
+remez algorithm fact construct nth degree polynomial leads level alternating error values
+test points
+test points image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png image
+math
+png end points interval approximation
+equations solved
+hand sides alternate sign
+image
+math
+png
+image
+math
+png
+powers
+image
+math
+png
+image
+math
+png
+means equations linear equations variables image
+math
+png
+image
+math
+png
+image
+math
+png
+image
+math
+png
+test points image
+math
+png
+image
+math
+png
+solve system polynomial number image
+math
+png
+graph shows
+producing degree polynomial approximating image
+math
+png
+test points set
+values shown green
+resultant image
+math
+png
+note error graph values image
+math
+png test points
+including end points
+points extrema
+interior test points extrema
+function
+maxima minima
+polynomial optimal
+step remez algorithm consists moving test points approximate locations error function actual local maxima minima
+graph point
+algorithm single round newton method
+derivatives
+calculate approximately test point moved derivative
+moving test points
+linear equation part repeated
+polynomial
+newton method move test points
+sequence continued result converges desired accuracy
+algorithm converges rapidly
+convergence quadratic behaved test points image
+math
+png correct result
+approximately image
+math
+png correct result round
+remez algorithm typically started choosing extrema chebyshev polynomial image
+math
+png initial points
+final error function similar polynomial

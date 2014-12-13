@@ -1,0 +1,329 @@
+Sampler (musical instrument)
+
+sampler
+sampler
+case playback
+called sample player rompler
+electronic musical instrument similar respects synthesizer
+generating sounds
+recordings
+samples
+sounds loaded recorded user played back means sampler program
+keyboard
+sequencer triggering device perform compose music
+samples stored digital memory information quickly accessed
+single sample pitch shifted produce musical scales chords
+samplers offer filters
+modulation low frequency oscillation synthesizer processes original sound modified ways
+samplers polyphonic capabilities play note time
+multitimbral play back sounds time
+prior computer memory based samplers
+musicians tape replay keyboards
+store recordings analog tape
+key pressed tape head contacts tape plays sound
+mellotron notable model
+number groups late
+systems expensive heavy due multiple tape mechanisms involved
+range instrument limited octaves
+change sounds set tapes installed instrument
+emergence digital sampler made sampling practical
+digital sampler ems musys system
+developed peter grogono
+software
+david cockerell
+hardware interfacing
+peter zinovieff
+system design operation
+london
+putney
+studio
+system ran mini computers
+digital pdp
+bytes read memory
+backed hard drive tape storage
+dectape
+ems equipment control world digital studio
+commercially sampling synthesizer computer music melodian harry mendell
+polyphonic digital sampling synthesiser australian produced fairlight cmi
+percussion sampler progressed hip hop drum machine sound release august
+ushering sample based sound late early
+akai pioneered processing techniques
+crossfade looping
+time stretch
+shorten lengthen samples affecting pitch vice versa
+hybrid synthesizers began utilize short samples
+attack phase instrument
+digital synthesis create realistic imitations instruments previously
+examples korg
+korg
+korg triton korg trinity series
+yamaha series kawai series instruments
+limiting factors time cost physical memory
+ram
+limitations external data storage devices
+approach made tiny amount memory design engineers
+modern day music workstation sampling
+simple playback complex editing matches advanced dedicated samplers
+includes features sequencer
+samplers
+traditional foley artists
+mainstay modern sound effects production
+digital techniques effects pitch shifted altered ways required hours tape
+sampler controlled attached music keyboard external midi source
+note message received sampler accesses sample
+multiple samples arranged keyboard
+assigned note group notes
+keyboard tracking samples shifted pitch amount
+group notes single sample assigned called keyzone
+resultant set zones called keymap
+fig
+keymap created samples
+sample
+pitched
+center pitch
+sample
+violin
+distributed notes
+note received sampler play back violin sample original pitch
+note received sampler shift sample semitone note play back tone higher
+note
+input sampler select violin sample
+playing semitone lower center pitch
+general samplers play back kind recorded audio samplers offer editing facilities user modify process audio apply wide range effects
+making sampler powerful versatile musical tool
+sampler organized hierarchy progressively complicated data structures
+bottom lie samples
+individual recordings sound
+recorded sample rate resolution
+reference center pitch actual frequency recorded note
+samples
+looped
+defining points repeated section sample starts ends
+allowing short sample play endlessly
+cases
+loop crossfade
+allowing obvious transitions loop point fading end loop fading beginning
+keymaps arranged instruments
+level parameters added define keymaps played
+filters applied change sound color low frequency oscillators envelope generators shape amplitude
+pitch
+filter parameters sound
+instruments multiple layers keymaps order play sample time keymap set parameters incoming noe events affect layer differently
+layers sensitivity velocity incoming note
+altering resulting timbre hard note played
+level
+basic approaches sampler organization
+bank approach
+instrument assigned midi channel multiple banks stored reconfigure sampler
+powerful approach associate instrument patch number midi channel configured separately sending controller information individual channel
+samplers work
+keymapping system
+spread
+sample range keys
+side effects desirable contexts
+speeding slowing drum loops
+higher lower parts keymap sound unnatural
+arranging pitched instrument keymaps
+transition noticeable realistic imitation instrument art make transitions smooth
+phrase samplers optimised triggering single
+shot
+sounds drum hits
+keymap spans single key
+requiring large number zones
+octave keyboard
+settings
+phrase sampling
+aims simplify
+interfaces pads akai mpc series
+fact pad note hidden user
+sampling engine pitch samples
+plays back
+user interface simplified
+phrase samplers groovebox format
+lightweight
+easy operate carry
+samplers classified specifications
+computer music
+started jersey usa harry mendell dan coren
+company established develop market musical instruments based computer software
+melodian based digital equipment corporation pdp computer hand wired
+conversion tracking anti aliasing filters
+melodian stevie
+journey secret life plants
+melodian monophonic synth bit
+sampling rates
+designed compatible analog synthesizers feature sync pitch analog synth
+arp
+means melodian captured frequency modulation effects
+including touch ribbon control
+trigger arps keyboard thought hybrid sampler
+analog synth
+making technology time
+interview recordings sounds produced melodian
+synclavier system early digital synthesizer sampler
+manufactured england digital
+released
+proved highly influential music producers electronic musicians
+due versatility
+cutting edge technology distinctive sound
+synclavier systems expensive highest price paid
+average systems closer
+made inaccessible musicians
+found widespread producers professional recording studios
+competed market high end production systems
+fairlight cmi
+scarce
+synclavier remains studios day
+fairlight instruments started sydney australia peter vogel kim ryrie
+company originally established manufacturer retailer video special effects equipment
+fairlight cmi computer music instrument
+released
+started life qasar
+handwired legend hours boot
+cmi commercially digital sampling instrument
+original fairlight cmi sampled resolution bits sample rate
+bit motorola processors
+upgraded powerful
+bit motorola
+equipped octave keyboards
+alphanumeric keyboard
+interactive video display unit
+vdu
+soundwaves edited drawn scratch light pen
+software allowed editing
+looping
+mixing sounds played back keyboard software based sequencer
+retailed
+fairlight released series iix
+increased sampling rate feature basic midi functionality
+series iii released significant upgrades
+bit rate sampling rate increased quality
+bit
+smpte time code supported
+notable users fairlight cmi include peter gabriel
+herbie hancock
+trevor horn
+art noise
+yello
+pet shop boys
+jean michel jarre
+duran duran kate bush
+emulator
+systems initial foray sampling
+saved company financial disaster complete failure audity due price tag
+emulator result leafing thesaurus matched company perfectly
+emulator
+note polyphonic versions
+note dropped due limited interest
+featured maximum sampling rate
+octave keyboard memory
+emulator
+designed bridge gap fairlight cmi synclavier ensoniq mirage
+featured notes polyphony
+bit sampling
+ram
+eii accessible independent banks
+track sequencer
+analog filtering
+addition hard disk option
+emulator comparable samplers released years
+emulator iii
+bit stereo digital sampler note polyphony
+maximum sample rate memory
+featured channel sequencer
+smpte hard disk
+highly regarded samplers hip hop related production
+bit sampling engine gave desirable warmth instruments gritty punch drums
+featured seconds sample time spread
+sections
+emax
+sold
+aimed lower end market
+esi
+stripped
+cheaper
+simplified eiiix
+samples
+unit accommodate ram
+note polyphony sounds routed internally polyphonic outputs
+optional scsi interface
+esi access external rom
+zip
+hard drives
+akai entered electronic musical instrument world roger linn
+creator linn
+linn
+linn drum partnered japanese akai corporation create samplers similar created linn company
+linn electronics
+series affordable samplers
+bit digital sampler module
+superseded
+akai
+affordable digital sampler
+note polyphonic featured bit sampling frequency range memory allowed seconds sampling rate
+store maximum samples memory
+operating system software based allowed upgrades booted time sampler switched
+akai digital sampler
+drum machine midi sequencer
+rack mounted model released
+time sampler touch sensitive trigger pads produced akai
+giving birth popular mpc series sampler sequencers
+akai
+improved version
+maximum sample frequency editing features contemporary
+akai
+possibly popular bit
+stereo sampler time
+featured voices
+memory
+bit internal processing
+including digital filter
+octave
+lfo
+adsr envelope generators
+amplitude filtering
+offered loop points
+additional functions included autolooping
+crossfade looping
+loop release
+cycles loop sound decays
+loop release
+cycles loop note begins decay
+reverse time stretch
+version
+higher
+samplers released akai include
+roland corporation manufactured series
+true samplers provide features
+including sampling
+sample editing
+pitch transposition
+keyzone mapping
+recently
+roland introduced groove sampler concept
+devices renowned ease
+lack pitch transposition keyzone mapping capabilities samplers
+limits rendering loops sound effects samples played back pitch recorded
+machines equipped wide range built effects
+lack pitch transposition keyzone mapping diminishes utility significantly
+roland groove sampler line includes
+older samplers scsi protocol sample data machine
+scsi interfaces standard sampler offered option
+scsi ability move large quantities data sampler reasonable times
+hard drives
+cdrom drives
+zip drives removable cartridge drives syquest iomega jaz drives popular scsi devices samplers
+strengths weaknesses
+hard drives fastest devices
+modern
+samplers solid state memory cards
+compact flash smartmedia
+sample storage transfer
+years increases computer power memory capacity made develop software applications provide capabilities hardware based units
+typically produced plug instruments
+vst system
+samplers provide simple sample playback facilities
+requiring user turn software tasks sample editing
+sample recording
+dsp effects
+provide features offered rack mounted units

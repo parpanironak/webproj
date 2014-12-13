@@ -1,0 +1,487 @@
+Partial differential equation
+
+partial differential equation
+applied maths
+social sciences
+mathematics
+partial differential equation
+pde
+differential equation unknown multivariable functions partial derivatives
+contrast ordinary differential equations
+deal functions single variable derivatives
+pdes formulate problems involving functions variables
+solved hand
+create relevant computer model
+pdes describe wide variety phenomena sound
+heat
+electrostatics
+electrodynamics
+fluid flow
+elasticity
+seemingly distinct physical phenomena formalised identically terms pdes
+shows governed underlying dynamic
+ordinary differential equations model dimensional dynamical systems
+partial differential equations model multidimensional systems
+pdes find generalisation stochastic partial differential equations
+partial differential equations
+pdes
+equations involve rates change respect continuous variables
+configuration rigid body numbers
+configuration fluid continuous distribution temperature
+pressure
+dynamics rigid body place finite dimensional configuration space
+dynamics occur infinite dimensional space
+distinction makes pdes harder solve ordinary differential equations
+odes
+simple solutions linear problems
+classic domains pdes include acoustics
+fluid flow
+electrodynamics
+heat transfer
+partial differential equation
+pde
+function image
+math
+png equation form
+linear function derivatives
+pde called linear
+common examples linear pdes include heat equation
+wave equation
+laplace equation
+helmholtz equation
+equation
+poisson equation
+simple pde
+relation implies function
+independent
+equation information function dependence variable
+general solution equation
+arbitrary function
+analogous ordinary differential equation
+solution
+constant
+examples illustrate general solutions ordinary differential equations
+odes
+involve arbitrary constants
+solutions pdes involve arbitrary functions
+solution pde generally unique
+additional conditions generally boundary region solution defined
+instance
+simple
+function
+determined line
+issue existence uniqueness solutions ordinary differential equations satisfactory answer theorem
+case partial differential equations
+theorem states cauchy problem partial differential equation coefficients analytic unknown function derivatives
+locally unique analytic solution
+result settle existence uniqueness solutions
+examples linear partial differential equations coefficients derivatives orders
+analytic
+solutions
+lewy
+solution partial differential equation exists unique
+undesirable properties
+mathematical study questions powerful context weak solutions
+pathological behavior sequence cauchy problems
+depending
+laplace equation
+boundary conditions
+integer
+derivative respect approaches uniformly increases
+solution
+solution approaches integer multiple
+cauchy problem laplace equation called posed posed
+solution depend continuously data problem
+posed problems satisfactory physical applications
+pdes
+common denote partial derivatives subscripts
+physics
+del
+spatial derivatives
+image
+math
+png time derivatives
+wave equation
+written
+laplace operator
+equation conduction heat dimension homogeneous body
+temperature
+positive constant describes rate diffusion
+cauchy problem equation consists
+arbitrary function
+general solutions heat equation found method separation variables
+examples heat equation article
+examples fourier series periodic fourier transforms periodic
+fourier transform
+general solution heat equation form
+arbitrary function
+satisfy initial condition
+fourier transform
+represents small intense source heat
+preceding integral approximated delta distribution
+multiplied strength source
+source strength normalized
+result
+resulting solution heat equation
+gaussian integral
+evaluated obtain
+result corresponds normal probability density variance
+heat equation similar diffusion equations tools study random phenomena
+wave equation equation unknown function
+form
+describe displacement stretched string equilibrium
+difference air pressure tube
+magnitude electromagnetic field tube
+number corresponds velocity wave
+cauchy problem equation consists prescribing initial displacement velocity string medium
+arbitrary functions
+solution problem dalembert formula
+formula implies solution
+depends data segment initial line cut characteristic curves
+drawn backwards point
+curves correspond signals propagate velocity forward backward
+conversely
+influence data point initial line propagates finite velocity
+effect triangle point sides characteristic curves
+behavior solution heat equation
+effect point source appears
+small amplitude
+instantaneously point space
+solution valid negative
+explicit formula shows solution depends smoothly data
+forward backward cauchy problems wave equation posed
+heat equation means equations form
+image
+math
+png operator
+noted operator fact form
+tex
+math
+png
+weighting function respect eigenfunctions
+tex
+math
+png
+orthogonal
+coordinate
+subject boundary conditions
+spherical waves waves amplitude depends radial distance central point source
+waves
+dimensional wave equation takes form
+equivalent
+quantity satisfies dimensional wave equation
+general solution spherical waves form
+completely arbitrary functions
+radiation antenna corresponds case identically
+wave form transmitted antenna distortion time
+distorting factor
+feature undistorted propagation waves present spatial dimensions
+laplace equation unknown function variables form
+solutions laplace equation called harmonic functions
+solutions laplace equation dimensions intimately connected analytic functions complex variable
+holomorphic functions
+real imaginary parts analytic function conjugate harmonic functions
+satisfy laplace equation
+gradients orthogonal
+equations state
+conversely
+harmonic function dimensions
+real part analytic function
+locally
+details laplace equation
+typical problem laplace equation find solution satisfies arbitrary values boundary domain
+seek harmonic function takes values
+circle radius
+solution poisson
+petrovsky
+shows formula obtained summing fourier series
+derivatives computed differentiating integral sign
+verify analytic
+continuous necessarily differentiable
+behavior typical solutions elliptic partial differential equations
+solutions smooth boundary data
+contrast solutions wave equation
+general hyperbolic partial differential equations
+typically derivatives data
+equation investigation transonic flow
+advection equation describes transport conserved scalar velocity field image
+math
+png
+velocity field solenoidal
+image
+math
+png
+equation simplified
+dimensional case constant equal
+equation referred burgers equation
+equation modelling superconductivity
+constants imaginary unit
+dym equation named harry dym occurs study solitons
+problems mathematical physics formulated initial boundary problems
+string stretched points denotes amplitude displacement string
+satisfies dimensional wave equation region unlimited
+string tied ends
+satisfy boundary conditions
+initial conditions
+method separation variables wave equation
+leads solutions form
+constant determined
+boundary conditions imply multiple sin
+form
+integer
+term sum corresponds mode vibration string
+mode called fundamental mode
+frequencies modes multiples frequency
+form overtone series string
+basis musical acoustics
+initial conditions satisfied representing infinite sums modes
+wind instruments typically correspond vibrations air column end open end closed
+boundary conditions
+method separation variables applied case
+leads series odd overtones
+general problem type solved theory
+membrane stretched curve forms boundary domain plane
+vibrations governed wave equation
+boundary condition
+method separation variables leads form
+turn satisfy
+equation called helmholtz equation
+constant determined trivial satisfy boundary condition
+values called eigenvalues laplacian
+solutions eigenfunctions laplacian
+theory extended elliptic eigenvalue problem
+jost
+equation pde heart relativistic quantum mechanics
+wkb approximation equation
+dym equation equation
+equations linear sense written form linear operator function
+important linear equations include equations describing flow fluids
+einstein field equations general relativity
+list linear partial differential equations
+linear
+order partial differential equations classified parabolic
+hyperbolic elliptic
+equation types regions
+classification guide initial boundary conditions
+smoothness solutions
+assuming image
+math
+png
+general order pde independent variables form
+coefficients
+depend
+image
+math
+png region plane
+pde order region
+form analogous equation conic section
+precisely
+replacing image
+math
+png
+likewise variables
+formally fourier transform
+converts constant coefficient pde polynomial degree
+top degree
+homogeneous polynomial
+quadratic form
+significant classification
+classifies conic sections quadratic forms parabolic
+hyperbolic
+elliptic based discriminant image
+math
+png
+order pde point
+discriminant pde image
+math
+png due convention term
+formally
+discriminant
+quadratic form
+image
+math
+png factor dropped simplicity
+independent variables
+general linear partial differential equation order form
+classification depends signature eigenvalues coefficient matrix
+classification partial differential equations extended systems order equations
+unknown vector components
+coefficient matrices image
+math
+png matrices image
+math
+png
+partial differential equation takes form
+coefficient matrices vector depend
+hypersurface implicit form
+gradient
+characteristic surface operator point characteristic form vanishes
+geometric interpretation condition
+data prescribed surface
+determine normal derivative differential equation
+data differential equation determine normal derivative
+characteristic
+data differential equation determine normal derivative
+surface characteristic
+differential equation restricts data
+differential equation internal
+real roots
+system strictly hyperbolic roots distinct
+geometrical interpretation condition
+characteristic form
+defines cone
+normal cone
+homogeneous coordinates
+hyperbolic case
+cone sheets
+axis runs inside sheets
+intersect
+displaced origin
+axis intersects sheet
+elliptic case
+normal cone real sheets
+pde coefficients constant
+belong categories mixed type
+simple important equation
+called elliptic hyperbolic elliptic region
+hyperbolic region
+degenerate parabolic line
+weyl quantization phase space leads quantum hamilton equations trajectories quantum particles
+equations infinite order pdes
+semiclassical expansion finite system odes fixed order image
+math
+png
+equation evolution wigner function infinite order pde
+quantum trajectories quantum characteristics calculate evolution wigner function
+linear pdes reduced systems ordinary differential equations important technique separation variables
+logic technique confusing acquaintance
+rests uniqueness solutions differential equations
+odes
+solution solves equation boundary conditions
+solution
+assume ansatz dependence solution space time written product terms depend single coordinate
+made solve problem
+method separation variables
+reduces pde pde fewer variables
+ode variable turn easier solve
+simple pdes
+called separable partial differential equations
+domain generally rectangle
+product intervals
+separable pdes correspond diagonal matrices thinking
+fixed
+coordinate
+coordinate understood separately
+generalizes method characteristics
+integral transforms
+special cases
+find characteristic curves equation reduces ode changing coordinates domain straighten curves separation variables
+called method characteristics
+generally
+find characteristic surfaces
+integral transform transform pde simpler
+separable pde
+corresponds diagonalizing operator
+important fourier analysis
+diagonalizes heat equation eigenbasis sinusoidal waves
+domain finite periodic
+infinite sum solutions fourier series
+integral solutions fourier integral generally required infinite domains
+solution point source heat equation fourier integral
+pde reduced simpler form solution suitable change variables
+pde
+reducible heat equation
+change variables
+complete details solution black scholes equation
+inhomogeneous equations solved
+constant coefficient pdes
+solved
+finding fundamental solution
+solution point source
+taking convolution boundary conditions solution
+analogous signal processing understanding filter impulse response
+superposition solutions linear
+homogeneous pde solution
+solutions combined obtain general solutions
+generally applicable methods solve linear pdes
+existence uniqueness results
+theorem
+proofs important qualitative quantitative properties solutions
+results major part analysis
+computational solution nonlinear pdes
+split step method
+exist specific equations nonlinear equation
+techniques types equations
+principle powerful method solve underdetermined equations
+theory effective method obtaining information analytic overdetermined systems
+method characteristics
+similarity transformation method
+special cases solve partial differential equations
+cases
+pde solved perturbation analysis solution considered correction equation solution
+alternatives numerical analysis techniques simple finite difference schemes mature multigrid finite element methods
+interesting problems science engineering solved computers
+high performance supercomputers
+sophus lie work put theory differential equations satisfactory foundation
+showed integration theories older mathematicians
+introduction called lie groups
+referred common source
+ordinary differential equations admit infinitesimal transformations present comparable difficulties integration
+emphasized subject transformations contact
+general approach solve pde symmetry property differential equations
+continuous infinitesimal transformations solutions solutions
+lie theory
+continuous group theory
+lie algebras differential geometry understand structure linear nonlinear partial differential equations generating integrable equations
+find lax pairs
+recursion operators
+transform finally finding exact analytic solutions pde
+symmetry methods recognized study differential equations arising mathematics
+physics
+engineering
+disciplines
+adomian decomposition method
+lyapunov artificial small parameter method
+homotopy perturbation method special cases general homotopy analysis method
+series expansion methods
+lyapunov method
+independent small physical parameters compared perturbation theory
+giving methods greater flexibility solution generality
+widely numerical methods solve pdes finite element method
+fem
+finite volume methods
+fvm
+finite difference methods
+fdm
+fem prominent position methods exceptionally efficient higher order version fem
+versions fem include generalized finite element method
+gfem
+extended finite element method
+xfem
+spectral finite element method
+sfem
+meshfree finite element method
+discontinuous galerkin finite element method
+dgfem
+finite element method
+fem
+practical application finite element analysis
+fea
+numerical technique finding approximate solutions partial differential equations
+pde
+integral equations
+solution approach based eliminating differential equation completely
+steady state problems
+rendering pde approximating system ordinary differential equations
+numerically integrated standard techniques euler method
+finite difference methods numerical methods approximating solutions differential equations finite difference equations approximate derivatives
+similar finite difference method finite element method
+values calculated discrete places meshed geometry
+finite volume
+refers small volume surrounding node point mesh
+finite volume method
+surface integrals partial differential equation divergence term converted volume integrals
+divergence theorem
+terms evaluated fluxes surfaces finite volume
+flux entering volume identical leaving adjacent volume
+methods conservative

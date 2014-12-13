@@ -1,0 +1,515 @@
+Wiki
+
+wiki
+wiki
+image
+commons
+thumb
+speakerlink
+svg
+speakerlink
+svg
+pngi
+wik
+website users add
+modify
+delete content web browser simplified markup language rich text editor
+wikis powered wiki software
+created collaboratively
+wikis serve purposes
+knowledge management notetaking
+wikis community websites intranets
+permit control functions
+levels access
+editing rights permit changing
+adding removing material
+permit access enforcing access control
+rules imposed organizing content
+ward cunningham
+developer wiki software
+wikiwikiweb
+originally
+simplest online database possibly work
+wiki
+pronounced
+hawaiian word meaning
+fast
+quick
+ward cunningham author leuf
+book wiki
+quick collaboration web
+essence wiki concept
+wiki enables communities write documents collaboratively
+simple markup language web browser
+single page wiki website referred
+wiki page
+entire collection pages
+interconnected hyperlinks
+wiki
+wiki essentially database creating
+browsing
+searching information
+wiki linear
+evolving
+complex networked text
+argument interaction
+defining characteristic wiki technology ease pages created updated
+generally
+review modifications accepted
+wikis open alteration general public requiring register user accounts
+edits made real time instantly online
+facilitate abuse system
+private wiki servers require user authentication edit pages
+read
+maged
+kamel boulos
+cito maramba steve wheeler write
+openness wikis rise concept arwikinism
+concept describes ocially darwinian process wiki pages subject
+basically
+openness wikis rapidity wiki pages edited
+pages undergo natural selection process nature subjects living organisms
+unfit sentences sections ruthlessly culled
+edited replaced considered fit
+results evolution higher quality relevant page
+whilst openness invite vandalism posting untrue information
+openness makes rapidly correct restore quality wiki page
+ways wikis users edit content
+ordinarily
+structure formatting wiki pages simplified markup language
+wikitext
+starting line text asterisk sets bulleted list
+style syntax wikitexts vary greatly wiki implementations
+html tags
+designers wikis approach html
+cryptic tags
+legible
+making hard edit
+wikis favour plain text editing
+fewer simpler conventions html
+indicating style structure
+limiting access html cascading style sheets
+css
+wikis limits user ability alter structure formatting wiki content
+benefits
+limited access css promotes consistency feel
+javascript disabled prevents user implementing code limit access users
+alice replied offended tone
+hatter
+easy
+alice replied offended tone
+hatter
+easy
+increasingly
+wikis making wysiwyg editing users
+means javascript activex control translates graphically entered formatting instructions html tags wikitext
+implementations
+markup newly edited
+marked version page generated submitted server transparently
+shielding user technical detail
+wysiwyg controls provide features wikitext
+users prefer wysiwyg editor
+sites offer means edit wikitext directly
+move wysiwyg editing mediawiki visual editor
+released alpha version editing december
+wikis record made wiki pages
+version page stored
+means authors revert older version page
+mistake made page vandalized
+implementations
+mediawiki
+users supply edit summary edit page
+short piece text summarising
+inserted article
+stored revision page
+allowing users explain
+similar log message making revision control system
+text pages large number hypertext links pages
+form linear navigation
+native
+wiki structured
+formalized navigation schemes
+users create number index table contents pages
+hierarchical categorization form organization
+challenging maintain hand
+multiple authors create delete pages hoc manner
+wikis generally provide ways categorize tag pages support maintenance index pages
+wikis backlink feature
+displays pages link page
+typical wiki create links pages exist
+invite share subject wiki
+links created specific syntax
+called
+link pattern
+curie
+originally
+wikis camelcase pages create links
+produced capitalizing words phrase removing spaces
+word
+camelcase
+camelcase makes linking easy
+leads links written form deviates standard spelling
+link page single word title
+abnormally capitalize letters word
+wiki
+wiki
+camelcase based wikis instantly recognizable links names
+tableofcontents
+beginnerquestions
+wiki render visible anchor links
+pretty
+reinserting spaces
+possibly reverting lower case
+reprocessing link improve readability anchor limited loss capitalization information caused camelcase reversal
+richardwagner
+rendered
+richard wagner
+popularmusic
+rendered
+popular music
+easy determine capital letters remain capitalized
+result
+wikis
+free linking
+brackets
+disable camelcase default
+wikis offer title search
+full text search
+scalability search depends wiki engine database
+wikis
+pmwiki
+flat files
+mediawiki versions flat files
+rewritten lee daniel crocker early database application
+indexed database access high speed searches large wikis
+alternatively
+external search engines google search wikis limited searching functions order obtain precise results
+search engine indexes date
+days
+weeks months
+websites
+wikiwikiweb wiki
+ward cunningham started developing wikiwikiweb portland
+oregon
+installed internet domain
+march
+named cunningham
+remembered honolulu international airport counter employee telling
+wiki wiki shuttle
+bus runs airport terminals
+cunningham
+chose wiki wiki alliterative substitute quick avoided naming stuff quick web
+cunningham part inspired apple hypercard
+apple designed system allowing users create virtual
+card stacks
+supporting links cards
+cunningham developed vannevar bush ideas allowing users
+comment change text
+early
+wikis increasingly adopted enterprise collaborative software
+common included project communication
+intranets
+documentation
+initially technical users
+today companies wikis collaborative software replacement static intranets
+schools universities wikis enhance group learning
+greater wikis firewalls public internet
+march
+word wiki listed online oxford english dictionary
+wiki software type collaborative software runs wiki system
+allowing web pages created edited common web browser
+implemented application servercitation needed runs web servers
+content stored file system
+content stored relational database management system
+commonly implemented software package mediawiki
+runs encyclopedia
+list wiki software information
+alternatively
+personal wikis run standalone application single computer
+wikidpad
+single local html file javascript inside tiddlywiki
+wikis created
+wiki farm
+server side software implemented wiki farm owner
+pbwiki
+socialtext
+wetpaint
+wikia popular examples services
+wiki farms make private
+password protected wikis
+note free wiki farms generally advertising page
+information
+comparison wiki farms
+wikis generally designed philosophy making easy correct mistakes
+making difficult make
+wikis open
+provide means verify validity recent additions body pages
+prominent
+wiki
+recent
+specific list numbering recent edits
+list edits made time frame
+wikis filter list remove minor edits edits made automatic importing scripts
+bots
+change log
+functions accessible wikis
+revision history shows previous page versions diff feature highlights revisions
+revision history
+editor view restore previous version article
+diff feature decide
+regular wiki user view diff edit listed
+recent
+page
+unacceptable edit
+consult history
+restoring previous revision
+process streamlined
+depending wiki software
+case unacceptable edits missed
+recent
+page
+wiki engines provide additional content control
+monitored ensure page
+set pages
+quality
+person maintain pages warned modifications pages
+allowing verify validity editions quickly
+watchlist common implementation
+wikis implement
+patrolled revisions
+editors requisite credentials mark edits vandalism
+flagged revisions
+system prevent edits live reviewed
+critics publicly editable wiki systems argue systems easily tampered
+proponents argue community users catch malicious content correct
+lars aronsson
+data systems specialist
+summarizes controversy
+high editorial standards medicine led idea expert moderated wikis
+wikis link specific versions articles
+scientific community
+expert peer reviewers analyse articles
+improve provide links trusted version article
+noveck points
+participants accredited members wiki community
+vested interest preserving quality work product
+basis ongoing participation
+controversial topics subject disruptive editing
+wiki restrict editing registered users
+open philosophy wikis
+allowing edit content
+ensure editor meaning
+virtual vandalism major problem
+larger wiki sites
+run foundation
+vandalism unnoticed period time
+wikis
+open access
+susceptible intentional disruption
+trolling
+wikis tend soft security approach problem vandalism
+making damage easy undo attempting prevent damage
+larger wikis employ sophisticated methods
+bots automatically identify revert vandalism javascript enhancements show characters added edit
+vandalism limited
+minor vandalism
+sneaky vandalism
+characters added
+eliminated bots identify users pay attention
+amount vandalism wiki receives depends open wiki
+instance
+wikis unregistered users
+identified addresses
+edit content
+whilst limit function registered users
+wikis anonymous editing account
+give registered users additional editing functions
+wikis
+registered user short simple process
+wikis require additional waiting period gaining access tools
+english
+registered users rename pages account days
+wikis portuguese editing requirement time requirement
+granting extra tools user made number edits prove trustworthiness usefulness editor
+basically
+closed
+wikis secure reliable grow slowly
+whilst open wikis grow steady rate result easy target vandalism
+clear citizendium
+extremely open
+allowing computer internet access edit
+making grow rapidly
+whilst requires users real biography
+affecting growth wiki creating
+vandalism free
+ambiance
+edit wars occur users repetitively revert page version favor
+wiki software administrator stop edit wars locking page editing decision made version page
+wikis position control behavior due governance structures existing wiki
+instance
+college teacher create incentives students behave class wiki administer
+limiting editing logged users pointing contributions traced back contributors
+bad behavior dealt accordance university policies
+malware problem
+users add links sites hosting malicious code
+german article blaster worm edited include hyperlink malicious website
+users vulnerable microsoft windows systems link infected
+countermeasure software prevents users saving edit link site listed blacklist malware sites
+wiki communities private
+enterprises
+internal documentation house systems applications
+companies wikis customers produce software documentation
+study corporate wiki users found divided
+synthesizers
+adders
+content
+synthesizers frequency contribution affected impact wiki users
+adders contribution frequency affected accomplish work
+gartner group
+noting increasing popularity wikis
+estimated mainstream collaboration tools companies
+wikis project management
+wikis academic community sharing dissemination information institutional international boundaries
+settings
+found collaboration grant writing
+strategic planning
+departmental documentation
+committee work
+mid
+increasing trend industries collaboration placing heavier impetus educators make students proficient collaborative work
+inspiring greater interest wikis classroom
+wikis found legal profession
+government
+examples include central intelligence agency intellipedia
+designed share collect intelligence
+dkospedia
+american civil liberties union assist review documents pertaining internment detainees bay
+citation needed wiki united states court appeals seventh circuit
+post court rules practitioners comment questions
+united states patent trademark office operates peer patent
+wiki public collaborate finding prior art relevant examination pending patent applications
+queens
+york wiki citizens collaborate design planning local park
+cornell law school founded wiki based legal dictionary called wex
+growth hampered restrictions edit
+exist wikinodes pages wikis describe related wikis
+organized neighbors delegates
+neighbor wiki simply wiki discuss similar content interest
+delegate wiki wiki agrees content delegated wiki
+citation needed
+finding wiki specific subject follow wiki node network wiki wiki
+wiki
+bus tour
+tour bus stop
+domain names
+wiki
+growing popularity support specific niches
+citation needed
+english largest user base wikis world wide web ranks top web sites terms traffic
+large wikis include wikiwikiweb
+memory alpha
+wikivoyage susning
+swedish language knowledge base
+medical health related wiki examples include ganfyd
+online collaborative medical reference edited medical professionals invited medical experts
+basic types users participate wikis reader
+author
+wiki administrator system administrator
+system administrator responsible installation maintenance wiki engine container web server
+wiki administrator maintains wiki content provided additional functions pertaining pages
+page protection deletion
+adjust users access rights
+instance
+blocking editing
+study hundred wikis showed high number administrators content size reduce growth
+access controls restricting editing registered users reduce growth
+lack access controls fuel user registration
+higher administration ratios
+admins
+user
+significant effect content population growth
+conferences meetings wikis general include
+conferences specific wiki sites applications include
+wikis typically set rules governing user behavior
+instance
+labyrinthine set policies guidelines summed pillars
+encyclopedia
+neutral point view
+free content
+wikipedians interact respectful civil manner
+firm rules
+wikis adopted set commandments
+instance
+conservapedia commands
+things
+editors
+referring years prior common era refrain
+unproductive activity
+teacher instituted commandment class wiki
+wiki wiki
+joint authorship articles
+users participate correcting
+editing
+compiling finished product
+editors tenants common copyright
+making impossible republish permission owners
+identities unknown due pseudonymous anonymous editing
+persons contribute collective work encyclopedia
+joint ownership contributions separate distinguishable
+wikis tracking individual contributions
+action contributing wiki page arguably jointly correcting
+editing
+compiling give rise joint ownership
+copyright issues alleviated open content license
+version gnu free documentation license includes specific provision wiki relicensing
+creative commons licenses popular
+license
+implied license read add content wiki deemed exist grounds business necessity inherent nature wiki
+legal basis implied license exist circumstances
+wikis users held liable activities occur wiki
+wiki owner displays indifference forgoes controls
+banning copyright infringers
+exercised stop copyright infringement
+deemed authorized infringement
+wiki primarily infringe copyrights obtains direct financial benefit
+advertising revenue
+infringing activities
+united states
+wikis benefit section communications decency act
+protects sites engage
+good samaritan
+policing harmful material
+requirement quality quantity policing
+argued wiki enforcement rules
+anti bias
+verifiability
+reliable sourcing
+original research policies
+pose legal risks
+defamation occurs wiki
+theoretically users wiki held liable
+ability remove amend defamatory material
+publication
+remains wikis regarded akin internet service provider
+generally held liable due lack control publications contents
+publisher
+recommended trademark owners monitor information presented trademarks wikis
+courts content evidence pertaining public perceptions
+joshua jarvis notes
+misinformation identified
+trade mark owner simply edit entry
+image
+commons
+thumb
+wikiversity logo
+svg
+wikiversity logo
+svg
+png learning materials related wiki wikiversity
+image
+thumb
+commons logo
+svg
+commons logo
+svg
+png media related wiki commons

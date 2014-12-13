@@ -1,0 +1,115 @@
+Squid (software)
+
+squid
+squid proxy server web cache daemon
+wide variety
+speeding web server caching repeated requests
+caching web
+dns computer network lookups group people sharing network resources
+aiding security filtering traffic
+primarily ftp
+squid includes limited support protocols including tls
+ssl
+internet gopher https
+squid originally designed run unix systems
+windows port maintained version
+current versions developed
+released gnu general public license
+squid free software
+foundation
+squid originally developed duane wessels harvest object cache
+part harvest project university colorado boulder
+work program completed university california
+san diego funded grants national science foundation
+duane wessels forked
+pre commercial version harvest
+renamed squid avoid confusion commercial fork called cached
+netcache
+squid version
+released july
+squid developed exclusively volunteer efforts
+web proxy caching store requested internet objects
+data web pages
+ftp
+gopher protocols system closer requesting site
+web browsers local squid cache proxy server
+reducing access time bandwidth consumption
+internet service providers increase speed customers
+lans share internet connection
+proxy
+behaves client behalf real client
+provide anonymity security
+introduce significant privacy concerns log lot data including urls requested
+exact date time
+version requester web browser operating system
+referrer
+client program
+browser
+explicitly proxy server
+typical isp customers
+proxy extra configuration
+transparent caching
+case outgoing requests intercepted squid responses cached
+typically corporate set
+clients lan
+introduces privacy concerns mentioned
+squid features anonymize connections
+disabling changing specific header fields client requests
+set
+set
+person controls computer running squid
+people requesting pages network transparently squid information logged
+organisations
+users informed computers internet connections monitored
+contents unlimited number webservers limited number classical
+setup
+port accel vhost
+mode
+cache servers unlimited number clients limited number servers
+slow
+web server
+www
+squid cache server
+time page requested www
+cache server actual page slow
+requests stored copy directly accelerator
+configurable period
+stored copy discarded
+end result
+action clients
+traffic source server
+meaning cpu memory usage
+bandwidth
+source server accurately report traffic numbers additional configuration
+requests reverse proxy
+adapt reporting source server forwarded header reported reverse proxy
+real client address
+single squid server serve normal reverse proxy simultaneously
+business host website web server
+squid server acting reverse proxy clients
+customers accessing website business
+web server
+squid server act classical web cache
+caching requests clients business
+employees accessing internet workstations
+accelerating web access reducing bandwidth demands
+feature extensively video streaming websites youtube
+user clicks middle video progress bar
+server begin send data middle file
+sending entire file beginning user waiting preceding data finish loading
+partial downloads extensively microsoft windows update extremely large update packages download background pause halfway download
+user turns computer disconnects internet
+metalink download format enables clients segmented downloads issuing partial requests spreading number mirrors
+squid relay partial requests origin web server
+order partial request satisfied fast speed cache
+squid requires full copy object exist storage
+proxy video user watching video stream browses page video completely downloads
+squid partial download reuse simply discards data
+special configuration required force downloads continue cached
+squid run operating systems
+squid web site claims working front server application
+improve performance times
+squid efficient case
+unexpected
+high traffic pages
+case caching achieved

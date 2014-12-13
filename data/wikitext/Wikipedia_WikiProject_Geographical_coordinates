@@ -1,0 +1,392 @@
+Wikipedia:WikiProject Geographical coordinates
+
+geographical coordinates
+wikiproject geographical coordinates aims organize location information articles set numbers identifies location relative earth
+aim establish standard uniform handling latitude longitude coordinates articles
+analogous isbn numbers handled
+note
+concept development
+subject change
+coordinates degrees
+minutes
+seconds arc
+title means coordinates displayed title
+coordinates decimal degrees
+optional parameters separated pipe
+region
+type
+event
+title
+article
+subject article
+wikiproject council includes wikiproject geographical directory
+wikiproject offshoot wikiproject maps
+parent project
+wikiprojects make geographical coordinates include
+image
+commons
+thumb
+worldmap landandpolitical
+jpg
+worldmap landandpolitical
+jpg atlasportal wikiproject geography
+image
+thumb
+terrestrial globe
+svg
+terrestrial globe
+svg
+png geography portal wikiproject geography
+list moved page
+general
+coordinates added article location
+structure
+geographic feature fixed place
+items vary size single tree
+smaller
+entire ocean continent
+coordinates added articles events single location
+ufa train disaster
+guidelines obvious situations
+coordinates add top infoboxes types articles
+add coordinates top infoboxes types articles
+types articles decided case case basis
+practical usage coordinate markup style guide geographical coordinates
+maps services
+parameters required
+complete entry
+landmark scale
+region
+obtaining coordinates
+template geographical added relevant talk pages
+adds page categories displays
+ways coordinates
+september
+widely family templates form coor
+deprecated replaced
+overview choices
+wikiproject geographical coordinates
+comparison
+geographical coordinate
+parameters optionally supplied
+separated underscores
+helps display suitable map resources
+template
+geotemplate
+wikimaps fully functional
+type
+parameter specifies type location reverse mapping
+instance
+select marker icon wikiminiatlas
+sets map scale
+overridden dim
+scale
+valid types
+dim
+parameter specifies width object metres kilometres
+overriding scale implied type
+parameter
+syntax dim
+geohack dim
+select map scale
+dim
+type
+scale
+parameters provided
+geohack default scale
+scale
+parameter specifies desired map scale
+overriding scale implied type
+parameter
+geohack scale
+select map scale dpi computer monitor
+dim
+type
+scale
+parameters provided
+geohack default scale
+region
+parameter specifies political region terrestrial coordinates
+select map resources
+region
+parameter provided
+geohack attempts determine region coordinates
+region supplied character iso alpha country code iso region code
+examples iso alpha codes
+examples iso region codes
+oceans wiki assigned code elements
+vorlage
+addition
+wiki assigned code elements
+globe
+parameter specifies planet
+dwarf planet
+asteroid
+natural satellite coordinates reside
+earth
+default
+recognized values
+mercury
+venus
+moon
+mars
+phobos
+deimos
+ceres
+vesta
+ganymede
+callisto
+europa
+mimas
+enceladus
+tethys
+dione
+rhea
+titan
+hyperion
+iapetus
+phoebe
+miranda
+ariel
+umbriel
+titania
+oberon
+triton
+pluto
+globes earth
+assume specific reference system
+contrast earth
+template defaults east longitude
+direction globes measure longitude westward
+present time
+limited mapping mars moon extraterrestrial bodies
+celestial coordinates
+specifies
+present
+data source data source format
+datum
+optionally original data
+presented parentheses
+initially primarily intended geotagging robots
+data blindly repeatedly copied format format
+progressive loss precision attributability
+examples
+takes
+article coordinates
+supplied unique
+display coordinate wikiminiatlas
+template emit hcard microformat
+existing hcard
+person
+gravesite
+generated hcard invalid
+square brackets names
+display coordinates dms values
+add common
+css
+display coordinates decimal values
+add common
+css
+display coordinates formats
+add common
+css
+css disabled
+copy mediawiki
+common
+css cached
+formats
+clear cache manually refresh url
+disable display blue globe adjacent coordinates
+add common
+note disable wikiminiatlas
+manual style
+dates numbers
+coordinates
+creating templates infoboxes
+template coordinate data
+creating dot standard map
+template field
+accepts coords
+coordinate data directly template
+parameter names coordinates
+provision accepting decimal coordinates recommended
+lat
+long
+omission remaining parameters
+united kingdom ordnance survey grid references coordinates
+articles coordinates
+draft guidance
+examples
+coordinates linear features
+rivers
+roads
+bridges
+tunnels
+wikiproject geographical coordinates
+linear
+obtaining geographic coordinates
+category
+articles needing coordinates
+checker
+coordinates referenced
+equivalent datum
+required conversions geohack extension
+british national grid references ordnance survey datum
+correct national grid references
+correct transformations automatically applied national grid coordinates tags
+latitude
+longitude coordinates
+lat
+long
+coordinates obtained
+precision article
+generally
+larger object mapped
+precise coordinates
+location city precision meters
+point city
+central administrative building
+fountain justify precisions meters meter cases
+general rule give precisions approximately tenth size object
+clear reason additional precision
+overly precise coordinates misleading implying geographic area smaller
+coordinate representations
+degrees minutes seconds decimal degrees
+precision
+approximation
+conversions
+kilometre
+metre
+centimetre
+mile
+foot
+inch
+distances lines latitude equator shrink poles
+specific reason account
+distances lines longitude suffice guide
+calculate kilometers degree longitude approximation formulas
+latitude degrees
+equatorial radius
+polar radius
+image
+math
+png
+image
+math
+png
+sufficient
+image
+math
+png
+checker
+verify
+add coordinates articles categories coordinates
+articles listed wolterbot cleanup listings
+user
+wolterbot
+cleanup statistics
+obtaining geographic coordinates
+added articles needing coordinates
+makes previous step
+user reported errors
+formatting errors
+articles
+coordinates
+found pages templates category
+coordinates templates
+coordinates download database dumps
+coordinates xml format dump articles
+enwiki latest pages articles
+xml
+dump parsed pages coordinates entry formats listed
+articles conform formats coordinates easy parse wikitext regular expressions simple character sequences
+coordinates link php tool
+found sql format table external links
+enwiki latest externallinks
+sql
+method include information coordinates
+position article body title area
+exist groups articles generate coordinate data dynamically standard entry formats
+editors wished facilitate entry common coordinate related information
+keeping output similar existing templates
+coordinates
+articles database dump run wikitext parser
+php mediawiki
+expand templates
+result parsed coordinates
+alternatively
+download html generated article expanded template content
+html
+tar
+note mass downloading individual pages live site strongly discouraged lead discontinued access
+examples nasa world wind
+overlay
+purely meant thing coordinated concept geographical coordinates
+project world scan dumps
+wikiminiatlas javascript add monobook
+adds draggable zoomable
+googlemaps
+map geo coded articles
+clickable labels links geocoded articles map spatial browsing
+map layers include satellite images
+data
+zoomlevels resolution
+daily updated modis satellite data
+wikiminiatlas enabled
+clicking globe
+image
+commons
+thumb
+erioll world
+svg
+erioll world
+svg
+png
+coordinates
+kmlexport tool
+pages marked multiple coordinates categories articles coordinates exported kml
+google earth
+tool alternatives found clicking coordinates applying template page
+kmlexport directly google maps
+colmar pocket category
+capitals europe
+export articles real time
+export categories based stored extractions
+weeks
+kml converted formats
+suitable points interest
+poi
+gps systems
+sources
+tools
+cgi bin
+geosearch
+regular expression searching geohack links external links table
+advantages real time information powerful pattern matching
+queries created demonstration flexibility system
+switch wikis
+site parameter added url
+image
+commons
+thumb
+people icon
+svg
+people icon
+svg
+png directory wikiprojects
+image
+commons
+thumb
+wikiproject council
+svg
+wikiproject council
+svg
+png wikiproject council
+image
+commons
+thumb
+book icoline
+svg
+book icoline
+svg
+png guide wikiprojects

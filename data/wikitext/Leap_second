@@ -1,0 +1,221 @@
+Leap second
+
+leap
+leap adjustment occasionally applied coordinated universal time
+utc
+order time day close solar time
+recent leap inserted june
+utc
+utc time standard
+widely international timekeeping reference civil time countries
+international system
+definition
+based atomic clocks
+time standards
+utc defines grouping seconds minutes
+hours
+days
+months
+years
+duration solar day slightly longer hours
+seconds
+utc day defined precisely seconds
+utc time day slowly drift solar based standards
+greenwich time
+gmt
+successor
+purpose leap compensate drift
+occasionally scheduling utc days seconds
+specifically
+positive leap inserted
+chosen utc calendar date
+day month
+june december
+date
+extra displayed utc clocks
+clocks display local time tied utc
+leap inserted end hour
+half hour
+depending local time zone
+negative leap suppress
+day chosen month
+date immediately
+date
+utc standard established
+negative leap seconds needed
+earth rotation speed varies response climatic geological events
+utc leap seconds irregularly spaced unpredictable
+insertion utc leap decided months advance international earth rotation reference systems service
+iers
+needed ensure difference utc readings exceed
+adoption june
+leap seconds scheduled
+positive
+ptolemy sexagesimally subdivided solar day true solar day places sexagesimal point
+simple fractions equinoctial hour seasonal hour
+resemble modern
+muslim scholars
+including biruni
+subdivided solar day equinoctial hours
+subdivided sexagesimally
+units minute
+fourth
+creating modern solar day process
+definition
+proposed base unit time cgs system units
+simon newcomb discovered earth rotation period varied irregularly
+international astronomical union
+iau
+defined fraction sidereal year
+tropical year considered fundamental sidereal year
+iau redefined fraction
+tropical year
+adopted international committee weights measures general conference weights measures
+part international system units
+eventually definition found inadequate precise time measurements
+redefined
+periods radiation emitted caesium atom transition hyperfine levels ground state
+agreed part astronomical
+ephemeris
+close solar day averaged
+past centuries length solar day increasing
+century
+average
+solar day millisecond longer seconds
+time standards change date precisely seconds
+international atomic time
+tai
+increasingly ahead time standards tied solar day
+greenwich time
+gmt
+coordinated universal time standard instituted
+based atomic clocks
+felt maintain agreement gmt time day
+reference broadcast time services
+rate
+atomic clocks constantly slowed remain synchronised gmt
+period
+seconds
+broadcast services slightly longer closer gmt seconds
+leap system introduced broadcast utc seconds made equal standard
+maintaining utc time day utc date synchronized
+solar time standard superseded gmt
+utc clock seconds tai
+synchronized counting true seconds
+clocks ticking seconds
+difference readouts time seconds total number leap seconds applied utc
+seconds july
+scheduling leap seconds initially delegated bureau international lheure
+bih
+passed international earth rotation reference systems service
+iers
+january
+iers decides apply leap difference utc approaches
+order difference utc exceeding
+utc standard leap seconds applied end utc month
+july inserted end june december
+iers publishes announcements months
+leap seconds occur
+bulletin
+announcements typically published advance leap date early january june early july december
+time signal broadcasts give voice announcements impending leap
+leap inserted months
+average
+spacing irregular
+leap seconds year interval january
+december
+leap seconds years
+unlike leap days
+utc leap seconds occur simultaneously worldwide
+leap december
+utc december
+eastern standard time january
+japan standard time
+leap seconds irregularly spaced earth rotation speed irregularly
+earth rotation unpredictable long term
+explains leap seconds announced months advance
+mathematical model variations length solar day developed
+stephenson
+morrison
+based records eclipses period
+telescopic observations occultations period atomic clocks
+model shows steady increase solar day
+century
+periodic shift amplitude period
+centuries
+periodic component reduced rate lengthening solar day
+century
+main reason slowing earth rotation tidal friction
+lengthen day
+century
+contributing factors movement earth crust relative core
+mantle convection
+events processes significant redistribution mass
+processes change earth moment inertia
+affects rate rotation due conservation angular momentum
+glacial rebound shortens solar day
+century
+indian ocean earthquake thought shortened
+microseconds
+irregularity unpredictability utc leap seconds problematic areas
+computing
+compute elapsed time seconds utc past dates requires consulting table leap seconds
+updated leap announced
+theory compute accurate time intervals utc dates months future
+july
+head earth orientation center iers notice iers bulletins subscribers
+soliciting comments
+proposal itu study group eliminate leap seconds utc broadcast standard
+itu responsible definition utc
+wall street journal noted proposal considered
+official
+private matter internal itu
+july
+expected considered november
+discussion postponed
+proposal
+leap seconds technically replaced leap hours attempt satisfy legal requirements itu member nations civil time astronomically tied sun
+number objections proposal raised
+kenneth seidelmann
+editor explanatory supplement astronomical almanac
+wrote letter lamenting lack consistent public information proposal adequate justification
+steve allen university california
+santa cruz cited large impact astronomers science news article
+extensive online site devoted issues history leap seconds
+including set references proposal arguments
+chunhao han beijing global information center application exploration china decided vote january
+chinese scholars important maintain link civil astronomical time due chinese tradition
+vote ultimately deferred
+arguments proposal include unknown expense major change fact universal time longer correspond solar time
+answered timescales follow leap seconds
+international atomic time
+tai
+global positioning system
+gps
+time
+computers
+convert utc local civil time output
+inexpensive gps timing receivers readily satellite broadcasts include information convert gps time utc
+easy convert gps time tai tai seconds ahead gps time
+examples systems based gps time include cdma digital cellular systems
+general
+computer systems utc synchronize clocks ntp
+network time protocol
+systems tolerate disruptions caused leap seconds base time tai ptp
+precision time protocol
+meeting civil global positioning system service interface committee fort worth
+texas september
+announced mailed vote stopping leap seconds
+plan vote
+number organizations reported computer problems june
+leap
+sites reported problems reddit
+apache cassandra
+mozilla
+hadoop
+qantas airlines
+sites running linux
+inserting leap end day
+google servers implement leap smear
+extending seconds slightly time window prior leap
+proposed media clients real time transport protocol inhibit generation ntp timestamps leap preceding

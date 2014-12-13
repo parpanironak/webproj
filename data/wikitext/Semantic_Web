@@ -1,0 +1,297 @@
+Semantic Web
+
+semantic web
+semantic web collaborative movement led international standards body
+world wide web consortium
+standard promotes common data formats world wide web
+encouraging inclusion semantic content web pages
+semantic web aims converting current web dominated unstructured semi structured documents
+web data
+semantic web stack builds resource description framework
+rdf
+semantic web common framework data shared reused application
+enterprise
+community boundaries
+term coined tim berners lee
+inventor world wide web director world wide web consortium
+oversees development proposed semantic web standards
+defines semantic web
+web data processed directly indirectly machines
+critics questioned feasibility
+proponents argue applications industry
+biology human sciences research proven validity original concept
+scholars explored social potential semantic web business health sectors
+social networking
+original scientific american article berners lee expected evolution existing web semantic web
+happen
+berners lee colleagues stated
+simple idea
+remains largely unrealized
+concept semantic network model formed early sixties cognitive scientist allan
+collins
+linguist
+ross quillian psychologist elizabeth
+loftus publications
+form represent semantically structured knowledge
+extends network hyperlinked human readable web pages inserting machine readable metadata pages related
+enabling automated agents access web intelligently perform tasks behalf users
+term coined tim berners lee
+inventor world wide web director world wide web consortium
+oversees development proposed semantic web standards
+defines semantic web
+web data processed directly indirectly machines
+technologies proposed existed positioned umbrella
+contexts
+dealing information encompasses limited defined domain
+sharing data common necessity
+scientific research data exchange businesses
+addition
+technologies similar goals emerged
+microformats
+main purpose semantic web driving evolution current web enabling users find
+share
+combine information easily
+humans capable web carry tasks finding estonian translation
+twelve months
+reserving library book
+searching lowest price dvd
+machines accomplish tasks human direction
+web pages designed read people
+machines
+semantic web vision information readily interpreted machines
+machines perform tedious work involved finding
+combining
+acting information web
+semantic web
+originally envisioned
+system enables machines
+understand
+respond complex human requests based meaning
+understanding
+requires relevant information sources semantically structured
+tim berners lee originally expressed vision semantic web
+semantic web regarded integrator content
+information applications systems
+applications publishing
+blogging
+areas
+terms
+semantics
+metadata
+ontologies
+semantic web
+inconsistently
+terms everyday terminology researchers practitioners
+spanning vast landscape fields
+technologies
+concepts application areas
+confusion regard current status enabling technologies envisioned realize semantic web
+paper presented gerber
+barnard van der merwe semantic web landscape charted summary related terms enabling technologies presented
+architectural model proposed tim berners lee basis present status model reflects current emerging technologies
+files typical computer loosely divided human readable documents machine readable data
+documents mail messages
+reports
+brochures read humans
+data
+calendars
+addressbooks
+playlists
+spreadsheets presented application program viewed
+searched combined ways
+world wide web based documents written hypertext markup language
+html
+markup convention coding body text interspersed multimedia objects images interactive forms
+metadata tags provide method computers categorise content web pages
+html tool render
+web browser software
+user agent
+create present page lists items sale
+html catalog page make simple
+document level assertions
+document title widget superstore
+capability html assert unambiguously
+item number acme gizmo retail price
+consumer product
+html span text
+positioned
+acme gizmo
+catalog
+establish
+acme gizmo
+kind title
+price
+express pieces information bound describing discrete item
+distinct items listed page
+semantic html refers traditional html practice markup intention
+layout details directly
+denoting
+emphasis
+specifies italics
+layout details left browser
+combination cascading style sheets
+practice falls short semantics objects items sale prices
+microformats represent unofficial attempts extend html syntax create machine readable semantic markup objects retail stores items sale
+semantic web takes solution
+involves publishing languages specifically designed data
+resource description framework
+rdf
+web ontology language
+owl
+extensible markup language
+xml
+html describes documents links
+rdf
+owl
+xml
+contrast
+describe arbitrary things people
+meetings
+airplane parts
+technologies combined order provide descriptions supplement replace content web documents
+content manifest descriptive data stored web accessible databases
+markup documents
+extensible html
+xhtml
+interspersed xml
+purely xml
+layout rendering cues stored separately
+machine readable descriptions enable content managers add meaning content
+describe structure knowledge content
+machine process knowledge
+text
+processes similar human deductive reasoning inference
+obtaining meaningful results helping computers perform automated information gathering research
+tag semantic web page
+encoding similar information semantic web page
+tim berners lee calls resulting network linked data giant global graph
+contrast html based world wide web
+berners lee posits past document sharing
+future data sharing
+answer question
+points instruction
+url point data
+accessing url data back
+relationships data point additional urls data
+tim berners lee semantic web component
+web
+semantic web
+synonym
+web
+term definition varies
+challenges semantic web include vastness
+vagueness
+uncertainty
+inconsistency
+deceit
+automated reasoning systems deal issues order deliver promise semantic web
+list challenges illustrative exhaustive
+focuses challenges
+unifying logic
+proof
+layers semantic web
+world wide web consortium
+incubator group uncertainty reasoning world wide web
+final report lumps problems single heading
+uncertainty
+techniques mentioned require extensions web ontology language
+owl
+annotate conditional probabilities
+area active research
+standardization semantic web context web
+care
+term
+semantic web
+specifically refer formats technologies enable
+collection
+structuring recovery linked data enabled technologies provide formal description concepts
+terms
+relationships knowledge domain
+technologies standards include
+semantic web stack illustrates architecture semantic web
+functions relationships components summarized
+established standards
+ongoing standardization
+fully realized
+intent enhance usability usefulness web interconnected resources
+critics
+semantic web
+question basic feasibility complete partial fulfillment semantic web
+cory doctorow critique
+metacrap
+perspective human behavior personal preferences
+people include spurious metadata web pages attempt mislead semantic web engines naively assume metadata veracity
+phenomenon metatags fooled altavista ranking algorithm elevating ranking web pages
+google indexing engine specifically attempts manipulation
+peter timo honkela point logic based semantic web technologies cover fraction relevant phenomena related semantics
+semantic web technologies found greater degree practical adoption
+tended core specialized communities organizations intra company projects
+practical constraints adoption appeared challenging domain scope limited general public world wide web
+enthusiasm semantic web tempered concerns censorship privacy
+instance
+text analyzing techniques easily bypassed words
+metaphors instance
+images place words
+advanced implementation semantic web make easier governments control viewing creation online information
+information easier automated content blocking machine understand
+addition
+issue raised
+foaf files geo location meta data
+anonymity authorship articles things personal blog
+concerns addressed
+policy aware web
+project active research development topic
+criticism semantic web time consuming create publish content formats piece data
+human viewing machines
+web applications development addressing issue creating machine readable format publishing data request machine data
+development microformats reaction kind criticism
+argument defense feasibility semantic web falling price human intelligence tasks digital labor markets
+amazon mechanical turk
+specifications erdf rdfa arbitrary rdf data embedded html pages
+grddl
+gleaning resource descriptions dialects language
+mechanism existing material
+including microformats
+automatically interpreted rdf
+publishers single format
+html
+section lists projects tools exist create semantic web solutions
+dbpedia effort publish structured data extracted
+data published rdf made web gnu free documentation license
+allowing semantic web agents provide inferencing advanced querying derived dataset facilitating interlinking
+extension data sources
+popular vocabulary semantic web friend friend
+foaf
+rdf describe relationships people people
+things
+foaf permits intelligent agents make sense thousands connections people
+jobs items important lives
+connections enumerated searches traditional web search engines
+connections vast number
+human interpretation information analyzing
+foaf semantic web attempts make relationships social context
+semantically interlinked online communities project
+sioc
+pronounced
+shock
+vocabulary terms relationships model web data spaces
+examples data spaces include
+discussion forums
+blogs
+blogrolls
+feed subscriptions
+mailing lists
+shared bookmarks image galleries
+gopubmed knowledge based search engine biomedical texts
+gene ontology
+medical subject headings
+mesh
+serve
+table contents
+order structure millions articles medline database
+search engine users find relevant search results significantly faster pubmed
+citation needed
+database consolidating high throughput life sciences experimental data tagged connected biomedical ontologies
+nextbio accessible search engine interface
+researchers contribute findings incorporation database
+database supports gene expression protein expression data sequence centric data steadily expanding support biological data types

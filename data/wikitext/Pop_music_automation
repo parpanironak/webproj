@@ -1,0 +1,78 @@
+Pop music automation
+
+pop music automation
+pop music automation field study musicians computer scientists goal producing successful pop music algorithmically
+based premise pop music formulaic
+unchanging
+easy compose
+idea automating pop music composition related ideas algorithmic music
+artificial intelligence
+computational creativity
+algorithms
+formal sets rules
+compose music centuries
+procedures plot voice leading western counterpoint
+reduced algorithmic determinacy
+term reserved
+formal procedures make music human intervention
+classical music automation software exists generates music style mozart bach jazz
+notably
+david cope written software system called
+experiments musical intelligence
+emi
+capable analyzing generalizing existing music human composer generate musical compositions style
+emi output convincing persuade human listeners music human generated high level competence
+creativity research jazz focused process improvisation cognitive demands places musical agent
+reasoning time
+remembering conceptualizing played
+planning ahead played
+inevitably pop music automation pop music analysis
+projects pop music automation include
+limited
+ideas melody creation song development
+vocal generation improvement
+automatic accompaniment lyric composition
+systems exist automatically choose chords accompany vocal melody real time
+user musical experience create song instrumental accompaniment singing microphone
+microsoft research project called mysong
+trains hidden markov model music database model select chords melodies
+automatic melody generation markov chain
+states system note pitch values
+probability vector note constructed
+completing transition probability matrix
+algorithm constructed produce output note values based transition matrix weightings
+midi note values
+frequency
+desirable metric
+order markov chain introduced current state previous state
+table
+higher
+nth order chains tend
+group
+notes
+breaking patterns sequences occasionally
+higher order chains tend generate results sense phrasal structure
+aimless wandering produced order system
+automated lyric creating software forms
+involves natural language processing
+pablo developed noteworthy system called aspera employs case based reasoning
+cbr
+approach generating poetic formulations input text composition poetic fragments retrieved case base existing poems
+poem fragment aspera case base annotated prose string expresses meaning fragment
+prose string retrieval key fragment
+metrical rules combine fragments formed poetic structure
+programs tale spin minstrel system represent complex elaboration basis approach
+distinguishing range character level goals story range author level goals story
+systems bringsjord brutus create stories complex inter personal themes betrayal
+line metaphor generation systems ardonicus
+reference
+cite ref
+note
+suggest lexical metaphors descriptive goal
+describe supermodel skinny
+source terms
+suggested
+language database
+wordnet
+create musings subject weak grammatically sensical
+projects flowerewolf automatic poetry generator dada engine

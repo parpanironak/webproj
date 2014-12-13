@@ -1,0 +1,198 @@
+Reverberation
+
+reverberation
+reverberation persistence sound space original sound produced
+reverberation
+reverb
+created sound produced enclosed space causing large number echoes build slowly decay sound absorbed walls air
+noticeable sound source stops reflections continue
+decreasing amplitude
+longer heard
+length sound decay
+reverberation time
+receives special consideration architectural design large chambers
+specific reverberation times achieve optimum performance intended activity
+comparison distinct echo initial sound
+reverberation thousands echoes arrive quick succession
+echoes
+time passes
+volume echoes reduced echoes heard
+time required reflections direct sound decay level direct sound
+reverberation time frequently stated single measured wide band signal
+precisely narrow bands
+octave
+octave
+octave
+typically
+reverb time measured narrow bands differ depending frequency band measured
+helpful range frequencies reverberation time measurement
+late century
+wallace clement sabine started experiments harvard university investigate impact absorption reverberation time
+portable wind chest organ pipes sound source
+stopwatch ears
+measured time interruption source inaudibility
+roughly
+found reverberation time proportional dimensions room inversely proportional amount absorption present
+optimum reverberation time space music played depends type music played space
+rooms speech typically shorter reverberation time speech understood
+reflected sound syllable heard syllable spoken
+difficult understand
+cat
+cab
+cap
+sound similar
+hand reverberation time short
+tonal balance loudness suffer
+reverberation effects studios add depth sounds
+reverberation perceived harmonic structure note
+alter pitch
+basic factors affect room reverberation time include size shape enclosure materials construction room
+object enclosure affect reverberation time
+including people belongings
+sabine reverberation equation developed late empirical fashion
+established relationship room
+volume
+total absorption
+sabins
+equation
+image
+math
+png number relates speed sound room
+image
+math
+png volume room
+image
+math
+png total surface area room
+image
+math
+png average absorption coefficient room surfaces
+product image
+math
+png total absorption sabins
+total absorption sabins
+reverberation time
+generally depending frequency
+defined acoustic properties space
+equation account room shape losses sound travelling air
+important larger spaces
+rooms absorb sound energy lower frequency ranges resulting longer reverb times lower frequencies
+reverberation time volume room great influence critical distance
+conditional equation
+critical distance image
+math
+png measured meters
+volume image
+math
+png measured
+reverberation time image
+math
+png measured seconds
+absorption coefficient material number proportion sound absorbed surface compared proportion reflected back room
+large
+fully open window offer reflection sound reaching pass straight sound reflected
+absorption coefficient
+conversely
+thick
+smooth painted concrete ceiling acoustic equivalent mirror
+absorption coefficient close
+historically reverberation time measured level recorder
+plotting device graphs noise level time ribbon moving paper
+loud noise produced
+sound dies trace level recorder show distinct slope
+analysis slope reveals measured reverberation time
+modern digital sound level meters carry analysis automatically
+methods exist measuring reverb time
+impulse measured creating sufficiently loud noise
+defined cut point
+impulse noise sources blank pistol shot balloon burst measure impulse response room
+alternatively
+random noise signal pink noise white noise generated loudspeaker
+turned
+interrupted method
+measured result interrupted response
+port measurement system measure noise introduced space compare subsequently measured space
+sound reproduced loudspeaker room
+recording sound room made compared loudspeaker
+signals compared mathematically
+port measurement system utilizes fourier transform mathematically derive impulse response room
+impulse response
+reverberation time calculated
+port system
+reverberation time measured signals loud impulses
+music recordings sound
+measurements room audience present
+reverberation time stated decay time measured seconds
+statement frequency band measurement
+decay time time takes signal diminish original sound
+concept reverberation time implicitly supposes decay rate sound exponential
+sound level diminishes regularly
+rate
+case real rooms
+depending disposition reflective
+dispersive absorbing surfaces
+successive measurement sound level yields results
+differences phase excitating sound build notably sound waves
+manfred
+schroeder published
+method measuring reverberation time
+journal acoustical society america
+proposed measure
+power sound
+energy
+integrating
+allowed show variation rate decay
+free acousticians necessity averaging measurements
+desirable create reverberation effect recorded live music
+number systems developed facilitate simulate reverberation
+reverb effects created recordings real physical space natural echo chamber
+loudspeaker play sound
+microphone pick
+including effects reverb
+common technique
+requires dedicated soundproofed room
+varying reverb time difficult
+plate reverb system electromechanical transducer
+similar driver loudspeaker
+create vibration large plate sheet metal
+pickup captures vibrations bounce plate
+result output audio signal
+late
+elektro mess technik
+emt
+introduced emt
+pound
+model popular recording studios
+contributing hit records beatles pink floyd albums recorded abbey road studios
+recorded bill porter nashville rca studio
+citation needed early units pickup mono output
+models featured pickups stereo
+reverb time adjusted damping pad
+made framed acoustic tiles
+closer damping pad
+shorter reverb time
+pad touches plate
+units featured remote control
+spring reverb system transducer end spring pickup
+similar plate reverbs
+create capture vibrations metal spring
+guitar amplifiers frequently incorporate spring reverbs due compact construction low cost
+spring reverberators widely semi professional recording due modest cost small size
+musicians made spring reverb units rocking back
+creating thundering
+crashing sound caused springs colliding
+hammond organ included inbuilt spring reverberator
+making popular effect rock band
+digital reverberators signal processing algorithms order create reverb effect
+reverberation essentially caused large number echoes
+simple reverberation algorithms multiple feedback delay circuits create large
+decaying series echoes
+advanced digital reverb generators simulate time frequency domain responses real rooms
+based room dimensions
+absorption properties
+real music halls
+direct sound arrives listener ear shortest path
+shortly direct sound
+reverberant sound arrives
+time called
+pre delay

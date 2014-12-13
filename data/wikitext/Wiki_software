@@ -1,0 +1,179 @@
+Wiki software
+
+wiki software
+wiki software
+wiki engine wiki applicationcitation needed
+collaborative software runs wiki
+website users create collaboratively edit web pages web browser
+wiki system web application runs web servers
+content
+including current previous revisions
+stored file system database
+wiki software invented created programmer ward cunningham
+dozens actively maintained wiki engines
+variety programming languages
+including open source proprietary applications
+wiki application
+wikiwikiweb
+created american computer programmer ward cunningham launched
+wikiwikiweb
+wiki ran software
+years wikis existence great distinction made contents wikis software ran
+possibly wiki ran customized software
+wikiwikiweb software renamed
+wikibase
+years
+wiki applications written
+variety programming languages
+began move increasing consolidation standardization
+popular wiki applications gradually abandoned
+fewer applications created
+wiki engines created
+wiki functionality added existing content management systems
+microsoft sharepoint drupal
+essentially types usage wiki software
+public facing wikis potentially large community readers editors
+private enterprise wikis data management corporations organizations
+personal wikis
+meant single person manage notes
+run desktop
+wiki software specifically geared usage types
+software
+functionality
+core plugins
+usage types
+public wikis wikis read
+edited
+registration required
+public wikis
+mediawiki dominant software
+powers world popular public wiki
+popular wiki farm
+wikia
+popular software public wikis
+wiki engines regularly public wikis include moinmoin pmwiki
+enterprise wiki software software meant corporate
+organizational
+context
+enhance internal knowledge sharing
+greater emphasis features access control
+integration software
+document management
+proprietary wiki applications specifically market enterprise solutions
+including confluence
+socialtext
+jive
+samepage
+traction teampage
+addition
+open source wiki applications describe enterprise solutions
+including xwiki
+application wiki
+foswiki
+calls
+free open source enterprise collaboration platform
+twiki
+calls
+open source enterprise wiki
+open source wiki applications
+specifically bill enterprise solutions
+marketing materials geared enterprise users
+tiki wiki cms groupware mediawiki
+wiki applications enterprises
+companies government organizations wikis internally adobe systems
+amazon
+intel
+microsoft united states intelligence community
+organizations
+wikis add replace centrally managed content management systems
+decentralized nature
+principle
+disseminate needed information organization rapidly cheaply centrally controlled knowledge repository
+wikis document management
+project management
+customer relationship management
+enterprise resource planning
+kinds data management
+features wikis specifically helpful corporation include
+software specifically designed running personal wikis includes notepub
+pimki tomboy
+general
+wiki applications components geared individual users
+including moinmoin
+offers
+desktopedition
+wiki software special syntax
+wiki markup
+users format text
+requiring enter html
+wiki applications include wysiwyg editor
+addition wiki markup editing
+variety wiki hosting services
+wiki farms
+host users wikis server
+wiki software hosted form
+pbworks
+wetpaint wikispaces examples wiki hosting services run code sites
+wiki software hosted downloadable form
+including confluence
+socialtext
+mediawiki
+wikia editthis
+info
+sites
+xwiki
+xwiki cloud
+wiki software include features traditional content management systems
+calendars
+lists
+blogs discussion forums
+stored versioned wiki pages
+simply separate piece functionality
+software supports blogs wiki style editing versioning
+bliki
+software
+tiki wiki cms groupware wiki software designed support features core
+enterprise wiki applications
+twiki
+confluence sharepoint
+support features
+open source applications mediawiki xwiki
+plugins
+wiki applications users embed scripting style calls wiki pages
+processed wiki parser run page saved displayed
+mediawiki examples application
+specifically support scripting languages
+groovy
+velocity
+ruby
+python
+php generally scripting language
+wiki software users store data wiki
+exported semantic web
+queried internally wiki
+wiki annotation semantic wiki
+current semantic wiki software semantic mediawiki
+plugin mediawiki
+wiki software special handling accessing mobile devices
+mobile phones
+displaying conservative html coding
+approaches providing wiki functionality user online
+users simply read wiki content offline
+copy content made easily
+case
+roms printed versions made parts content
+allowing offline editing
+synchronized user back online
+difficult process
+approach distributed revision control system backend wiki
+peer peer style
+approach
+central store wiki content
+user complete copy wiki locally
+software handles merging propagating made
+approach ikiwiki engine
+distributed revision control system git back end
+code
+distributed revision control system includes wiki component
+research allowing run decentralized wiki
+modifying application xwiki function

@@ -1,0 +1,94 @@
+Cyclic cellular automaton
+
+cyclic cellular automaton
+cyclic cellular automaton cellular automaton rule developed david griffeath studied cellular automaton researchers
+system
+cell remains unchanged neighboring cell modular unit larger cell
+point copies neighbor
+dimensional cyclic cellular automata interpreted systems interacting particles
+cyclic cellular automata higher dimensions exhibit complex spiraling behavior
+cellular automaton
+cyclic cellular automaton consists regular grid cells dimensions
+cells image
+math
+png states
+ranging image
+math
+png image
+math
+png
+generation starts random states cells
+subsequent generation
+cell neighboring cell successor cell
+cell
+consumed
+takes succeeding
+note successor image
+math
+png
+modular arithmetic
+general forms type rule include threshold parameter
+cell consumed number neighbors successor exceeds threshold
+dimensional cyclic cellular automaton extensively studied robert fisch
+student griffeath
+starting random configuration
+type rule produce pattern
+presented time space diagram
+shows growing triangles values competing larger regions grid
+boundaries regions viewed moving particles collide interact
+state cyclic cellular automaton
+boundary regions values
+mod
+viewed particle moves leftwards rightwards depending ordering regions
+leftward moving particle collides rightward moving
+annihilate
+leaving fewer particles system
+type ballistic annihilation process occurs cellular automata related systems
+including rule
+cellular automaton model traffic flow
+automaton
+types particles annihilation reaction occur
+additionally
+boundary regions values
+mod
+viewed type particle
+remains stationary
+collision moving stationary particle results single moving particle moving opposite direction
+random initial configurations tend stabilize quickly forming trivial long range dynamics
+griffeath nicknamed dichotomy long range particle dynamics automata hand
+static behavior automata hand
+bob dilemma
+bob fisch
+dimensions
+threshold von neumann neighborhood moore neighborhood
+cellular automaton generates general types patterns sequentially
+random initial conditions sufficiently large grids
+field purely random
+cells consume neighbors range consumed higher ranking cells
+automaton consuming phase
+blocks color advancing remaining blocks randomness
+important development objects called demons
+cycles adjacent cells cell state
+cyclic order
+cycles continuously rotate generate waves spread spiral pattern centered cells demon
+stage
+demon stage
+dominated cycles
+surely
+cell automaton eventually enters repeating cycle states
+period repetition
+automata odd von neumann neighborhood
+eventually period behavior occurs higher dimensions
+small structures constructed period
+merging structures
+configurations built global super polynomial period
+larger neighborhoods
+similar spiraling behavior occurs low thresholds
+sufficiently high thresholds automaton stabilizes block color stage forming spirals
+intermediate values threshold
+complex mix color blocks partial spirals
+called turbulence
+form
+choices number states size neighborhood
+spiral patterns formed automaton made resemble belousov zhabotinsky reaction chemistry
+cellular automata accurately model excitable medium leads reaction

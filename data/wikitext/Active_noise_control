@@ -1,0 +1,127 @@
+Active noise control
+
+active noise control
+active noise control
+anc
+noise cancellation
+active noise reduction
+anr
+method reducing unwanted sound
+sound pressure wave
+consists compression phase rarefaction phase
+noise cancellation speaker emits sound wave amplitude inverted phase
+antiphase
+original sound
+waves combine form wave
+process called interference
+effectively cancel effect called phase cancellation
+modern active noise control generally achieved analog circuits digital signal processing
+adaptive algorithms designed analyze waveform background aural nonaural noise
+based specific algorithm generate signal phase shift invert polarity original signal
+inverted signal
+antiphase
+amplified transducer creates sound wave directly proportional amplitude original waveform
+creating destructive interference
+effectively reduces volume perceivable noise
+noise cancellation speaker located sound source attenuated
+case audio power level source unwanted sound
+alternatively
+transducer emitting cancellation signal located location sound attenuation wanted
+user ear
+requires lower power level cancellation effective single user
+noise cancellation locations difficult dimensional wavefronts unwanted sound cancellation signal match create alternating zones constructive destructive interference
+small enclosed spaces
+passenger compartment car
+global cancellation achieved multiple speakers feedback microphones
+measurement modal responses enclosure
+applications
+dimensional
+dimensional
+depending type zone protect
+periodic sounds
+complex
+easier cancel random sounds due repetition wave form
+protection
+dimension zone
+easier requires microphones speakers effective
+commercial applications successful
+noise cancelling headphones
+active mufflers
+control noise air conditioning ducts
+term
+dimension
+refers simple pistonic relationship noise active speaker
+mechanical noise reduction
+active speaker listener
+headphones
+protection dimension zone requires microphones speakers
+making expensive
+speakers interfere nearby speakers
+reducing system performance
+noise reduction easily achieved single listener remaining stationary multiple listeners single listener turns head moves space noise reduction challenge made difficult
+high frequency waves difficult reduce dimensions due short audio wavelength air
+wavelength air sinusoidal noise approximately double distance average person left ear ear
+noise coming directly front easily reduced active system coming side tend cancel ear reinforced
+making noise louder
+softer
+high frequency sounds tend cancel reinforce unpredictably directions
+sum
+effective noise reduction dimensional space involves low frequency sounds
+commercial applications noise reduction include protection aircraft cabins car interiors
+situations
+protection limited cancellation repetitive
+periodic
+noise engine
+propeller rotor induced noise
+engine cyclic nature makes fast fourier transform analysis noise cancellation easier apply
+actively neutralizing sound source
+utilized submarines household appliances
+pros
+cons
+generally confined spaces walls create modal responses
+generally present wavelength acoustic wave approaches decreases dimensions cavity
+system air conditioning ducts headphones
+pros
+cons
+localized cancellation sound intensity small region sound
+method aircraft cabins
+starting popular cars
+pros
+cons
+aeroacoustics
+noise generally flow induced sound power roughly proportional fourth
+sixth
+eighth power flowfield speed
+monopole
+dipole quadrupole types aeroacoustic noises
+noise mitigated adapting aerodynamic profiles reducing removing aerodynamic related noise sources
+plasma actuators synthetic jets noise control
+noise control active passive means reducing sound emissions
+incentivised personal comfort
+environmental considerations legal compliance
+active noise control sound reduction utilizes power source
+passive noise control sound reduction noise isolating materials insulation
+sound absorbing tiles
+muffler power source
+active noise canceling suited low frequencies
+higher frequencies
+spacing requirements free space zone silence techniques prohibitive
+acoustic cavity duct based systems
+number modes grows rapidly increasing frequency
+quickly makes active noise control techniques unmanageable
+passive treatments effective higher frequencies provide adequate solution active control
+advantages active noise control
+advantages passive noise control
+patent noise control system granted inventor paul lueg
+patent
+patent cancel sinusoidal tones ducts phase advancing wave cancelling arbitrary sounds region loudspeaker inverting polarity
+patent
+patent
+patent
+lawrence
+fogel
+systems created cancel noise helicopter airplane cockpits
+willard meeker developed paper design working model active noise control applied circumaural earmuff
+headset active attenuation bandwidth approximately
+maximum attenuation approximately
+dick rutan jeana yeager prototype headsets built bose world flight

@@ -1,0 +1,148 @@
+Cycle detection
+
+cycle detection
+computer science
+cycle detection algorithmic problem finding cycle sequence iterated function values
+function maps finite set
+initial
+sequence iterated function values
+eventually
+sequence continue repeating cycle values
+cycle detection problem finding
+figure shows function maps set
+starts repeatedly applies
+sees sequence values
+cycle detected repeating subsequence values
+sequence
+finite set
+function
+element
+smallest index reappears infinitely sequence values
+loop length
+smallest positive integer
+cycle detection problem task finding
+view problem graph theoretically
+constructing functional graph
+directed graph vertex single outgoing edge
+vertices elements edges map element function
+shown figure
+set vertices reachable starting vertex form subgraph shape resembling greek letter rho
+path length cycle vertices
+generally
+table values
+figure
+access sequence values
+subroutine calculating
+task find examining values sequence performing subroutine calls
+typically
+space complexity algorithm cycle detection problem importance
+solve problem amount memory significantly smaller store entire sequence
+applications
+pollard rho algorithm integer factorization
+algorithm limited access
+pollard rho algorithm
+instance
+set integers modulo unknown prime factor number factorized
+size unknown algorithm
+view cycle detection algorithm application capabilities
+initially memory object representing pointer starting
+step
+perform actions
+copy pointer object memory
+apply replace pointers pointer object sequence
+apply subroutine determining pointers represent equal values sequence
+equality test action involve nontrivial computation
+pollard rho algorithm
+implemented testing difference stored values nontrivial gcd number factored
+context
+call algorithm pointer copying
+advancement sequence
+equality tests pointer algorithm
+input subroutine calculating
+cycle detection problem trivially solved function applications
+simply computing sequence values data structure hash table store values test subsequent stored
+space complexity algorithm
+unnecessarily large
+additionally
+implement method pointer algorithm require applying equality test pair values
+resulting quadratic time
+research area concentrated goals
+space naive algorithm
+finding pointer algorithms fewer equality tests
+floyd cycle finding algorithm
+called
+tortoise hare
+algorithm
+pointer algorithm pointers
+move sequence speeds
+algorithm named robert
+floyd
+invented late
+key insight algorithm
+integers
+length loop found
+algorithm check repeated values special form
+start sequence
+find period repetition multiple
+found
+algorithm retraces sequence start find repeated sequence
+fact divides
+finally
+trivial find length shortest repeating cycle
+searching position
+algorithm maintains pointers sequence
+tortoise
+hare
+step algorithm
+increases
+moving tortoise step forward hare steps forward sequence
+compares sequence values pointers
+smallest tortoise hare point equal values desired
+python code shows idea implemented algorithm
+code accesses sequence storing copying pointers
+function evaluations
+equality tests
+qualifies pointer algorithm
+algorithm
+operations types
+storage space
+richard
+brent alternative cycle detection algorithm
+tortoise hare algorithm
+requires pointers sequence
+based principle
+searching smallest power larger
+algorithm compares subsequent sequence power
+stopping finds match
+advantages compared tortoise hare algorithm
+finds correct length cycle directly
+needing search subsequent stage
+steps involve evaluation
+python code shows technique works detail
+tortoise hare algorithm
+pointer algorithm
+tests function evaluations
+storage space
+difficult show number function evaluations higher floyd algorithm
+brent claims
+average
+cycle finding algorithm runs quickly floyd speeds pollard rho algorithm
+performs average case analysis randomized version algorithm sequence indices traced slower pointers powers
+randomized multiple powers
+main intended application integer factorization algorithms
+brent discusses applications testing pseudorandom number generators
+number authors studied techniques cycle detection memory floyd brent methods
+detect cycles quickly
+general methods store previously computed sequence values
+test equals previously computed values
+order quickly
+typically hash table similar data structure storing previously computed values
+pointer algorithms
+applied pollard rho algorithm
+methods differ determine values store
+nivasch
+survey techniques briefly
+cycle detection algorithm stores values input sequence perform image
+math
+png function evaluations
+cycle detection applications

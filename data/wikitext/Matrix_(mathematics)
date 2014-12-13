@@ -1,0 +1,798 @@
+Matrix (mathematics)
+
+matrix
+mathematics
+matrix
+plural matrices
+rectangular array numbers
+symbols
+expressions
+arranged rows columns
+individual items matrix called elements entries
+matrix rows columns
+matrices size added subtracted element element
+rule matrix multiplication complicated
+matrices multiplied number columns equals number rows
+major application matrices represent linear transformations
+generalizations linear functions
+rotation vectors dimensional space linear transformation
+rotation matrix column vector
+matrix column
+describing position point space
+product column vector describing position point rotation
+product matrices matrix represents composition linear transformations
+application matrices solution system linear equations
+matrix square
+deduce properties computing determinant
+square matrix inverse determinant
+eigenvalues eigenvectors provide insight geometry linear transformations
+matrices find applications scientific fields
+branch physics
+including classical mechanics
+optics
+electromagnetism
+quantum mechanics
+quantum electrodynamics
+study physical phenomena
+motion rigid bodies
+computer graphics
+project dimensional image dimensional screen
+probability theory statistics
+stochastic matrices describe sets probabilities
+instance
+pagerank algorithm ranks pages google search
+matrix calculus generalizes classical analytical notions derivatives exponentials higher dimensions
+major branch numerical analysis devoted development efficient algorithms matrix computations
+subject centuries today expanding area research
+matrix decomposition methods simplify computations
+theoretically practically
+algorithms tailored structure matrix structures
+sparse matrices diagonal matrices
+expedite computations finite element method computations
+infinite matrices occur planetary theory atomic theory
+simple matrix representing derivative operator
+acts taylor series function
+matrix rectangular arrangement mathematical expressions simply numbers
+commonly matrix written values box brackets
+alternative notation large parentheses box brackets
+horizontal vertical lines matrix called rows columns
+numbers matrix called entries elements
+size matrix
+matrix rows columns called matrix matrix
+called dimensions
+matrix
+matrix row
+matrix
+called row vector
+matrix column
+matrix
+called column vector
+row column matrix determines row column vector
+obtained removing rows columns matrix
+row vector row matrix
+row column matrix interpreted
+refers row column vector
+instance rows matrix equal
+meaning determine row vector
+cases row column interpreted sequence values
+element entries real numbers
+matrix
+instance rows matrix equal columns transpose matrix
+article focuses real complex matrices
+matrices elements real complex numbers
+general types entries discussed
+specifics matrices notation varies widely
+prevailing trends
+matrices denoted upper case letters
+lower case letters
+subscript indices
+represent entries
+addition upper case letters symbolize matrices
+authors special typographical style
+commonly boldface upright
+italic
+distinguish matrices mathematical objects
+alternative notation involves double underline variable
+boldface style
+image
+math
+png
+entry row column matrix typically referred
+entry matrix
+entry matrix
+entry matrix commonly written
+alternative notations entry
+matrix referred giving formula
+entry
+double parenthesis formula entry
+entry aij
+denoted
+aij
+asterisk occasionally refer rows columns matrixcitation needed
+refers ith row
+refers jth column
+set matrices denoted image
+math
+png
+common shorthand
+define matrix
+entries
+defined separately integers
+formula
+matrix
+alternatively
+simply
+size matrix understood
+programming languages start numbering rows columns
+case entries matrix indexed
+article common convention mathematical writing enumeration starts
+number operations applied modify matrices called matrix addition
+scalar multiplication transposition
+form basic techniques deal matrices
+image
+math
+png
+familiar properties numbers extend operations matrices
+addition commutative
+matrix sum depend order summands
+transpose compatible addition scalar multiplication
+expressed
+finally
+row operations ways change matrices
+types row operations
+row switching
+interchanging rows matrix
+row multiplication
+multiplying entries row constant
+finally row addition
+means adding multiple row row
+row operations number ways including solving linear equations finding inverses
+multiplication matrices defined number columns left matrix number rows matrix
+matrix matrix
+matrix product matrix entries dot product row column
+underlined entry product calculated
+matrix multiplication satisfies rules
+associativity
+left distributivity
+size matrices products defined
+product defined defined
+matrices
+products defined
+equal
+generally
+matrix multiplication commutative
+marked contrast
+rational
+real
+complex
+numbers product independent order factors
+matrices commuting
+identity matrix size matrix elements main diagonal equal elements equal
+called identity matrix multiplication leaves matrix unchanged
+min imm matrix
+ordinary matrix multiplication
+exist frequently operations matrices considered forms multiplication
+hadamard product kronecker product
+arise solving matrix equations sylvester equation
+matrices compactly write work multiple linear equations
+systems linear equations
+matrix
+designates column vector
+matrix
+variables
+column vector
+matrix equation
+equivalent system linear equations
+matrices matrix multiplication reveal essential features related linear transformations
+linear maps
+real matrix rise linear transformation mapping vector
+matrix
+product
+vector
+conversely
+linear transformation
+arises unique matrix
+explicitly
+entry ith coordinate
+unit vector jth position
+matrix represent linear map
+called transformation matrix
+matrix
+viewed transform unit square parallelogram vertices
+parallelogram pictured obtained multiplying column vectors image
+math
+png image
+math
+png turn
+vectors define vertices unit square
+table shows number matrices linear maps
+blue original mapped green grid shapes
+origin
+marked black point
+correspondence matrices linear maps
+matrix multiplication corresponds composition maps
+matrix represents linear map
+composition represented
+equality mentioned associativity matrix multiplication
+rank matrix maximum number linearly independent row vectors matrix
+maximum number linearly independent column vectors
+equivalently dimension image linear map represented
+rank nullity theorem states dimension kernel matrix rank equals number columns matrix
+square matrix matrix number rows columns
+matrix square matrix order
+square matrices order added multiplied
+square matrix called invertible singular exists matrix
+equivalent
+exists
+unique called inverse matrix
+denoted
+entries
+form main diagonal matrix
+trace
+square matrix sum diagonal entries
+matrix multiplication commutative mentioned
+trace product matrices independent order factors
+trace matrix equal transpose
+entries main diagonal
+called diagonal matrix
+entries
+main diagonal
+called lower triangular matrix
+upper triangular matrix
+determinant det
+square matrix number encoding properties matrix
+matrix invertible determinant nonzero
+absolute equals area
+volume
+image unit square
+cube
+sign corresponds orientation linear map
+determinant positive orientation preserved
+determinant matrices
+determinant equal
+matrix represents equi areal mapping
+determinant matrices involves terms
+rule sarrus
+lengthy leibniz formula generalises formulae dimensions
+determinant product square matrices equals product determinants
+det
+det
+det
+adding multiple row row
+multiple column column
+change determinant
+interchanging rows columns affects determinant multiplying
+operations
+matrix transformed lower
+upper
+triangular matrix
+matrices determinant equals product entries main diagonal
+method calculate determinant matrix
+finally
+laplace expansion expresses determinant terms minors
+determinants smaller matrices
+expansion recursive definition determinants
+taking starting case determinant matrix
+unique entry
+determinant matrix
+equivalent leibniz formula
+determinants solve linear systems cramer rule
+division determinants related square matrices equates system variables
+number vector satisfying
+called eigenvalue eigenvector
+number eigenvalue matrix invertible
+equivalent
+polynomial indeterminate evaluation determinant det
+called characteristic polynomial
+monic polynomial degree
+polynomial equation
+solutions
+eigenvalues matrix
+complex entries real
+theorem
+result substituting matrix characteristic polynomial yields matrix
+square matrix equal transpose
+symmetric matrix
+equal negative transpose
+skew symmetric matrix
+complex matrices
+symmetry replaced concept hermitian matrices
+satisfy
+star asterisk denotes conjugate transpose matrix
+transpose complex conjugate
+spectral theorem
+real symmetric matrices complex hermitian matrices eigenbasis
+vector expressible linear combination eigenvectors
+cases
+eigenvalues real
+theorem generalized infinite dimensional situations related matrices infinitely rows columns
+symmetric matrix called positive definite
+negative definite
+indefinite
+nonzero vectors quadratic form
+takes positive values
+negative values
+negative positive values
+quadratic form takes negative
+positive
+values
+symmetric matrix called positive semidefinite
+negative semidefinite
+matrix indefinite precisely positive semidefinite negative semidefinite
+symmetric matrix positive definite eigenvalues positive
+table shows possibilities matrices
+allowing input vectors yields bilinear form
+addition theoretical knowledge properties matrices relation fields
+important practical purposes perform matrix calculations effectively precisely
+domain studying matters called numerical linear algebra
+numerical situations
+main aspects complexity algorithms numerical stability
+problems solved direct algorithms iterative approaches
+finding eigenvectors finding sequence vectors converging eigenvector
+determining complexity algorithm means finding upper bounds estimates elementary operations additions multiplications scalars perform algorithm
+multiplication matrices
+calculating matrix product matrix definition multiplications
+entries product
+multiplications
+strassen algorithm outperforms
+naive
+algorithm
+multiplications
+refined approach incorporates specific features computing devices
+practical situations additional information matrices involved
+important case sparse matrices
+matrices entries
+specifically adapted algorithms
+solving linear systems sparse matrices
+conjugate gradient method
+algorithm
+roughly speaking
+numerically stable
+deviations
+rounding errors
+lead big deviations result
+calculating inverse matrix laplace formula
+adj
+denotes adjugate matrix
+lead significant rounding errors determinant matrix small
+norm matrix capture conditioning linear algebraic problems
+computing matrix inverse
+computer languages designed commands libraries matrices
+early
+engineering desktop computers rom cartridges add basic commands matrices
+computer languages apl designed manipulate matrices
+mathematical programs aid computing matrices
+methods render matrices easily accessible form
+generally referred matrix transformation matrix decomposition techniques
+interest techniques preserve properties matrices question
+determinant
+rank inverse
+quantities calculated applying transformation
+matrix operations algorithmically easier carry types matrices
+decomposition factors matrices product lower
+upper triangular matrices
+decomposition calculated
+linear systems solved efficiently
+simple technique called forward back substitution
+likewise
+inverses triangular matrices algorithmically easier calculate
+gaussian elimination similar algorithm
+transforms matrix row echelon form
+methods proceed multiplying matrix suitable elementary matrices
+correspond permuting rows columns adding multiples row row
+singular decomposition expresses matrix product
+unitary matrices diagonal matrix
+eigendecomposition diagonalization expresses product
+diagonal matrix suitable invertible matrix
+written form
+called diagonalizable
+generally
+applicable matrices
+jordan decomposition transforms matrix jordan normal form
+matrices nonzero entries eigenvalues
+main diagonal possibly entries equal directly main diagonal
+shown
+eigendecomposition
+nth power
+fold iterated matrix multiplication
+calculated
+power diagonal matrix calculated taking powers diagonal entries
+easier exponentiation
+compute matrix exponential
+frequently arising solving linear differential equations
+matrix logarithms square roots matrices
+avoid numerically conditioned situations
+algorithms schur decomposition employed
+matrices generalized ways
+abstract algebra matrices entries general fields rings
+linear algebra codifies properties matrices notion linear maps
+matrices infinitely columns rows
+extension tensors
+higher dimensional arrays numbers
+opposed vectors
+realised sequences numbers
+matrices rectangular dimensional array numbers
+matrices
+subject requirements tend form groups matrix groups
+article focuses matrices entries real complex numbers
+matrices considered general types entries real complex numbers
+step generalization
+field
+set addition
+subtraction
+multiplication division operations defined behaved
+rational numbers finite fields
+coding theory makes matrices finite fields
+eigenvalues considered
+roots polynomial exist larger field coefficients matrix
+instance complex case matrix real entries
+possibility reinterpret entries matrix elements larger field
+view real matrix complex matrix entries happen real
+square matrix possess full set eigenvalues
+alternatively matrices entries algebraically closed field
+outset
+generally
+abstract algebra makes great matrices entries ring
+rings general notion fields division operation exists
+addition multiplication operations matrices extend setting
+set
+square matrices ring called matrix ring
+isomorphic endomorphism ring left module
+ring commutative
+multiplication commutative
+unitary noncommutative
+associative algebra
+determinant square matrices commutative ring defined leibniz formula
+matrix invertible determinant invertible
+generalising situation field
+nonzero element invertible
+matrices superrings called supermatrices
+matrices entries ring
+special common case block matrices
+considered matrices entries matrices
+entries quadratic matrices
+members ordinary ring
+sizes fulfil compatibility conditions
+linear maps equivalent matrices
+generally
+linear map
+finite dimensional vector spaces matrix
+aij
+choosing bases
+dimension dimension
+words
+column expresses image terms basis vectors
+relation uniquely determines entries matrix
+note matrix depends choice bases
+choices bases give rise
+equivalent matrices
+concrete notions reinterpreted light
+transpose matrix describes transpose linear map
+respect dual bases
+generally
+set matrices represent linear maps free modules arbitrary ring unity
+composition maps
+rise matrix ring matrices representing endomorphism ring
+group mathematical structure consisting set objects binary operation
+operation combining objects
+subject requirements
+group objects matrices group operation matrix multiplication called matrix group
+group element invertible
+general matrix groups groups invertible matrices size
+called general linear groups
+property matrices preserved matrix products inverses define matrix groups
+matrices size determinant form subgroup
+smaller group contained
+general linear group
+called special linear group
+orthogonal matrices
+determined condition
+form orthogonal group
+called orthogonal linear transformations preserve angles sense scalar product vectors unchanged applying
+finite group isomorphic matrix group
+regular representation symmetric group
+general groups studied matrix groups
+comparatively understood
+means representation theory
+matrices infinitely rows
+columns
+infinite objects
+write matrices explicitly
+matters element set indexing rows
+element set indexing columns
+defined entry
+index sets subsets natural numbers
+basic operations addition
+subtraction
+scalar multiplication transposition defined problem
+matrix multiplication involve infinite summations define resulting entries
+defined general
+ring unity
+ring endomorphisms image
+math
+png module isomorphic ring column finite matrices image
+math
+png entries indexed image
+math
+png
+columns finitely nonzero entries
+endomorphisms considered left module result analogous object
+row finite matrices image
+math
+png rows finitely nonzero entries
+infinite matrices describe linear maps
+matrices columns finite number nonzero entries
+reason
+matrix describe linear map
+bases spaces chosen
+recall definition means vector space written uniquely
+finite
+linear combination basis vectors
+written
+column
+coefficients
+finitely entries nonzero
+columns describe images individual basis vectors basis
+meaningful columns finitely nonzero entries
+restriction rows
+product finitely nonzero coefficients involved
+entries
+infinite sum products
+involves finitely nonzero terms defined
+amounts forming linear combination columns effectively involves finitely
+result finitely nonzero entries
+columns
+sees products matrices type defined
+provided usual column index row index sets match
+type
+corresponds composition linear maps
+normed ring
+condition row column finiteness relaxed
+norm place
+absolutely convergent series finite sums
+matrices column sums absolutely convergent sequences form ring
+analogously
+matrices row sums absolutely convergent series form ring
+vein
+infinite matrices describe operators hilbert spaces
+convergence continuity questions arise
+results constraints imposed
+explicit point view matrices obfuscate matter
+abstract powerful tools functional analysis
+empty matrix matrix number rows columns
+empty matrices dealing maps involving vector space
+matrix matrix
+matrix null map dimensional space
+matrix
+common notation empty matrices
+computer algebra systems creating computing
+determinant matrix empty product occurring leibniz formula determinant
+consistent fact identity map finite dimensional space
+fact part characterization determinants
+numerous applications matrices
+mathematics sciences
+advantage compact representation set numbers matrix
+game theory economics
+payoff matrix encodes payoff players
+depending
+finite
+set alternatives players choose
+text mining automated thesaurus compilation makes document term matrices idf track frequencies words documents
+complex numbers represented real matrices
+addition multiplication complex numbers matrices correspond
+rotation matrices represent multiplication complex number absolute
+similar interpretation quaternions
+clifford algebras general
+early encryption techniques hill cipher matrices
+due linear nature matrices
+codes comparatively easy break
+computer graphics matrices represent objects calculate transformations objects affine rotation matrices accomplish tasks projecting dimensional object dimensional screen
+theoretical camera observation
+matrices polynomial ring important study control theory
+chemistry makes matrices ways
+quantum theory discuss molecular bonding spectroscopy
+examples overlap matrix fock matrix solving roothaan equations obtain molecular orbitals method
+adjacency matrix finite graph basic notion graph theory
+saves vertices graph connected edge
+matrices values
+meaning
+called logical matrices
+distance
+cost
+matrix information distances edges
+concepts applied websites connected hyperlinks cities connected roads
+case
+road network extremely dense
+matrices tend sparse
+nonzero entries
+specifically tailored matrix algorithms network theory
+hessian matrix differentiable function
+consists derivatives respect coordinate directions
+encodes information local growth behaviour function
+critical point
+point partial derivatives image
+math
+png vanish
+function local minimum hessian matrix positive definite
+quadratic programming find global minima maxima quadratic functions closely related attached matrices
+matrix frequently geometrical situations jacobi matrix differentiable map
+denote components
+jacobi matrix defined
+rank jacobi matrix attains maximal
+locally invertible point
+implicit function theorem
+partial differential equations classified matrix coefficients highest order differential operators equation
+elliptic partial differential equations matrix positive definite
+decisive influence set solutions equation question
+finite element method important numerical method solve partial differential equations
+widely applied simulating complex physical systems
+attempts approximate solution equation piecewise linear functions
+pieces chosen respect sufficiently fine grid
+turn recast matrix equation
+stochastic matrices square matrices rows probability vectors
+entries negative sum
+stochastic matrices define markov chains finitely states
+row stochastic matrix probability distribution position particle state corresponds row
+properties markov chain absorbing states
+states particle attains eventually
+read eigenvectors transition matrices
+statistics makes matrices forms
+descriptive statistics concerned describing data sets
+represented matrix form
+reducing amount data
+covariance matrix encodes mutual variance random variables
+technique matrices linear squares
+method approximates finite set pairs
+linear function
+formulated terms matrices
+related singular decomposition matrices
+random matrices matrices entries random numbers
+subject suitable probability distributions
+matrix normal distribution
+probability theory
+applied domains ranging number theory physics
+linear transformations symmetries play key role modern physics
+elementary particles quantum field theory classified representations lorentz group special relativity
+specifically
+behavior spin group
+concrete representations involving pauli matrices general gamma matrices integral part physical description fermions
+behave spinors
+lightest quarks
+group theoretical representation involving special unitary group
+calculations
+physicists convenient matrix representation gell mann matrices
+gauge group forms basis modern description strong nuclear interactions
+quantum chromodynamics
+matrix
+turn
+expresses fact basic quark states important weak interactions
+linearly related basic quark states define particles specific distinct masses
+model quantum mechanics
+heisenberg
+represented theory operators infinite dimensional matrices acting quantum states
+referred matrix mechanics
+density matrix characterizes
+mixed
+state quantum system linear combination elementary
+pure
+eigenstates
+matrix serves key tool describing scattering experiments form cornerstone experimental particle physics
+collision reactions occur particle accelerators
+interacting particles head collide small interaction zone
+set interacting particles result
+scalar product outgoing particle states linear combination ingoing particle states
+linear combination matrix matrix
+encodes information interactions particles
+general application matrices physics description linearly coupled harmonic systems
+equations motion systems matrix form
+mass matrix multiplying generalized velocity give kinetic term
+force matrix multiplying displacement vector characterize interactions
+obtain solutions determine system eigenvectors
+normal modes
+diagonalizing matrix equation
+techniques crucial internal dynamics molecules
+internal vibrations systems consisting mutually bound component atoms
+needed describing mechanical vibrations
+oscillations electrical circuits
+geometrical optics matrix applications
+approximative theory
+wave nature light neglected
+result model light rays geometrical rays
+deflection light rays optical elements small
+action lens reflective element light ray expressed multiplication component vector matrix called ray transfer matrix
+vector components light ray slope distance optical axis
+matrix encodes properties optical element
+kinds matrices
+refraction matrix describing refraction lens surface
+translation matrix
+describing translation plane reference refracting surface
+refraction matrix applies
+optical system
+consisting combination lenses
+reflective elements
+simply matrix resulting product components matrices
+traditional mesh analysis electronics leads system linear equations matrix
+behaviour electronic components matrices
+dimensional vector component input voltage input current elements
+dimensional vector component output voltage output current elements
+behaviour electronic component
+matrix impedance element
+admittance element
+dimensionless elements
+calculating circuit reduces multiplying matrices
+matrices long history application solving linear equations
+chinese text chapters mathematical art
+jiu zhang suan shu
+matrix methods solve simultaneous equations
+including concept determinants
+years publication japanese mathematician seki german mathematician leibniz
+cramer presented rule
+early matrix theory emphasized determinants strongly matrices independent matrix concept akin modern notion emerged
+cayley memoir theory matrices
+term
+matrix
+latin
+womb
+derived
+coined sylvester
+understood matrix object giving rise number determinants today called minors
+determinants smaller matrices derive original removing columns rows
+paper
+sylvester explains
+study determinants sprang sources
+number theoretical problems led gauss relate coefficients quadratic forms
+expressions
+linear maps dimensions matrices
+eisenstein developed notions
+including remark
+modern parlance
+matrix products commutative
+cauchy prove general statements determinants
+definition determinant matrix
+replace powers ajk ajk polynomial
+denotes product terms
+showed
+eigenvalues symmetric matrices real
+jacobi studied
+functional determinants
+called jacobi determinants describe geometric transformations local
+infinitesimal
+level
+kronecker vorlesungen die theorie der determinanten weierstrass zur determinantentheorie
+published
+treated determinants axiomatically
+opposed previous concrete approaches mentioned formula cauchy
+point
+determinants firmly established
+theorems established small matrices
+theorem proved matrices cayley aforementioned memoir
+hamilton matrices
+frobenius
+working bilinear forms
+generalized theorem dimensions
+end century elimination
+generalizing special case gauss elimination
+established jordan
+early century
+matrices attained central role linear algebra
+partially due classification hypercomplex number systems previous century
+inception matrix mechanics heisenberg
+born jordan led studying matrices infinitely rows columns
+von neumann carried mathematical formulation quantum mechanics
+developing functional analytic notions linear operators hilbert spaces
+roughly speaking
+correspond euclidean space
+independent directions
+word unusual ways authors historical importance
+bertrand russell alfred north whitehead principia mathematica
+word context axiom reducibility
+proposed axiom means reduce function lower type
+successively
+order
+function identical extension
+function
+variables reduced collection functions single variable
+function values substituted place variable
+resulting collection functions single variable
+reduced values function values substituted place variable
+alfred tarski introduction logic word synonymously notion truth table mathematical logic

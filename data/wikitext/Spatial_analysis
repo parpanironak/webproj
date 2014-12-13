@@ -1,0 +1,413 @@
+Spatial analysis
+
+spatial analysis
+spatial analysis spatial statistics includes formal techniques study entities topological
+geometric
+geographic properties
+phrase properly refers variety techniques
+early development
+analytic approaches applied fields diverse astronomy
+studies placement galaxies cosmos
+chip fabrication engineering
+place route algorithms build complex wiring structures
+phrase restricted sense describe techniques applied structures human scale
+notably analysis geographic data
+phrase refer specific technique single area research
+describe geostatistics
+complex issues arise spatial analysis
+defined completely resolved
+form basis current research
+fundamental problem defining spatial location entities studied
+study human health describe spatial position humans point live
+point located work
+line describe weekly trips
+choice dramatic effects techniques analysis conclusions obtained
+issues spatial analysis include limitations mathematical knowledge
+assumptions required existing statistical techniques
+problems computer based calculations
+classification techniques spatial analysis difficult large number fields research involved
+fundamental approaches chosen
+forms data
+spatial analysis considered arisen early attempts cartography surveying fields contributed rise modern form
+biology contributed botanical studies global plant distributions local plant locations
+ethological studies animal movement
+landscape ecological studies vegetation blocks
+ecological studies spatial population dynamics
+study biogeography
+epidemiology contributed early work disease mapping
+notably
+snow work mapping outbreak cholera
+research mapping spread disease locational studies health care delivery
+statistics contributed greatly work spatial statistics
+economics contributed notably spatial econometrics
+geographic information system major contributor due importance geographic software modern analytic toolbox
+remote sensing contributed extensively morphometric clustering analysis
+computer science contributed extensively study algorithms
+notably computational geometry
+mathematics continues provide fundamental tools analysis reveal complexity spatial realm
+recent work fractals scale invariance
+scientific modelling framework approaches
+spatial analysis confronts fundamental issues definition objects study
+construction analytic operations
+computers analysis
+limitations particularities analyses
+presentation analytic results
+issues active subjects modern research
+common errors arise spatial analysis
+due mathematics space
+due ways data presented spatially
+due tools
+census data
+protects individual privacy aggregating data local units
+raises number statistical issues
+fractal nature coastline makes precise measurements length difficult impossible
+computer software fitting straight lines curve coastline
+easily calculate lengths lines defines
+straight lines inherent meaning real world
+shown coastline britain
+problems represent greatest dangers spatial analysis inherent power maps media presentation
+results presented maps
+presentation combines spatial data generally accurate analytic results grossly inaccurate
+issues discussed length book lie maps
+definition spatial presence entity constrains analysis applied entity influences final conclusions reached
+property fundamentally true analysis
+important spatial analysis tools define study entities favor specific characterizations entities studied
+statistical techniques favor spatial definition objects points statistical techniques operate directly line
+area
+volume elements
+computer tools favor spatial definition objects homogeneous separate elements limited number database elements computational structures
+ease primitive structures created
+spatial dependency variation properties geographic space
+characteristics proximal locations correlated
+positively negatively
+spatial dependency leads spatial autocorrelation problem statistics
+temporal autocorrelation
+violates standard statistical techniques assume independence observations
+regression analyses compensate spatial dependency unstable parameter estimates yield unreliable significance tests
+spatial regression models
+capture relationships suffer weaknesses
+view spatial dependency source information corrected
+locational effects manifest spatial heterogeneity
+apparent variation process respect location geographic space
+space uniform boundless
+location degree uniqueness relative locations
+affects spatial dependency relations spatial process
+spatial heterogeneity means parameters estimated entire system adequately describe process location
+spatial measurement scale persistent issue spatial analysis
+detail modifiable areal unit problem
+maup
+topic entry
+landscape ecologists developed series scale invariant metrics aspects ecology fractal nature
+citation needed general terms
+scale independent method analysis widely agreed spatial statistics
+spatial sampling involves determining limited number locations geographic space faithfully measuring phenomena subject dependency heterogeneity
+citation needed dependency suggests location predict location
+observations places
+heterogeneity suggests relation change space
+trust observed degree dependency region small
+basic spatial sampling schemes include random
+clustered systematic
+basic schemes applied multiple levels designated spatial hierarchy
+urban area
+city
+neighborhood
+exploit ancillary data
+property values guide spatial sampling scheme measure educational attainment income
+spatial models autocorrelation statistics
+regression interpolation
+dictate sample design
+citation needed
+fundamental issues spatial analysis lead numerous problems analysis including bias
+distortion outright errors conclusions reached
+issues interlinked attempts made separate issues
+citation needed
+paper benoit mandelbrot coastline britain shown inherently nonsensical discuss spatial concepts inherent presumption validity concept
+lengths ecology depend directly scale measured experienced
+surveyors commonly measure length river
+length meaning context relevance measuring technique question study
+britain measured long yardstick
+britain measured medium yardstick
+britain measured short yardstick
+locational fallacy refers error due spatial characterization chosen elements study
+choice placement spatial presence element
+spatial characterizations simplistic wrong
+studies humans reduce spatial existence humans single point
+instance home address
+easily lead poor analysis
+disease transmission happen work school home
+spatial characterization implicitly limit subject study
+spatial analysis crime data recently popular studies describe kinds crime spatially
+leads maps assault maps embezzlement political consequences conceptualization crime design policies address issue
+describes errors due treating elements separate atoms spatial context
+citation needed
+ecological fallacy describes errors due performing analyses aggregate data reach conclusions individual units
+citation needed errors occur part spatial aggregation
+pixel represents average surface temperatures area
+ecological fallacy assume points area temperature
+topic closely related modifiable areal unit problem
+mathematical space exists set observations quantitative measures attributes
+represent individuals income years education coordinate system location individual respect dimensions
+distances individuals space quantitative measure differences respect income education
+spatial analysis concerned specific types mathematical spaces
+geographic space
+geographic space
+observations correspond locations spatial measurement framework captures proximity real world
+locations spatial measurement framework represent locations surface earth
+strictly
+spatial measurement framework capture proximity respect
+interstellar space biological entity liver
+fundamental tenet tobler law geography
+interrelation entities increases proximity real world
+representation geographic space assessment spatial analysis techniques
+euclidean distance locations represents proximity
+possibility
+infinite number distances addition euclidean support quantitative analysis
+manhattan
+taxicab
+distances movement restricted paths parallel axes meaningful euclidean distances urban settings
+addition distances
+geographic relationships connectivity
+existence degree shared borders
+direction influence relationships entities
+compute minimal cost paths cost surface
+represent proximity locations travel occur rugged terrain
+spatial data varieties easy arrive system classification simultaneously exclusive
+exhaustive
+imaginative
+satisfying
+upton
+fingelton
+urban regional studies deal large tables spatial data obtained censuses surveys
+simplify huge amount detailed information order extract main trends
+multivariate analysis
+factor analysis factor analysis
+change variables
+transforming variables census
+correlated
+fewer independent
+factors
+principal components
+eigenvectors data correlation matrix weighted inverse eigenvalues
+change variables main
+factor analysis depends measuring distances
+choice significant metric crucial
+euclidean metric
+principal component analysis
+chi square distance
+correspondence analysis
+generalized mahalanobis distance
+discriminant analysis
+widely
+complicated models
+communalities rotations proposed
+multivariate methods spatial analysis began
+examples back beginning century
+culminated
+increasing power accessibility computers
+seminal publication
+sociologists
+bell shevky
+shown city populations usa world represented independent
+economic opposing rich poor districts distributed sectors running highways city center
+age structure households
+distributed concentric circles
+identifying patches migrants located city
+groundbreaking study
+british geographers classify british towns
+brian berry
+university chicago
+students made wide method
+applying important cities world exhibiting common social structures
+factor analysis geography
+made easy modern computers
+wide wise
+vectors extracted determined data matrix
+compare factors obtained censuses
+solution consists fusing census matrices unique table
+analyzed
+assumes definition variables changed time produces large tables
+difficult manage
+solution
+proposed psychometricians
+groups data
+entries
+instance
+locations
+variables
+time periods
+factor analysis produces groups factors related small cubic
+method
+exhibits data evolution time
+widely geography
+los angeles
+exhibited role
+traditionally
+downtown organizing center city decades
+spatial autocorrelation statistics measure analyze degree dependency observations geographic space
+classic spatial autocorrelation statistics include moran image
+math
+png
+geary image
+math
+png
+getis image
+math
+png standard deviational ellipse
+statistics require measuring spatial weights matrix reflects intensity geographic relationship observations neighborhood
+distances neighbors
+lengths shared border
+fall directional class
+west
+classic spatial autocorrelation statistics compare spatial weights covariance relationship pairs locations
+spatial autocorrelation positive expected random clustering similar values geographic space
+significant negative spatial autocorrelation neighboring values dissimilar expected chance
+suggesting spatial pattern similar chess board
+spatial autocorrelation statistics moran image
+math
+png geary image
+math
+png global sense estimate degree spatial autocorrelation dataset
+possibility spatial heterogeneity suggests estimated degree autocorrelation vary significantly geographic space
+local spatial autocorrelation statistics provide estimates disaggregated level spatial analysis units
+allowing assessment dependency relationships space
+image
+math
+png statistics compare neighborhoods global average identify local regions strong autocorrelation
+local versions image
+math
+png image
+math
+png statistics
+spatial interpolation methods estimate variables unobserved locations geographic space based values observed locations
+basic methods include inverse distance weighting
+attenuates variable decreasing proximity observed location
+kriging sophisticated method interpolates space spatial lag relationship systematic random components
+accommodate wide range spatial relationships hidden values observed locations
+kriging optimal estimates hypothesized lag relationship
+error estimates mapped determine spatial patterns exist
+spatial regression methods capture spatial dependency regression analysis
+avoiding statistical problems unstable parameters unreliable significance tests
+providing information spatial relationships variables involved
+depending specific technique
+spatial dependency enter regression model relationships independent variables dependent
+dependent variables spatial lag
+error terms
+geographically weighted regression
+gwr
+local version spatial regression generates parameters disaggregated spatial units analysis
+assessment spatial heterogeneity estimated relationships independent dependent variables
+markov chain monte carlo
+mcmc
+methods estimation complex functions
+poisson gamma car
+poisson lognormal sar
+overdispersed logit models
+spatial interaction
+gravity models
+estimate flow people
+material information locations geographic space
+factors include origin propulsive variables number commuters residential areas
+destination attractiveness variables amount office space employment areas
+proximity relationships locations measured terms driving distance travel time
+addition
+topological
+connective
+relationships areas identified
+conflicting relationship distance topology
+spatially close neighborhoods display significant interaction separated highway
+functional forms relationships
+analyst estimate model parameters observed flow data standard estimation techniques ordinary squares maximum likelihood
+competing destinations versions spatial interaction models include proximity destinations
+origins
+addition origin destination proximity
+captures effects destination
+origin
+clustering flows
+computational methods artificial neural networks estimate spatial interaction relationships locations handle noisy qualitative data
+spatial interaction models aggregate top
+governing relationship flow locations
+characteristic shared urban models based mathematical programming
+flows economic sectors
+bid rent theory
+alternative modeling perspective represent system highest level disaggregation study bottom emergence complex patterns relationships behavior interactions individual level
+citation needed
+complex adaptive systems theory applied spatial analysis suggests simple interactions proximal entities lead intricate
+persistent functional spatial entities aggregate levels
+fundamentally spatial simulation methods cellular automata agent based modeling
+cellular automata modeling imposes fixed spatial framework grid cells specifies rules dictate state cell based states neighboring cells
+time progresses
+spatial patterns emerge cells change states based neighbors
+alters conditions future time periods
+cells represent locations urban area states types land
+patterns emerge simple interactions local land include office districts urban sprawl
+agent based modeling software entities
+agents
+purposeful behavior
+goals
+react
+interact modify environment seeking objectives
+unlike cells cellular automata
+agents mobile respect space
+model traffic flow dynamics agents representing individual vehicles minimize travel time origins destinations
+pursuing minimal travel times
+agents avoid collisions vehicles seeking minimize travel times
+cellular automata agent based modeling complementary modeling strategies
+integrated common geographic automata system agents fixed mobile
+spatial analysis conceptual geological model main purpose mps algorithm
+method analyzes spatial statistics geological model
+called training image
+generates realizations phenomena honor input multiple point statistics
+recent technique accomplish task pattern based method honarkhah
+method
+distance based approach employed analyze patterns training image
+reproduction multiple point statistics
+complex geometrical features image
+final generated realizations
+called random field
+quantify spatial uncertainty
+recent method
+tahmasebi
+cross correlation function spatial pattern reproduction presented ccsim algorithm
+method quantify spatial connectivity
+variability uncertainty
+method sensitive type data simulate categorical continuous scenarios
+geographic information systems
+gis
+underlying geographic information science advances technologies strong influence spatial analysis
+increasing ability capture handle geographic data means spatial analysis occurring increasingly data rich environments
+geographic data capture systems include remotely sensed imagery
+environmental monitoring systems intelligent transportation systems
+location aware technologies mobile devices report location real time
+gis provide platforms managing data
+computing spatial relationships distance
+connectivity directional relationships spatial units
+visualizing raw data spatial analytic results cartographic context
+geovisualization
+gvis
+combines scientific visualization digital cartography support exploration analysis geographic data information
+including results spatial analysis simulation
+gvis leverages human orientation visual information processing exploration
+analysis communication geographic data information
+contrast traditional cartography
+gvis typically dimensional
+including time
+user interactive
+geographic knowledge discovery
+gkd
+human centered process applying efficient computational tools exploring massive spatial databases
+gkd includes geographic data mining
+encompasses related activities data selection
+data cleaning pre processing
+interpretation results
+gvis serve central role gkd process
+gkd based premise massive databases interesting
+valid
+understandable
+patterns standard analytical techniques find
+gkd serve hypothesis generating process spatial analysis
+producing tentative patterns relationships confirmed spatial analytical techniques
+spatial decision support systems
+sdss
+existing spatial data variety mathematical models make projections future
+urban regional planners test intervention decisions prior implementation
+citation needed

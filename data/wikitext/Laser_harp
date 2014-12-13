@@ -1,0 +1,197 @@
+Laser harp
+
+laser harp
+laser harp electronic musical instrument consisting laser beams blocked
+analogy plucking strings harp
+order produce sounds
+laser harp popularized jean michel jarre
+high profile feature concerts
+recent times
+similar version concerts british electronic musician boots
+subsequently number designs
+public art installations created jen lewin display lincoln center burning man
+style laser harp generally built single laser
+splitting beam array beams parallel fan arrangement
+playing actual sound handled connecting laser harp synthesizer
+sampler computer
+frameless design elaborate framed style
+relying light reflected back single photodiode
+fan laser beams single beam scanned fan pattern
+matching timing reflected beam
+determined beams blocked note heard
+alternative designs make multiple lasers
+designs
+laser independently controlled
+pulsed
+simulate playback prerecorded notes
+order generate control data
+continuous range values found midi controllers
+approaches
+possibilities doubt exist
+possibilities poses challenges costs
+inexpensive straightforward implement
+microcontroller drives lasers reads detectors
+advantage dedicated sensor mechanism instrument contained
+opposed requiring computer control ilda interface usb camera
+hand
+based approach offers flexibility constructed shelf hardware
+unframed laser harps benefit higher power lasers
+facilitate easier detection sensor system
+sensor exposed ambient light
+swamped stage lighting artist sensitivity high
+avoid problem
+ambient light sensors reject ambient light laser light sensors
+white light coloured
+gloves improves instrument performance allowing light scatter player hands provide sensor higher signal noise ratio respect ambient light
+gloves protect player skin potentially hazardous laser radiation give audiences visual impression instrument played
+free full color ilda laser harp controller idea project born laserist board harpelaser
+registered
+sensor designed rejects ambiant light measure hand height beams
+offer possibility play sound pitch
+filters
+things
+maurizio carelli
+italian software electronic engineer
+idea portable red
+green laser harp
+device features configurable full octave green beams diatonic note red chromatic note full diatonic chromatic scale
+musician easily play laser harp
+fully polyphonic
+machine portable bicolor laser harp
+production
+half
+designed ilda full color laser harp controller
+january world full color laser harp controller ilda compatible laser projectors commercially introduced
+prolight laser harp controller fully plug play compatible
+daily light independent
+polyphonic laser harp controller work type ilda compliant laser projector
+turning laser harp
+users switch modes number beams beam color combinations including full color rainbow mode
+color
+single color combinations
+prolight laser harp controller design include built laser projector
+enables users freely choose laser setup performance
+powerful laser projector indoor events high powered laser open air performances
+monochrome lasers full color lasers
+prolight laser harp controller won ilda fenning award technical achievement leading laser companies association ilda
+international laser display association
+image recognition laser harp unframed design
+high speed usb camera connected laptop computer
+photodiode detect reflected light hand breaking beam
+digital picture analyzed computer software determine beam broken send midi signal back synthesizer
+responsible creating sound
+computer controls laser projector ilda usb laser controller
+framed style
+created harp strings
+array photodiodes photoresistors inside upper lower part frame detect blocking laser beams
+framed harp built geoffrey rose
+octagonal shape matrix laser beams
+lasers mounted neck upper side harp
+shining
+body
+shining
+typically
+lasers low powered red green lasers
+considered safe public interaction fda
+number laser beams arranged type laser harp
+depending capacity midi controller
+software
+style laser harp created size
+lap sized harp room sized installation
+larger
+installations burning man
+design
+analog
+trigger created breaking beam
+circuit made beam shining optic sensor
+sufficient trigger number events
+musical
+determined data analyzer
+software question
+midi controller
+analog current interruption converted digital signal
+trigger events actions
+software equipped full wave file editors synthesizers
+trigger video imagery projection units
+play modes
+switch modes
+beams set play switch mode beam set differently
+order produce laser beams visible normal air
+powerful laser needed
+power
+depending type laser design instrument
+required order produce visible array beams
+considerably powerful laser needed yield spectacular results
+generally
+case
+class iiib lasers
+introducing significant risk skin eye damage precautions
+gloves protective glasses
+laser harp famous instruments jean michel jarre concerts
+instrument concert exception aero oxygene anniversary tour
+part rendez vous
+tracks including rendez vous
+chronologie
+calypso
+oxygene
+characteristic sound laser harp jarre performances generated factory preset elka synthex synthesizer
+laser harp jarre concerts china tour
+made denis carnus
+french engineer living south france working lot bernard szajner
+track simply titled laser harp
+harpe laser original french
+laser harp jarre houston
+lyon
+london concerts
+built philippe guerre
+laser harp defense concert built claude lifante
+jarre laser harp built yan terrien software philippe langet hardware
+harp jarre fifteen years
+supported technicians
+denis benoit ans laurent
+people suspect laser harp
+custom instruments
+fake
+careful inspection concert footage jarre playing harp occasionally striking beam produces notes
+suggesting harp simply designed trigger correct note irrespective beam broken
+method unreliable
+videos invariably edited release
+live recording paris concert broadcast europe radio station
+heard laser harp malfunctioning
+fact replaced synthesizer
+video release
+trace left malfunction
+harp fitted foot pedals selecting scales
+making plausible beam trigger notes
+jarre doors arena tour
+commented blog
+make intentional mistakes people understand live
+day
+concert helsinki
+harp
+suddenly froze rendez vous unknown reasons
+people claim inventor laser harp
+geoffrey rose bernard szajner
+geoffrey rose provisional patent british patent office
+bernard szajner patent
+means office patent paris found evidence inventor
+similar instrument
+patent
+date
+engineers created laser harp jean michel jarre
+denis carnus
+philippe guerre
+claude lifante
+yan terrien
+amateur electronics enthusiasts created versions laser harp
+steve hobley
+manuel schulz
+franck morisseau
+albert jonge
+maurizio carelli
+pamart
+andrew kilpatrick
+www
+mountainglenharps
+laser harps
+htm custom laser harps

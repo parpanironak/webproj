@@ -1,0 +1,308 @@
+Vocoder
+
+vocoder
+vocoder
+pron
+short voice encoder
+analysis
+synthesis system
+reproduce human speech
+encoder
+input passed multiband filter
+band passed envelope follower
+control signals envelope followers communicated decoder
+decoder applies
+amplitude
+control signals filters synthesizer
+control signals change slowly compared original speech waveform
+bandwidth required transmit speech reduced
+speech channels share radio circuit submarine cable
+encoding control signals
+voice transmission secured interception
+vocoder originally developed speech coder telecommunications applications
+idea code speech transmission
+transmitting parameters speech model digitized representation speech waveform saves bandwidth communication channel
+parameters model change slowly
+compared speech waveform describe
+primary fashion secure radio communication
+voice encrypted transmitted
+advantage method
+encryption
+signal
+envelopes bandpass filters
+receiving unit set channel configuration resynthesize version original signal spectrum
+vocoder hardware software extensively electronic musical instrument
+vocoder analyzes speech
+transforms electronically transmitted information
+recreates
+voder
+voice operating demonstrator
+generates synthesized speech means console fifteen touch sensitive keys pedal
+basically consisting
+half
+vocoder
+manual filter controls
+needing highly trained operator
+human voice consists sounds generated opening closing glottis vocal cords
+produces periodic waveform harmonics
+basic sound filtered nose throat
+complicated resonant piping system
+produce differences harmonic content
+formants
+controlled
+creating wide variety sounds speech
+set sounds
+unvoiced plosive sounds
+created modified mouth fashions
+vocoder examines speech measuring spectral characteristics change time
+results series signals representing modified frequencies time user speaks
+simple terms
+signal split number frequency bands
+larger number
+accurate analysis
+level signal present frequency band instantaneous representation spectral energy content
+vocoder dramatically reduces amount information needed store speech
+complete recording series numbers
+recreate speech
+vocoder simply reverses process
+processing broadband noise source passing stage filters frequency content based originally recorded series numbers
+information instantaneous frequency
+distinct spectral characteristic
+original voice signal discarded
+important preserve purposes vocoder original encryption aid
+dehumanizing
+quality vocoding process made creating special voice effects popular music audio entertainment
+vocoder process sends parameters vocal model communication link
+point point recreation waveform
+significant reduction bandwidth required transmit speech
+analog vocoders typically analyze incoming signal splitting signal number tuned frequency bands ranges
+modulator carrier signal series tuned band pass filters
+typical robot voice modulator microphone carrier noise sawtooth waveform
+bands
+amplitude modulator individual analysis bands generates voltage control amplifiers carrier bands
+result frequency components modulating signal mapped carrier signal discrete amplitude frequency bands
+unvoiced band sibilance channel
+frequencies analysis bands typical speech important speech
+examples words start letters
+sibilant sound
+mixed carrier output increase clarity
+result recognizable speech
+mechanical
+sounding
+vocoders include system generating unvoiced sounds
+noise generator fundamental frequency
+experiments vocoder conducted bell labs engineer homer dudley
+granted patent march
+voder
+voice operating demonstrator
+introduced public building york world fair
+voder consisted series manually controlled oscillators
+filters
+noise source
+filters controlled set keys foot pedal convert hisses tones vowels
+consonants
+inflections
+complex machine operate
+skilled operator produce recognizable speech
+media
+dudley vocoder sigsaly system
+built bell labs engineers
+sigsaly encrypted high level voice communications world war
+work field conducted james flanagan
+record frequencies
+additional unvoiced sounds
+compression vocoder system impressive
+standard speech recording systems capture frequencies
+frequencies speech lie
+typically sampling rate
+slightly greater nyquist rate
+sampling resolution typically bits sample resolution
+standard
+final data rate range kbit
+good vocoder provide good simulation voice
+kbit
+data
+toll quality voice coders
+itu
+telephone networks
+final data rate kbit
+superb voice quality
+achieves slightly worse quality data rates
+kbit
+kbit
+voice systems lower data rates
+kbit
+voice quality begins drop rapidly
+vocoder systems nsa encryption systems
+adpcm proper vocoder waveform codec
+itu gathered
+adpcm codecs
+vocoders developing psychophysics
+linguistics
+computational neuroscience cochlear implant research
+modern vocoders communication equipment voice storage devices today based algorithms
+late
+musical vocoders implemented linear prediction
+target signal spectral envelope
+formant
+estimated pole iir filter
+linear prediction coding
+pole filter replaces bandpass filter bank predecessor encoder whiten signal
+flatten spectrum
+decoder apply spectral shape target speech signal
+advantage type filtering location linear predictor spectral peaks determined target signal
+precise allowed time period filtered
+contrast vocoders realized fixed width filter banks
+spectral peaks generally determined scope frequency band
+filtering disadvantages signals large number constituent frequencies exceed number frequencies represented linear prediction filter
+restriction primary reason coding tandem methods high compression voice coders
+waveform interpolative
+vocoder developed bell laboratories
+kleijn
+subsequently low complexity version developed dod secure vocoder competition
+notable enhancements coder made university california
+santa barbara
+holds core patents related
+institutes hold additional patents
+patents part coder implementation requires licensing ipr holders
+musical applications
+source musical sounds carrier
+extracting fundamental frequency
+instance
+sound synthesizer input filter bank
+technique popular
+earliest person recognized possibility vocoder
+voder electronic music werner meyer eppler
+german physicist
+experimental acoustician
+phoneticist
+published thesis electronic music speech synthesis viewpoint sound synthesis
+joined successful proposal establishment wdr cologne studio electronic music
+attempt divert vocoder create music siemens studio electronic music
+developed
+media
+robert moog developed solid state musical vocoder electronic music studio university buffalo
+bruce haack built prototype vocoder
+named
+farad
+michael faraday
+featured rock album electric lucifer released year
+media
+wendy carlos robert moog built musical vocoder
+band device inspired vocoder designs homer dudley
+originally called spectrum encoder decoder
+referred simply vocoder
+carrier signal moog modular synthesizer
+modulator microphone input
+output band vocoder fairly intelligible
+relied specially articulated speech
+improved vocoders high pass filter sibilance microphone
+ruins device original speech coding application
+makes
+talking synthesizer
+effect intelligible
+carlos moog vocoder featured recordings
+including soundtrack stanley kubrick clockwork orange vocoder sang vocal part beethoven
+ninth symphony
+featured soundtrack piece called
+timesteps
+featured vocoder sections
+timesteps
+originally intended introduction vocoders
+timid listener
+kubrick chose include piece soundtrack
+surprise wendy carlos
+citation needed
+kraftwerk autobahn
+successful pop
+rock albums feature vocoder vocals
+early songs feature vocoder
+raven
+album tales mystery imagination progressive rock band alan parsons project
+vocoder albums robot
+alan parsons
+vocoders began pop music late
+disco recordings
+jeff lynne electric light orchestra vocoder albums time
+featuring roland mki
+elo songs
+blue sky
+sweet talkin woman
+blue
+vocoder extensively
+featured album ems vocoder mki
+ems vocoder
+system
+mki
+giorgio moroder made extensive vocoder album einzelganger album eternity
+pink floyd album animals
+band put sound barking dog device
+vocoders create sound robot talking
+styx song
+roboto
+introduction main street electrical parade disneyland walt disney world
+start end parade version
+vocoders appeared pop recordings time time
+simply special effect featured aspect work
+experimental electronic artists age music genre utilize vocoder comprehensive manner specific works
+jean michel jarre
+zoolook
+mike oldfield
+miles
+artists made vocoders essential part music
+extended phase
+examples include german synthpop group kraftwerk
+stevie
+send love
+seed star
+jazz
+fusion keyboardist herbie hancock late period
+neil young sennheiser vocoder tracks trans
+tommy james vocoder production group
+shondells
+number hit crimson clover
+citation needed
+heard
+unrecognized
+vocoder popular music
+michael jackson album
+thriller
+song
+pyt
+pretty young thing
+seconds song
+background voicings
+ooh ooh
+ooh
+ooh
+spoken words
+exemplify heavily modulated sound voice vocoder
+bridge features vocoder
+pretty young thing
+make sing
+courtesy session ace michael boddicker
+robot voices
+recurring element popular music century
+vocoders
+methods producing variations effect include
+sonovox
+talk box
+auto tune
+media linear prediction vocoders
+speech synthesis
+media ring modulation comb filter
+vocoders television production
+filmmaking games
+robots talking computers
+robot voices cylons battlestar galactica created ems vocoder
+version doctor theme
+arranged recorded peter howell
+section main melody generated roland svc vocoder
+vocoder create iconic voice soundwave
+character transformers series
+isao tomita electronic music album electric samurai
+switched rock early attempt applying speech synthesis technique vocodercitation needed electronic rock pop music
+album featured electronic renditions contemporary rock pop songs
+utilizing synthesized voices place human voices
+utilized synthesized voices popular classical music album snowflakes dancing
+worldwide success helped popularize electronic music

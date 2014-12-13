@@ -1,0 +1,480 @@
+Graph coloring
+
+graph coloring
+graph theory
+graph coloring special case graph labeling
+assignment labels traditionally called
+colors
+elements graph subject constraints
+simplest form
+coloring vertices graph adjacent vertices share color
+called vertex coloring
+similarly
+edge coloring assigns color edge adjacent edges share color
+face coloring planar graph assigns color face region faces share boundary color
+vertex coloring starting point subject
+coloring problems transformed vertex version
+edge coloring graph vertex coloring line graph
+face coloring plane graph vertex coloring dual
+vertex coloring problems stated studied
+partly perspective
+partly problems studied vertex form
+instance edge coloring
+convention colors originates coloring countries map
+face literally colored
+generalized coloring faces graph embedded plane
+planar duality coloring vertices
+form generalizes graphs
+mathematical computer representations
+typical positive nonnegative integers
+colors
+general
+finite set
+color set
+nature coloring problem depends number colors
+graph coloring enjoys practical applications theoretical challenges
+classical types problems
+limitations set graph
+color assigned
+color
+reached popularity general public form popular number puzzle sudoku
+graph coloring active field research
+note
+terms article defined glossary graph theory
+results graph coloring deal exclusively planar graphs form coloring maps
+color map counties england
+francis guthrie postulated color conjecture
+noting colors sufficient color map regions sharing common border received color
+brother passed question mathematics teacher augustus morgan university college
+mentioned letter william hamilton
+arthur cayley raised problem meeting london mathematical society
+year
+alfred kempe published paper claimed establish result
+decade color problem considered solved
+accomplishment kempe elected fellow royal society president london mathematical society
+heawood pointed argument wrong
+paper proved color theorem
+planar map colored colors
+ideas kempe
+century
+vast amount work theories developed reduce number colors
+color theorem finally proved kenneth appel wolfgang haken
+surprisingly
+proof back ideas heawood kempe largely disregarded intervening developments
+proof color theorem noteworthy major computer aided proof
+george david birkhoff introduced chromatic polynomial study coloring problems
+generalised tutte polynomial tutte
+important structures algebraic graph theory
+kempe drawn attention general
+planar case
+results generalisations planar graph coloring surfaces higher order early century
+claude berge formulated conjecture graph coloring
+strong perfect graph conjecture
+originally motivated information theoretic concept called error capacity graph introduced shannon
+conjecture remained unresolved years
+established celebrated strong perfect graph theorem chudnovsky
+robertson
+seymour
+thomas
+graph coloring studied algorithmic problem early
+chromatic number problem complete problems
+approximately time exponential time algorithms developed based backtracking deletion contraction recurrence zykov
+major applications graph coloring
+register allocation compilers
+introduced
+qualification
+coloring graph proper vertex coloring
+labelling vertices colors vertices sharing edge color
+vertex loop properly colored
+understood graphs context loopless
+terminology colors vertex labels back map coloring
+labels red blue number colors small
+understood labels drawn integers
+coloring colors called
+proper
+coloring
+smallest number colors needed color graph called chromatic number
+denoted
+denote euler characteristic graph
+graph assigned
+proper
+coloring colorable
+chromatic chromatic number
+subset vertices assigned color called color class
+class forms independent set
+coloring partition vertex set independent sets
+terms partite colorable meaning
+chromatic polynomial counts number ways graph colored number colors
+colors
+graph image colored ways
+colors
+colored
+colors
+colored ways
+colors
+valid colorings
+assignment colors vertex graph proper coloring
+choice colors
+valid colorings
+graph
+table number valid colorings start
+chromatic polynomial function
+counts number colorings
+function polynomial
+graph
+chromatic polynomial includes information colorability chromatic number
+smallest positive integer root chromatic polynomial
+edge coloring graph proper coloring edges
+meaning assignment colors edges vertex incident edges color
+edge coloring colors called edge coloring equivalent problem partitioning edge set matchings
+smallest number colors needed edge coloring graph chromatic index
+edge chromatic number
+tait coloring edge coloring cubic graph
+color theorem equivalent assertion planar cubic bridgeless graph admits tait coloring
+total coloring type coloring vertices edges graph
+qualification
+total coloring assumed proper sense adjacent vertices
+adjacent edges
+edge endvertices assigned color
+total chromatic number
+graph number colors needed total coloring
+saturation degree vertex number colors adjacent
+assigning distinct colors distinct vertices yields proper coloring
+graphs colored edgeless graphs
+complete graph image
+math
+png vertices requires image
+math
+png colors
+optimal coloring edges pair color classes
+clique size
+colors needed color clique
+words
+chromatic number clique number
+interval graphs bound tight
+colorable graphs bipartite graphs
+including trees forests
+color theorem
+planar graph colored
+greedy coloring shows graph colored color maximum vertex degree
+complete graphs image
+math
+png image
+math
+png
+odd cycles image
+math
+png image
+math
+png
+graphs bound
+cases
+bound slightly improved
+theorem states
+graphs large cliques high chromatic number
+opposite true
+graph chromatic graph triangle
+generalised mycielskians
+theorem
+graphs high chromatic number high maximum degree
+local property leads high chromatic number presence large clique
+colorability local phenomenon
+graph high girth locally tree
+cycles long
+chromatic number
+edge coloring vertex coloring line graph image
+math
+png
+vice versa
+strong relationship edge colorability maximum degree image
+math
+png
+edges incident vertex color
+general
+relationship stronger theorem vertex coloring
+graph coloring acyclic orientation longest path length
+theorem
+ossona mendez
+planar graphs
+vertex colorings essentially dual flows
+infinite graphs
+results infinite graph coloring
+chromatic number plane
+points adjacent unit distance
+unknown
+open problems chromatic number graphs include hadwiger conjecture stating graph chromatic number complete graph vertices minor
+conjecture bounding chromatic number unions complete graphs vertex common pair
+albertson conjecture chromatic graphs complete graphs smallest crossing number
+birkhoff lewis introduced chromatic polynomial attack color theorem
+conjectured planar graphs
+polymomial image
+math
+png zeros region image
+math
+png
+chromatic polynomial zeros region image
+math
+png image
+math
+png
+conjecture unresolved
+remains unsolved problem characterize graphs chromatic polynomial determine polynomials chromatic
+determining graph colored colors equivalent determining graph bipartite
+computable linear time breadth search
+generally
+chromatic number coloring perfect graphs computed polynomial time semidefinite programming
+closed formulas chromatic polynomial classes graphs
+forest
+chordal graphs
+cycles
+wheels
+ladders
+evaluated polynomial time
+graph planar low branchwidth
+nonplanar branch decompositon
+solved polynomial time dynamic programming
+general
+time required polynomial graph size
+exponential branchwidth
+brute force search coloring considers image
+math
+png assignments colors vertices checks legal
+compute chromatic number chromatic polynomial
+procedure image
+math
+png
+impractical smallest input graphs
+dynamic programming bound number maximal independent sets
+colorability decided time space image
+math
+png
+principle algorithm fast zeta transform
+colorability decided time image
+math
+png
+faster algorithms colorability
+decided time image
+math
+png image
+math
+png
+contraction image
+math
+png graph graph obtained identifying vertices
+removing edges
+replacing single vertex edges incident redirected
+operation plays major role analysis graph coloring
+chromatic number satisfies recurrence relation
+due zykov
+nonadjacent vertices
+image
+math
+png graph edge image
+math
+png added
+algorithms based evaluating recurrence
+resulting computation tree called zykov tree
+running time based heuristic choosing vertices
+chromatic polynomial satisfies recurrence relation
+adjacent vertices image
+math
+png graph edge image
+math
+png removed
+image
+math
+png represents number proper colorings graph
+vertices colors
+number proper colorings sum graphs
+vertices colors
+graph
+adjacent
+colors
+graph
+contracted
+curiosity graph properties satisfied recurrence led discover bivariate generalization chromatic polynomial
+tutte polynomial
+expressions give rise recursive procedure
+called algorithm
+forms basis algorithms graph coloring
+running time satisfies recurrence relation fibonacci numbers
+worst case
+algorithm runs time polynomial factor image
+math
+png vertices edges
+analysis improved polynomial factor number image
+math
+png spanning trees input graph
+practice
+branch bound strategies graph isomorphism rejection employed avoid recursive calls
+running time depends heuristic pick vertex pair
+greedy algorithm considers vertices specific order image
+math
+png
+image
+math
+png assigns image
+math
+png smallest color image
+math
+neighbours image
+math
+png
+image
+math
+png
+adding fresh color needed
+quality resulting coloring depends chosen ordering
+exists ordering leads greedy coloring optimal number image
+math
+png colors
+hand
+greedy colorings arbitrarily bad
+crown graph vertices colored
+ordering leads greedy coloring image
+math
+png colors
+vertices ordered degrees
+resulting greedy coloring image
+math
+png colors
+maximum degree
+heuristic called algorithm
+heuristic due establishes ordering dynamically algorithm proceeds
+choosing vertex adjacent largest number colors
+graph coloring heuristics similarly based greedy coloring specific static dynamic strategy ordering vertices
+algorithms called sequential coloring algorithms
+field distributed algorithms
+graph coloring closely related problem symmetry breaking
+current state art randomized algorithms faster sufficiently large maximum degree deterministic algorithms
+fastest randomized algorithms employ multi trials technique schneider
+symmetric graph
+deterministic distributed algorithm find proper vertex coloring
+auxiliary information needed order break symmetry
+standard assumption initially node unique identifier
+set
+put
+assume coloring
+challenge reduce number colors
+colors employed
+fewer communication rounds required
+straightforward distributed version greedy algorithm
+coloring requires
+communication rounds worst case information propagated side network side
+simplest interesting case cycle
+richard cole uzi vishkin show distributed algorithm reduces number colors
+synchronous communication step
+iterating procedure
+obtain coloring cycle
+log
+communication steps
+assuming unique node identifiers
+function log
+iterated logarithm
+extremely slowly growing function
+constant
+result cole vishkin raised question constant time distribute algorithm coloring cycle
+linial
+showed
+deterministic distributed algorithm requires
+log
+communication steps reduce coloring coloring cycle
+technique cole vishkin applied arbitrary bounded degree graphs
+running time poly
+log
+technique extended unit disk graphs schneider
+fastest deterministic algorithms
+coloring small due leonid barenboim
+michael elkin fabian kuhn
+algorithm barenboim
+runs time
+optimal terms constant factor
+improved due linial lower bound
+panconesi
+network decompositions compute coloring time image
+math
+png
+problem edge coloring studied distributed model
+panconesi rizzi
+achieve
+coloring
+time model
+lower bound distributed vertex coloring due linial
+applies distributed edge coloring problem
+decentralized algorithms message passing allowed
+contrast distributed algorithms local message passing takes places
+surprisingly
+efficient decentralized algorithms exist color graph proper coloring exists
+assume vertex sense neighbors color vertex
+local conflict exists
+mild assumption applications
+wireless channel allocation reasonable assume station detect interfering transmitters channel
+measuring sinr
+sensing information sufficient algorithms based learning automata find proper graph coloring probability
+leith
+duffy
+graph coloring computationally hard
+complete decide graph admits coloring cases
+hard compute chromatic number
+coloring problem remains complete planar graphs degree
+approximation algorithm computes coloring size factor
+chromatic number
+approximating chromatic number hard
+hard color colorable graph colors colorable graph
+log
+colors sufficiently large constant
+computing coefficients chromatic polynomial hard
+fact
+computing image
+math
+png hard rational point
+fpras evaluating chromatic polynomial rational point
+edge coloring
+proof result algorithm colors
+deciding candidate values edge chromatic number complete
+terms approximation algorithms
+algorithm shows edge chromatic number approximated
+hardness result shows
+algorithm exists
+oldest results literature approximation algorithms
+paper makes explicit notion
+vertex coloring models number scheduling problems
+cleanest form
+set jobs assigned time slots
+job requires slot
+jobs scheduled order
+pairs jobs conflict sense assigned time slot
+rely shared resource
+graph vertex job edge conflicting pair jobs
+chromatic number graph minimum makespan
+optimal time finish jobs conflicts
+details scheduling problem define structure graph
+assigning aircraft flights
+resulting conflict graph interval graph
+coloring problem solved efficiently
+bandwidth allocation radio stations
+resulting conflict graph unit disk graph
+coloring problem approximable
+compiler computer program translates computer language
+improve execution time resulting code
+techniques compiler optimization register allocation
+frequently values compiled program fast processor registers
+ideally
+values assigned registers reside registers
+textbook approach problem model graph coloring problem
+compiler constructs interference graph
+vertices symbolic registers edge connects nodes needed time
+graph colored colors variables stored registers
+problem coloring graph found number applications
+including pattern matching
+recreational puzzle sudoku completing coloring specific graph vertices
+important class improper coloring problems studied ramsey theory
+edges assigned colors
+restriction colors incident edges
+simple friendship theorem coloring edges image
+math
+png complete graph vertices monochromatic triangle
+illustrated group people mutual strangers mutual acquaintances
+ramsey theory concerned generalisations idea seek regularity amid disorder
+finding general conditions existence monochromatic subgraphs structure
+coloring considered signed graphs gain graphs

@@ -1,0 +1,641 @@
+Information security
+
+information security
+information security
+shortened infosec
+practice defending information unauthorized access
+disclosure
+disruption
+modification
+perusal
+inspection
+recording destruction
+general term form data
+electronic
+physical
+typical terms hear dealing information security
+security referred computer security
+security information security applied technology
+form computer system
+worthwhile note computer necessarily home desktop
+computer device processor memory
+calculator
+security specialists found major enterprise
+establishment due nature data larger businesses
+responsible keeping technology company secure malicious cyber attacks attempt breach critical private information gain control internal systems
+information assurance act ensuring data lost critical issues arise
+issues include limited
+natural disasters
+computer
+server malfunction
+physical theft
+instance data potential lost
+information stored computers modern era
+information assurance typically dealt security specialists
+common methods providing information assurance site backup data case mentioned issues arise
+governments
+military
+corporations
+financial institutions
+hospitals
+private businesses amass great deal confidential information employees
+customers
+products
+research financial status
+information collected
+processed stored electronic computers transmitted networks computers
+confidential information business customers finances product line fall hands competitor
+breach security lead negative consequences
+clarify protecting confidential information business requirement
+cases ethical legal requirement
+individual
+information security significant effect privacy
+viewed differently cultures
+field information security grown evolved significantly recent years
+ways gaining entry field career
+offers areas specialization including
+securing network
+allied infrastructure
+securing applications databases
+security testing
+information systems auditing
+business continuity planning digital forensics
+article presents general overview information security core concepts
+early days writing
+politicians
+diplomats military commanders understood provide mechanism protect confidentiality correspondence means detecting tampering
+julius caesar credited invention caesar cipher
+created order prevent secret messages read message fall wrong hands
+part protection achieved application procedural handling controls
+sensitive information marked protected transported trusted persons
+guarded stored secure environment strong box
+postal services expanded
+governments created official organisations intercept
+decipher
+read reseal letters
+secret office deciphering branch
+mid century complex classification systems developed governments manage information degree sensitivity
+british government codified
+extent
+publication official secrets act
+time world war
+multi tier classification systems communicate information fronts
+encouraged greater code making breaking sections diplomatic military headquarters
+united kingdom led creation government codes cypher school
+encoding sophisticated wars machines employed scramble unscramble information
+volume information shared allied countries world war necessitated formal alignment classification systems procedural controls
+arcane range markings evolved handle documents
+officers men
+stored increasingly complex safes storage facilities developed
+procedures evolved ensure documents destroyed properly failure follow procedures led greatest intelligence coups war
+end century early years century rapid advancements telecommunications
+computing hardware software
+data encryption
+availability smaller
+powerful expensive computing equipment made electronic data processing reach small business home user
+computers quickly interconnected network generically called internet
+rapid growth widespread electronic data processing electronic business conducted internet
+numerous occurrences international terrorism
+fueled methods protecting computers information store
+process transmit
+academic disciplines computer security information assurance emerged numerous professional organizations sharing common goals ensuring security reliability information systems
+cia triad
+confidentiality
+integrity availability
+core principles information security
+continuous debate extending classic trio
+citation needed principles accountability proposed addition pointed outcitation needed issues repudiation fit core concepts
+regulation computer systems increased
+western nations
+legality key consideration practical security installations
+citation needed
+revised oecd guidelines security information systems networks proposed generally accepted principles
+awareness
+responsibility
+response
+ethics
+democracy
+risk assessment
+security design implementation
+security management
+reassessment
+building
+nist engineering principles information technology security proposed principles
+derived guidelines practices
+donn parker proposed alternative model classic cia triad called atomic elements information
+elements confidentiality
+possession
+integrity
+authenticity
+availability
+utility
+merits parkerian hexad subject debate security professionals
+citation needed
+confidentiality term prevent disclosure information unauthorized individuals systems
+credit card transaction internet requires credit card number transmitted buyer merchant merchant transaction processing network
+system attempts enforce confidentiality encrypting card number transmission
+limiting places
+databases
+log files
+backups
+printed receipts
+restricting access places stored
+unauthorized party obtains card number
+breach confidentiality occurred
+confidentiality
+sufficient
+maintaining privacy people personal information system holds
+citation needed
+information security
+integrity means data modified undetectably
+citation needed thing referential integrity databases
+viewed special case consistency understood classic acid model transaction processing
+integrity violated message actively modified transit
+information security systems typically provide message integrity addition data confidentiality
+information system serve purpose
+information needed
+means computing systems store process information
+security controls protect
+communication channels access functioning correctly
+high availability systems aim remain times
+preventing service disruptions due power outages
+hardware failures
+system upgrades
+ensuring availability involves preventing denial service attacks
+computing
+business
+information security
+ensure data
+transactions
+communications documents
+electronic physical
+genuine
+important authenticity validate parties involved claim
+law
+repudiation implies intention fulfill obligations contract
+implies party transaction deny received transaction party deny transaction
+electronic commerce technology digital signatures public key encryption establish authenticity repudiation
+certified information systems auditor
+cisa
+review manual definition risk management
+risk management process identifying vulnerabilities threats information resources organization achieving business objectives
+deciding countermeasures
+reducing risk acceptable level
+based information resource organization
+things definition clarification
+process risk management ongoing
+iterative process
+repeated indefinitely
+business environment constantly changing threats vulnerabilities emerge day
+choice countermeasures
+controls
+manage risks strike balance productivity
+cost
+effectiveness countermeasure
+informational asset protected
+risk analysis risk evaluation processes limitations
+security incidents occur
+emerge context
+rarity uniqueness give rise unpredictable threats
+analysis phenomena characterized breakdowns
+surprises side effects
+requires theoretical approach examine interpret subjectively detail incident
+risk likelihood bad happen harm informational asset
+loss asset
+vulnerability weakness endanger harm informational asset
+threat
+manmade act nature
+potential harm
+likelihood threat vulnerability harm creates risk
+threat vulnerability inflict harm
+impact
+context information security
+impact loss availability
+integrity
+confidentiality
+possibly losses
+lost income
+loss life
+loss real property
+pointed identify risks
+eliminate risk
+remaining risk called
+residual risk
+risk assessment carried team people knowledge specific areas business
+membership team vary time parts business assessed
+assessment subjective qualitative analysis based informed opinion
+reliable dollar figures historical information
+analysis quantitative analysis
+research shown vulnerable point information systems human user
+operator
+designer
+human iso
+iec
+code practice information security management recommends examined risk assessment
+broad terms
+risk management process consists
+risk
+management choose accept risk based relative low asset
+relative low frequency occurrence
+relative low impact business
+leadership choose mitigate risk selecting implementing control measures reduce risk
+cases
+risk transferred business buying insurance outsourcing business
+reality risks disputed
+cases leadership choose deny risk
+management chooses mitigate risk
+implementing types controls
+administrative controls
+called procedural controls
+consist approved written policies
+procedures
+standards guidelines
+administrative controls form framework running business managing people
+inform people business run day day operations conducted
+laws regulations created government bodies type administrative control inform business
+industry sectors policies
+procedures
+standards guidelines payment card industry
+pci
+data security standard required visa mastercard
+examples administrative controls include corporate security policy
+password policy
+hiring policies
+disciplinary policies
+administrative controls form basis selection implementation logical physical controls
+logical physical controls manifestations administrative controls
+administrative controls paramount importance
+logical controls
+called technical controls
+software data monitor control access information computing systems
+passwords
+network host based firewalls
+network intrusion detection systems
+access control lists
+data encryption logical controls
+important logical control frequently overlooked principle privilege
+principle privilege requires individual
+program system process granted access privileges perform task
+blatant failure adhere principle privilege logging windows user administrator read email surf web
+violations principle occur individual collects additional access privileges time
+employees job duties change
+promoted position
+transfer department
+access privileges required duties frequently added existing access privileges longer
+physical controls monitor control environment work place computing facilities
+monitor control access facilities
+doors
+locks
+heating air conditioning
+smoke fire alarms
+fire suppression systems
+cameras
+barricades
+fencing
+security guards
+cable locks
+separating network workplace functional areas physical controls
+important physical control frequently overlooked separation duties
+separation duties ensures individual complete critical task
+employee submits request reimbursement authorize payment print check
+applications programmer server administrator database administrator roles responsibilities separated
+information security protect information life span information
+initial creation information final disposal information
+information protected motion rest
+lifetime
+information pass information processing systems parts information processing systems
+ways information information systems threatened
+fully protect information lifetime
+component information processing system protection mechanisms
+building
+layering overlapping security measures called defense depth
+strength system greater weakest link
+defense depth strategy
+defensive measure fail defensive measures place continue provide protection
+recall earlier discussion administrative controls
+logical controls
+physical controls
+types controls form basis build defense depth strategy
+approach
+defense depth conceptualized distinct layers planes laid top
+additional insight defense depth gained thinking forming layers onion
+data core onion
+people outer layer onion
+network security
+host based security application security forming outermost layers onion
+perspectives equally valid valuable insight implementation good defense depth strategy
+important aspect information security risk management recognizing information defining procedures protection requirements information
+information equal information requires degree protection
+requires information assigned security classification
+step information classification identify member senior management owner information classified
+develop classification policy
+policy describe classification labels
+define criteria information assigned label
+list required security controls classification
+factors influence classification information assigned include information organization
+information information obsolete
+laws regulatory requirements important considerations classifying information
+business model information security enables security professionals examine security systems perspective
+creating environment security managed holistically
+allowing actual risks addressed
+type information security classification labels selected depend nature organization
+examples
+employees organization
+business partners
+trained classification schema understand required security controls handling procedures classification
+classification information asset assigned reviewed periodically ensure classification information ensure security controls required classification place
+access protected information restricted people authorized access information
+computer programs
+cases computers process information
+authorized
+requires mechanisms place control access protected information
+sophistication access control mechanisms parity information protected sensitive valuable information stronger control mechanisms
+foundation access control mechanisms built start identification authentication
+identification assertion
+person makes statement
+john doe
+making claim
+claim true
+john doe granted access protected information verify person claiming john doe john doe
+authentication act verifying claim identity
+john doe bank make withdrawal
+tells bank teller john claim identity
+bank teller asks
+hands teller driver license
+bank teller checks license make john doe printed compares photograph license person claiming john doe
+photo match person
+teller authenticated john doe claimed
+types information authentication
+strong authentication requires providing type authentication information
+factor authentication
+username common form identification computer systems today password common form authentication
+usernames passwords served purpose modern world longer adequate
+citation needed usernames passwords slowly replaced sophisticated authentication mechanisms
+person
+program computer successfully identified authenticated determined informational resources permitted access actions allowed perform
+run
+view
+create
+delete
+change
+called authorization
+authorization access information computing services begins administrative policies procedures
+policies prescribe information computing services accessed
+conditions
+access control mechanisms configured enforce policies
+computing systems equipped kinds access control offer choice access control mechanisms
+access control mechanism system offers based approaches access control derived combination approaches
+discretionary approach consolidates access control centralized administration
+access information resources based individuals function
+role
+organization tasks individual perform
+discretionary approach creator owner information resource ability control access resources
+mandatory access control approach
+access granted denied basing security classification assigned information resource
+examples common access control mechanisms today include role based access control advanced database management file permissions provided unix windows operating systems
+group policy objects provided windows network systems
+kerberos
+radius
+tacacs
+simple access lists firewalls routers
+effective
+policies security controls enforceable upheld
+effective policies ensure people held accountable actions
+failed successful authentication attempts logged
+access information leave type audit trail
+citation needed
+principle affect talking access control
+principle access rights person perform job functions
+principle government
+dealing difference clearances
+employees departments top secret clearance
+order information exchanged
+principle
+network administrators grant employee amount privileges prevent employees access supposed
+helps enforce confidential integrity availability
+triad
+directly impacts confidential area triad
+information security cryptography transform usable information form renders unusable authorized user
+process called encryption
+information encrypted
+rendered unusable
+transformed back original usable form authorized user
+possesses cryptographic key
+process decryption
+cryptography information security protect information unauthorized accidental disclosure information transit
+electronically physically
+information storage
+cryptography information security applications including improved authentication methods
+message digests
+digital signatures
+repudiation
+encrypted network communications
+older secure applications telnet ftp slowly replaced secure applications ssh encrypted network communications
+wireless communications encrypted protocols wpa
+older
+secure
+wep
+wired communications
+secured aes encryption
+authentication key exchange
+software applications gnupg pgp encrypt data files email
+cryptography introduce security problems implemented correctly
+cryptographic solutions implemented industry accepted solutions undergone rigorous peer review independent experts cryptography
+length strength encryption key important consideration
+key weak short produce weak encryption
+keys encryption decryption protected degree rigor confidential information
+protected unauthorized disclosure destruction needed
+public key infrastructure
+pki
+solutions address problems surround key management
+terms reasonable prudent person
+due care due diligence fields finance
+securities
+law years
+recent years terms found fields computing information security
+federal sentencing guidelines make hold corporate officers liable failing exercise due care due diligence management information systems
+business world
+stockholders
+customers
+business partners governments expectation corporate officers run business accordance accepted business practices compliance laws regulatory requirements
+reasonable prudent person
+rule
+prudent person takes due care ensure operate business sound business principles legal ethical manner
+prudent person diligent
+mindful
+attentive
+ongoing
+due care business
+field information security
+harris offers definitions due care due diligence
+due care steps show company responsibility activities place corporation steps protect company
+resources
+employees
+due diligence
+continual activities make protection mechanisms continually maintained operational
+attention made important points definitions
+due care
+steps show means steps verified
+measured
+produce tangible artifacts
+due diligence
+continual activities means people things monitor maintain protection mechanisms
+activities ongoing
+software engineering institute carnegie mellon university
+publication titled
+governing enterprise security
+ges
+defines characteristics effective security governance
+include
+paragraphs
+technical
+discuss
+change management formal process directing controlling alterations information processing environment
+includes alterations desktop computers
+network
+servers software
+objectives change management reduce risks posed information processing environment improve stability reliability processing environment made
+objective change management prevent hinder implemented
+change information processing environment introduces element risk
+apparently simple unexpected effects
+management responsibilities management risk
+change management tool managing risks introduced information processing environment
+part change management process ensures implemented inopportune times disrupt critical business processes interfere implemented
+change managed
+kinds part everyday routine information processing adhere predefined procedure
+reduces level risk processing environment
+creating user account deploying desktop computer examples generally require change management
+relocating user file shares
+upgrading email server pose higher level risk processing environment normal everyday activity
+critical steps change management
+defining change
+communicating definition
+defining scope change system
+change management overseen change review board composed representatives key business areas
+security
+networking
+systems administrators
+database administration
+applications development
+desktop support desk
+tasks change review board facilitated automated work flow application
+responsibility change review board ensure organizations documented change management procedures
+change management process
+change management procedures simple follow easy greatly reduce risks created made information processing environment
+good change management procedures improve quality success implemented
+accomplished planning
+peer review
+documentation communication
+iso
+iec
+visible ops handbook
+implementing itil practical auditable steps
+full book summary
+information technology infrastructure library provide valuable guidance implementing efficient effective change management program information security
+business continuity mechanism organization continues operate critical business units
+planned unplanned disruptions affect normal business operations
+invoking planned managed procedures
+unlike people business continuity necessarily system process
+simply business
+today disasters disruptions business reality
+disaster natural man made
+affects normal life business
+planning important
+face reality
+businesses recover
+planned recovery
+simply business earning money survival
+planning prepared face
+knowing fully plans fail
+planning helps reduce cost recovery
+operational overheads importantly sail smaller effortlessly
+businesses create effective plans focus key questions
+common knowledge
+bcp
+business continuity plan
+bcp
+takes broad approach dealing organizational wide effects disaster
+disaster recovery plan
+drp
+subset business continuity plan
+focused taking steps resume normal business operations quickly
+disaster recovery plan executed immediately disaster occurs details steps order recover critical information technology infrastructure
+disaster recovery planning includes establishing planning group
+performing risk assessment
+establishing priorities
+developing recovery strategies
+preparing inventories documentation plan
+developing verification criteria procedure
+lastly implementing plan
+partial listing european
+united kingdom
+canadian usa governmental laws regulations
+significant effect data processing information security
+important industry sector regulations included significant impact information security
+international organization standardization
+iso
+consortium national standards institutes countries
+coordinated secretariat geneva
+switzerland
+iso world largest developer standards
+iso
+information technology security techniques framework security assurance
+iso
+iec
+information technology security techniques code practice information security management
+iso
+information technology service management
+iso
+information technology security techniques information security management systems requirements
+interest information security professionals
+usa national institute standards technology
+nist
+regulatory federal agency
+department commerce
+nist computer security division develops standards
+metrics
+tests validation programs publishes standards guidelines increase secure planning
+implementation
+management operation
+nist custodian usa federal information processing standard publications
+fips
+internet society professional membership society organization individual members countries
+leadership addressing issues confront future internet
+organization home groups responsible internet infrastructure standards
+including internet engineering task force
+ietf
+internet architecture board
+iab
+isoc hosts requests comments
+rfcs
+includes official internet protocol standards rfc site security handbook
+information security forum global nonprofit organization hundred leading organizations financial services
+manufacturing
+telecommunications
+consumer goods
+government
+areas
+undertakes research information security practices offers advice biannual standard good practice detailed advisories members
+baseline protection catalogs
+grundschutz catalogs
+baseline protection manual
+collection documents german federal office security information technology
+fsi
+detecting combating security relevant weak points environment
+cluster
+collection encompasses pages introduction catalogs
+information security ongoing process exercising due care due diligence protect information
+information systems
+unauthorized access
+disclosure
+destruction
+modification
+disruption distribution
+ending process information security involves ongoing training
+assessment
+protection
+monitoring detection
+incident response repair
+documentation
+review
+makes information security indispensable part business operations domains

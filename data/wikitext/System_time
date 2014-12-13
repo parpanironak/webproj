@@ -1,0 +1,91 @@
+System time
+
+system time
+computer science computer programming
+system time represents computer system notion passing time
+sense
+time includes passing days calendar
+system time measured system clock
+typically implemented simple count number ticks transpired arbitrary starting date
+called epoch
+unix posix compliant systems encode system time
+unix time
+number seconds elapsed start unix epoch january
+exceptions leap seconds
+systems implement bit bit versions windows api
+windows windows
+provide system time systemtime
+represented year
+month
+day
+hour
+minute
+milliseconds
+filetime
+represented count number nanosecond ticks january
+reckoned proleptic gregorian calendar
+returns current time nearest millisecondcitation needed
+system time converted calendar time
+form suitable human comprehension
+unix system time seconds beginning epoch translates calendar time september
+library subroutines handle conversions deal adjustments timezones
+daylight saving time
+dst
+leap seconds
+user locale settings
+library routines generally provided convert calendar times system times
+closely related system time process time
+count total cpu time consumed executing process
+split user system cpu time
+representing time spent executing user code system kernel code
+process times tally cpu instructions clock cycles generally direct correlation wall time
+file systems track times files created
+modified
+accessed storing timestamps file control block
+inode
+file directory
+generation pcs track dates times
+included systems ran
+operating system
+early models apple
+commodore pet
+ibm widely personal computer equipped date
+time hardware built motherboard
+subsequent add peripheral boards included real time clock chips board battery back
+prior widespread availability computer networks
+personal computer systems track system time respect local time make allowances time zones
+current technology
+modern computers track local civil time
+household personal devices vcrs
+dvrs
+cable receivers
+pdas
+pagers
+cell phones
+fax machines
+telephone answering machines
+cameras
+camcorders
+central air conditioners
+microwave ovens
+system clock implemented programmable interval timer periodically interrupts cpu
+starts executing timer interrupt service routine
+routine adds tick system clock handles periodic housekeeping tasks preemption
+returning cpu interruption
+system time page generated
+noprint plainlinks purgelink
+external text
+index
+php
+html
+page
+update counter
+tables illustrate methods retrieving system time operating systems
+programming languages
+applications
+values marked
+system dependent differ implementations
+dates gregorian proleptic gregorian calendar dates
+note resolution implementation measurement time imply accuracy measurements
+system return current time measured microseconds
+capable discerning individual clock ticks frequency

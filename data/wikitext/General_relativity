@@ -1,0 +1,881 @@
+General relativity
+
+general relativity
+general relativity
+general theory relativity
+geometric theory gravitation published albert einstein current description gravitation modern physics
+general relativity generalises special relativity newton law universal gravitation
+providing unified description gravity geometric property space time
+spacetime
+curvature spacetime directly related energy momentum matter radiation present
+relation einstein field equations
+system partial differential equations
+predictions general relativity differ significantly classical physics
+passage time
+geometry space
+motion bodies free fall
+propagation light
+examples differences include gravitational time dilation
+gravitational lensing
+gravitational redshift light
+gravitational time delay
+predictions general relativity confirmed observations experiments date
+general relativity relativistic theory gravity
+simplest theory consistent experimental data
+unanswered questions remain
+fundamental general relativity reconciled laws quantum physics produce complete consistent theory quantum gravity
+einstein theory important astrophysical implications
+implies existence black space space time distorted
+light
+end state massive stars
+ample evidence intense radiation emitted kinds astronomical objects due black holes
+microquasars active galactic nuclei result presence stellar black holes black holes massive type
+bending light gravity lead phenomenon gravitational lensing
+multiple images distant astronomical object visible sky
+general relativity predicts existence gravitational waves
+observed indirectly
+direct measurement aim projects ligo nasa
+esa laser interferometer space antenna pulsar timing arrays
+addition
+general relativity basis current cosmological models consistently expanding universe
+publishing special theory relativity
+einstein started thinking incorporate gravity relativistic framework
+beginning simple thought experiment involving observer free fall
+embarked year search relativistic theory gravity
+numerous detours false starts
+work culminated presentation prussian academy science november einstein field equations
+equations geometry space time influenced matter present
+form core einstein general theory relativity
+einstein field equations nonlinear difficult solve
+einstein approximation methods working initial predictions theory
+early
+astrophysicist karl schwarzschild found trivial exact solution einstein field equations
+called schwarzschild metric
+solution laid groundwork description final stages gravitational collapse
+objects today black holes
+year
+steps generalizing schwarzschild solution electrically charged objects
+eventually resulted solution
+electrically charged black holes
+einstein applied theory universe
+initiating field relativistic cosmology
+line contemporary thinking
+assumed static universe
+adding parameter original field cosmological reproduce
+observation
+work hubble shown universe expanding
+readily expanding cosmological solutions found friedmann
+require cosmological constant
+solutions formulate earliest version big bang models
+universe evolved extremely hot dense earlier state
+einstein declared cosmological constant biggest blunder life
+period
+general relativity remained curiosity physical theories
+superior newtonian gravity
+consistent special relativity accounting effects unexplained newtonian theory
+einstein shown theory explained anomalous perihelion advance planet mercury arbitrary parameters
+fudge factors
+similarly
+expedition led eddington confirmed general relativity prediction deflection starlight sun total solar eclipse
+making einstein instantly famous
+theory entered mainstream theoretical physics astrophysics developments approximately
+golden age general relativity
+physicists began understand concept black hole
+identify quasars objects astrophysical manifestations
+precise solar system tests confirmed theory predictive power
+relativistic cosmology
+amenable direct observational tests
+general relativity understood examining similarities departures classical physics
+step realization classical mechanics newton law gravity admit geometric description
+combination description laws special relativity results heuristic derivation general relativity
+base classical mechanics notion body motion combination free
+inertial
+motion
+deviations free motion
+deviations caused external forces acting body accordance newton law motion
+states net force acting body equal body
+inertial
+mass multiplied acceleration
+preferred inertial motions related geometry space time
+standard reference frames classical mechanics
+objects free motion move straight lines constant speed
+modern parlance
+paths geodesics
+straight world lines curved spacetime
+conversely
+expect inertial motions
+identified observing actual motions bodies making allowances external forces
+electromagnetism friction
+define geometry space
+time coordinate
+ambiguity gravity play
+newton law gravity
+independently verified experiments successors
+experiment
+universality free fall
+weak equivalence principle
+universal equality inertial passive gravitational mass
+trajectory test body free fall depends position initial speed
+material properties
+simplified version embodied einstein elevator experiment
+illustrated figure
+observer small enclosed room
+impossible decide
+mapping trajectory bodies dropped ball
+room rest gravitational field
+free space aboard accelerating rocket generating force equal gravity
+universality free fall
+observable distinction inertial motion motion influence gravitational force
+suggests definition class inertial motion
+objects free fall influence gravity
+class preferred motions
+defines geometry space mathematical terms
+geodesic motion specific connection depends gradient gravitational potential
+space
+construction
+ordinary euclidean geometry
+spacetime complicated
+shown simple thought experiments free fall trajectories test particles
+result transporting spacetime vectors denote particle velocity
+time vectors
+vary particle trajectory
+mathematically speaking
+newtonian connection integrable
+deduce spacetime curved
+result geometric formulation newtonian gravity covariant concepts
+description valid desired coordinate system
+geometric description
+tidal relative acceleration bodies free related derivative connection
+showing modified geometry caused presence mass
+intriguing geometric newtonian gravity
+basis
+classical mechanics
+limiting case
+special
+relativistic mechanics
+language symmetry
+gravity neglected
+physics lorentz invariant special relativity galilei invariant classical mechanics
+defining symmetry special relativity group includes translations rotations
+differences significant dealing speeds approaching speed light
+high energy phenomena
+lorentz symmetry
+additional structures play
+defined set light cones
+image left
+light cones define causal structure
+event
+set events
+principle
+influence influenced signals interactions travel faster light
+event image
+set events influence impossible
+event image
+sets observer independent
+conjunction world lines freely falling particles
+light cones reconstruct semi riemannian metric
+positive scalar factor
+mathematical terms
+defines conformal structure
+special relativity defined absence gravity
+practical applications
+suitable model gravity neglected
+bringing gravity play
+assuming universality free fall
+analogous reasoning previous section applies
+global inertial frames
+approximate inertial frames moving alongside freely falling particles
+translated language spacetime
+straight time lines define gravity free inertial frame deformed lines curved relative
+suggesting inclusion gravity necessitates change spacetime geometry
+priori
+clear local frames free fall coincide reference frames laws special relativity theory based propagation light
+electromagnetism
+set preferred frames
+assumptions special relativistic frames
+earth fixed
+free fall
+derive predictions gravitational redshift
+frequency light shifts light propagates gravitational field
+actual measurements show free falling frames light propagates special relativity
+generalization statement
+laws special relativity hold good approximation freely falling
+rotating
+reference frames
+einstein equivalence principle
+crucial guiding principle generalizing special relativistic physics include gravity
+experimental data shows time measured clocks gravitational time
+give technical follow rules special relativity
+language spacetime geometry
+measured minkowski metric
+newtonian case
+suggestive general geometry
+small scales
+reference frames free fall equivalent
+approximately minkowskian
+dealing curved generalization minkowski space
+metric tensor defines
+lengths angles minkowski metric special relativity
+generalization semi pseudo riemannian metric
+riemannian metric naturally kind connection
+levi civita connection
+fact
+connection satisfies equivalence principle makes space locally minkowskian
+suitable locally inertial coordinates
+metric minkowskian
+partial derivatives connection coefficients vanish
+formulated relativistic
+geometric version effects gravity
+question gravity source remains
+newtonian gravity
+source mass
+special relativity
+mass turns part general quantity called tensor
+includes energy momentum densities stress
+pressure shear
+equivalence principle
+tensor readily generalized curved space time
+drawing analogy geometric newtonian gravity
+natural assume field equation gravity relates tensor ricci tensor
+describes class tidal effects
+change volume small cloud test particles initially rest
+fall freely
+special relativity
+conservation corresponds statement tensor divergence free
+formula
+readily generalized curved spacetime replacing partial derivatives curved manifold counterparts
+covariant derivatives studied differential geometry
+additional covariant divergence tensor
+side equation
+simplest set equations called einstein
+field
+equations
+left hand side einstein tensor
+specific divergence free combination ricci tensor image
+math
+png metric
+curvature scalar
+ricci tensor related general riemann curvature tensor
+hand side
+tab tensor
+tensors written abstract index notation
+matching theory prediction observational results planetary orbits
+equivalently
+assuring weak gravity
+low speed limit newtonian mechanics
+proportionality constant fixed
+gravitational constant speed light
+matter present
+tensor vanishes
+result vacuum einstein equations
+alternatives general relativity built premises
+include additional rules
+constraints
+leading field equations
+examples theory
+teleparallelism
+theory
+derivation outlined previous section information needed define general relativity
+describe key properties
+address question crucial importance physics
+theory model building
+general relativity metric theory gravitation
+core einstein equations
+describe relation geometry dimensional
+pseudo riemannian manifold representing spacetime
+contained spacetime
+phenomena classical mechanics ascribed action force gravity
+free fall
+orbital motion
+spacecraft trajectories
+correspond inertial motion curved geometry spacetime general relativity
+gravitational force deflecting objects natural
+straight paths
+gravity corresponds properties space time
+turn straightest paths objects naturally follow
+curvature
+turn
+caused matter
+paraphrasing relativist john archibald wheeler
+spacetime tells matter move
+matter tells spacetime curve
+general relativity replaces scalar gravitational potential classical physics symmetric rank tensor
+reduces limiting cases
+weak gravitational fields slow speed relative speed light
+theory predictions converge newton law universal gravitation
+constructed tensors
+general relativity exhibits general covariance
+laws formulated general relativistic form coordinate systems
+theory invariant geometric background structures
+background independent
+satisfies stringent general principle relativity
+laws physics observers
+locally
+expressed equivalence principle
+spacetime minkowskian
+laws physics exhibit local lorentz invariance
+core concept general relativistic model building solution einstein equations
+einstein equations suitable equations properties matter
+solution consists specific semi riemannian manifold
+defined giving metric specific coordinates
+specific matter fields defined manifold
+matter geometry satisfy einstein equations
+matter tensor divergence free
+matter
+satisfy additional equations imposed properties
+short
+solution model universe satisfies laws general relativity
+possibly additional laws governing matter present
+einstein equations nonlinear partial differential equations
+difficult solve
+number exact solutions
+direct physical applications
+exact solutions
+interesting physics point view
+schwarzschild solution
+solution kerr metric
+type black hole empty universe
+sitter universes
+describing expanding cosmos
+exact solutions great theoretical interest include universe
+opens intriguing possibility time travel curved spacetimes
+taub nut solution
+model universe homogeneous
+anisotropic
+anti sitter space
+recently prominence context called maldacena conjecture
+difficulty finding exact solutions
+einstein field equations solved frequently numerical integration computer
+small perturbations exact solutions
+field numerical relativity
+powerful computers employed simulate geometry spacetime solve einstein equations interesting situations colliding black holes
+principle
+methods applied system
+sufficient computer resources
+address fundamental questions naked singularities
+approximate solutions found perturbation theories linearized gravity generalization
+post newtonian expansion
+developed einstein
+systematic approach solving geometry spacetime distribution matter moves slowly compared speed light
+expansion involves series terms
+terms represent newtonian gravity
+terms represent smaller corrections newton theory due general relativity
+extension expansion parametrized post newtonian
+ppn
+formalism
+quantitative comparisons predictions general relativity alternative theories
+general relativity number physical consequences
+follow directly theory axioms
+clear ninety years research einstein initial publication
+assuming equivalence principle holds
+gravity influences passage time
+light gravity blueshifted
+light opposite direction
+climbing gravity
+redshifted
+collectively
+effects gravitational frequency shift
+generally
+processes close massive body run slowly compared processes taking place farther
+effect gravitational time dilation
+gravitational redshift measured laboratory astronomical observations
+gravitational time dilation earth gravitational field measured numerous times atomic clocks
+ongoing validation provided side effect operation global positioning system
+gps
+tests stronger gravitational fields provided observation binary pulsars
+results agreement general relativity
+current level accuracy
+observations distinguish general relativity theories equivalence principle valid
+general relativity predicts path light bent gravitational field
+light passing massive body deflected body
+effect confirmed observing light stars distant quasars deflected passes sun
+related predictions follow fact light called light null generalization straight lines light travels classical physics
+geodesics generalization invariance lightspeed special relativity
+examines suitable model spacetimes
+exterior schwarzschild solution
+single mass
+post newtonian expansion
+effects gravity light propagation emerge
+bending light derived extending universality free fall light
+angle deflection resulting calculations half general relativity
+closely related light deflection gravitational time delay
+shapiro delay
+phenomenon light signals longer move gravitational field absence field
+numerous successful tests prediction
+parameterized post newtonian formalism
+ppn
+measurements deflection light gravitational time delay determine parameter called
+encodes influence gravity geometry space
+analogies weak field gravity electromagnetism
+analogous electromagnetic waves
+gravitational waves
+ripples metric spacetime propagate speed light
+simplest type wave visualized action ring freely floating particles
+sine wave propagating ring reader distorts ring characteristic
+rhythmic fashion
+animated image
+einstein equations linear
+arbitrarily strong gravitational waves obey linear superposition
+making description difficult
+weak fields
+linear approximation made
+linearized gravitational waves sufficiently accurate describe exceedingly weak waves expected arrive earth cosmic events
+typically result relative distances increasing decreasing image
+math
+png
+data analysis methods routinely make fact linearized waves fourier decomposed
+exact solutions describe gravitational waves approximation
+wave train traveling empty space called gowdy universes
+varieties expanding cosmos filled gravitational waves
+gravitational waves produced astrophysically relevant situations
+merger black holes
+numerical methods presently construct models
+general relativity differs classical mechanics number predictions orbiting bodies
+predicts rotation
+precession
+planetary orbits
+orbital decay caused emission gravitational waves effects related relativity direction
+general relativity
+apsides orbit
+point orbiting body closest approach system center mass
+orbit ellipse
+akin ellipse rotates focus
+resulting rose curve shape
+image
+einstein derived result approximate metric representing newtonian limit treating orbiting body test particle
+fact theory gave straightforward explanation anomalous perihelion shift planet mercury
+discovered earlier urbain verrier
+important evidence identified correct form gravitational field equations
+effect derived exact schwarzschild metric
+describing spacetime spherical mass
+general post newtonian formalism
+due influence gravity geometry space contribution energy body gravity
+encoded nonlinearity einstein equations
+relativistic precession observed planets accurate precession measurements
+mercury
+venus earth
+binary pulsar systems
+larger orders magnitude
+general relativity
+binary system emit gravitational waves
+losing energy
+due loss
+distance orbiting bodies decreases
+orbital period
+solar system ordinary double stars
+effect small observable
+case close binary pulsar
+system orbiting neutron stars
+pulsar
+pulsar
+observers earth receive regular series radio pulses serve highly accurate clock
+precise measurements orbital period
+neutron stars compact
+significant amounts energy emitted form gravitational radiation
+observation decrease orbital period due emission gravitational waves made hulse taylor
+binary pulsar discovered
+detection gravitational waves
+albeit indirect
+awarded nobel prize physics
+binary pulsars found
+double pulsar psr
+stars pulsars
+relativistic effects directly related relativity direction
+geodetic precession
+axis direction gyroscope free fall curved spacetime change compared
+instance
+direction light received distant gyroscope represents keeping direction stable
+parallel transport
+system
+effect measured lunar laser ranging
+recently
+measured test masses aboard satellite gravity probe precision
+rotating mass
+called gravitomagnetic frame dragging effects
+distant observer determine objects close mass
+dragged
+extreme rotating black holes
+object entering zone ergosphere
+rotation inevitable
+effects tested influence orientation gyroscopes free fall
+controversial tests performed lageos satellites
+confirming relativistic prediction
+mars global surveyor probe mars
+deflection light gravity responsible class astronomical phenomena
+massive object situated astronomer distant target object mass relative distances
+astronomer multiple distorted images target
+effects gravitational lensing
+depending configuration
+scale
+mass distribution
+images
+bright ring einstein ring
+partial rings called arcs
+earliest discovered
+hundred gravitational lenses observed
+multiple images close resolved
+effect measured
+brightening target object
+number
+microlensing events
+observed
+gravitational lensing developed tool observational astronomy
+detect presence distribution dark matter
+provide
+natural telescope
+observing distant galaxies
+obtain independent estimate hubble constant
+statistical evaluations lensing data provide valuable insight structural evolution galaxies
+observations binary pulsars provide strong indirect evidence existence gravitational waves
+orbital decay
+gravitational waves reaching depths cosmos detected directly
+major goal current relativity related research
+land based gravitational wave detectors operation
+notably interferometric detectors geo
+ligo
+detectors
+tama virgo
+pulsar timing arrays millisecond pulsars detect gravitational waves hertz frequency range
+originate binary supermassive blackholes
+european space based detector
+elisa
+ngo
+development
+precursor mission
+lisa pathfinder
+due launch
+observations gravitational waves promise complement observations electromagnetic spectrum
+expected yield information black holes dense objects neutron stars white dwarfs
+kinds supernova implosions
+processes early universe
+including signature types hypothetical cosmic string
+ratio object mass radius sufficiently large
+general relativity predicts formation black hole
+region space
+light
+escape
+accepted models stellar evolution
+neutron stars
+solar masses
+stellar black holes dozen solar masses
+thought final state evolution massive stars
+galaxy supermassive black hole million billion solar masses center
+presence thought played important role formation galaxy larger cosmic structures
+astronomically
+important property compact objects provide supremely efficient mechanism converting gravitational energy electromagnetic radiation
+accretion
+falling dust gaseous matter stellar supermassive black holes
+thought responsible spectacularly luminous astronomical objects
+notably diverse kinds active galactic nuclei galactic scales stellar size objects microquasars
+accretion lead relativistic jets
+focused beams highly energetic particles flung space light speed
+general relativity plays central role modelling phenomena
+observations provide strong evidence existence black holes properties predicted theory
+black holes sought targets search gravitational waves
+gravitational waves
+merging black hole binaries lead strongest gravitational wave signals reaching detectors earth
+phase directly merger
+chirp
+standard candle
+deduce distance merger serve probe cosmic expansion large distances
+gravitational waves produced stellar black hole plunges supermassive provide direct information supermassive black hole geometry
+current models cosmology based einstein field equations
+include cosmological constant important influence large scale dynamics cosmos
+gab spacetime metric
+isotropic homogeneous solutions enhanced equations
+solutions
+physicists model universe evolved past hot
+early big bang phase
+small number parameters
+universe matter density
+fixed astronomical observation
+observational data put models test
+predictions
+successful
+include initial abundance chemical elements formed period primordial nucleosynthesis
+large scale structure universe
+existence properties
+thermal echo
+early cosmos
+cosmic background radiation
+astronomical observations cosmological expansion rate total amount matter universe estimated
+nature matter remains mysterious part
+matter appears called dark matter
+mass
+equivalently
+gravitational influence
+interact electromagnetically
+observed directly
+generally accepted description kind matter
+framework particle physics
+observational evidence redshift surveys distant supernovae measurements cosmic background radiation show evolution universe significantly influenced cosmological constant resulting acceleration cosmic expansion
+equivalently
+form energy unusual equation state
+dark energy
+nature remains unclear
+called inflationary phase
+additional phase strongly accelerated expansion cosmic times image
+math
+png seconds
+hypothesized account puzzling observations unexplained classical cosmological models
+perfect homogeneity cosmic background radiation
+recent measurements cosmic background radiation resulted evidence scenario
+bewildering variety inflationary scenarios
+restricted current observations
+larger question physics earliest universe
+prior inflationary phase close classical models predict big bang singularity
+authoritative answer require complete theory quantum gravity
+developed
+section quantum gravity
+general relativity
+material body catch overtake light pulse
+influence event reach location light
+consequence
+exploration light worldlines
+null geodesics
+yields key information spacetime causal structure
+structure displayed diagrams infinitely large regions space infinite time intervals shrunk
+compactified
+fit finite map
+light travels diagonals standard spacetime diagrams
+aware importance causal structure
+roger penrose developed global geometry
+global geometry
+object study solution
+family solutions
+einstein equations
+relations hold true geodesics
+raychaudhuri equation
+additional specific assumptions nature matter
+form called energy conditions
+derive general results
+global geometry
+spacetimes shown boundaries called horizons
+demarcate region rest spacetime
+examples black holes
+mass compressed sufficiently compact region space
+hoop conjecture
+relevant length scale schwarzschild radius
+light inside escape
+object overtake light pulse
+interior matter imprisoned
+passage exterior interior
+showing boundary
+black hole horizon
+physical barrier
+early studies black holes relied explicit solutions einstein equations
+notably spherically symmetric schwarzschild solution
+describe static black hole
+axisymmetric kerr solution
+describe rotating
+stationary black hole
+introducing interesting features ergosphere
+global geometry
+studies revealed general properties black holes
+long run
+simple objects characterized eleven parameters energy
+linear momentum
+angular momentum
+location time electric charge
+stated black hole uniqueness theorems
+black holes hair
+distinguishing marks hairstyles humans
+irrespective complexity gravitating object collapsing form black hole
+object results
+emitted gravitational waves
+simple
+remarkably
+general set laws black hole mechanics
+analogous laws thermodynamics
+instance
+law black hole mechanics
+area event horizon general black hole decrease time
+analogous entropy thermodynamic system
+limits energy extracted classical means rotating black hole
+penrose process
+strong evidence laws black hole mechanics
+fact
+subset laws thermodynamics
+black hole area proportional entropy
+leads modification original laws black hole mechanics
+instance
+law black hole mechanics part law thermodynamics
+black hole area long processes ensure
+entropy increases
+thermodynamical objects temperature
+black holes emit thermal radiation
+semi classical calculations
+surface gravity playing role temperature planck law
+radiation hawking radiation
+quantum theory section
+types horizons
+expanding universe
+observer find regions past observed
+particle horizon
+regions future influenced
+event horizon
+flat minkowski space
+accelerated observer
+rindler space
+horizons semi classical radiation unruh radiation
+general relativity appearance spacetime boundaries singularities
+spacetime explored timelike lightlike ways light particles free fall travel
+solutions einstein equations
+ragged edges
+spacetime singularities
+paths light falling particles abrupt end
+geometry defined
+interesting cases
+curvature singularities
+geometrical quantities characterizing spacetime curvature
+ricci scalar
+infinite values
+examples spacetimes future worldlines schwarzschild solution
+describes singularity inside eternal static black hole
+kerr solution ring shaped singularity inside eternal rotating black hole
+solutions spacetimes describing universes past singularities worldlines begin
+big bang singularities
+future singularities
+big crunch
+examples highly tempting conclude occurrence singularities artifact idealization
+famous singularity theorems
+proved methods global geometry
+singularities generic feature general relativity
+unavoidable collapse object realistic matter properties proceeded stage beginning wide class expanding universes
+theorems properties singularities
+current research devoted characterizing entities generic structure
+hypothesized
+called bkl conjecture
+cosmic censorship hypothesis states realistic future singularities
+perfect symmetries
+matter realistic properties
+safely hidden horizon
+invisible distant observers
+formal proof exists
+numerical simulations offer supporting evidence validity
+solution einstein equation encompasses history universe snapshot things
+possibly matter filled
+spacetime
+describes state matter geometry moment universe
+due general covariance
+einstein theory sufficient determine time evolution metric tensor
+combined coordinate condition
+analogous gauge fixing field theories
+understand einstein equations partial differential equations
+helpful formulate describes evolution universe time
+called
+formulations
+spacetime split space dimensions time dimension
+adm formalism
+decompositions show spacetime evolution equations general relativity behaved
+solutions exist
+uniquely defined
+suitable initial conditions
+formulations einstein field equations basis numerical relativity
+notion evolution equations intimately tied aspect general relativistic physics
+einstein theory
+turns impossible find general definition seemingly simple property system total mass
+energy
+main reason gravitational physical ascribed energy
+proves fundamentally impossible localize energy
+possibilities define system total mass
+hypothetical
+infinitely distant observer
+adm mass
+suitable symmetries
+komar mass
+excludes system total mass energy carried gravitational waves
+result called bondi mass null
+classical physics
+shown masses positive
+global definitions exist momentum angular momentum
+number attempts define quasi local quantities
+mass isolated system formulated quantities defined finite region space system
+hope obtain quantity general statements isolated systems
+precise formulation hoop conjecture
+general relativity considered pillars modern physics
+quantum theory
+basis understanding matter elementary particles solid state physics
+open question concepts quantum theory reconciled general relativity
+ordinary quantum field theories
+form basis modern elementary particle physics
+defined flat minkowski space
+excellent approximation describing behavior microscopic particles weak gravitational fields found earth
+order describe situations gravity strong influence
+quantum
+matter
+strong require quantization
+physicists formulated quantum field theories curved spacetime
+theories rely classical general relativity describe curved background spacetime
+define generalized quantum field theory describe behavior quantum matter spacetime
+formalism
+shown black holes emit blackbody spectrum particles hawking radiation
+leading possibility evaporate time
+briefly mentioned
+radiation plays important role thermodynamics black holes
+demand consistency quantum description matter geometric description spacetime
+appearance singularities
+curvature length scales microscopic
+full theory quantum gravity
+adequate description interior black holes
+early universe
+theory required gravity geometry spacetime language quantum physics
+major efforts
+complete consistent theory quantum gravity
+number promising candidates exist
+attempts generalize ordinary quantum field theories
+elementary particle physics describe fundamental interactions
+include gravity led problems
+low energies
+approach proves successful
+results acceptable effective
+quantum
+field theory gravity
+high energies
+result models devoid predictive power
+renormalizability
+attempt overcome limitations string theory
+quantum theory point particles
+minute dimensional extended objects
+theory promises unified description particles interactions
+including gravity
+price pay unusual features extra dimensions space addition usual
+called superstring revolution
+conjectured string theory unification general relativity supersymmetry supergravity form part hypothesized eleven dimensional model theory
+constitute uniquely defined consistent theory quantum gravity
+approach starts canonical quantization procedures quantum theory
+initial formulation general relativity
+evolution equations
+result equation
+analogue equation
+regrettably
+turns defined
+introduction ashtekar variables
+leads promising model loop quantum gravity
+space represented web structure called spin network
+evolving time discrete steps
+depending features general relativity quantum theory accepted unchanged
+level introduced
+numerous attempts arrive viable theory quantum gravity
+examples dynamical triangulations
+causal sets
+twistor models path integral based models quantum cosmology
+candidate theories major formal conceptual problems overcome
+face common problem
+put quantum gravity predictions experimental tests
+decide candidates predictions vary
+hope change future data cosmological observations particle physics experiments
+general relativity emerged highly successful model gravitation cosmology
+passed unambiguous observational experimental tests
+strong indications theory incomplete
+problem quantum gravity question reality spacetime singularities remain open
+observational data evidence dark energy dark matter physics
+general relativity rich possibilities exploration
+mathematical relativists seek understand nature singularities fundamental properties einstein equations
+increasingly powerful computer simulations
+describing merging black holes
+run
+race direct detection gravitational waves continues
+hope creating opportunities test theory validity stronger gravitational fields date
+ninety years publication
+general relativity remains highly active area research

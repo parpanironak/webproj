@@ -1,0 +1,979 @@
+Global Positioning System
+
+global positioning system
+global positioning system
+gps
+space based satellite navigation system location time information weather conditions
+earth unobstructed line sight gps satellites
+system critical capabilities military
+civil commercial users world
+maintained united states government freely accessible gps receiver
+gps project developed overcome limitations previous navigation systems
+integrating ideas predecessors
+including number classified engineering design studies
+gps created realized
+department defense
+dod
+originally run
+fully operational
+roger
+easton generally credited inventor
+advances technology demands existing system led efforts modernize gps system implement generation gps iii satellites generation operational control system
+ocx
+announcements vice president white house initiated
+congress authorized modernization effort
+referred gps iii
+addition gps
+systems development
+russian global navigation satellite system
+glonass
+developed contemporaneously gps
+suffered incomplete coverage globe mid
+planned european union galileo positioning system
+chinese compass navigation system
+indian regional navigational satellite system
+design gps based partly similar ground based radio navigation systems
+loran decca navigator developed early
+world war
+german american physicist friedwardt winterberg proposed test general relativity
+time slowing strong gravitational field
+accurate atomic clocks orbit inside artificial satellites
+achieve accuracy requirements
+gps principles general relativity correct satellites atomic clocks
+additional inspiration gps soviet union launched man made satellite
+sputnik
+american physicists
+william guier george weiffenbach
+johns hopkins applied physics laboratory
+apl
+decided monitor sputnik radio transmissions
+hours realized
+doppler effect
+pinpoint satellite orbit doppler shift
+director apl gave access univac heavy calculations required
+spring
+frank mcclure
+deputy director apl
+asked guier weiffenbach investigate inverse problem pinpointing user location satellite
+navy developing submarine launched polaris missile
+required submarine location
+led apl develop transit system
+satellite navigation system
+transit
+united states navy
+successfully tested
+constellation satellites provide navigational fix approximately hour
+navy developed timation satellite proved ability place accurate clocks space
+technology required gps
+ground based omega navigation system
+based phase comparison signal transmission pairs stations
+worldwide radio navigation system
+limitations systems drove universal navigation solution greater accuracy
+wide accurate navigation military civilian sectors
+justification billions dollars cost research
+development
+deployment
+operation constellation navigation satellites
+cold war arms race
+nuclear threat existence united states justify cost view united states congress
+deterrent effect gps funded
+reason ultra secrecy time
+nuclear triad consisted united states navy submarine launched ballistic missiles
+slbms
+united states air force
+usaf
+strategic bombers intercontinental ballistic missiles
+icbms
+considered vital nuclear deterrence posture
+accurate determination slbm launch position force multiplier
+precise navigation enable united states submarines accurate fix positions prior launching slbms
+usaf thirds nuclear triad requirements accurate reliable navigation system
+navy air force developing technologies parallel solve essentially problem
+increase survivability icbms
+proposal mobile launch platforms
+russian
+fix launch position similarity slbm situation
+air force proposed radio navigation system called mosaic
+mobile system accurate icbm control
+essentially
+follow study called worked
+study gps concept born
+year concept pursued
+attributes gps
+promised increased accuracy air force bombers icbms
+updates navy transit system slow high speeds air force operation
+navy research laboratory continued advancements timation
+time navigation
+satellites
+launched
+carrying atomic clock orbit
+important predecessor gps branch united states military
+united states army orbited sequential collation range
+secor
+satellite geodetic surveying
+secor system included ground based transmitters locations send signals satellite transponder orbit
+fourth ground based station undetermined position signals fix location precisely
+secor satellite launched
+decades early years gps
+civilian surveying fields make technology
+reap benefits signals complete gps constellation years declared operational
+gps thought evolution secor system ground based transmitters migrated orbit
+parallel developments
+realized superior system developed synthesizing technologies
+transit
+timation
+secor multi service program
+labor day weekend
+meeting military officers pentagon discussed creation defense navigation satellite system
+dnss
+meeting
+real synthesis gps created
+year
+dnss program named navstar
+individual satellites navstar
+predecessors transit timation
+fully encompassing identify constellation navstar satellites
+navstar gps
+shortened simply gps
+korean air lines flight
+carrying people
+shot straying ussr prohibited airspace
+vicinity sakhalin moneron islands
+president ronald reagan issued directive making gps freely civilian
+sufficiently developed
+common good
+satellite launched
+launched
+roger
+easton widely credited primary inventor gps
+initially
+highest quality signal reserved military
+signal civilian intentionally degraded
+selective availability
+changed president bill clinton ordering selective availability turned midnight
+improving precision civilian gps meters
+meters
+executive order signed turn selective availability proposed secretary defense
+william perry
+widespread growth differential gps services improve civilian accuracy eliminate military advantage
+military actively developing technologies deny gps service potential adversaries regional basis
+decade
+implemented improvements gps service
+including signals civil increased accuracy integrity users
+maintaining compatibility existing gps equipment
+gps modernization ongoing initiative upgrade global positioning system capabilities meet growing military
+civil
+commercial
+program implemented series satellite acquisitions
+including gps block iii generation operational control system
+ocx
+government continues improve gps space ground segments increase performance accuracy
+gps owned operated united states government national resource
+department defense
+dod
+steward gps
+interagency gps executive board
+igeb
+oversaw gps policy matters
+national space based positioning
+navigation timing executive committee established presidential directive advise coordinate federal departments agencies matters gps related systems
+executive committee chaired jointly deputy secretaries defense transportation
+membership includes equivalent level officials departments state
+commerce
+homeland security
+joint chiefs staff
+nasa
+components executive office president participate observers executive committee
+fcc chairman participates liaison
+dod required law
+maintain standard positioning service
+defined federal radio navigation plan standard positioning service signal specification
+continuous
+worldwide basis
+develop measures prevent hostile gps augmentations unduly disrupting degrading civilian
+prn block iir unhealthy prn block iia prn block iia unhealthy prn block iia complete list
+list gps satellite launches
+february
+national aeronautic association selected gps team winners robert
+collier trophy
+nation prestigious aviation award
+team combines researchers naval research laboratory
+usaf
+aerospace corporation
+rockwell international corporation
+ibm federal systems company
+citation honors
+significant development safe efficient navigation surveillance air spacecraft introduction radio navigation ago
+gps developers received national academy engineering charles stark draper prize
+gps technology inducted space foundation space technology hall fame
+francis
+kane
+col
+usaf
+ret
+inducted
+air force space missile pioneers hall fame lackland
+san antonio
+texas
+march
+role space technology development engineering design concept gps conducted part project
+october
+international astronautical federation
+iaf
+awarded global positioning system
+gps
+anniversary award
+nominated iaf member
+american institute aeronautics astronautics
+aiaa
+iaf honors awards committee recognized uniqueness gps program exemplary role played building international collaboration benefit humanity
+gps receiver calculates position precisely timing signals gps satellites high earth
+satellite continually transmits messages include
+receiver messages receives determine transit time message computes distance satellite speed light
+distances satellites locations define sphere
+receiver surface spheres distances satellites locations correct
+distances satellites locations compute location receiver navigation equations
+location displayed
+moving map display latitude longitude
+elevation information included
+gps units show derived information direction speed
+calculated position
+typical gps operation
+satellites visible obtain accurate result
+sphere surfaces typically intersect
+confidence solve navigation equations find intersection
+solution position receiver accurate time eliminating large
+expensive
+power hungry clock
+accurately computed time display gps applications
+location
+number applications gps make cheap highly accurate timing
+include time transfer
+traffic signal timing
+synchronization cell phone base stations
+satellites required normal operation
+fewer apply special cases
+variable
+receiver determine position satellites
+ship aircraft elevation
+gps receivers additional clues assumptions reusing altitude
+dead reckoning
+inertial navigation
+including information vehicle computer
+give
+possibly degraded
+position fewer satellites visible
+current gps consists major segments
+space segment
+control segment
+user segment
+air force develops
+maintains
+operates space control segments
+gps satellites broadcast signals space
+gps receiver signals calculate dimensional location
+latitude
+longitude
+altitude
+current time
+space segment composed satellites medium earth orbit includes payload adapters boosters required launch orbit
+control segment composed master control station
+alternate master control station
+host dedicated shared ground antennas monitor stations
+user segment composed hundreds thousands
+allied military users secure gps precise positioning service
+tens millions civil
+commercial
+scientific users standard positioning service
+gps navigation devices
+space segment
+composed orbiting gps satellites
+space vehicles
+gps parlance
+gps design originally called
+approximately circular orbits
+modified orbital planes satellites
+orbits centered earth
+rotating earth
+fixed respect distant stars
+orbit planes approximately inclination
+tilt relative earth equator
+separated ascension ascending node
+angle equator reference point orbit intersection
+orbital period half sidereal day
+hours minutes
+orbits arranged satellites line sight earth surface
+result objective satellites evenly spaced
+degrees
+orbit
+general terms
+angular difference satellites orbit
+degrees
+sum degrees
+orbiting altitude approximately
+orbital radius approximately
+makes complete orbits sidereal day
+repeating ground track day
+helpful development satellites
+correct alignment means visible spot hours day
+military operations
+ground track repeat ensure good coverage combat zones
+december
+satellites gps constellation
+additional satellites improve precision gps receiver calculations providing redundant measurements
+increased number satellites
+constellation changed nonuniform arrangement
+arrangement shown improve reliability availability system
+relative uniform system
+multiple satellites fail
+satellites visible point ground time
+animation
+ensuring considerable redundancy minimum satellites needed position
+control segment composed
+mcs access
+air force satellite control network
+afscn
+ground antennas
+additional command control capability
+nga
+national geospatial intelligence agency
+monitor stations
+flight paths satellites tracked dedicated
+air force monitoring stations hawaii
+kwajalein
+ascension island
+diego garcia
+colorado springs
+colorado cape canaveral
+shared nga monitor stations operated england
+argentina
+ecuador
+bahrain
+australia washington
+tracking information air force space command mcs schriever air force base
+ese colorado springs
+operated space operations squadron
+air force
+contacts gps satellite regularly navigational update dedicated shared
+afscn
+ground antennas
+gps dedicated ground antennas located kwajalein
+ascension island
+diego garcia
+cape canaveral
+updates synchronize atomic clocks board satellites nanoseconds
+adjust ephemeris satellite internal orbital model
+updates created kalman filter inputs ground monitoring stations
+space weather information
+inputs
+satellite maneuvers precise gps standards
+change orbit satellite
+satellite marked unhealthy
+receivers calculation
+maneuver carried
+resulting orbit tracked ground
+ephemeris uploaded satellite marked healthy
+operation control segment
+ocs
+serves control segment record
+operational capability supports global gps users gps system operational performing specification
+ocs successfully replaced legacy era mainframe computer schriever air force base september
+installation
+system helped enable upgrades provide foundation security architecture supported
+armed forces
+ocs continue ground control system record segment
+generation gps operation control system
+ocx
+fully developed functional
+capabilities provided ocx cornerstone revolutionizing mission capabilities
+enabling air force space command greatly enhance gps operational services
+combat forces
+civil partners myriad domestic international users
+gps ocx program reduce cost
+schedule technical risk
+designed provide sustainment cost savings efficient software architecture performance based logistics
+addition
+gps ocx expected cost millions cost upgrade ocs providing times capability
+gps ocx program represents critical part gps modernization significant information assurance improvements current gps ocs program
+september
+air force announced completion gps ocx preliminary design review confirmed ocx program ready phase development
+gps ocx program achieved major milestones track support gps iiia launch
+user segment composed hundreds thousands
+allied military users secure gps precise positioning service
+tens millions civil
+commercial scientific users standard positioning service
+general
+gps receivers composed antenna
+tuned frequencies transmitted satellites
+receiver processors
+highly stable clock
+crystal oscillator
+include display providing location speed information user
+receiver number channels
+signifies satellites monitor simultaneously
+originally limited
+progressively increased years
+receivers typically
+gps receivers include input differential corrections
+rtcm format
+typically form port
+speed
+data lower rate
+limits accuracy signal rtcmcitation needed
+receivers internal dgps receivers outperform external rtcm datacitation needed
+low cost units commonly include wide area augmentation system
+waas
+receivers
+gps receivers relay position data device nmea protocol
+protocol officially defined national marine electronics association
+nmea
+references protocol compiled public records
+allowing open source tools gpsd read protocol violating intellectual property laws
+proprietary protocols exist
+sirf mtk protocols
+receivers interface devices methods including serial connection
+usb
+bluetooth
+originally military project
+gps considered dual technology
+meaning significant military civilian applications
+gps widely deployed tool commerce
+scientific
+tracking
+surveillance
+gps accurate time facilitates everyday activities banking
+mobile phone operations
+control power grids allowing synchronized hand switching
+civilian applications gps basic components
+absolute location
+relative movement
+time transfer
+government controls export civilian receivers
+gps receivers capable functioning kilometres
+altitude metres
+designed
+modified unmanned air vehicles
+ballistic cruise missile systems classified munitions
+weapons
+state department export licenses required
+rule applies purely civilian units receive frequency
+coarse
+acquisition
+code correct selective availability
+disabling operation limits exempts receiver classification munition
+vendor interpretations differ
+rule refers operation target altitude speed
+receivers stop operating stationary
+caused problems amateur radio balloon launches regularly reach kilometres
+limits apply units exported
+components exported
+usa growing trade components
+including gps units
+supplied countries
+expressly sold itar free
+military applications gps include
+navigational signals transmitted gps satellites encode variety information including satellite positions
+state internal clocks
+health network
+signals transmitted separate carrier frequencies common satellites network
+encodings
+public encoding enables lower resolution navigation
+encrypted encoding
+military
+gps satellite continuously broadcasts navigation message
+frequencies rate bits
+bitrate
+complete message takes seconds
+minutes
+complete
+message structure basic format bit long frame made subframes
+subframe bits
+seconds
+long
+subframes subcommutated times
+complete data message requires transmission full frames
+subframe consists ten words
+bits long
+bits subframe times subframes frame times frames message
+message bits long
+transmission rate bps
+seconds transmit entire almanac message
+frame begins precisely minute half minute atomic clock satellite
+subframe frame encodes week number time week
+data health satellite
+subframes ephemeris precise orbit satellite
+fourth subframes almanac
+coarse orbit status information satellites constellation data related error correction
+order obtain accurate satellite location transmitted message receiver demodulate message satellite includes solution seconds
+order collect transmitted almanacs receiver demodulate message seconds
+minutes
+satellites broadcast frequencies
+signals encoded code division multiple access
+cdma
+allowing messages individual satellites distinguished based unique encodings satellite
+receiver aware
+distinct types cdma encodings
+coarse
+acquisition
+code
+accessible general public
+precise
+code
+encrypted
+military access
+ephemeris updated hours generally valid hours
+provisions updates longer nominal conditions
+almanac updated typically
+additionally data weeks uploaded case transmission updates delay data
+satellites broadcast frequencies
+signal
+satellite network cdma spread spectrum technique low bitrate message data encoded high rate pseudo random
+prn
+sequence satellite
+receiver aware prn codes satellite reconstruct actual message data
+civilian
+transmits data
+chips
+military
+transmits
+chips
+actual internal reference satellites
+compensate relativistic effects make observers earth perceive time reference respect transmitters orbit
+modulated
+modulated
+encrypted called
+military equipment proper decryption key
+impart precise time day user
+signal frequency
+transmit data satellites ground stations
+data united states nuclear detonation
+nudet
+detection system
+usnds
+detect
+locate
+report nuclear detonations
+nudets
+earth atmosphere space
+usage enforcement nuclear test ban treaties
+band
+studied additional ionospheric correction
+citation needed
+frequency band
+added process gps modernization
+frequency falls internationally protected range aeronautical navigation
+promising interference circumstances
+block iif satellite provide signal set launched
+consists carrier components phase quadrature
+carrier component phase shift key
+bpsk
+modulated separate bit train
+civil gps signal
+eventually support safety life applications aviation provide improved availability accuracy
+conditional waiver recently granted lightsquared operate terrestrial broadband service band
+lightsquared applied license operate band early put public comment
+fcc asked lightsquared form study group gps community test gps receivers identify issue arise due larger signal power lightsquared terrestrial network
+gps community objected lightsquared
+msv skyterra
+applications november
+lightsquared applied modification ancillary terrestrial component
+atc
+authorization
+filing
+sat mod
+amounted request run orders magnitude power frequency band terrestrial base stations
+essentially repurposing supposed
+quiet neighborhood
+signals space equivalent cellular network
+testing half demonstrated impact lower spectrum minimal gps devices
+total gps devices affected
+upper intended lightsquared impact gps devices
+concern degrade gps signal consumer
+aviation week magazine reports latest testing
+june
+confirms
+significant jamming
+gps lightsquared system
+satellite signals modulated carrier frequency
+signals separated demodulation
+assigning satellite unique binary sequence gold code
+signals decoded demodulation addition gold codes satellites monitored receiver
+almanac information previously acquired
+receiver picks satellites listen prns
+unique numbers
+almanac information memory
+receiver enters search mode lock obtained satellites
+obtain lock
+unobstructed line sight receiver satellite
+receiver acquire almanac determine satellites listen
+detects satellite signal
+identifies distinct
+pattern
+delay estimate position read ephemeris data
+processing navigation message enables determination time transmission satellite position time
+information demodulation decoding
+advanced
+receiver messages received satellites determine satellite positions time
+components satellite position time designated
+subscript denotes satellite
+image
+math
+png time message reception board clock image
+math
+png
+true reception time image
+math
+png image
+math
+png receiver clock bias
+clock delay
+message transit time image
+math
+png
+assuming message traveled speed light
+image
+math
+png
+distance traveled image
+math
+png
+knowing distance receiver satellite satellite position implies receiver surface sphere centered satellite position radius equal distance
+receiver intersection surfaces spheres receives signals satellite
+ideal case errors
+receiver intersection surfaces spheres
+clock error bias
+amount receiver clock
+receiver unknowns
+components gps receiver position clock bias
+equations sphere surfaces
+terms pseudoranges
+image
+math
+png
+equations solved algebraic numerical methods
+bancroft method involves algebraic opposed numerical method case satellites
+bancroft method solutions unknowns
+solutions
+solutions earth solution
+satellites
+inverse matrix section
+satellites pseudoinverse matrix case matrix longer square
+receiver trilateration dimensional numerical root finding
+satellite position pseudorange determines sphere centered satellite radius equal pseudorange
+trilateration estimate receiver position based intersection sphere surfaces determined
+usual case intersections sphere surfaces
+point nearest surface sphere fourth satellite chosen
+denote signed distance current estimate receiver position sphere fourth satellite
+notation
+correction
+denotes function clock correction
+problem determine correction
+correction
+familiar problem finding zeroes dimensional linear function scalar variable
+iterative numerical methods
+found chapter root finding numerical recipes solve type problem
+alternatively
+multidimensional root finding methods newton raphson method
+approach linearize approximate solution
+image
+math
+png iteration
+solve linear equations derived quadratic equations obtain image
+math
+png
+guarantee method converges due fact multidimensional roots bounded
+neighborhood solution case gps
+solution found
+shown results comparable accuracy bancroft method
+satellites
+calculation
+number channels
+processing capability
+geometric dilution precision
+gdop
+determined system equations unique solution
+solved squares similar technique
+visible satellites
+results good
+errors estimated residuals
+combination satellites
+gdop factor calculated
+based relative sky directions satellites
+satellites picked
+pseudoranges combinations processed add estimates location clock offset
+receiver takes weighted average positions clock offsets
+final location time calculated
+location expressed specific coordinate system latitude longitude
+wgs geodetic datum country specific system
+gps error analysis examines sources errors gps results expected size errors
+gps makes corrections receiver clock errors effects residual errors corrected
+sources error include signal arrival time measurements
+numerical calculations
+atmospheric effects
+ephemeris clock data
+multipath signals
+natural artifical interference
+magnitude residual errors resulting sources dependent geometric dilution precision
+integrating external information calculation process materially improve accuracy
+augmentation systems generally named based information arrives
+systems transmit additional error information
+clock drift
+ephemera
+ionospheric delay
+characterize prior errors
+group additional navigational vehicle information
+examples augmentation systems include wide area augmentation system
+waas
+european geostationary navigation overlay service
+egnos
+differential gps
+inertial navigation systems
+ins
+assisted gps
+accuracy improved precise monitoring measurement existing gps signals additional alternate ways
+largest remaining error unpredictable delay ionosphere
+spacecraft broadcast ionospheric model parameters
+errors remain
+reason gps spacecraft transmit frequencies
+ionospheric delay defined function frequency total electron content
+tec
+path
+measuring arrival time difference frequencies determines tec precise ionospheric delay frequency
+military receivers decode
+code transmitted
+decryption keys
+codeless technique compare
+codes gain error information
+technique slow
+specialized surveying equipment
+future
+additional civilian codes expected transmitted
+gps modernization
+users perform dual frequency measurements directly compute ionospheric delay errors
+form precise monitoring called carrier phase enhancement
+cpgps
+corrects error arises pulse transition prn instantaneous
+correlation
+satellite receiver sequence matching
+operation imperfect
+cpgps carrier wave
+period image
+math
+png
+thousandth
+code bit period image
+math
+png
+act additional clock signal resolve uncertainty
+phase difference error normal gps amounts metres
+ambiguity
+cpgps working perfect transition reduces error centimetres
+ambiguity
+eliminating error source
+cpgps coupled dgps realizes centimetres
+absolute accuracy
+relative kinematic positioning
+rkp
+alternative precise gps based positioning system
+approach
+determination range signal resolved precision centimetres
+resolving number cycles signal transmitted received receiver combination differential gps
+dgps
+correction data
+transmitting gps signal phase information ambiguity resolution techniques statistical processing real time
+real time kinematic positioning
+rtk
+clocks synchronized coordinated universal time
+utc
+atomic clocks satellites set gps time
+gpst
+page united states naval observatory
+difference gps time corrected match rotation earth
+leap seconds corrections periodically added utc
+gps time set match coordinated universal time
+utc
+diverged
+lack corrections means gps time remains constant offset international atomic time
+tai
+tai gps
+periodic corrections performed board clocks synchronized ground clocks
+gps navigation message includes difference gps time utc
+july
+gps time ahead utc leap added utc june
+receivers subtract offset gps time calculate utc specific timezone values
+gps units show correct utc time receiving utc offset message
+gps utc offset field accommodate leap seconds
+bits
+current period earth rotation
+leap introduced approximately
+sufficient approximately year
+gps time theoretically accurate nanoseconds
+receivers lose accuracy interpretation signals accurate nanoseconds
+opposed year
+month
+day format gregorian calendar
+gps date expressed week number seconds week number
+week number transmitted ten bit field
+navigation messages
+gps week started
+january
+week number time
+august
+august
+determine current gregorian date
+gps receiver provided approximate date
+correctly translate gps date signal
+address concern modernized gps navigation message bit field repeats
+lasting year
+gps week
+method surveying applications carrier phase tracking
+period carrier frequency multiplied speed light wavelength
+accuracy wavelength detecting leading edge reduces component pseudorange error
+compares
+code
+accuracy requires measuring total number waves multiplied wavelength fractional wavelength
+requires specially equipped receivers
+method surveying applications
+triple differencing numerical root finding
+mathematical technique called squares estimate position receiver position
+compute difference satellites
+receivers
+finally epochs
+orders taking differences equally valid
+detailed discussion errors omitted
+satellite carrier total phase measured ambiguity number cycles
+image
+math
+png denote phase carrier satellite measured receiver time image
+math
+png
+notation shows meaning subscripts
+receiver
+satellite
+time
+alphabetical order arguments image
+math
+png balance readability conciseness
+image
+math
+png concise abbreviation
+define functions
+image
+math
+png
+return differences receivers
+satellites
+time points
+function variables subscripts arguments
+functions defined
+image
+math
+png function integer arguments
+valid argument functions
+image
+math
+png
+values defined
+image
+math
+png valid arguments functions constants image
+math
+png valid argument values defined
+receiver clock errors approximately eliminated differencing phases measured epoch
+difference designated image
+math
+png
+double differencing computes difference satellite difference
+approximately eliminates satellite clock errors
+double difference
+triple differencing subtracts receiver difference
+eliminates ambiguity integral number wavelengths carrier phase provided ambiguity change time
+triple difference result eliminates practically clock bias errors integer ambiguity
+atmospheric delay satellite ephemeris errors significantly reduced
+triple difference
+triple difference results estimate unknown variables
+position position unknown
+estimate position numerical root finding squares
+triple difference results independent time pairs possibly sufficient solve position components
+require numerical procedure
+approximation position required numerical method
+initial provided navigation message intersection sphere surfaces
+reasonable estimate key successful multidimensional root finding
+iterating time pairs fairly good initial produces observed triple difference result position
+processing additional time pairs improve accuracy
+overdetermining answer multiple solutions
+squares estimate overdetermined system
+squares determines position fits observed triple difference results positions criterion minimizing sum squares
+united states
+gps receivers regulated federal communications commission
+fcc
+part rules
+manuals gps enabled devices sold united states
+part device
+accept interference received
+including interference undesired operation
+respect gps devices
+fcc states gps receiver manufacturers
+receivers discriminate reception signals allocated spectrum
+spectrum allocated gps fcc
+fcc authorized licensed spectrum neighboring gps band virginia company lightsquared
+march
+fcc received application lightsquared predecessor
+motient services allocated frequencies integrated satellite terrestrial service
+gps industry council band emissions
+oobe
+agreement lightsquared prevent transmissions lightsquared ground based stations emitting transmissions neighboring gps band
+fcc adopted oobe agreement authorization lightsquared deploy ground based network allocated frequencies
+authorization reviewed approved
+interdepartment radio advisory committee
+includes
+department agriculture
+air force
+army
+coast guard
+federal aviation administration
+national aeronautics space administration
+interior
+department transportation
+january
+fcc conditionally authorized lightsquared wholesale customers
+buy
+sharp
+spire
+purchase integrated satellite ground based service lightsquared sell integrated service devices equipped ground based signal lightsquared allocated frequencies
+december
+gps receiver manufacturers expressed concerns fcc lightsquared signal interfere gps receiver devices fcc policy considerations leading january order pertain proposed maximum number ground based lightsquared stations maximum power stations operate
+january order makes final authorization contingent studies gps interference issues carried lightsquared led working group gps industry federal agency participation
+gps receiver manufacturers design gps receivers spectrum gps allocated band
+cases
+gps receivers designed spectrum direction frequency
+regulated fcc part rules
+gps receivers warranted protection signals gps allocated spectrum
+fcc adopted rules february allowed mobile satellite service
+mss
+licensees lightsquared construct ground based towers licensed spectrum
+promote efficient terrestrial wireless spectrum
+july
+fcc stated expected lightsquared authority offer integrated satellite terrestrial service
+provide mobile broadband services similar provided terrestrial mobile providers enhance competition mobile broadband sector
+gps receiver manufacturers argued lightsquared licensed spectrum envisioned high speed wireless broadband regulatory legal backing claim
+build public support efforts reverse fcc authorization lightsquared network
+gps receiver manufacturer trimble navigation
+formed
+coalition save gps
+fcc lightsquared made public commitments solve gps interference issue network allowed operate
+chris dancy aircraft owners pilots association
+airline pilots type systems affected
+realize
+problems affect federal aviation administration upgrade air traffic control system
+united states defense department guidance
+local emergency services including
+february
+federal communications commission
+fcc
+moved bar lightsquared planned national broadband network informed national telecommunications information administration
+ntia
+federal agency coordinates spectrum military federal government entities
+practical mitigate potential interference time
+lightsquared challenging fcc action
+satellite navigation systems states development include

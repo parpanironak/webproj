@@ -1,0 +1,216 @@
+Macro (computer science)
+
+macro
+macro
+greek
+big
+computer science rule pattern specifies input sequence
+sequence characters
+mapped replacement input sequence
+sequence characters
+defined procedure
+mapping process instantiates
+transforms
+macro specific sequence macro expansion
+facility writing macros provided part software application part programming language
+case
+macros make tasks application repetitive
+case
+tool programmer enable code reuse design domain specific languages
+macros make sequence computing instructions programmer single program statement
+making programming task tedious error prone
+called
+macros
+big block code expanded small sequence characters
+macros positional keyword parameters dictate conditional assembler program generates create entire programs program suites variables operating system
+platform factors
+term derives
+macro instruction
+expansions originally generating assembly language code
+keyboard macros mouse macros short sequences keystrokes mouse actions transformed
+time consuming
+sequences keystrokes mouse actions
+frequently repetitive sequences keystrokes mouse movements automated
+separate programs creating macros called macro recorders
+macro originally smartkey
+superkey
+keyworks
+popular
+means automatically format screenplays
+variety user input tasks
+programs based tsr
+terminate stay resident
+mode operation applied keyboard input
+matter context occurred
+extent fallen obsolescence advent mouse driven user interface availability keyboard mouse macros applications word processors spreadsheets
+making create application sensitive keyboard macros
+keyboard macros recent times life method exploiting economy massively multiplayer online role playing game
+mmorpg
+tirelessly performing boring
+repetitive
+low risk action
+player running macro earn large amount game currency resources
+effect larger macro player operates multiple accounts simultaneously
+operates accounts large amount time day
+money generated human intervention
+dramatically upset economy game
+reason
+macros violation tos eula mmorpgs
+administrators mmorpgs fight continual war identify punish macro users
+keyboard mouse macros created application built macro features called application macros
+created carrying sequence letting application record actions
+underlying macro programming language
+commonly scripting language
+direct access features application exist
+programmers text editor emacs
+short
+editing macros
+idea conclusion
+effect
+editor made macros
+emacs originally devised set macros editing language teco
+ported dialects lisp
+programmer text editor
+vim
+descendant
+full implementation macros
+record register
+macro
+person types keyboard replayed edited vba macros microsoft office
+vim scripting language called vimscript create macros
+visual basic applications
+vba
+programming language included microsoft office
+function evolved replaced macro languages originally included applications
+vba access microsoft windows system calls executes documents opened
+makes easy write computer viruses vba
+commonly macro viruses
+mid late
+common types computer virus
+late date
+microsoft patching updating programs
+addition
+current anti virus programs immediately counteract attacks
+languages assembly language rudimentary macro systems
+implemented preprocessors compiler assembler
+preprocessor macros work simple textual search replace token
+character
+level
+classic macros computer typesetting system tex derivatives
+functionality based macros
+macroml experimental system seeks reconcile static typing macro systems
+nemerle typed syntax macros
+productive syntax macros multi stage computation
+examples
+languages
+php
+embedded free format text
+source code languages
+mechanism code fragments recognised
+instance
+bracketed
+php
+similar textual macro language
+powerful
+fully featured languages
+macros
+language written subset
+compiler executes
+preprocessor statements
+compilation time
+output execution forms part code compiled
+ability familiar procedural language macro language power greater text substitution macros
+expense larger slower compiler
+frame technology frame macros command syntax text language
+frame generic component hierarchy nested subassemblies
+procedure integrating subassembly frames
+recursive process resolves integration conflicts favor higher level subassemblies
+outputs custom documents
+typically compilable source modules
+frame technology avoid proliferation similar subtly components
+issue plagued software development invention macros subroutines
+assembly languages powerful procedural macro facilities
+allowing block code repeated times loop unrolling
+completely syntax actual assembly language
+macro systems work level abstract syntax trees called syntactic macros preserve lexical structure original program
+macro systems
+preprocessor earlier
+work level lexical tokens preserve lexical structure reliably
+widely implementations syntactic macro systems found lisp languages common lisp
+scheme
+islisp racket
+languages suited style macro due uniform
+parenthesized syntax
+expressions
+uniform syntax makes easier determine invocations macros
+lisp macros transform program structure
+full language express transformations
+syntactic macros commonly found lisp languages
+implemented languages dylan
+scala
+nemerle
+earliest lisp macros form fexprs
+function operators inputs values computed arguments syntactic forms arguments
+output values computation
+words
+fexprs implemented level eval
+provided window meta evaluation layer
+generally found difficult model reason effectively
+alternate
+facility called defmacro
+system allowed programmers source source transformations applied program run
+mid eighties
+number papers introduced notion hygienic macro expansion
+syntax rules
+pattern based system syntactic environments macro definition macro distinct
+allowing macro definers users worry inadvertent variable capture
+referential transparency
+hygienic macros standardized scheme standards
+upcoming standard include hygienic macros
+number competing implementations hygienic macros exist syntax rules
+syntax case
+explicit renaming
+syntactic closures
+syntax rules syntax case standardized scheme standards
+number languages scheme implement hygienic macros implement partially hygienic systems
+examples include scala
+julia
+dylan
+nemerle
+felleisen conjectures categories make primary legitimate macros system
+proposed alternative macros
+anaphoric macros macro systems unhygienic selective unhygienic transformation
+interaction macros language features productive area research
+components modules large scale programming
+interaction macros constructs defined
+module component systems interact macros proposed scheme languages macros
+racket language extends notion macro system syntactic tower
+macros written languages including macros
+hygiene ensure syntactic layers distinct allowing modules export macros modules
+macros map short string
+macro invocation
+longer sequence instructions
+common
+macros reverse
+map sequence instructions macro string
+approach mobile programming system
+rudimentary macro compiler
+called simcmp
+map specific instruction set computer counterpart machine independent macros
+applications
+notably compilers
+written machine independent macros run change computer equipped rudimentary macro compiler
+application run context sophisticated powerful macro compiler
+written machine independent macro language
+macro compiler applied
+bootstrap fashion
+produce compiled efficient version
+advantage approach complex applications ported computer computer effort
+target machine architecture
+writing rudimentary macro compiler
+advent modern programming languages
+notably
+compilers virtually computers
+rendered approach superfluous
+instances
+compiler bootstrapping

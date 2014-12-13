@@ -1,0 +1,284 @@
+Computer-aided design
+
+design
+computer aided design
+cad
+computer aided drafting
+cad
+computer aided design drafting
+cadd
+computer systems assist creation
+modification
+analysis
+optimization design
+computer aided drafting describes process creating technical drawing computer software
+cad software increase productivity designer
+improve quality design
+improve communications documentation
+create database manufacturing
+cad output form electronic files print machining operations
+cad software vector based graphics depict objects traditional drafting
+produce raster graphics showing appearance designed objects
+cad involves shapes
+manual drafting technical engineering drawings
+output cad convey information
+materials
+processes
+dimensions
+tolerances
+application specific conventions
+cad design curves figures dimensional
+space
+curves
+surfaces
+solids dimensional
+space
+cad important industrial art extensively applications
+including automotive
+shipbuilding
+aerospace industries
+industrial architectural design
+prosthetics
+cad widely produce computer animation special effects movies
+advertising technical manuals
+modern ubiquity power computers means perfume bottles shampoo dispensers designed techniques unheard engineers
+enormous economic importance
+cad major driving force research computational geometry
+computer graphics
+hardware software
+discrete differential geometry
+design geometric models object shapes
+occasionally called computer aided geometric design
+cagd
+goal automated cad systems increase efficiency
+necessarily newcomers understand geometrical principles solid modeling
+scripting languages plasm
+programming language solid modeling
+suitable
+citation needed
+beginning computer aided design programs reduced draftsmen significantly
+small mid sized companies
+affordability ability run personal computers allowed engineers drafting work
+eliminating entire departments
+today world
+students universities learn manual drafting techniques required
+days hand drawing final drawings
+universities longer require protractors compasses create drawings
+classes focus cad software
+current computer aided design software packages range vector based drafting systems solid surface modelers
+modern cad packages frequently rotations dimensions
+allowing viewing designed object desired angle
+inside
+cad software capable dynamic mathematical modeling
+case marketed cadd
+cad design tools machinery drafting design types buildings
+small residential types
+houses
+largest commercial industrial structures
+hospitals factories
+cad detailed engineering models
+drawings physical components
+engineering process conceptual design layout products
+strength dynamic analysis assemblies definition manufacturing methods components
+design objects
+cad applications offer advanced rendering animation capabilities engineers visualize product designs
+cad important technology scope computer aided technologies
+benefits lower product development costs greatly shortened design cycle
+cad enables designers layout develop work screen
+print save future editing
+saving time drawings
+computer aided design tools engineers designers ways depending profession user type software question
+cad part digital product development
+dpd
+activity product lifecycle management
+plm
+processes
+tools
+integrated modules stand products
+cad accurate creation photo simulations required preparation environmental impact reports
+computer aided designs intended buildings superimposed photographs existing environments represent locale proposed facilities allowed built
+potential blockage view corridors shadow studies frequently analyzed cad
+cad proven engineers
+properties history
+features
+parameterization
+high level constraints
+construction history back model personal features work single area model
+parameters constraints determine size
+shape
+modeling elements
+features cad system variety tools measurement tensile strength
+yield strength
+stress strain element affected temperatures
+types cad
+requiring operator differently design virtual components manner
+producers lower end systems
+including number free open source programs
+provide approach drawing process fuss scale placement drawing sheet accompanied hand drafting
+adjusted required creation final draft
+wireframe basically extension drafting
+today
+line manually inserted drawing
+final product mass properties features directly added
+holes
+operator approaches similar fashion systems
+systems wireframe model make final engineering drawing views
+dumb
+solids created analogous manipulations real world objects
+today
+basic dimensional geometric forms
+prisms
+cylinders
+spheres
+solid volumes added subtracted
+assembling cutting real world objects
+dimensional projected views easily generated models
+basic solids include tools easily motion components
+set limits motion
+identify interference components
+parametric solid modeling requires operator referred
+design intent
+objects features created adjustable
+future modifications simple
+difficult
+impossible
+depending original part created
+perfect world
+representation component
+feature intended located center part
+operator locate center model
+convenient edge arbitrary point
+dumb
+solids
+parametric solids require operator consequences actions carefully
+software packages provide ability edit parametric parametric geometry understand undo design intent history geometry direct modeling functionality
+ability include additional ability infer correct relationships selected geometry
+tangency
+concentricity
+makes editing process time labor intensive freeing engineer burden understanding models
+kind history based systems called explicit modellers direct cad modelers
+top end systems offer capabilities incorporate organic
+aesthetics ergonomic features designs
+freeform surface modeling combined solids designer create products fit human form visual requirements interface machine
+originally software computer aided design systems developed computer languages fortran
+advancement object oriented programming methods radically changed
+typical modern parametric feature based modeler freeform surface systems built number key modules apis
+cad system built interaction graphical user interface
+gui
+nurbs geometry
+boundary representation
+rep
+data geometric modeling kernel
+geometry constraint engine employed manage associative relationships geometry
+wireframe geometry sketch components assembly
+unexpected capabilities associative relationships led form prototyping called digital prototyping
+contrast physical prototypes
+entail manufacturing time design
+cad models generated computer physical prototype scanned industrial scanning machine
+depending nature business
+digital physical prototypes initially chosen specific
+today
+cad systems exist major platforms
+windows
+linux
+unix mac
+packages support multiple platforms
+special hardware required cad software
+cad systems graphically computationally intensive tasks
+modern graphics card
+high speed
+possibly multiple
+cpus large amounts ram recommended
+human machine interface generally computer mouse pen digitizing graphics tablet
+manipulation view model screen spacemouse
+spaceball
+systems support stereoscopic glasses viewing model
+designers long computers calculations
+initial developments carried aircraft automotive industries area surface construction programming
+independent publicly published
+mathematical description work curves developed early robert issac newton pawtucket
+rhode island
+robert
+heinlein door summer suggested possibility robotic drafting dan
+important work polynomial curves sculptured surface pierre
+renault
+paul casteljau
+citroen
+steven anson coons
+mit
+ford
+james ferguson
+boeing
+carl boor
+birkhoff
+garibedian
+gordon
+riesenfeld
+argued turning point development sketchpad system mit ivan sutherland
+created graphics technology company
+david evans
+distinctive feature sketchpad allowed designer interact computer graphically
+design fed computer drawing crt monitor light pen
+effectively
+prototype graphical user interface
+indispensable feature modern cad
+commercial applications cad large companies automotive aerospace industries
+electronics
+large corporations afford computers capable performing calculations
+notable company projects
+patrick
+hanratty
+dac
+design augmented computer
+lockheed projects
+bell graphic renault
+unisurf car body design tooling
+influential events development cad founding mcs
+manufacturing consulting services
+hanratty
+wrote system adam
+automated drafting machining
+importantly supplied code companies mcdonnell douglas
+unigraphics
+computervision
+cadds
+calma
+gerber
+autotrol control data
+computers affordable
+application areas gradually expanded
+development cad software personal desktop computers impetus universal application areas construction
+key points foundation cad systems united computing
+intergraph
+ibm
+intergraph igds
+led bentley systems microstation
+cad implementations evolved dramatically
+initially
+typically limited producing drawings similar hand drafted drawings
+advances programming computer hardware
+notably solid modeling
+allowed versatile applications computers design activities
+key products solid modelling packages romulus
+shapedata
+uni solid
+unigraphics
+based padl release surface modeler catia
+dassault systemes
+autodesk founded john walker
+led system autocad
+milestone release pro
+engineer
+heralded greater usage feature based modeling methods parametric linking parameters features
+importance development cad development rep solid modeling kernels
+engines manipulating geometrically topologically consistent objects
+parasolid
+shapedata
+acis
+spatial technology
+end beginning
+inspired work ian braid
+led release mid range packages solidworks
+solid edge
+intergraph
+autodesk inventor

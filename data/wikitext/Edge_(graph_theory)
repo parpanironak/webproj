@@ -1,0 +1,251 @@
+Graph (mathematics)
+
+graph
+mathematics
+graph representation set objects pairs objects connected links
+interconnected objects represented mathematical abstractions called vertices
+links connect pairs vertices called edges
+typically
+graph depicted diagrammatic form set dots vertices
+joined lines curves edges
+graphs objects study discrete mathematics
+edges directed undirected
+vertices represent people party
+edge people shake hands
+undirected graph
+person shook hands person
+person shook hands person
+hand
+vertices represent people party
+edge person person person person
+graph directed
+knowledge necessarily symmetric relation
+person knowing person necessarily imply reverse
+fans celebrity
+celebrity fans
+type graph called directed graph edges called directed edges arcs
+vertices called nodes points
+edges called lines arcs
+graphs basic subject studied graph theory
+word
+graph
+sense
+sylvester
+definitions graph theory vary
+basic ways defining graphs related mathematical structures
+common sense term
+graph ordered pair
+comprising set vertices nodes set edges lines
+element subsets
+edge related vertices
+relation represented unordered pair vertices respect edge
+avoid ambiguity
+type graph precisely undirected simple
+senses graph stem conceptions edge set
+generalized notion
+set relation incidence associates edge vertices
+generalized notion
+multiset unordered pairs
+necessarily distinct
+vertices
+authors call type object multigraph pseudograph
+variants fully
+vertices belonging edge called ends
+endpoints
+end vertices edge
+vertex exist graph belong edge
+finite
+results true
+infinite graphs arguments fail infinite case
+order graph image
+math
+png
+number vertices
+graph size image
+math
+png
+number edges
+degree vertex number edges connect
+edge connects vertex ends
+loop
+counted
+edge
+graph theorists shorter notation
+edges undirected graph induce symmetric binary relation called adjacency relation
+specifically
+edge
+vertices adjacent
+denoted
+stated
+contexts define term graph degrees generality
+draw strict distinction
+terms
+commonly
+modern texts graph theory
+stated
+graph means
+undirected simple finite graph
+definitions
+undirected graph edges orientation
+edge
+identical edge
+ordered pairs
+sets
+multisets
+vertices
+directed graph digraph ordered pair
+arc
+considered directed
+called head called tail arc
+direct successor
+direct predecessor
+path leads
+successor reachable
+predecessor
+arc
+called arc
+inverted
+directed graph called symmetric
+arc
+inverted arc belongs
+symmetric loopless directed graph
+equivalent simple undirected graph
+pairs inverse arcs correspond edges
+edges number
+half number arcs
+variation definition oriented graph
+arcs
+mixed graph graph edges directed undirected
+written ordered triple
+defined
+directed undirected graphs special cases
+loop edge
+directed undirected
+starts ends vertex
+permitted permitted application
+context
+edge ends called link
+term
+multigraph
+generally understood multiple edges
+loops
+allowed
+graphs defined loops multiple edges
+multigraph defined graph loops
+graphs defined disallow loops multiple edges
+term defined
+graph
+multiple edges loops
+term
+pseudograph
+meaning
+quiver
+multidigraph
+directed graph arrow source target
+quiver directed loops
+opposed multigraph
+simple graph undirected graph loops
+edges connected ends vertex
+edge vertices
+simple graph edges graph form set
+multiset
+edge distinct pair vertices
+simple graph vertices vertex degree
+converse
+exist simple graphs vertices vertex degree smaller
+graph weighted graph number
+weight
+assigned edge
+weights represent
+costs
+lengths capacities
+depending problem hand
+authors call graph network
+exceptional situations edges end
+called half edges
+ends
+loose edges
+signed graphs biased graphs
+regular graph graph vertex number neighbours
+vertex degree valency
+regular graph vertices degree called graph regular graph degree
+complete graphs feature pair vertices edge connecting
+finite graph graph
+finite sets
+infinite graph infinite set vertices edges
+commonly graph theory implied graphs discussed finite
+graphs infinite
+specifically stated
+undirected graph
+vertices called connected path
+called disconnected
+graph called connected pair distinct vertices graph connected
+called disconnected
+graph called vertex connected edge connected set vertices
+edges
+exists
+removed
+disconnects graph
+vertex connected graph called simply connected
+directed graph called weakly connected replacing directed edges undirected edges produces connected
+undirected
+graph
+strongly connected strong directed path directed path pair vertices
+edges graph called adjacent
+coincident
+share common vertex
+arrows directed graph called consecutive head nock
+notch end
+similarly
+vertices called adjacent share common edge
+consecutive notch head arrow
+case common edge join vertices
+edge vertex edge called incident
+graph vertex edges called trivial graph
+graph vertices edges edgeless graph
+graph vertices edges called null graph empty graph
+terminology consistent mathematicians object
+weighted graph digraph
+edge
+variously called cost
+weight
+length term depending application
+graphs arise contexts
+optimal routing problems traveling salesman problem
+vertices graph
+nature elements set
+distinguishable
+kind graph called vertex labeled
+questions treat vertices indistinguishable
+graph called unlabeled
+vertices distinguishable properties graph
+numbers incident edges
+remarks apply edges
+graphs labeled edges called edge labeled graphs
+graphs labels attached edges vertices generally designated labeled
+graphs vertices indistinguishable edges indistinguishable called unlabeled
+note literature term labeled apply kinds labeling
+serves distinguish vertices edges
+basic examples
+advanced kinds graphs
+operations produce graphs
+classified categories
+hypergraph
+edge join vertices
+undirected graph simplicial complex consisting simplices
+edges
+simplices
+vertices
+complexes generalizations graphs higher dimensional simplices
+graph rise matroid
+model theory
+graph structure
+case
+limitation number edges
+cardinal number
+continuous graph
+computational biology
+power graph analysis introduces power graphs alternative representation undirected graphs
+geographic information systems
+geometric networks closely modeled graphs
+borrow concepts graph theory perform spatial analysis road networks utility grids

@@ -1,0 +1,308 @@
+Wikipedia:Manual of Style/Dates and numbers
+
+numbers
+part manual style helps editors achieve consistency formatting numbers
+dates
+times
+measurements
+currencies
+coordinates articles
+consistency style formatting promotes clarity cohesion
+important article
+goal make encyclopedia easier intuitive
+write text misunderstood
+account familiar definitions
+easier understood
+manual options
+consistency maintained article good reason
+direct quotations
+original text preserved
+arbitration committee ruled editors change article guideline defined style substantial reason unrelated mere choice style
+revert warring optional styles unacceptable
+discussion determine style article
+defer style major contributor
+avoid statements date quickly
+pages current events updated regularly
+avoid words
+modern times
+intended meaning clear
+recently
+rare occasions redundant
+phrases sixties
+writing past events precise phrases august
+future current events
+phrases february beginning time dependence information reader
+relative time words acceptable long periods
+geological epochs
+considered
+ancestors believed diverged great apes long ago
+recently developed fire
+editors information date
+statements current future events technique
+template tag information dated quickly
+produces text categorises article appropriately
+technique alternative precise language
+instance
+replace start information
+start
+lost
+plain text advanced feature start
+context determines hour clock
+colons separate hours
+minutes seconds
+time day expressed figures spelled
+details
+information time intervals
+minutes
+numbers figures words
+manual style
+capital items
+date styles acceptable articles
+subject rules included
+date styles acceptable
+dmy
+mdy
+dates birth death provided articles people
+notably start articles
+charles robert darwin frs
+english naturalist
+dates separated dash
+html code
+date space
+dash preceded space
+preferably breaking space
+code
+space
+biographical infobox templates
+provide age calculation microformat compatibility date mathematics templates
+documentation templates learn
+manual style
+biographies guidelines articles people
+dates ranges follow patterns birth death dates
+dates linked purely purpose autoformatting
+linking previously recommended
+dates linked germane topical subject
+discussed
+items
+dates calendar
+long date julian gregorian calendars provided
+article early history islam give dates islamic julian calendars
+calendar julian gregorian
+clear readers
+dating method follow reliable secondary sources
+reliable secondary sources disagree
+choose common reliable secondary sources note usage footnote
+places times
+dates january start year
+common english language convention annunciation style britain colonies
+year started march
+annunciation day
+year article list styles
+january assumed opening date years
+reason start date
+noted
+mention style style dates article
+glorious revolution
+footnote provided usage
+stating style refers start year adjustment gregorian calendar
+writing date
+event happened time zone
+date attack pearl harbor december
+hawaii time
+date
+difficult judge
+significant
+hacker based japan attacked pentagon computer
+time zone pentagon
+attack effect
+include utc date time event article
+indicating utc
+approximately
+alternatively
+include utc offset
+general rule
+body article
+single digit numbers spelled words
+numbers greater
+expressed words
+rendered numerals words
+sixteen
+eighty
+hundred
+requiring words numerals
+applies ordinal cardinal numbers
+frequent exceptions rules
+unary minus
+constitute part numeral
+case negative numbers
+small numbers scientific notation
+exponent
+hyphen
+proper minus signs disadvantages avoided
+keyboard friendly notations
+mol suddenly wrapped browser window
+making quantity unreadable
+note
+negative numbers require space
+sign binary operation subtraction
+correct
+incorrect
+preferred repeating decimal place bar digits repeat
+achieve template
+markup
+fraction
+written decimal form
+rendering
+short explanation notation
+called vinculum
+time article
+authors place repeating digits parentheses overbar
+overbars typesetting environment
+avoided avoid confusion expressing uncertainty
+numbers expressed bases base ten
+articles
+adopted system writing
+main
+unit conversion parentheses
+unit conversions
+english speaking countries units measurement
+follow
+primary
+unit conversion parentheses
+enables readers understand measurement
+examples
+mississippi river miles
+long
+murray river kilometres
+long
+conversion errors occur general reports
+primary sources authoritative sources
+avoid rounding errors
+general report stated eurostar designed speeds
+mph
+actual design speed
+error crept original speed converted mph back
+common conversion factors measurements
+clue conversion problems
+number moons estimated diameters increments miles
+implied precision
+estimates primary source increments precise miles
+implied precision miles
+uncertainty data
+straightforward accurate conversion loose estimates
+diameter moon estimated miles order magnitude
+simple conversion kilometers introduce significant loss accuracy gross change precision
+order magnitude estimate miles implies range miles
+secondary source commonly convert estimate specious
+unit names symbols follow practice reliable sources
+guidelines helpful
+american spellings unit names pages written american english
+specific units
+section
+quantities bits bytes
+prefixes kilo
+symbol
+mega
+giga
+ambiguous
+based decimal system
+standard prefixes
+meaning
+based binary system
+meaning
+binary meanings commonly relation solid state memory
+ram
+decimal meanings common data transmission rates
+disk storage theoretical calculations modern academic textbooks
+follow recommendations prefixes articles
+iec prefixes kibi
+mebi
+gibi
+symbols
+familiar readers
+complete rewrite units measurements
+june
+generally circumstances
+common practice bytes data traditionally quantified binary prefixes
+mega kilo
+meaning
+unit symbols
+iec guideline creating binary prefixes
+mebi
+kibi
+distinguish meaning decimal prefixes
+mega kilo
+meaning
+binary
+consensus favours retention binary prefixes computing related contexts
+ram
+ram
+liter american english
+meter american english
+metric ton american english
+coordinates degrees
+minutes
+seconds arc
+title means coordinates displayed title
+coordinates decimal degrees
+optional parameters separated pipe
+region
+type
+event
+title
+article
+subject article
+geographical coordinates earth entered template standardise format provide link maps coordinates
+long templates adhered
+robot performs functions automatically
+obtain coordinates
+avoid excessive precision
+types template
+depending form coordinates
+formats
+degrees
+including decimal values
+degrees
+minutes
+degrees
+minutes
+seconds
+city oslo
+located
+enter
+country
+botswana
+precision
+higher levels precision obtained seconds
+coordinates entered decimal values
+increasing decreasing number decimal places control precision
+trailing zeroes included
+values level precision
+london heathrow airport
+amsterdam
+jan mayen mount baker examples articles geographical coordinates
+generally
+larger object mapped
+precise coordinates
+giving location city
+precision greater meters needed point city
+central administrative building
+specific buildings objects similar size justify precisions meters meter cases
+final field
+specification attributes
+type
+region scale
+adding coordinates
+remove tag article
+present
+information
+geographical coordinates wikiproject
+templates variable names coordinates
+lat
+lat
+lat
+lat
+long
+long
+long
+long

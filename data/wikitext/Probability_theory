@@ -1,0 +1,292 @@
+Probability theory
+
+probability theory
+probability theory branch mathematics concerned probability
+analysis random phenomena
+central objects probability theory random variables
+stochastic processes
+events
+mathematical abstractions deterministic events measured quantities single occurrences evolve time apparently random fashion
+individual coin toss roll dice considered random event
+repeated times sequence random events exhibit patterns
+studied predicted
+representative mathematical results describing patterns law large numbers central limit theorem
+mathematical foundation statistics
+probability theory essential human activities involve quantitative analysis large sets data
+methods probability theory apply descriptions complex systems partial knowledge state
+statistical mechanics
+great discovery twentieth century physics probabilistic nature physical phenomena atomic scales
+quantum mechanics
+mathematical theory probability roots attempts analyze games chance gerolamo cardano sixteenth century
+pierre fermat blaise pascal seventeenth century
+problem points
+christiaan huygens published book subject century big work laplace considered today classic interpretation
+initially
+probability theory considered discrete events
+methods combinatorial
+eventually
+analytical considerations compelled incorporation continuous variables theory
+culminated modern probability theory
+foundations laid andrey nikolaevich kolmogorov
+kolmogorov combined notion sample space
+introduced richard von mises
+measure theory presented axiom system probability theory
+fairly quickly undisputed axiomatic basis modern probability theory alternatives exist
+adoption finite countable additivity bruno finetti
+introductions probability theory treat discrete probability distributions continuous probability distributions separately
+mathematically advanced measure theory based treatment probability covers discrete
+continuous
+mix
+experiment produce number outcomes
+collection results called sample space experiment
+power set sample space formed collections results
+rolling die produces results
+collection results corresponds odd number
+subset
+element power set sample space die rolls
+collections called events
+case
+event die falls odd number
+results occur fall event
+event occurred
+probability assigning
+event
+requirement event made results
+event
+assigned
+qualify probability distribution
+assignment values satisfy requirement collection mutually exclusive events
+events common results
+events
+mutually exclusive
+probability events occur sum probabilities individual events
+probability events
+occur
+probability event
+event encompasses possibility number rolled
+mutually exclusive event probability
+event
+probability
+absolute certainty
+discrete probability theory deals events occur countable sample spaces
+examples
+throwing dice
+experiments decks cards
+random walk
+classical definition
+initially probability event occur defined number cases favorable event
+number total outcomes equiprobable sample space
+classical definition probability
+event
+occurrence number die rolled
+probability image
+math
+png
+faces numbers face probability appearing
+modern definition
+modern definition starts finite countable set called sample space
+relates set outcomes classical sense
+denoted image
+math
+png
+assumed element image
+math
+png
+intrinsic
+probability
+image
+math
+png attached
+satisfies properties
+probability function
+lies sample space
+sum
+values sample space equal
+event defined subset image
+math
+png sample space image
+math
+png
+probability event image
+math
+png defined
+probability entire sample space
+probability null event
+function image
+math
+png mapping point sample space
+probability
+called probability mass function abbreviated pmf
+modern definition answer probability mass functions obtained
+builds theory assumes existence
+continuous probability theory deals events occur continuous sample space
+classical definition
+classical definition breaks confronted continuous case
+bertrand paradox
+modern definition
+outcome space random variable set real numbers
+image
+math
+png
+subset thereof
+function called cumulative distribution function
+cdf
+image
+math
+png exists
+defined image
+math
+png
+returns probability equal
+cdf necessarily satisfies properties
+image
+math
+png absolutely continuous
+derivative exists integrating derivative cdf back
+random variable probability density function pdf simply density image
+math
+png
+set image
+math
+png
+probability random variable image
+math
+png
+case probability density function exists
+written
+pdf exists continuous random variables
+cdf exists random variables
+including discrete random variables
+values image
+math
+png
+concepts generalized multidimensional cases image
+math
+png continuous sample spaces
+raison measure theoretic treatment probability unifies discrete continuous cases
+makes difference question measure
+covers distributions discrete continuous mixtures
+distributions mix discrete continuous
+random variable probability
+takes random normal distribution probability
+studied extent pdf image
+math
+png
+image
+math
+png dirac delta function
+distributions mix
+cantor distribution positive probability single point
+density
+modern approach probability theory solves problems measure theory define probability space
+set image
+math
+png
+called sample space
+algebra image
+math
+png
+measure image
+math
+png defined image
+math
+png called probability measure image
+math
+png
+image
+math
+png borel algebra set real numbers
+unique probability measure image
+math
+png cdf
+vice versa
+measure cdf induced cdf
+measure coincides pmf discrete variables pdf continuous variables
+making measure theoretic approach free fallacies
+probability set image
+math
+png algebra image
+math
+png defined
+integration respect measure image
+math
+png induced image
+math
+png
+providing understanding unification discrete continuous probabilities
+measure theoretic treatment work probabilities image
+math
+png
+theory stochastic processes
+study brownian motion
+probability defined space functions
+random variables occur probability theory describe natural physical processes
+distributions gained special importance probability theory
+fundamental discrete distributions discrete uniform
+bernoulli
+binomial
+negative binomial
+poisson geometric distributions
+important continuous distributions include continuous uniform
+normal
+exponential
+gamma beta distributions
+probability theory
+notions convergence random variables
+listed order strength
+subsequent notion convergence list implies convergence preceding notions
+names
+weak convergence weaker strong convergence
+fact
+strong convergence implies convergence probability
+convergence probability implies weak convergence
+reverse statements true
+common intuition suggests fair coin tossed times
+roughly half time turn heads
+half turn tails
+coin tossed
+ratio number heads number tails approach unity
+modern probability formal version intuitive idea
+law large numbers
+law remarkable assumed foundations probability theory
+emerges foundations theorem
+links theoretically derived probabilities actual frequency occurrence real world
+law large numbers considered pillar history statistical theory widespread influence
+law large numbers
+lln
+states sample average
+sequence independent identically distributed random variables image
+math
+png converges common expectation image
+math
+png
+provided expectation image
+math
+png finite
+forms convergence random variables separates weak strong law large numbers
+lln event probability observed repeatedly independent experiments
+ratio observed frequency event total number repetitions converges
+image
+math
+png independent bernoulli random variables taking values probability probability
+image
+math
+png
+image
+math
+png converges surely
+central limit theorem
+clt
+great results mathematics
+chapter
+explains ubiquitous occurrence normal distribution nature
+theorem states average independent identically distributed random variables finite variance normal distribution irrespective distribution original random variables
+formally
+image
+math
+png independent random variables image
+math
+png variance image
+math
+png sequence random variables
+converges distribution standard normal random variable

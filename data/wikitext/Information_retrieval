@@ -1,0 +1,215 @@
+Information retrieval
+
+information retrieval
+information retrieval activity obtaining information resources relevant information collection information resources
+searches based metadata full text indexing
+automated information retrieval systems reduce called
+information overload
+universities public libraries systems provide access books
+journals documents
+web search engines visible applications
+seward
+bram stoker dracula
+idea computers search relevant pieces information popularized article vannevar bush
+automated information retrieval systems introduced
+techniques shown perform small text corpora cranfield collection
+thousand documents
+large scale retrieval systems
+lockheed dialog system
+early
+department defense national institute standards technology
+nist
+cosponsored text retrieval conference
+trec
+part tipster text program
+aim information retrieval community supplying infrastructure needed evaluation text retrieval methodologies large text collection
+catalyzed research methods scale huge corpora
+introduction web search engines boosted large scale retrieval systems
+digital methods storing retrieving information led phenomenon digital obsolescence
+digital resource ceases readable physical media
+reader required read media
+hardware
+software runs
+longer
+information initially easier retrieve paper
+effectively lost
+information retrieval process begins user enters query system
+queries formal statements information
+search strings web search engines
+information retrieval query uniquely identify single object collection
+objects match query
+degrees relevancy
+object entity represented information database
+user queries matched database information
+depending application data objects
+text documents
+images
+audio
+mind maps videos
+documents stored directly system
+represented system document surrogates metadata
+systems compute numeric score object database matches query
+rank objects
+top ranking objects shown user
+process iterated user wishes refine query
+measures evaluating performance information retrieval systems proposed
+measures require collection documents query
+common measures assume ground truth notion relevancy
+document relevant relevant query
+practice queries posed shades relevancy
+precision fraction documents retrieved relevant user information
+binary classification
+precision analogous positive predictive
+precision takes retrieved documents account
+evaluated cut rank
+topmost results returned system
+measure called precision
+note meaning usage
+precision
+field information retrieval differs definition accuracy precision branches science technology
+recall fraction documents relevant query successfully retrieved
+binary classification
+recall called sensitivity
+looked probability relevant document retrieved query
+trivial achieve recall returning documents response query
+recall measure number relevant documents
+computing precision
+proportion relevant documents retrieved
+relevant documents
+binary classification
+fall closely related specificity equal image
+math
+png
+looked probability relevant document retrieved query
+trivial achieve fall returning documents response query
+weighted harmonic precision recall
+traditional measure balanced score
+image
+math
+png measure
+recall precision evenly weighted
+general formula negative real image
+math
+png
+commonly measures image
+math
+png measure
+weights recall precision
+image
+math
+png measure
+weights precision recall
+measure derived van rijsbergen
+image
+math
+png
+measures effectiveness retrieval respect user attaches image
+math
+png times importance recall precision
+based van rijsbergen effectiveness measure image
+math
+png
+relationship image
+math
+png image
+math
+png
+precision recall single metrics based list documents returned system
+systems return ranked sequence documents
+desirable order returned documents presented
+computing precision recall position ranked sequence documents
+plot precision recall curve
+plotting precision image
+math
+png function recall image
+math
+png
+average precision computes average image
+math
+png interval image
+math
+png image
+math
+png
+integral practice replaced finite sum position ranked sequence documents
+image
+math
+png rank sequence retrieved documents
+image
+math
+png number retrieved documents
+image
+math
+png precision cut image
+math
+png list
+image
+math
+png change recall items image
+math
+png image
+math
+png
+finite sum equivalent
+image
+math
+png indicator function equaling item rank image
+math
+png relevant document
+note average relevant documents relevant documents retrieved precision score
+authors choose interpolate image
+math
+png function reduce impact
+wiggles
+curve
+pascal visual object classes challenge
+benchmark computer vision object detection
+computes average precision averaging precision set evenly spaced recall levels
+image
+math
+png interpolated precision takes maximum precision recalls greater image
+math
+png
+alternative derive analytical image
+math
+png function assuming parametric distribution underlying decision values
+binormal precision recall curve obtained assuming decision values classes follow gaussian distribution
+average precision referred geometrically area precision recall curve
+citation needed
+precision position ranking results query relevant documents
+measure highly correlated average precision
+precision equal recall position
+average precision set queries average precision scores query
+number queries
+dcg graded relevance scale documents result set evaluate usefulness
+gain
+document based position result list
+premise dcg highly relevant documents appearing lower search result list penalized graded relevance reduced logarithmically proportional position result
+dcg accumulated rank position image
+math
+png defined
+result set vary size queries systems
+compare performances normalised version dcg ideal dcg
+end
+sorts documents result list relevance
+producing ideal dcg position
+image
+math
+png
+normalizes score
+ndcg values queries averaged obtain measure average performance ranking algorithm
+note perfect ranking algorithm
+image
+math
+png image
+math
+png producing ndcg
+ndcg calculations relative values interval
+cross query comparable
+effectively retrieving relevant documents strategies
+documents typically transformed suitable representation
+retrieval strategy incorporate specific model document representation purposes
+picture illustrates relationship common models
+picture
+models categorized dimensions
+mathematical basis properties model

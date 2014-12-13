@@ -1,0 +1,746 @@
+Geographic information system
+
+geographic information system
+geographic information system
+gis
+system designed capture
+store
+manipulate
+analyze
+manage
+present types geographical data
+acronym gis geographical information science geospatial information studies refer academic discipline career working geographic information systems
+simplest terms
+gis merging cartography
+statistical analysis
+database technology
+gis thought digitally creates
+manipulates
+spatial areas jurisdictional
+purpose
+application oriented
+generally
+gis custom designed organization
+gis developed application
+jurisdiction
+enterprise
+purpose necessarily interoperable compatible gis developed application
+jurisdiction
+enterprise
+purpose
+gis spatial data infrastructure
+concept restrictive boundaries
+general sense
+term describes information system integrates
+stores
+edits
+analyzes
+shares
+displays geographic information informing decision making
+gis applications tools users create interactive queries
+user created searches
+analyze spatial information
+edit data maps
+present results operations
+geographic information science science underlying geographic concepts
+applications
+systems
+gis broad term
+refer number technologies
+processes
+attached operations
+engineering
+planning
+management
+transport
+logistics analysis
+applications spatial analysis epidemiology
+rapport sur marche les effets dans paris seine
+french geographer charles picquet represented city paris halftone color gradient percentage deaths cholera
+john snow depicted cholera outbreak london points represent locations individual cases
+possibly earliest geographic methodology epidemiology
+study distribution cholera led source disease
+contaminated water pump
+broad street pump
+handle disconnected
+terminating outbreak
+basic elements topography theme existed previously cartography
+john snow map unique
+cartographic methods depict analyze clusters geographically dependent phenomena
+development photozincography
+allowed maps split layers
+layer vegetation water
+printing drawing labour intensive task separate layer meant worked layers confuse draughtsman
+work originally drawn glass plates plastic film introduced
+advantages lighter
+storage space brittle
+layers finished
+combined image large process camera
+colour printing
+layers idea creating separate printing plates colour
+layers main typical features contemporary gis
+photographic process considered gis maps images database link
+computer hardware development spurred nuclear weapon research led general purpose computer
+mapping
+applications early
+year development world true operational gis ottawa
+ontario
+canada federal department forestry rural development
+developed
+roger tomlinson
+called canada geographic information
+cgis
+store
+analyze
+manipulate data collected canada land effort determine land capability rural canada mapping information soils
+agriculture
+recreation
+wildlife
+waterfowl
+forestry land scale
+rating classification factor added permit analysis
+cgis improvement
+computer mapping
+applications provided capabilities overlay
+measurement
+digitizing
+scanning
+supported national coordinate system spanned continent
+coded lines arcs true embedded topology stored attribute locational information separate files
+result
+tomlinson
+father gis
+overlays promoting spatial analysis convergent geographic data
+cgis lasted built large digital land resource database canada
+developed mainframe based system support federal provincial resource planning management
+strength continent wide analysis complex datasets
+cgis commercially
+howard
+fisher formed laboratory computer graphics spatial analysis harvard graduate school design
+lcgsa
+number important theoretical concepts spatial data handling developed
+distributed seminal software code systems
+symap
+grid
+served sources subsequent commercial universities
+research centers corporations worldwide
+early
+computing
+intergraph
+bentley systems incorporated
+environmental systems research institute
+esri
+computer aided resource information system
+mapinfo
+mapinfo
+earth resource data analysis system
+emerged commercial vendors
+successfully incorporating
+combining generation approach separation spatial attribute information generation approach organizing attribute data database structures
+parallel
+development public domain systems
+moss grass gis
+began
+mapping display analysis system
+midas
+desktop gis product emerged dos operating system
+renamed mapinfo windows ported microsoft windows platform
+began process moving gis research department business environment
+end
+rapid growth systems consolidated standardized platforms users beginning explore viewing internet
+requiring data format transfer standards
+recently
+growing number free
+open source gis packages run range operating systems customized perform specific tasks
+increasingly geospatial data mapping applications made world wide web
+authoritative articles history gis published
+modern gis technologies digital information
+digitized data creation methods
+common method data creation digitization
+hard copy map survey plan transferred digital medium cad program
+geo referencing capabilities
+wide availability ortho rectified imagery
+satellite aerial sources
+heads digitizing main avenue geographic data extracted
+heads digitizing involves tracing geographic data directly top aerial imagery traditional method tracing geographic form separate digitizing tablet
+heads digitizing
+gis spatio temporal
+space time
+location key index variable information
+relational database text numbers relate tables common key index variables
+gis relate unrelated information location key index variable
+key location
+extent space time
+variable located spatially
+increasingly temporally
+referenced gis
+locations extents earth recorded dates
+times occurrence
+coordinates representing
+longitude
+latitude
+elevation
+gis coordinates represent quantified systems temporo spatial reference
+film frame number
+stream gage station
+highway mile marker
+surveyor benchmark
+building address
+street intersection
+entrance gate
+water depth sounding
+pos cad drawing origin
+units
+units applied recorded temporal spatial data vary widely
+data
+map projections
+earth based location extent references
+ideally
+relatable ultimately
+real
+physical location extent
+related accurate spatial information
+incredible variety real world projected past future data analyzed
+interpreted represented facilitate education decision making
+key characteristic gis begun open avenues scientific inquiry behaviors patterns previously considered unrelated real world information
+gis accuracy depends source data
+encoded data referenced
+land surveyors provide high level positional accuracy utilizing gps derived positions
+high resolution digital terrain aerial imagery
+powerful computers web technology changing quality
+utility
+expectations gis serve society grand scale
+source data impact gis accuracy paper maps
+limited achieving desired accuracy aging maps affects dimensional stability
+developing digital topographic data base gis
+topographical maps main source aerial photography satellite images extra sources collecting data identifying attributes mapped layers location facsimile scale
+scale map geographical rendering area representation type important aspects information content depends scale set resulting locatability map representations
+order digitize map
+map checked theoretical dimensions
+scanned raster format
+resulting raster data theoretical dimension rubber sheeting
+warping technology process
+quantitative analysis maps brings accuracy issues focus
+electronic equipment make measurements gis precise machines conventional map analysis
+geographical data inherently inaccurate
+inaccuracies propagate ways difficult predict
+gis data represents real objects
+roads
+land
+elevation
+trees
+waterways
+digital data determining mix
+real objects divided abstractions
+discrete objects
+house
+continuous fields
+rainfall amount
+elevations
+traditionally
+broad methods store data gis kinds abstractions mapping references
+raster images vector
+points
+lines
+polygons stuff mapped location attribute references
+hybrid method storing data identifying point clouds
+combine dimensional points rgb information point
+returning
+color image
+gis thematic maps realistically visually descriptive set show determine
+data information time
+variety methods enter data gis stored digital format
+existing data printed paper pet film maps digitized scanned produce digital data
+digitizer produces vector data operator traces points
+lines
+polygon boundaries map
+scanning map results raster data processed produce vector data
+survey data directly entered gis digital data collection systems survey instruments technique called coordinate geometry
+cogo
+positions global navigation satellite system
+gnss
+global positioning system collected imported gis
+current trend data collection users ability utilize field computers ability edit live data wireless connections disconnected editing sessions
+enhanced availability low cost mapping grade gps units decimeter accuracy real time
+eliminates post process
+import
+update data office fieldwork collected
+includes ability incorporate positions collected laser rangefinder
+technologies users create maps analysis directly field
+making projects efficient mapping accurate
+remotely sensed data plays important role data collection consist sensors attached platform
+sensors include cameras
+digital scanners lidar
+platforms consist aircraft satellites
+recently development miniature uavs
+aerial data collection lower costs
+frequent basis
+aeryon scout map ground sample distance inch
+majority digital data photo interpretation aerial photographs
+soft copy workstations digitize features directly stereo pairs digital photographs
+systems data captured dimensions
+elevations measured directly stereo pair principles photogrammetry
+analog aerial photos scanned entered soft copy system
+high quality digital cameras step skipped
+satellite remote sensing important source spatial data
+satellites sensor packages passively measure reflectance parts electromagnetic spectrum radio waves active sensor radar
+remote sensing collects raster data processed bands identify objects classes interest
+land cover
+data captured
+user data captured relative accuracy absolute accuracy
+influence information interpreted cost data capture
+entering data gis
+data requires editing
+remove errors
+processing
+vector data made
+topologically correct
+advanced analysis
+road network
+lines connect nodes intersection
+errors undershoots overshoots removed
+scanned maps
+blemishes source map removed resulting raster
+fleck dirt connect lines connected
+data restructuring performed gis convert data formats
+gis convert satellite image map vector structure generating lines cells classification
+determining cell spatial relationships
+adjacency inclusion
+advanced data processing occur image processing
+technique developed nasa private sector provide contrast enhancement
+false colour rendering variety techniques including dimensional fourier transforms
+digital data collected stored ways
+data sources compatible
+gis convert geographic data structure
+earth represented models
+provide set coordinates
+latitude
+longitude
+elevation
+point earth surface
+simplest model assume earth perfect sphere
+measurements earth accumulated
+models earth sophisticated accurate
+fact
+models called datums apply areas earth provide increased accuracy
+measurements
+world geodetic system worldwide measurements
+gis spatial analysis rapidly changing field
+gis packages increasingly including analytical tools standard built facilities
+optional toolsets
+add ins analysts
+instances provided original software suppliers
+commercial vendors collaborative commercial development teams
+whilst cases facilities developed provided parties
+products offer software development kits
+sdks
+programming languages language support
+scripting facilities
+special interfaces developing analytical tools variants
+website
+geospatial analysis
+book
+ebook attempt provide comprehensive guide subject
+increased availability created dimension business intelligence termed
+spatial intelligence
+openly delivered intranet
+democratizes access geographic social network data
+gis spatial analysis key element security intelligence geoint
+slope defined steepness gradient unit terrain
+measured angle degrees percentage
+aspect defined direction unit terrain faces
+aspect expressed degrees north
+slope
+aspect
+surface curvature terrain analysis derived neighborhood operations elevation values cell adjacent neighbours
+slope function resolution
+spatial resolution calculate slope aspect
+authors skidmore
+jones zhou liu compared techniques calculating slope aspect
+method derive slope aspect
+elevation point unit terrain perpendicular tangents
+slope
+passing point
+east west north south direction
+tangents give components
+determine direction slope
+aspect slope
+gradient defined vector quantity components equal partial derivatives surface directions
+calculation grid slope aspect methods determine east west north south component formulas
+image
+math
+png
+image
+math
+png
+zhou liu describe algorithm calculating aspect
+image
+math
+png
+difficult relate wetlands maps rainfall amounts recorded points airports
+television stations
+high schools
+gis
+depict dimensional characteristics earth surface
+subsurface
+atmosphere information points
+gis quickly generate map isopleth contour lines differing amounts rainfall
+map thought rainfall contour map
+sophisticated methods estimate characteristics surfaces limited number point measurements
+dimensional contour map created surface modeling rainfall point measurements overlaid analyzed map gis covering area
+gis derived map provide additional information viability water power potential renewable energy source
+similarly
+gis compare renewable energy resources find geographic potential region
+additionally
+series dimensional points
+digital elevation model
+isopleth lines representing elevation contours generated
+slope analysis
+shaded relief
+elevation products
+watersheds easily defined reach
+computing areas contiguous uphill point interest
+similarly
+expected thalweg surface water travel intermittent permanent streams computed elevation data gis
+gis recognize analyze spatial relationships exist digitally stored spatial data
+topological relationships complex spatial modelling analysis performed
+topological relationships geometric entities traditionally include adjacency
+adjoins
+containment
+encloses
+proximity
+close
+geometric networks linear networks objects represent interconnected features
+perform special spatial analysis
+geometric network composed edges
+connected junction points
+similar graphs mathematics computer science
+graphs
+networks weight flow assigned edges
+represent interconnected features accurately
+geometric networks model road networks public utility networks
+electric
+gas
+water networks
+network modeling commonly employed transportation planning
+hydrology modeling
+infrastructure modeling
+gis hydrological models provide spatial element hydrological models lack
+analysis variables slope
+aspect watershed catchment area
+terrain analysis fundamental hydrology
+water flows slope
+basic terrain analysis digital elevation model
+dem
+involves calculation slope aspect
+dems hydrological analysis
+slope aspect determine direction surface runoff
+flow accumulation formation streams
+rivers lakes
+areas divergent flow give clear indication boundaries catchment
+flow direction accumulation matrix created
+queries performed show contributing dispersal areas point
+detail added model
+terrain roughness
+vegetation types soil types
+influence infiltration evapotranspiration rates
+influencing surface flow
+main hydrological modeling environmental contamination research
+term
+cartographic modeling
+coined dana tomlin phd dissertation book term title
+cartographic modeling refers process thematic layers area produced
+processed
+analyzed
+tomlin raster layers
+overlay method
+generally
+operations map layers combined algorithms
+eventually simulation optimization models
+combination spatial datasets
+points
+lines
+polygons
+creates output vector dataset
+visually similar stacking maps region
+overlays similar mathematical venn diagram overlays
+union overlay combines geographic features attribute tables inputs single output
+intersect overlay defines area inputs overlap retains set attribute fields
+symmetric difference overlay defines output area includes total area inputs overlapping area
+data extraction gis process similar vector overlay
+vector raster data analysis
+combining properties features datasets
+data extraction involves
+clip
+mask
+extract features data set fall spatial extent dataset
+raster data analysis
+overlay datasets accomplished process
+local operation multiple rasters
+map algebra
+function combines values raster matrix
+function weigh inputs
+index model
+reflects influence factors geographic phenomenon
+geostatistics branch statistics deals field data
+spatial data continuous index
+methods model spatial correlation
+predict values arbitrary locations
+interpolation
+phenomena measured
+observation methods dictate accuracy subsequent analysis
+due nature data
+traffic patterns urban environment
+weather patterns pacific ocean
+constant dynamic degree precision lost measurement
+loss precision determined scale distribution data collection
+determine statistical relevance analysis
+average determined points
+gradients
+measurement included determine predicted behavior
+due limitations applied statistic data collection methods
+interpolation required predict behavior particles
+points
+locations directly measurable
+interpolation process surface created
+raster dataset
+input data collected number sample points
+forms interpolation
+treats data differently
+depending properties data set
+comparing interpolation methods
+consideration source data change
+exact approximate
+method subjective
+human interpretation
+objective
+nature transitions points
+abrupt gradual
+finally
+method global
+entire data set form model
+local algorithm repeated small section terrain
+interpolation justified measurement spatial autocorrelation principle recognizes data collected position great similarity
+influence locations vicinity
+digital elevation models
+triangulated irregular networks
+edge finding algorithms
+thiessen polygons
+fourier analysis
+weighted
+moving averages
+inverse distance weighting
+kriging
+spline
+trend surface analysis mathematical methods produce interpolative data
+geocoding interpolating spatial locations
+coordinates
+street addresses spatially referenced data
+parcel lots address locations
+reference theme required geocode individual addresses
+road centerline file address ranges
+individual address locations historically interpolated
+estimated
+examining address ranges road segment
+provided form table database
+software place dot approximately address belongs segment centerline
+address point midpoint line segment starts ends
+geocoding applied actual parcel data
+typically municipal tax maps
+case
+result geocoding positioned space opposed interpolated point
+approach increasingly provide precise location information
+reverse geocoding process returning estimated street address number relates coordinate
+user click road centerline theme
+providing coordinate
+information returned reflects estimated house number
+house number interpolated range assigned road segment
+user clicks midpoint segment starts ends
+returned
+note reverse geocoding return actual addresses
+estimates based predetermined range
+coupled gis
+multi criteria decision analysis methods support decision makers analysing set alternative spatial solutions
+ecological habitat restoration
+multiple criteria
+vegetation cover roads
+mcda decision rules aggregate criteria
+alternative solutions ranked prioritised
+gis mcda reduce costs time involved identifying potential restoration sites
+cartography design production maps
+visual representations spatial data
+vast majority modern cartography computers
+gis production quality cartography achieved importing layers design program refine
+user substantial control appearance data
+cartographic work serves major functions
+produces graphics screen paper convey results analysis people make decisions resources
+wall maps graphics generated
+allowing viewer visualize understand results analyses simulations potential events
+web map servers facilitate distribution generated maps web browsers implementations web based application programming interfaces
+ajax
+java
+flash
+database information generated analysis
+list addresses
+toxic spill
+traditional maps abstractions real world
+sampling important elements portrayed sheet paper symbols represent physical objects
+people maps interpret symbols
+topographic maps show shape land surface contour lines shaded relief
+today
+graphic display techniques shading based altitude gis make relationships map elements visible
+heightening ability extract analyze information
+types data combined gis produce perspective view portion county
+california
+gis register combine images render dimensional perspective view san andreas fault
+thematic mapper image pixels
+shaded elevation landforms
+depends viewing point observer time day display
+properly render shadows created sun rays latitude
+longitude
+time day
+archeochrome displaying spatial data
+thematic applied specific building part building
+suited visual display heat loss data
+spatial etl tools provide data processing functionality traditional extract
+transform
+etl
+software
+primary focus ability manage spatial data
+provide ability translate data standards proprietary formats
+whilst geometrically transforming data route
+tools form add ins existing wider purpose software microsoft excel
+gis spatial data mining application data mining methods spatial data
+data mining
+partially automated search hidden patterns large databases
+offers great potential benefits applied gis
+typical applications including environmental monitoring
+characteristic applications spatial correlation data measurements require specialized algorithms efficient data analysis
+disciplines benefit
+active resulted lower costs continual improvements hardware software components gis
+developments
+turn
+result wider technologyoriginal research
+science
+government
+business
+industry
+applications including real estate
+public health
+crime mapping
+national defense
+sustainable development
+natural resources
+landscape architecture
+archaeology
+regional community planning
+transportation logistics
+gis diverging location based services
+gps enabled mobile devices display location relation fixed assets
+nearest restaurant
+gas station
+fire hydrant
+mobile assets
+friends
+children
+relay position back central server display processing
+services continue develop increased integration gps functionality increasingly powerful mobile electronics
+pdas
+laptops
+open geospatial consortium international industry consortium
+government agencies
+universities
+individuals participating consensus process develop publicly geoprocessing specifications
+open interfaces protocols defined support interoperable solutions
+geo enable
+web
+wireless location based services
+empower technology developers make complex spatial information services accessible kinds applications
+open geospatial consortium protocols include web map service
+web feature service
+broken categories
+based completely accurately software
+compliant products software products comply
+product tested certified compliant program
+product automatically registered
+compliant
+site
+implementing products software products implement passed compliance test
+compliance tests specifications
+developers register products implementing draft approved specifications
+review verify entry
+recent years explosion mapping applications web
+websites give public access huge amounts geographic data
+google maps openlayers
+expose api enable users create custom applications
+toolkits commonly offer street maps
+aerial
+satellite imagery
+geocoding
+searches
+routing functionality
+web mapping uncovered potential crowdsourcing geodata projects openstreetmap
+collaborative project create free editable map world
+maps traditionally explore earth exploit resources
+expansion cartographic science
+enhanced efficiency analytic power traditional mapping
+scientific community recognizes environmental consequences anthropogenic activities influencing climate change
+essential tool understand impacts change time
+gis enables combination sources data existing maps date information earth observation satellites outputs climate change models
+understanding effects climate change complex natural systems
+classic examples study arctic ice melting
+condition earth surface
+atmosphere
+subsurface examined feeding satellite data gis
+researchers ability examine variations earth processes days
+months
+years
+vegetation vigor growing season animated determine drought extensive region
+resulting graphic
+normalized vegetation index
+represents rough measure plant health
+working variables time researchers detect regional differences lag decline rainfall effect vegetation
+availability digital data regional global scales enable analyses
+satellite sensor output generate vegetation graphic produced advanced high resolution radiometer
+avhrr
+sensor system detects amounts energy reflected earth surface bands spectrum surface areas square kilometer
+satellite sensor produces images location earth day
+avhrr recently moderate resolution imaging spectroradiometer
+modis
+sensor systems earth surface analysis
+sensors follow
+generating greater amounts data
+addition integration time environmental studies
+gis explored ability track model progress humans daily routines
+concrete progress area recent release time specific population data
+data set
+populations cities shown daytime evening hours highlighting pattern concentration dispersion generated north american commuting patterns
+manipulation generation data required produce data
+models project data held time enabled planners test policy decisions spatial decision support systems
+tools technologies emerging semantic web activity proving data integration problems information systems
+correspondingly
+technologies proposed means facilitate interoperability data reuse
+enable analysis mechanisms
+ontologies key component semantic approach formal
+machine readable specification concepts relationships domain
+turn gis focus intended meaning data syntax structure
+reasoning land cover type classified deciduous needleleaf trees dataset specialization subset land cover type forest roughly classified dataset gis automatically merge datasets general land cover classification
+tentative ontologies developed areas related
+hydrology ontology developed ordnance survey united kingdom sweet ontologies developed nasa jet propulsion laboratory
+geosparql simple ontology ogc standards literals topological relationships developed ordnance survey
+usgs
+simpler ontologies semantic metadata standards proposed geo incubator group represent geospatial data web
+recent research results area international conference geospatial semantics terra cognita directions geospatial semantic web workshop international semantic web conference
+popularization gis decision making
+scholarswho
+begun scrutinize social implications gis
+arguedby
+production
+distribution
+utilization
+representation geographic information largely related social context
+clarification needed related topics include discussion copyright
+privacy
+censorship
+optimistic social approach tool public participation
+retrieved federal geographic data committee

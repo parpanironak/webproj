@@ -1,0 +1,754 @@
+Perl
+
+perl
+perl high level
+general purpose
+interpreted
+dynamic programming language
+perl officially acronym
+backronyms
+practical extraction reporting language
+perl originally developed larry wall general purpose unix scripting language make report processing easier
+undergone revisions
+latest major stable revision
+released
+perl complete redesign language
+announced active development
+perl borrows features programming languages including
+shell scripting
+awk
+sed
+language powerful text processing facilities arbitrary data length limits contemporary unix tools
+facilitating easy manipulation text files
+perl gained widespread popularity late cgi scripting language
+part due parsing abilities
+addition cgi
+perl graphics programming
+system administration
+network programming
+finance
+bioinformatics
+applications
+perl nicknamed
+swiss army chainsaw scripting languages
+flexibility power
+possibly perceived
+ugliness
+referred
+duct tape holds internet
+reference ubiquity perceived inelegance
+wall began work perl
+working programmer unisys
+released version
+comp
+sources
+misc newsgroup december
+language expanded rapidly years
+perl
+released
+featured regular expression engine
+perl
+released
+added support binary data streams
+originally documentation perl single
+increasingly lengthy
+man page
+programming perl
+perl programmers
+camel book
+cover
+published facto reference language
+time
+perl version number bumped
+mark major change language identify version documented book
+perl series maintenance releases
+culminating perl
+point
+wall abandoned perl begin work perl
+initial design perl continued
+porters mailing list established coordinate work porting perl platforms
+remains primary forum development
+maintenance
+porting perl
+perl
+released october
+complete rewrite interpreter
+added features language
+including objects
+references
+lexical
+variables
+modules
+importantly
+modules provided mechanism extending language modifying interpreter
+allowed core interpreter stabilize
+enabled ordinary perl programmers add language features
+perl active development
+perl
+released march
+perl
+released february
+prototypes feature
+allowed module authors make subroutines behaved perl builtins
+perl
+released june
+security release
+important events perl history place language proper consequence module support
+october
+comprehensive perl archive network
+cpan
+established repository perl modules perl
+april
+carries modules authors
+perl
+released
+included things universal package
+giving perl base object classes automatically derived ability require versions modules
+significant development inclusion cgi
+module
+contributed perl popularity cgi scripting language
+perl supported running microsoft windows operating systems
+perl
+released july
+release included enhancements regex engine
+hooks backend
+modules
+regex quote operator
+large selection core modules
+added support operating systems
+including beos
+perl
+released march
+major included bit support
+unicode string representation
+large file support
+files gib
+keyword
+developing perl
+decision made switch versioning scheme similar open source projects
+version
+plans development versions odd numbers stable versions numbers
+wall put call suggestions version perl community
+process resulted rfc
+request comments
+documents guiding development perl
+work began apocalypses perl
+series documents meant summarize change requests present design generation perl
+presented digest rfcs
+formal document
+point
+perl existed description language
+perl
+released july
+yearly updates
+latest version perl
+released december
+perl
+improved unicode support
+added implementation
+added thread implementation
+improved numeric accuracy
+added modules
+work began synopses originally documents summarized apocalypses
+specification perl language
+february
+audrey tang began work pugs
+perl interpreter written haskell
+concerted effort making perl reality
+effort stalled
+december
+anniversary perl
+perl
+released
+perl
+included notable features
+brought closer perl
+included switch statement
+called
+regular expressions updates
+smart match operator
+time
+development began earnest implementation perl rakudo perl
+developed tandem parrot virtual machine
+november
+rakudo perl regular monthly releases complete implementation perl
+major change development process perl occurred perl
+development community switched monthly release cycle development releases
+yearly schedule stable releases
+plan
+bugfix point releases follow stable releases months
+april
+perl
+released
+notable core enhancements include package version syntax
+yada yada operator
+intended mark placeholder code implemented
+implicit strictures
+full compliance
+regex conversion overloading
+dtrace support
+unicode
+january
+perl
+released
+updated modules documentation
+version
+released june
+latest version branch
+released november
+perl
+released
+latest version branch
+released october
+perl
+released
+notable features include ability version perl wishes emulate
+allowing users upgrade version perl
+run scripts incompatible
+perl
+updates core support unicode
+observers credit release perl
+start modern perl movement
+phrase describes style development embraces cpan
+takes advantage recent developments language
+rigorous creating high quality code
+book
+modern perl
+visible standards bearer idea
+groups enlightened perl organization
+perl originally named
+pearl
+wall wanted give language short positive connotations
+claims considered
+rejected
+letter word dictionary
+considered naming wife gloria
+wall discovered existing pearl programming language perl official release changed spelling
+referring language
+capitalized
+perl
+proper noun
+referring interpreter program
+uncapitalized
+perl
+unix file systems case sensitive
+release edition programming perl
+common refer language perl
+randal
+schwartz
+capitalized language book make stand typeset
+case distinction subsequently documented canonical
+contention caps spelling
+perl
+documentation declares incorrect core community members sign outsiders
+occasionally backronymed practical extraction report language
+appears top documentation printed literature
+backronyms suggested equally canonical
+including wall humorous pathologically eclectic rubbish lister
+wall claims intended inspire expansions
+programming perl
+published oreilly media
+features picture dromedary camel cover commonly called
+camel book
+image camel unofficial symbol perl general hacker emblem
+appearing shirts clothing items
+oreilly owns image trademark licenses commercial
+requiring acknowledgement link www
+perl
+licensing commercial decided case case basis
+oreilly
+programming republic perl
+logos commercial sites
+powered perl
+buttons site perl
+perl foundation owns alternative symbol
+onion
+licenses subsidiaries
+perl mongers
+perlmonks
+perl
+symbol visual pun pearl onion
+wall
+perl slogans
+commonly tmtowtdi
+slogan
+easy things easy hard things
+structure perl derives broadly
+perl procedural nature
+variables
+expressions
+assignment statements
+brace delimited blocks
+control structures
+subroutines
+perl takes features shell programming
+variables marked leading sigils
+unambiguously identify data type
+scalar
+array
+hash
+variable context
+importantly
+sigils variables interpolated directly strings
+perl built functions provide tools shell programming
+tools implemented programs external shell
+sorting
+calling system facilities
+perl takes lists lisp
+hashes
+associative arrays
+awk
+regular expressions sed
+simplify facilitate parsing
+text handling
+data management tasks
+shared lisp implicit return block
+fact statements
+expressions larger expressions
+perl added features support complex data structures
+class functions
+closures values
+object oriented programming model
+include references
+packages
+class based method dispatch
+lexically scoped variables
+compiler directives
+strict pragma
+major additional feature introduced perl ability package code reusable modules
+wall stated
+intent perl module system encourage growth perl culture perl core
+versions perl automatic data typing automatic memory management
+interpreter type storage requirements data object program
+allocates frees storage reference counting
+deallocate circular data structures manual intervention
+legal type conversions
+conversions number string automatically run time
+illegal type conversions fatal errors
+design perl understood response broad trends computer industry
+falling hardware costs
+rising labor costs
+improvements compiler technology
+earlier computer languages
+fortran
+aimed make efficient expensive computer hardware
+contrast
+perl designed make efficient expensive computer programmers
+perl features ease task programmer expense greater cpu memory requirements
+include automatic memory management
+dynamic typing
+strings
+lists
+hashes
+regular expressions
+introspection
+eval
+function
+perl theory
+built limits
+idea similar rule
+wall trained linguist
+design perl informed linguistic principles
+examples include huffman coding
+common constructions short
+good end weighting
+important information
+large collection language primitives
+perl favors language constructs concise natural humans write
+complicate perl interpreter
+perl syntax reflects idea
+things
+scalars
+arrays
+hashes leading sigils
+array indices hash keys kinds braces
+strings regular expressions standard delimiters
+approach contrasted languages lisp
+expression construct basic syntax purposes
+perl enforce programming paradigm
+procedural
+object oriented
+functional
+require programmer choose
+broad practical bent perl language community culture surround
+preface programming perl begins
+perl language job
+consequence perl tidy language
+includes features
+tolerates exceptions rules
+employs heuristics resolve syntactical ambiguities
+forgiving nature compiler
+bugs hard find
+perl function documentation remarks variant behavior built functions list scalar contexts
+general
+consistency
+written specification standard perl language exists perl versions perl
+plans create current version perl
+implementation interpreter
+language evolved
+interpreter
+functional tests
+stands facto specification language
+perl
+started specification
+projects aim implement specification
+perl varied applications
+compounded availability standard party modules
+perl chiefly write cgi scripts
+large projects written perl include cpanel
+slash
+bugzilla
+twiki
+movable type
+high traffic websites perl extensively include amazon
+bbc
+priceline
+craigslist
+imdb
+livejournal
+slashdot ticketmaster
+integral component popular lamp solution stack web development
+perl glue language
+tying systems interfaces specifically designed interoperate
+data munging
+converting processing large amounts data tasks creating reports
+fact
+strengths intimately linked
+combination makes perl popular purpose language system administrators
+short programs entered run single command line
+perl code made portable windows unix
+code suppliers software
+cots bespoke
+simplify packaging maintenance software build deployment scripts
+graphical user interfaces
+guis
+developed perl
+perl
+commonly enable user interaction perl scripts
+interaction synchronous asynchronous
+callbacks update gui
+information technologies involved
+tcl wxperl
+perl implemented core interpreter
+written
+large collection modules
+written perl
+stable version
+packaged tar file gzip compressed
+interpreter lines code compiles executable typical machine architectures
+alternatively
+interpreter compiled link library embedded programs
+modules distribution
+comprising lines perl additional lines code
+code modules consists character encoding tables
+interpreter object oriented architecture
+elements perl
+arrays
+hashes
+coderefs
+represented interpreter structs
+operations structs defined large collection macros
+typedefs
+functions
+constitute perl api
+perl api bewildering uninitiated
+entry points follow consistent naming scheme
+guidance
+life perl interpreter divides broadly compile phase run phase
+perl
+phases major stages interpreter life cycle
+interpreter phase
+phases follow fixed sequence
+perl compile phase compilation
+perl run phase execution
+significant exceptions
+perl makes important capability execute perl code compile phase
+perl delay compilation run phase
+terms kind processing occurring moment compile time run time
+perl compile time points compile phase
+compile time entered run phase
+compile time code string argument passed eval built occurs run phase
+perl run time compile phase spends run phase run time
+code begin blocks executes run time compile phase
+compile time
+interpreter parses perl code syntax tree
+run time
+executes program walking tree
+text parsed
+syntax tree subject optimization executed
+execution efficient
+compile time optimizations syntax tree include constant folding context propagation
+peephole optimization performed
+perl turing complete grammar parsing affected run time code executed compile phase
+perl parsed straight lex
+yacc lexer
+parser combination
+interpreter implements lexer
+coordinates modified gnu bison parser resolve ambiguities language
+perl parse perl
+meaning perl interpreter
+perl
+parse perl language
+perl
+general
+true
+perl interpreter simulate turing machine compile phase
+decide halting problem order complete parsing case
+long standing result halting problem undecidable
+perl parse perl
+perl makes unusual choice giving user access full programming power compile phase
+cost terms theoretical purity high
+practical inconvenience rare
+programs undertake parse perl
+source code analyzers auto indenters
+contend ambiguous syntactic constructs undecidability perl parsing general case
+adam kennedy ppi project focused parsing perl code document
+retaining integrity document
+parsing perl executable code
+perl
+kennedy conjectured
+parsing perl suffers halting problem
+proved
+perl distributed functional tests
+run part normal build process extensively exercise interpreter core modules
+perl developers rely functional tests ensure interpreter introduce bugs
+additionally
+perl users interpreter passes functional tests system high degree confidence working properly
+maintenance perl interpreter increasingly difficult years
+code base undergone continuous development
+code optimized performance expense simplicity
+clarity
+strong internal interfaces
+features added
+virtually complete backward compatibility earlier versions maintained
+major releases perl coordinated perl pumpkings
+handled integrating patch submissions bug fixes
+language changed rotating
+monthly release cycle
+development discussion takes place porters mailing list
+perl
+development efforts included refactoring core modules ual lifed modules perl core alleviate problems
+perl dual licensed artistic license gnu general public license
+distributions operating systems
+prevalent unix unix systems
+ported modern
+obsolete
+platforms
+reported exceptions
+perl compiled source code posix compliant
+unix compatible platforms
+unusual required mac classic environment
+special port called macperl shipped independently
+comprehensive perl archive network carries complete list supported platforms links distributions
+cpan source publicly perl modules part core perl distribution
+users microsoft windows typically install native binary distributions perl
+commonly strawberry perl activeperl
+compiling perl source code windows
+installations lack requisite compiler build tools
+makes difficult install modules cpan
+partially written
+activeperl closed source distribution activestate regular releases track core perl releases
+distribution includes perl package manager
+ppm
+popular tool installing
+removing
+upgrading
+managing common perl modules
+strawberry perl open source distribution windows
+regular
+quarterly releases january
+including modules feedback requests
+strawberry perl aims install modules standard perl distributions platforms
+including compiling modules
+cygwin emulation layer running perl windows
+cygwin unix environment windows
+perl cpan standard pre compiled packages cygwin setup program
+cygwin includes gcc
+compiling perl source
+perl widely favored database applications
+text handling facilities generating sql queries
+arrays
+hashes
+automatic memory management make easy collect process returned data
+tim bunce dbi application programming interface
+api
+arguments api text sql queries
+program multiple languages time
+generating web page html
+javascript
+sql document
+perl variable interpolation programmatically customize sql queries
+specification perl arrays hashes structures programmatically hold resulting data sets sql query
+high level mechanism handling large amounts data post processing perl subprogram
+early versions perl
+database interfaces created relinking interpreter client side database library
+sufficiently difficult important widely databases
+restricted resulting perl executable database interface time
+perl
+database interfaces implemented perl dbi modules
+dbi
+database interface
+module presents single
+database independent interface perl applications
+dbd
+database driver
+modules handle details accessing databases
+dbd drivers ansi sql databases
+dbi caching database handles queries
+greatly improve performance long lived execution environments mod perl
+helping high volume systems avert load spikes slashdot effect
+modern perl applications
+written web application frameworks catalyst
+dbi module indirectly object relational mappers dbix
+class
+class
+dbi rose
+object generate sql queries handle data transparently application author
+computer language benchmarks game
+project hosted alioth
+compares performance implementations typical programming problems programming languages
+submitted perl implementations typically perform high end memory usage spectrum give varied speed results
+perl performance benchmarks game typical interpreted languages
+large perl programs start slowly similar programs compiled languages perl compile source time runs
+talk yapc
+europe conference subsequent article
+timely start
+jean louis leroy found perl programs longer run expected perl interpreter spent time finding modules large include path
+unlike java
+python
+ruby
+perl experimental support pre compiling
+perl programs pay overhead penalty execution
+run phase typical programs long amortized startup time substantial
+benchmarks measure short execution times skewed due overhead
+number tools introduced improve situation
+tool apache mod perl
+sought address common reasons small perl programs invoked rapidly
+cgi web development
+activeperl
+microsoft isapi
+similar performance improvements
+perl code compiled
+additional overhead execution phase typically present programs written compiled languages
+examples overhead include bytecode interpretation
+reference counting memory management
+dynamic type checking
+code
+perl programs tuned performance benchmarks profiles readable correct implementation finished
+part perl interpreted nature
+writing efficient perl meet performance goals program
+situations
+critical routines perl program written languages assembly
+connected perl simple inline modules complex flexible mechanism
+nicholas clark
+perl core developer
+discusses perl design trade offs solutions document called
+perl fast
+perl conference
+jon orwant made case major language initiative
+led decision begin work redesign language
+called perl
+proposals language features solicited perl community large
+submitted rfcs
+wall spent years digesting rfcs synthesizing coherent framework perl
+presented design perl series documents called
+apocalypses
+numbered correspond chapters programming perl
+january
+developing specification perl encapsulated design documents called synopses numbered correspond apocalypses
+perl intended backward compatible
+compatibility mode
+perl perl distinct languages common ancestry
+thesis work bradley
+kuhn
+overseen wall
+considered java virtual machine runtime perl
+kuhn thesis showed approach problematic
+decided perl run cross language virtual machine called parrot
+languages targeting parrot gain native access cpan
+allowing level cross language development
+audrey tang created pugs project
+implementation perl haskell
+acted
+continues act
+test platform perl language
+separate development actual implementation
+allowing language designers explore
+pugs project spawned active perl
+haskell cross language community centered freenode irc channel
+number features perl language show similarities haskell
+citation needed
+perl development centers primarily compilers
+development perl continuing
+perl
+released april features influenced design perl
+perl
+released june
+perl
+released august
+perl development versions released monthly basis
+major releases coming year
+future plans perl include making core language easier extend modules
+providing small
+extensible meta object protocol core
+relative proportion searches perl programming
+compared similar searches programming languages
+steadily declined early
+leveling
+source
+perl top ten popular programming languages records began
+perl culture community developed alongside language
+usenet public venue perl introduced
+evolution
+perl community shaped growth broadening internet based services including introduction world wide web
+community surrounds perl
+fact
+topic wall
+state onion
+talk
+state onion yearly keynote style summaries progress perl community
+characterized hallmark humor
+employing references culture
+wider hacker culture
+linguistic background
+family life
+occasionally christian background
+talk perl conferences eventually published online
+number irc channels offer support language modules
+examples code written purely entertainment cpan
+lingua
+romana
+perligata
+writing programs latin
+execution program
+module translates source code regular perl runs
+perl community set
+acme
+namespace modules fun nature
+scope widened include exploratory experimental code module meant production
+acme modules deliberately implemented amusing ways
+includes acme
+bleach
+modules acme
+namespace
+program source code
+whitened
+characters replaced whitespace
+work
+older versions perl
+write world program
+versions
+support statement
+write
+good perl practices require complex programs add strict
+warnings
+pragmas
+leading
+complex perl program
+counts seconds threshold
+perl interpreter scripts command line
+invoked compatible shell bash translates string
+bob
+files ending
+txt current directory
+robert

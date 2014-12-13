@@ -1,0 +1,475 @@
+Information theory
+
+information theory
+information theory branch applied mathematics
+electrical engineering
+bioinformatics
+computer science involving quantification information
+information theory developed claude
+shannon find fundamental limits signal processing operations compressing data reliably storing communicating data
+inception broadened find applications areas
+including statistical inference
+natural language processing
+cryptography
+neurobiology
+evolution function molecular codes
+model selection ecology
+thermal physics
+quantum computing
+plagiarism detection forms data analysis
+key measure information entropy
+expressed average number bits needed store communicate symbol message
+entropy quantifies uncertainty involved predicting random variable
+outcome fair coin flip
+equally outcomes
+information
+lower entropy
+outcome roll die
+equally outcomes
+applications fundamental topics information theory include lossless data compression
+zip files
+lossy data compression
+jpgs
+channel coding
+digital subscriber line
+dsl
+field intersection mathematics
+statistics
+computer science
+physics
+neurobiology
+electrical engineering
+impact crucial success voyager missions deep space
+invention compact disc
+feasibility mobile phones
+development internet
+study linguistics human perception
+understanding black holes
+numerous fields
+important fields information theory source coding
+channel coding
+algorithmic complexity theory
+algorithmic information theory
+information theoretic security
+measures information
+main concepts information theory grasped widespread means human communication
+language
+important aspects concise language
+common words
+shorter common words
+roundabout
+generation
+mediocre
+sentences long
+tradeoff word length analogous data compression essential aspect source coding
+part sentence unheard misheard due noise
+passing car listener glean meaning underlying message
+robustness essential electronic communication system language
+properly building robustness communications channel coding
+source coding channel coding fundamental concerns information theory
+note concerns importance messages
+platitude
+takes long write urgent plea
+call ambulance
+important meaningful contexts
+information theory
+message importance meaning
+matters quality data quantity readability data
+determined solely probabilities
+information theory generally considered founded claude shannon seminal work
+mathematical theory communication
+central paradigm classical information theory engineering problem transmission information noisy channel
+fundamental results theory shannon source coding theorem
+establishes
+average
+number bits needed represent result uncertain event entropy
+shannon noisy channel coding theorem
+states reliable communication noisy channels provided rate communication threshold
+called channel capacity
+channel capacity approached practice encoding decoding systems
+information theory closely collection pure applied disciplines investigated reduced engineering practice variety rubrics world past half century
+adaptive systems
+anticipatory systems
+artificial intelligence
+complex systems
+complexity science
+cybernetics
+informatics
+machine learning
+systems sciences descriptions
+information theory broad deep mathematical theory
+equally broad deep applications
+vital field coding theory
+coding theory concerned finding explicit methods
+called codes
+increasing efficiency reducing net error rate data communication noisy channel limit shannon proved maximum channel
+codes roughly subdivided data compression
+source coding
+error correction
+channel coding
+techniques
+case
+years find methods shannon work proved
+class information theory codes cryptographic algorithms
+codes ciphers
+concepts
+methods results coding theory information theory widely cryptography cryptanalysis
+article ban
+information
+historical application
+information theory information retrieval
+intelligence gathering
+gambling
+statistics
+musical composition
+landmark event established discipline information theory
+brought worldwide attention
+publication claude
+shannon classic paper
+mathematical theory communication
+bell system technical journal july october
+prior paper
+limited information theoretic ideas developed bell labs
+implicitly assuming events equal probability
+harry nyquist paper
+factors affecting telegraph speed
+theoretical section quantifying
+intelligence
+line speed
+transmitted communication system
+giving relation image
+math
+png
+speed transmission intelligence
+number voltage levels choose time step
+constant
+ralph hartley paper
+transmission information
+word information measurable quantity
+reflecting receiver ability distinguish sequence symbols
+quantifying information image
+math
+png
+number symbols
+number symbols transmission
+natural unit information decimal digit
+renamed hartley honour unit scale measure information
+alan turing similar ideas part statistical analysis breaking german world war enigma ciphers
+mathematics information theory events probabilities developed field thermodynamics ludwig boltzmann
+willard gibbs
+connections information theoretic entropy thermodynamic entropy
+including important contributions rolf landauer
+explored entropy thermodynamics information theory
+shannon revolutionary groundbreaking paper
+work substantially completed bell labs end
+shannon time introduced qualitative quantitative model communication statistical process underlying information theory
+opening assertion
+ideas
+information theory based probability theory statistics
+important quantities information entropy
+information random variable
+mutual information
+amount information common random variables
+quantity easily message data compressed find communication rate channel
+choice logarithmic base formulae determines unit information entropy
+common unit information bit
+based binary logarithm
+units include nat
+based natural logarithm
+hartley
+based common logarithm
+expression form image
+math
+png considered convention equal image
+math
+png justified image
+math
+png logarithmic base
+entropy
+image
+math
+png
+discrete random variable image
+math
+png measure amount uncertainty image
+math
+png
+suppose transmits bits
+bits ahead transmission
+absolute probability
+logic dictates information transmitted
+equally independently
+bits
+information theoretic sense
+transmitted
+extremes
+information quantified
+image
+math
+png set messages image
+math
+png image
+math
+png
+image
+math
+png probability image
+math
+png image
+math
+png
+entropy image
+math
+png defined
+image
+math
+png information
+entropy contribution individual message
+image
+math
+png expected
+important property entropy maximized messages message space equiprobable image
+math
+png
+case image
+math
+png
+special case information entropy random variable outcomes binary entropy function
+logarithmic base
+joint entropy discrete random variables image
+math
+png image
+math
+png entropy pairing
+image
+math
+png
+implies image
+math
+png image
+math
+png independent
+joint entropy sum individual entropies
+image
+math
+png represents position chess piece image
+math
+png row image
+math
+png column
+joint entropy row piece column piece entropy position piece
+similar notation
+joint entropy confused cross entropy
+conditional entropy conditional uncertainty image
+math
+png random variable image
+math
+png
+called equivocation image
+math
+png image
+math
+png
+average conditional entropy image
+math
+png
+entropy conditioned random variable random variable
+care confuse definitions conditional entropy
+common
+basic property form conditional entropy
+mutual information measures amount information obtained random variable observing
+important communication maximize amount information shared received signals
+mutual information image
+math
+png relative image
+math
+png
+image
+math
+png
+specific mutual information
+pointwise mutual information
+basic property mutual information
+knowing
+save average image
+math
+png bits encoding compared knowing
+mutual information symmetric
+mutual information expressed average divergence
+information gain
+posterior probability distribution prior distribution
+words
+measure
+average
+probability distribution change
+recalculated divergence product marginal distributions actual joint distribution
+mutual information closely related log likelihood ratio test context contingency tables multinomial distribution pearson test
+mutual information considered statistic assessing independence pair variables
+asymptotic distribution
+divergence
+information divergence
+information gain
+relative entropy
+comparing distributions
+true
+probability distribution
+arbitrary probability distribution
+compress data manner assumes
+distribution underlying data
+reality
+correct distribution
+divergence number average additional bits datum compression
+defined
+istance metric
+divergence true metric symmetric satisfy triangle inequality
+making semi quasimetric
+interpretation divergence
+suppose number drawn randomly discrete set probability distribution
+alice true distribution
+bob believes
+prior
+distribution
+bob surprised alice
+average
+divergence
+objective
+expected bob
+subjective
+surprisal minus alice surprisal
+measured bits log base
+extent bob prior
+wrong
+quantified terms
+unnecessarily surprised
+expected make
+important information theoretic quantities include entropy
+generalization entropy
+differential entropy
+generalization quantities information continuous distributions
+conditional mutual information
+coding theory important direct applications information theory
+subdivided source coding theory channel coding theory
+statistical description data
+information theory quantifies number bits needed describe data
+information entropy source
+division coding theory compression transmission justified information transmission theorems
+separation theorems justify bits universal currency information contexts
+theorems hold situation transmitting user wishes communicate receiving user
+scenarios transmitter
+multiple access channel
+receiver
+broadcast channel
+intermediary
+helpers
+relay channel
+general networks
+compression transmission longer optimal
+network information theory refers multi agent communication models
+process generates successive messages considered source information
+memoryless source message independent identically distributed random variable
+properties ergodicity stationarity impose general constraints
+sources stochastic
+terms studied information theory
+information rate average entropy symbol
+memoryless sources
+entropy symbol
+case stationary stochastic process
+conditional entropy symbol previous symbols generated
+general case process necessarily stationary
+average rate
+limit joint entropy symbol
+stationary sources
+expressions give result
+common information theory speak
+rate
+entropy
+language
+source information english prose
+rate source information related redundancy compressed
+subject source coding
+communications ethernet primary motivation information theory
+telephone
+mobile landline
+channels fail produce exact reconstruction signal
+noise
+periods silence
+forms signal corruption degrade quality
+information hope communicate noisy
+imperfect
+channel
+communications process discrete channel
+simple model process shown
+represents space messages transmitted
+space messages received unit time channel
+image
+math
+png conditional probability distribution function
+image
+math
+png inherent fixed property communications channel
+representing nature noise channel
+joint distribution completely determined channel choice image
+math
+png
+marginal distribution messages choose send channel
+constraints
+maximize rate information
+signal
+communicate channel
+measure mutual information
+maximum mutual information called channel capacity
+capacity property related communicating information rate
+bits symbol
+information rate coding error
+large
+exists code length rate decoding algorithm
+maximal probability block error
+transmit arbitrarily small block error
+addition
+rate
+impossible transmit arbitrarily small block error
+channel coding concerned finding optimal codes transmit data noisy channel small coding error rate channel capacity
+information theoretic concepts apply cryptography cryptanalysis
+turing information unit
+ban
+ultra project
+breaking german enigma machine code hastening end wwii europe
+shannon defined important concept called unicity distance
+based redundancy plaintext
+attempts give minimum amount ciphertext ensure unique decipherability
+information theory leads difficult secrets
+brute force attack break systems based asymmetric key algorithms commonly methods symmetric key algorithms
+called secret key algorithms
+block ciphers
+security methods assumption attack break practical amount time
+information theoretic security refers methods time pad vulnerable brute force attacks
+cases
+positive conditional mutual information plaintext ciphertext
+conditioned key
+ensure proper transmission
+unconditional mutual information plaintext ciphertext remains
+resulting absolutely secure communications
+words
+eavesdropper improve guess plaintext gaining knowledge ciphertext key
+cryptographic system
+care correctly apply information theoretically secure methods
+venona project crack time pads soviet union due improper reuse key material
+pseudorandom number generators widely computer language libraries application programs
+universally
+unsuited cryptographic evade deterministic nature modern computer equipment software
+class improved random number generators termed cryptographically secure pseudorandom number generators
+require external software random seeds work intended
+obtained extractors
+carefully
+measure sufficient randomness extractors min entropy
+related shannon entropy entropy
+entropy evaluating randomness cryptographic systems
+related
+distinctions measures random variable high shannon entropy necessarily satisfactory extractor cryptography
+early commercial application information theory field seismic oil exploration
+work field made strip separate unwanted noise desired seismic signal
+information theory digital signal processing offer major improvement resolution image clarity previous analog methods
+information theory applications gambling investing
+black holes
+bioinformatics
+music

@@ -1,0 +1,329 @@
+Weighted mean
+
+weighted
+weighted similar arithmetic
+common type average
+data points contributing equally final average
+data points contribute
+notion weighted plays role descriptive statistics occurs general form areas mathematics
+weights equal
+weighted arithmetic
+weighted means generally behave similar fashion arithmetic means
+counterintuitive properties
+captured instance simpson paradox
+term weighted average refers weighted arithmetic
+weighted versions means calculated
+weighted geometric weighted harmonic
+examples designed introduce topic basic math skills
+school classes
+students
+students
+grades class test
+straight average morning class straight average afternoon class
+straight average
+class means
+account difference number students class
+reflect average student grade
+independent class
+average student grade obtained averaging grades
+regard classes
+add grades divide total number students
+accomplished weighting class means number students class
+weighted class means
+weighted makes find average student grade case class means number students class
+relative weights relevant
+weighted expressed coefficients sum
+linear combination called convex combination
+previous
+simplifies
+formally
+weighted empty set data
+negative weights
+quantity
+means
+data elements high weight contribute weighted elements low weight
+weights negative
+division allowed
+formulas simplified weights normalized sum image
+math
+png
+image
+math
+png
+normalized weights weighted simply image
+math
+png
+note normalize weights making transformation weights image
+math
+png
+normalized weight yields results original weights
+common image
+math
+png special case weighted data equal weights
+image
+math
+png
+weights normalized image
+math
+png
+weighted sample
+image
+math
+png
+normalized weights
+weights summing
+random variable
+expected standard deviation related expected values standard deviations observations
+observations expected values
+weighted sample expectation
+expectations observations equal
+image
+math
+png
+expectation weighted sample
+uncorrelated observations standard deviations image
+math
+png
+weighted sample standard deviation
+standard deviations observations equal
+image
+math
+png
+weighted sample standard deviation image
+math
+png
+image
+math
+png quantity
+image
+math
+png
+attains minimum equal weights
+maximum weights
+case image
+math
+png
+related central limit theorem
+note due fact transform normalized weights normalized weights formula section adapted normalized weights replacing image
+math
+png image
+math
+png
+weighted list data element image
+math
+png probability distribution variance image
+math
+png
+choice weights
+weighted case
+variance weighted
+reduces image
+math
+png
+image
+math
+png
+significance choice weighted maximum likelihood estimator probability distributions assumption independent distributed
+weighted means typically find weighted experimental data
+theoretically generated data
+case
+error variance data point
+typically experimental errors underestimated due experimenter taking account sources error calculating variance data point
+event
+variance weighted corrected account fact image
+math
+png large
+correction made
+image
+math
+png image
+math
+png divided number degrees freedom
+case
+variance weighted
+data variances equal
+image
+math
+png
+cancel weighted variance
+image
+math
+png
+reduces standard error
+squared
+image
+math
+png
+terms sample standard deviation
+squared
+image
+math
+png
+typically calculated important variance standard deviation
+weighted image
+math
+png
+variance weighted sample variance unweighted sample
+biased weighted sample variance defined similarly normal biased sample variance
+image
+math
+png
+normalized weights
+small samples
+customary unbiased estimator population variance
+normal unweighted samples
+denominator
+sample size
+changed
+simple unweighted samples
+straightforward sample weighted
+image
+math
+png drawn gaussian distribution variance image
+math
+png
+unbiased estimator weighted population variance
+image
+math
+png introduced previously
+degrees freedom weighted
+unbiased sample variance vary
+standard deviation simply square root variance
+image
+math
+png drawn distribution integer weights image
+math
+png frequency occurrence sample
+unbiased estimator weighted population variance
+image
+math
+png unique
+image
+math
+png counts number unique values
+image
+math
+png counts number samples
+values image
+math
+png drawn distribution
+treat set unweighted sample
+treat weighted sample image
+math
+png weights image
+math
+png
+results
+generalizes easily case taking vector valued estimates
+estimates position plane certainty direction
+scalar case
+weighted multiple estimates provide maximum likelihood estimate
+simply replace image
+math
+png covariance matrix
+weighted case
+covariance weighted
+weighted point high variance component high variance component
+weighted
+makes sense
+estimate
+compliant
+component estimate compliant component
+weighted
+general case
+suppose image
+math
+png
+image
+math
+png covariance matrix relating quantities image
+math
+png
+image
+math
+png common estimated
+image
+math
+png design matrix
+length image
+math
+png
+theorem states estimate minimum variance
+time series independent variable image
+math
+png dependent variable image
+math
+png
+image
+math
+png observations sampled discrete times image
+math
+png
+common situations
+image
+math
+png time image
+math
+png depends image
+math
+png past values
+commonly
+strength dependence decreases separation observations time increases
+model situation
+replace independent variable sliding image
+math
+png window size image
+math
+png
+scenario previous section
+frequently decrease interaction strength obeys negative exponential law
+observations sampled equidistant times
+exponential decrease equivalent decrease constant fraction image
+math
+png time step
+setting image
+math
+png define image
+math
+png normalized weights
+image
+math
+png sum unnormalized weights
+case image
+math
+png simply
+approaching image
+math
+png large values image
+math
+png
+damping constant image
+math
+png correspond actual decrease interaction strength
+determined theoretical considerations
+properties exponentially decreasing weights making suitable choice
+step image
+math
+png
+weight approximately equals image
+math
+png
+tail area image
+math
+png
+head area image
+math
+png
+tail area step image
+math
+png image
+math
+png
+primarily closest image
+math
+png observations matter effect remaining observations safely
+choose image
+math
+png tail area sufficiently small
+concept weighted average extended functions
+weighted averages functions play important role systems weighted differential integral calculus

@@ -1,0 +1,156 @@
+Discogs
+
+discogs
+discogs
+short discographies
+website database information audio recordings
+including commercial releases
+promotional releases
+bootleg label releases
+discogs servers
+hosted domain discogs
+owned zink media
+located portland
+oregon
+usa
+discogs largest online databases electronic music releases releases vinyl media
+million artists
+million releases
+discogs
+domain registered august
+discogs launched november programmer
+music fan kevin lewandowski originally database electronic music
+inspired success community built sites slashdot
+ebay
+open directory project
+decided model music discography database
+site original goal build comprehensive database electronic music
+organized artists
+labels
+releases genre
+discogs system completely rewritten
+january began support genres
+starting hip hop
+expanded include rock jazz january funk
+soul
+latin
+reggae october year
+january blues music
+comedy records
+field recordings
+interviews
+added
+classical music started supported june
+october
+final genres turned
+adding support stage screen
+brass military
+children
+folk
+world
+country music genres allowing capture virtually single kind audio recording released
+june
+discogs published report
+included information number contributors
+report claims discogs contributors releases
+discogs homepage information indicating number releases
+labels
+artists presently database
+number releases database passed mark
+july database contained
+releases
+artists labels
+july system sellers introduced site called market price history
+made information users paid subscription days information access past price items sold months ago previous sellers sold release
+time
+year charge advanced subscriptions abolished
+felt extra features made subscribers
+fairer
+revenue stream found sellers purchasers
+beginning
+market price history made free charge users
+giving month view historical sales data release
+mid august
+discogs data publicly accessible restful
+xml based api license allowed specially attributed
+alter
+transform
+build
+data
+license changed public domain
+prior advent license api
+discogs data accessible discogs web site html interface intended viewed web browsers
+html interface remains authorized modify discogs data
+june
+version api released
+notable release license key longer required
+default response changed xml json
+queries day limit removed
+limit image lookups days introduced
+november
+major update version api released
+release dropped support xml
+data returned json format
+monthly data dumps data provided xml format
+data discogs submissions contributed users registered accounts web site
+system major revisions
+incoming submissions checked formal factual correctness privileged users called
+moderators
+mods
+short
+selected site management
+submissions edits visible searchable received single positive vote
+mod
+smaller pool super moderators called
+editors
+power vote proposed edits artist label data
+version introduced concept
+submission limits
+prevented users submitting releases moderation
+number submissions user increased logarithmic scale
+purpose fold
+helped submission queue fairly small manageable moderators
+allowed user acclimatise slowly formatting rules guidelines submitting discogs
+releases required number votes accepted database initially number votes required moderators time amount decreased
+launched august
+submission limits eliminated
+allowing user submit unlimited number updates entries
+releases added database explicitly marked
+unmoderated
+top banner
+updates existing items
+releases
+artists
+labels
+shown
+search engines casual visitors
+approved moderators
+system launched march
+submissions edits effect immediately
+time release added release edited
+entry flagged needing
+votes
+initially
+review
+term caused confusion
+flagged entry marked full yellow bar release list views
+version
+banner submission
+initially
+banner omitted
+item voted time
+flagged
+votes consist rating correctness completeness full set data item
+recent
+assessed users automatically determined
+undisclosed algorithm
+experienced reliable allowed cast votes
+item
+average
+vote displayed item data
+ranking system changed
+rank points awarded submitters submission
+accepted
+moderator votes
+rank points awarded immediately submission made
+accuracy information votes eventually receives

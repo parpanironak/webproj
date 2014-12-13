@@ -1,0 +1,308 @@
+Software engineering
+
+software engineering
+software engineering
+application systematic
+disciplined
+quantifiable approach design
+development
+operation
+maintenance software
+study approaches
+application engineering software
+layman terms
+act insights conceive
+model scale solution problem
+term software engineering appeared nato software engineering conference meant provoke thought perceived
+software crisis
+time
+software development
+generic term
+necessarily subsume engineering paradigm
+generally accepted concepts software engineering engineering discipline guide software engineering body knowledge
+swebok
+swebok internationally accepted standard iso
+iec
+recognized professional software engineers
+ieee offers certifications
+certified software development associate certified software development professional
+ieee certifications term engineer title compatibility reasons
+parts texas
+term engineer regulated professional engineer license
+united states starting
+ncees professional engineer licences software engineers
+modern digital computers appeared early
+instructions make operate wired machine
+practitioners quickly realized design flexible
+stored program architecture
+von neumann architecture
+division
+hardware
+software
+began abstraction deal complexity computing
+programming languages started major step abstraction
+major languages fortran
+algol
+cobol released late deal scientific
+algorithmic
+business problems
+dijkstra wrote seminal paper
+statement considered harmful
+david parnas introduced key concept modularity information hiding programmers deal increasing complexity software systems
+software system managing hardware called operating system introduced
+notably unix
+simula language introduced object oriented programming paradigm
+advances software met advances computer hardware
+mid
+microcomputer introduced
+making economical hobbyists obtain computer write software
+turn led famous personal computer
+microsoft windows
+software development life cycle sdlc starting consensus centralized construction software mid
+late early introduction simula inspired object oriented programming languages
+including smalltalk
+objective
+open source software started early form linux software introducing
+bazaar
+decentralized style constructing software
+world wide web popularization internet hit mid
+changing engineering software
+distributed systems gained sway design systems
+java programming language introduced virtual machine step abstraction
+programmers collaborated wrote agile manifesto
+favored lightweight processes create cheaper timely software
+current definition software engineering debated practitioners today struggle ways produce software
+cheaper
+faster
+cost reduction primary focus industry
+total cost ownership represents costs acquisition
+includes things productivity impediments
+upkeep efforts
+resources needed support infrastructure
+legal requirements licensing certification professional software engineers vary world
+british computer society licenses software engineers members society chartered engineers
+ceng
+areas canada
+alberta
+ontario
+quebec
+software engineers hold professional engineer
+eng
+designation
+information systems professional
+designation
+canada
+legal requirement
+eng title
+engineer
+practice
+software engineering
+usa
+beginning
+path licensure software engineers reality
+engineering disciplines
+requirements consist earning abet accredited degree software engineering
+abet degree ncees credentials evaluation
+passing fundamentals engineering exam
+years demonstrably relevant experience
+passing software engineering exam
+states
+florida
+texas
+washington
+software developers title
+engineer
+licensed professional engineers passed exam possess valid licence practice
+license periodically renewed
+continuous education
+ensure engineers date latest techniques safest practices
+ieee computer society acm
+main based professional organizations software engineering
+publish guides profession software engineering
+ieee guide software engineering body knowledge version
+swebok
+defines field describes knowledge ieee expects practicing software engineer
+swebok produced released mid
+ieee promulgates
+software engineering code ethics
+bureau labor statistics counted software engineers holding jobs
+time period
+million practitioners employed
+engineering disciplines combined
+due relative newness field study
+formal education software engineering taught part computer science curriculum
+software engineers hold computer science degrees
+software engineers work employees contractors
+software engineers work businesses
+government agencies
+civilian military
+profit organizations
+software engineers work freelancers
+organizations specialists perform tasks software development process
+organizations require software engineers
+large projects
+people specialize role
+small projects
+people fill roles time
+specializations include
+industry
+analysts
+architects
+developers
+testers
+technical support
+middleware analysts
+managers
+academia
+educators
+researchers
+software engineers programmers work hours week
+percent software engineers percent programmers worked hours week
+injuries occupations rare
+workers spend long periods front computer terminal typing keyboard
+engineers programmers susceptible eyestrain
+back discomfort
+hand wrist problems carpal tunnel syndrome
+field future bright money magazine salary
+rated software engineer job united states
+software engineering ranked job united states
+time careercast
+software engineering institute offers certifications specific topics security
+process improvement software architecture
+apple
+ibm
+microsoft companies sponsor certification examinations
+certification programs oriented specific technologies
+managed vendors technologies
+certification programs tailored institutions employ people technologies
+broader certification general software engineering skills professional societies
+ieee certified software professionals certified software development professional
+csdp
+added entry level certification certified software development associate
+csda
+acm professional certification program early
+citation needed discontinued due lack interest
+acm examined possibility professional certification software engineers late
+eventually decided certification inappropriate professional industrial practice software engineering
+validated guru began offering certified software developer
+vgcsd
+certification
+heavily influenced global community
+british computer society developed legally recognized professional certification called chartered professional
+citp
+fully qualified members
+mbcs
+software engineers eligible membership institution engineering technology qualify chartered engineer status
+canada canadian information processing society developed legally recognized professional certification called information systems professional
+isp
+ontario
+canada
+software engineers graduate canadian engineering accreditation board
+ceab
+accredited program
+successfully complete peo
+professional engineers ontario
+professional practice examination
+ppe
+months acceptable engineering experience eligible licensed professional engineers ontario professional engineers
+eng
+peo recognize online distance education
+computer science programs equivalent software engineering programs tremendous overlap
+sparked controversy certification war
+held number
+eng holders profession exceptionally low
+vast majority working professionals field hold degree
+difficult certification path holders degrees
+bother pursue license
+initial impact outsourcing
+lower cost international human resources developing world countries led massive migration software development activities corporations north america europe india
+china
+russia
+developing countries
+approach flaws
+distance
+timezone difference prevented human interaction clients developers
+lower quality software developed outsourcing companies massive job transfer
+negative impact aspects software engineering profession
+students developed world avoid education related software engineering fear offshore outsourcing
+importing software products services countries
+displaced foreign visa workers
+statistics show threat software engineering
+related career
+computer programming affected
+ability smartly leverage offshore shore resources follow sun workflow improved operational capability organizations
+north americans leaving work
+asians arriving work
+asians leaving work
+europeans arriving work
+continuous ability human oversight business critical processes hours day
+paying overtime compensation disrupting key human resource
+sleep patterns
+global outsourcing advantages
+global generally distributed development run difficulties resulting distance developers
+includes limited language
+communication
+cultural corporate barriers
+handling global development successfully subject active research software engineering community
+knowledge programming pre requisite software engineer
+ieee computer society produced swebok
+published iso
+iec technical report
+describing body knowledge mastered graduate software engineer years experience
+software engineers enter profession obtaining university degree training vocational school
+standard international curriculum undergraduate software engineering degrees defined ccse
+updated
+number universities software engineering degree programs
+campus programs
+online programs
+masters level programs
+doctorate level programs
+certificate level programs united states
+addition university education
+companies sponsor internships students wishing pursue careers information technology
+internships introduce student interesting real world tasks typical software engineers encounter day
+similar experience gained military service software engineering
+major differences software engineering engineering disciplines
+researchers
+result costs fabrication
+set activities leads production software product software process
+softwares custom build
+software engineering market gradually shifted component based
+computer aided software engineering
+case
+tools support software process activities
+due vast diversity software processes types products
+effectiveness case tools limited
+ideal approach software process developed
+fundamental activities
+software specification
+design
+validation maintainence common process activities
+software process model abstraction software process
+called process paradigms
+general process models waterfall model
+evolutionary development model component based software engineering model
+widely current software engineering practice
+large systems
+waterfall model published model sofware process
+model divides software processes phases
+phases
+theoretically activities performed individually practice
+overlap
+maintenance stage
+software put
+additional problems discovered feature arise
+require software undergo previous phases
+software engineering divided ten subdisciplines
+software engineering direct subfield computer science relations management science
+considered part systems engineering
+systems engineers deal primarily system requirements design
+including hardware human issues
+concerned partitioning functionality hardware
+software human operators
+output systems engineering process serves input software engineering process
+computer software engineers systems level
+software engineering
+information systems
+computer science software level computer engineering graduatescitation needed
+term includes general computer science graduates years practical job experience involving software engineering

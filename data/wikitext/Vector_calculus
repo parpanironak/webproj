@@ -1,0 +1,195 @@
+Vector calculus
+
+vector calculus
+vector calculus
+vector analysis
+branch mathematics concerned differentiation integration vector fields
+primarily dimensional euclidean space image
+math
+png term
+vector calculus
+synonym broader subject multivariable calculus
+includes vector calculus partial differentiation multiple integration
+vector calculus plays important role differential geometry study partial differential equations
+extensively physics engineering
+description electromagnetic fields
+gravitational fields fluid flow
+vector calculus developed quaternion analysis
+willard gibbs oliver heaviside end century
+notation terminology established gibbs edwin bidwell wilson book
+vector analysis
+conventional form cross products
+vector calculus generalize higher dimensions
+alternative approach geometric algebra
+exterior products generalize
+discussed
+basic objects vector calculus scalar fields
+scalar valued functions
+vector fields
+vector valued functions
+combined transformed operations
+integrated
+advanced treatments
+distinguishes pseudovector fields pseudoscalar fields
+identical vector fields scalar fields change sign orientation reversing map
+curl vector field pseudovector field
+reflects vector field
+curl points opposite direction
+distinction clarified elaborated geometric algebra
+basic algebraic
+differential
+operations vector calculus referred vector algebra
+defined vector space globally applied vector field
+consist
+triple products
+basic operations
+expressed terms dot cross products
+vector calculus studies differential operators defined scalar vector fields
+typically expressed terms del operator
+image
+math
+png
+nabla
+important differential operations vector calculus
+curl divergence differ cross product dot product
+denotes scalar field denotes vector field
+quantity called jacobian studying functions domain range function multivariable
+change variables integration
+likewise
+important theorems related operators generalize fundamental theorem calculus higher dimensions
+vector calculus initially defined euclidean space
+image
+math
+png additional structure simply dimensional real vector space
+product
+dot product
+notion length
+angle
+orientation
+notion left handed handed
+structures give rise volume form
+cross product
+pervasively vector calculus
+gradient divergence require product
+curl cross product requires handedness coordinate system account
+cross product handedness detail
+vector calculus defined dimensional real vector spaces product
+generally symmetric nondegenerate form
+orientation
+note data isomorphism euclidean space
+require set coordinates
+frame reference
+reflects fact vector calculus invariant rotations
+special orthogonal group
+generally
+vector calculus defined dimensional oriented riemannian manifold
+generally pseudo riemannian manifold
+structure simply means tangent space point product
+generally
+symmetric nondegenerate form
+orientation
+globally symmetric nondegenerate metric tensor orientation
+works vector calculus defined terms tangent vectors point
+analytic results easily understood
+general form
+machinery differential geometry
+vector calculus forms subset
+grad div generalize immediately dimensions
+gradient theorem
+divergence theorem
+laplacian
+yielding harmonic analysis
+curl cross product generalize directly
+general point view
+fields
+dimensional
+vector calculus uniformly vector fields
+scalar fields vector fields
+vector fields vector fields
+pseudovector fields vector fields
+pseudoscalar fields vector fields
+higher dimensions additional types fields
+scalar
+vector
+pseudovector
+pseudoscalar
+dimensions
+exhaustive dimension
+work
+pseudo
+scalars
+pseudo
+vectors
+dimension
+assuming nondegenerate form
+grad scalar function vector field
+div vector field scalar function
+dimension
+trivially
+dimension
+curl vector field vector field
+dimensions cross product defined
+generalizations dimensionalities require image
+math
+png vectors yield vector
+alternative lie algebras
+general antisymmetric bilinear products
+generalization grad div
+curl generalized elaborated curl
+generalizations
+curl vector field bivector field
+interpreted special orthogonal lie algebra infinitesimal rotations
+identified vector field dimensions differ dimensions rotations dimensions
+dimensions rotations dimensions
+generally image
+math
+png dimensions rotations dimensions
+important alternative generalizations vector calculus
+geometric algebra
+vector fields vector fields
+fewer dimensions
+vector field identified scalar function vector field
+true higher dimensions
+replaces cross product
+specific dimensions
+taking vector fields giving output vector field
+exterior product
+exists dimensions takes vector fields
+giving output bivector
+vector
+field
+product yields clifford algebras algebraic structure vector spaces
+orientation nondegenerate form
+geometric algebra generalizations physics applied fields higher dimensions
+generalization differential forms
+covector fields
+vector fields vector fields
+widely mathematics
+differential geometry
+geometric topology
+harmonic analysis
+yielding hodge theory oriented pseudo riemannian manifolds
+point view
+grad
+curl
+div correspond exterior derivative forms
+forms
+forms
+key theorems vector calculus special cases general form stokes theorem
+point view generalizations
+vector calculus implicitly identifies mathematically distinct objects
+makes presentation simpler underlying mathematical structure generalizations clear
+point view geometric algebra
+vector calculus implicitly identifies vector fields vector fields scalar functions
+vectors vectors scalars
+vectors vectors vectors
+point view differential forms
+vector calculus implicitly identifies forms scalar fields vector fields
+forms forms scalar fields
+forms forms vector fields
+curl naturally takes input vector field
+naturally output vector field form
+pseudovector field
+interpreted vector field
+directly taking vector field vector field
+reflected curl vector field higher dimensions output vector field

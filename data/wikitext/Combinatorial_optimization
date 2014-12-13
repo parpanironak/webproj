@@ -1,0 +1,48 @@
+Combinatorial optimization
+
+combinatorial optimization
+applied mathematics theoretical computer science
+combinatorial optimization topic consists finding optimal object finite set objects
+problems
+exhaustive search feasible
+operates domain optimization problems
+set feasible solutions discrete reduced discrete
+goal find solution
+common problems involving combinatorial optimization traveling salesman problem
+tsp
+minimum spanning tree problem
+combinatorial optimization subset mathematical optimization related operations research
+algorithm theory
+computational complexity theory
+important applications fields
+including artificial intelligence
+machine learning
+mathematics
+auction theory
+software engineering
+research literature considers discrete optimization consist integer programming combinatorial optimization
+turn composed optimization problems dealing graphs
+matroids
+related structures
+topics closely intertwined research literature
+involves determining efficiently allocate resources find solutions mathematical problems
+applications combinatorial optimization include
+limited
+large amount literature polynomial time algorithms special classes discrete optimization
+considerable amount unified theory linear programming
+examples combinatorial optimization problems fall framework shortest paths shortest path trees
+flows circulations
+spanning trees
+matching
+matroid problems
+complete discrete optimization problems
+current research literature includes topics
+combinatorial optimization problems viewed searching element set discrete items
+principle
+sort search algorithm metaheuristic solve
+generic search algorithms guaranteed find optimal solution
+guaranteed run quickly
+polynomial time
+discrete optimization problems complete
+traveling salesman problem
+expected

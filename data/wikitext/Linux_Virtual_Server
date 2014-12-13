@@ -1,0 +1,42 @@
+Linux Virtual Server
+
+linux virtual server
+linux virtual server
+lvs
+load balancing software linux systems
+open source project started wensong zhang
+mission project build high performance highly server linux clustering technology
+good scalability
+reliability serviceability
+major work lvs project develop advanced load balancing software
+ipvs
+application level load balancing software
+ktcpvs
+cluster management components
+users lvs solutions build highly scalable highly network services
+web
+email
+media services voip services
+integrate scalable network services large scale reliable commerce government applications
+lvs solutions deployed real applications world
+including
+lvs component depends linux netfilter framework source code net
+netfilter
+ipvs
+subdirectory kernel source
+implements balancing schedulers
+listed relevant source file
+list retrieved
+www
+linuxvirtualserver
+docs
+scheduling
+html
+module handle udp
+tcp layer protocols ftp passive connection inspecting layer packets
+hierarchy counters
+proc
+directory
+userland tool ipvsadm
+section reference
+section reference

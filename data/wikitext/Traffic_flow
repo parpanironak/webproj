@@ -1,0 +1,637 @@
+Traffic flow
+
+traffic flow
+mathematics civil engineering
+traffic flow study interactions vehicles
+drivers
+infrastructure
+including highways
+signage
+traffic control devices
+aim understanding developing optimal road network efficient movement traffic minimal traffic congestion problems
+attempts produce mathematical theory traffic flow date back
+frank knight produced analysis traffic equilibrium
+refined wardrop principles equilibrium
+nonetheless
+advent significant computer processing power
+date satisfactory general theory consistently applied real flow conditions
+current traffic models mixture empirical theoretical techniques
+models developed traffic forecasts
+account proposed local major
+increased vehicle
+land mode transport
+people moving bus train car
+identify areas congestion network adjusted
+traffic phenomena complex nonlinear
+depending interactions large number vehicles
+due individual reactions human drivers
+vehicles interact simply laws mechanics
+show phenomena cluster formation shock wave propagation
+citation needed forward backward
+depending vehicle density area
+mathematical models traffic flow make vertical queue assumption
+vehicles congested link spill back length link
+free flowing network
+traffic flow theory refers traffic stream variables speed
+flow
+concentration
+relationships concerned uninterrupted traffic flow
+primarily found freeways expressways
+optimum density
+freeways vehicles mile lane
+citation needed density reaches maximum flow rate
+flux
+exceeds optimum density
+traffic flow unstable
+minor incident result persistent stop driving conditions
+jam density refers extreme traffic density completely stopped traffic flow
+range vehicles mile lane
+calculations congested networks complex rely empirical studies extrapolations actual road counts
+urban suburban nature
+factors
+road user safety environmental considerations
+dictate optimum conditions
+common spatiotemporal empirical features traffic congestion qualitatively highways countries measured years traffic observations
+common features traffic congestion define synchronized flow wide moving jam traffic phases congested traffic phase traffic theory traffic flow
+traffic flow generally constrained dimensional pathway
+travel lane
+time space diagram graphical depiction flow vehicles pathway time
+time measured horizontal axis
+distance measured vertical axis
+traffic flow time space diagram represented individual trajectory lines individual vehicles
+vehicles travel lane parallel trajectories
+trajectories cross vehicle passes
+time space diagrams tools displaying analyzing traffic flow characteristics roadway segment time
+analyzing traffic flow congestion
+main variables visualize traffic stream
+speed
+density
+flow
+speed traffic flow defined distance covered unit time
+speed vehicle impossible track roadway
+practice
+average speed based sampling vehicles period time area calculated formulae
+speed measured keeping time reference called time speed
+measured space reference called space speed
+represents number vehicles passing fixed point
+represents number vehicles passing roadway segment
+time speed greater space speed
+time space diagram
+instantaneous velocity
+vehicle equal slope trajectory
+average velocity vehicle equal slope line connecting trajectory endpoints vehicle enters leaves roadway segment
+vertical separation
+distance
+parallel trajectories vehicle spacing
+leading vehicle
+similarly
+horizontal separation
+time
+represents vehicle headway
+time space diagram relating headway spacing traffic flow density
+density
+defined number vehicles unit area roadway
+traffic flow
+important densities critical density
+jam density
+maximum density achievable free flow
+maximum density achieved congestion
+general
+jam density times critical density
+inverse density spacing
+center center distance vehicles
+density
+length roadway
+time
+equal inverse average spacing vehicles
+time space diagram
+density evaluated region
+total travel time
+flow
+number vehicles passing reference point unit time
+vehicles hour
+inverse flow headway
+time elapses ith vehicle passing reference point space
+vehicle
+congestion
+remains constant
+traffic jam forms
+approaches
+flow
+passing fixed point
+interval
+equal inverse average headway vehicles
+time space diagram
+flow evaluated region
+total distance traveled
+general definition flow density time space diagram illustrated region
+addition providing information speed
+flow
+density traffic streams
+time space diagrams illustrate propagation congestion upstream traffic bottleneck
+shockwave
+congestion shockwaves vary propagation length
+depending upstream traffic flow density
+shockwaves generally travel upstream rate approximately
+traffic stretch road stationary observer detect movement arbitrary area time space diagram
+traffic stationary vehicle trajectories parallel equidistant
+stationary superposition families trajectories properties
+fast slow drivers
+small hole template view empty region diagram times
+cases
+traffic stationary
+fine level observation
+stationary traffic exist
+exclude microscopic level observation definition satisfied traffic similar larger windows
+fact
+relax definition requiring quantities
+approximately
+large
+window
+analysts approach problem main ways
+main scales observation physics
+engineering approach analysis highway traffic flow problems primarily based empirical analysis
+observation mathematical curve fitting
+major reference american planners highway capacity manual
+published transportation research board
+part united states national academy sciences
+recommends modelling traffic flows travel time link delay
+flow function
+including effects queuing
+technique traffic models saturn model europe
+parts europe
+hybrid empirical approach traffic design
+combining macro
+micro
+mesoscopic features
+simulating steady state flow journey
+transient
+demand peaks
+congestion simulated
+modeled small
+time slices
+network working day weekend
+typically
+origins destinations trips estimated traffic model generated calibrated comparing mathematical model observed counts actual traffic flows
+classified type vehicle
+matrix estimation
+applied model achieve match observed link counts
+revised model generate realistic traffic forecast proposed scheme
+model run times
+including current baseline
+average day
+forecast based range economic parameters supported sensitivity analysis
+order understand implications temporary blockages incidents network
+models
+total time drivers types vehicle network deduce average fuel consumption emissions
+scandinavian
+dutch authority practice modelling program contram large schemes
+developed decades auspices transport research laboratory
+recently support swedish road administration
+modelling forecasts road network decades future
+economic benefits road network calculated
+estimates time parameters
+output models fed cost benefit analysis program
+cumulative vehicle count curve
+curve
+shows cumulative number vehicles pass location time
+measured passage reference vehicle
+curve plotted arrival times individual vehicles approaching location
+departure times leave location
+obtaining arrival departure times involve data collection
+set point sensors locations
+count number vehicles pass segment recording time vehicle arrives departs
+resulting plot pair cumulative curves vertical axis
+represents cumulative number vehicles pass points
+horizontal axis
+represents elapsed time
+vehicles experience delay travel
+arrivals vehicles location represented curve arrivals vehicles location represented figure
+commonly
+curve arrival curve vehicles location curve arrival curve vehicles location
+lane signalized approach intersection
+location stop bar approach arbitrary line receiving lane intersection
+traffic signal green
+vehicles travel points delay time takes travel distance equal free flow travel time
+graphically
+shown separate curves figure
+traffic signal red
+vehicles arrive stop bar
+delayed red light crossing time signal turns green
+result
+queue builds stop bar vehicles arriving intersection traffic signal red
+long vehicles arriving intersection hindered queue
+curve longer represents arrival location
+represents virtual arrival location
+words
+represents vehicles arrival experience delay
+vehicles arrival location
+taking account delay traffic signal
+represented curve figure
+concept virtual arrival curve flawed
+curve correctly show queue length resulting interruption traffic
+red signal
+assumes vehicles reaching stop bar delayed red light
+words
+virtual arrival curve portrays stacking vehicles vertically stop bar
+traffic signal turns green
+vehicles served
+fifo
+order
+multi lane approach
+service order necessarily fifo
+nonetheless
+interpretation concern average total delay total delays individual vehicles
+traffic light depicts curves smooth functions
+theoretically
+plotting curves collected data result step function
+figure
+step represents arrival departure vehicle point time
+curve drawn larger scale reflecting period time covers cycles
+steps individual vehicles
+curve smooth function
+figure
+curve number traffic analyses
+including freeway bottlenecks dynamic traffic assignment
+due fact number traffic flow characteristics derived plot cumulative vehicle count curves
+illustrated figure traffic flow characteristics derived curves
+traffic flow characteristics figure
+variables
+average delay experienced vehicle average queue length time calculated
+formulas
+application curve bottleneck model
+cumulative vehicle count point bottleneck
+location
+cumulative vehicle count point bottleneck
+location
+capacity bottleneck
+discharge rate
+bottleneck model applied real world bottleneck situations resulting roadway design problem traffic incident
+roadway section bottleneck exists figure
+location bottleneck
+arrivals vehicles follow regular curve
+bottleneck absent
+departure rate vehicles location essentially arrival rate time
+time ttff free flow travel time
+due bottleneck
+system location departure rate
+graphing scenario
+essentially situation figure
+arrival curve vehicles
+departure curve vehicles absent bottleneck
+limited departure curve vehicles bottleneck
+discharge rate slope curve
+traffic flow characteristics figure determined diagram
+maximum delay maximum queue length found point figure slope slope
+virtual arrival rate equal discharge
+departure rate
+curve bottleneck model calculate benefits removing bottleneck
+terms capacity improvement removing incident side roadway
+dynamic traffic assignment solved curve
+main approaches tackle problem
+system optimum
+user equilibrium
+application discussed section
+phase traffic theory alternative theory traffic flow
+important result phase theory time instance range highway capacities free flow bottleneck
+capacity range maximum minimum capacities
+range highway capacities free flow bottleneck phase traffic theory contradicts fundamentally classical traffic theories methods traffic management traffic control time instant assume existence deterministic stochastic highway capacity free flow bottleneck
+aim traffic flow analysis create implement model enable vehicles reach destination shortest time maximum roadway capacity
+step process
+cycle repeated solution converges
+main approaches tackle problem end objectives
+system optimum based assumption routes vehicles controlled system
+rerouting based maximum utilization resources minimum total system cost
+cost interpreted travel time
+system optimum routing algorithm
+routes pair marginal cost
+traditional transportation economics
+system optimum determined equilibrium demand function marginal cost function
+approach
+marginal cost roughly depicted increasing function traffic congestion
+traffic flow approach
+marginal cost trip expressed sum cost
+delay time
+experienced driver externality
+driver imposes rest users
+suppose freeway
+alternative route
+users diverted ramp
+operator total arrival rate
+capacity freeway
+capacity alternative route
+time
+freeway congested
+users start moving alternative route
+alternative route full capacity
+operator decides number vehicles
+alternative route
+optimal number vehicles
+obtained calculus variation
+make marginal cost route equal
+optimal condition
+graph
+queue alternative route clear time units clears freeway
+solution define allocates vehicles arriving
+conclude optimal solution unique
+operator freeway congested
+operator impose congestion toll
+difference externality freeway alternative route
+situation
+freeway maintain free flow speed
+alternative route extremely congested
+user optimum equilibrium assumes users choose route destination based travel time consumed route options
+users choose route requires travel time
+user optimum model simulating impact traffic assignment highway bottlenecks
+congestion occurs highway
+extend delay time travelling highway create longer travel time
+user optimum assumption
+users choose wait travel time freeway equal travel time city streets
+equilibrium reached
+equilibrium called user equilibrium
+wardrop equilibrium nash equilibrium
+core principle user equilibrium routes pair travel time
+alternative route option enabled actual travel time system reached free flow travel time route
+highway user optimum model alternative route
+typical process traffic assignment shown figure
+traffic demand stays highway capacity
+delay time highway stays
+traffic demand exceeds capacity
+queue vehicle highway delay time increase
+users turn city streets delay time reaches difference free flow travel time highway free flow travel time city streets
+users staying highway spend travel time turn city streets
+stage
+travel time highway alternative route stays
+situation ended demand falls road capacity
+travel time highway begins decrease users stay highway
+total part area represents benefits providing alternative route
+total area area shows total delay cost system
+area total delay occurs highway area extra delay shifting traffic city streets
+user optimum system optimum subdivided categories basis approach time delay solution
+predictive time delay based concept system user congestion point reached delay freeway equal delay city streets
+decision route assignment time
+hand
+reactive time delay system user waits experience point delay observed diversion routes reaction experience
+predictive delay significantly results reactive delay method
+kerner introduced alternative approach traffic assignment based network breakdown minimization
+principle
+explicit minimization travel time objective system optimum user equilibrium
+principle minimizes probability occurrence congestion traffic network
+sufficient traffic demand
+application principle lead implicit minimization travel time network
+upcoming approach eliminating shockwave increasing safety vehicles
+concept based fact risk accident roadway increases speed differential upstream downstream vehicles
+types crash risk reduced vsl implementation rear end crash lane change crash
+approaches implemented researchers build suitable vsl algorithm
+major consideration road capacity relates design junctions
+allowing long
+weaving sections
+gently curving roads graded intersections
+vehicles move lanes causing significant interference flow
+expensive takes large amount land
+patterns
+urban rural areas
+large models crude simulations intersections
+computer simulations model specific sets traffic lights
+roundabouts
+scenarios flow interrupted shared types road users pedestrians
+designed junction enable significantly traffic flow range traffic densities day
+matching model
+intelligent transport system
+traffic uninterrupted
+packets
+vehicles predetermined speeds series phased traffic lights
+trl developed junction modelling programs small scale local schemes account detailed geometry sight lines
+arcady roundabouts
+picady priority intersections
+oscady transyt signals
+kinematic wave model applied traffic flow lighthill whitham
+part paper developed theory kinematic waves motion water
+half
+extended theory traffic arterial roads
+paper primarily concerned developing idea traffic
+increases flow
+effects speed
+bottlenecks
+authors began discussing previous approaches traffic flow theory
+note time experimental work
+approaches subject infancy
+researcher
+john glen wardrop
+primarily concerned statistical methods examination
+space speed
+time speed
+effect increase flow resulting decrease speed
+previous research focused separate models
+related traffic speed traffic flow related speed headway vehicles
+goal lighthill whitham
+hand
+propose method study theories flow supersonic projectiles flood movement rivers
+resulting model capture aforementioned relationships
+speed flow speed headway
+single curve
+properties stretch road relevant ability handle flow congested traffic
+model presented related traffic flow concentration
+typically density
+wrote
+fundamental hypothesis theory point road flow
+vehicles hour
+function concentration
+vehicles mile
+model
+traffic flow resembled flow water flow propagated back stream vehicles waves
+velocity relative road slope graph flow concentration
+authors included graph
+flow versus concentration
+density
+plot today
+figure
+authors flow concentration model illustrate concept shock waves
+slow vehicles enter
+conditions surround
+discussed bottlenecks intersections
+relating model
+topics
+flow concentration time space diagrams included
+finally
+authors noted agreed definition capacity existed
+argued defined flow road capable
+lighthill whitham recognized model significant limitation
+long
+crowded roadways
+approach works large number vehicles
+kinematic wave model traffic flow theory simplest dynamic traffic flow model reproduces propagation traffic waves
+made components
+fundamental diagram
+conservation equation
+initial conditions
+law conservation fundamental law governing kinematic wave model
+fundamental diagram kinematic wave model relates traffic flow density
+figure
+written
+finally
+initial conditions defined solve problem model
+boundary defined image
+math
+png
+representing density function time position
+boundaries typically forms
+resulting initial problems
+ivps
+boundary problems
+bvps
+initial problems give traffic density time image
+math
+png
+image
+math
+png
+image
+math
+png density function
+boundary problems give function image
+math
+png represents density image
+math
+png position
+image
+math
+png
+model traffic flow
+primary modeling traffic bottlenecks
+section
+traffic bottlenecks disruption traffic roadway caused due road design
+traffic lights
+accidents
+general types bottle necks
+stationary moving bottlenecks
+stationary bottlenecks arise due disturbance occurs due stationary situation narrowing roadway
+accident
+moving bottlenecks hand vehicles vehicle behavior disruption vehicles upstream vehicle
+generally moving bottlenecks caused heavy trucks slow moving vehicles acceleration lane
+bottlenecks important considerations impact flow traffic
+average speeds vehicles
+main consequence bottleneck reduction capacity roadway
+federal highway authority stated congestion bottlenecks figure shows piechart congestion
+figure shows common congestion bottlenecks
+general stationary bottlenecks lane drops occurs multilane roadway loses lane
+vehicular traffic ending lanes merge lanes
+stretch highway lanes direction
+suppose fundamental diagram modeled shown
+highway peak capacity vehicles hour
+density vehicles mile
+highway jammed vehicles mile
+capacity reached
+traffic flow vehicles hour
+higher vehicles hour
+case
+speed vehicles
+free flow
+roadway capacity
+suppose location
+highway narrows lane
+maximum capacity limited
+half
+lane
+shares flowrate state
+vehicular density higher
+time space diagram
+model bottleneck event
+suppose time
+traffic begins flow rate speed
+time
+vehicles arrive lower flowrate
+vehicles reach location
+traffic flow unimpeded
+downstream
+roadway narrows
+reducing capacity half state
+due
+vehicles begin queuing upstream
+represented high density state
+vehicle speed state slower
+fundamental diagram
+downstream bottleneck
+vehicles transition state
+travel free flow speed
+vehicles arrive rate starting
+queue begin clear eventually dissipate
+state flowrate lane capacity states
+time space diagram
+sample vehicle trajectory represented dotted arrow line
+diagram readily represent vehicular delay queue length
+simple matter taking horizontal vertical measurements region state
+explained
+moving bottlenecks caused due slow moving vehicles disruption traffic
+moving bottlenecks active inactive bottlenecks
+reduced capacity
+caused due moving bottleneck greater actual capacity
+downstream vehicle
+bottleneck active bottleneck
+figure shows case truck moving velocity approaching downstream location capacity
+reduced capacity truck
+downstream capacity
+truck inactive bottleneck
+laval presents framework estimating analytical expressions capacity reductions caused subset vehicles forced slow horizontal
+vertical curves multilane freeway
+lane underperforming stream terms desired speed distribution modeled kinematic wave theory moving bottlenecks
+lane changing presence trucks lead positive negative impact capacity
+target lane empty lane changing increases capacity
+lanes traffic direction
+assume truck starts traveling speed
+slower free flow speed
+shown fundamental diagram
+represents reduced capacity
+lanes
+truck
+state represents normal approaching traffic flow
+speed
+state
+flowrate
+corresponds queuing upstream truck
+fundamental diagram
+vehicle speed slower
+drivers navigated truck
+speed transition downstream state
+state travels free flow
+vehicle density fewer vehicles bottleneck
+suppose
+time
+truck slows free flow
+queue builds truck
+represented state
+region state
+vehicles drive slower sample trajectory
+state limits smaller flow state
+queue back truck eventually crowd entire highway
+slope negative
+state higher flow
+growing queue
+back slope positive
+imagine scenario lane road reduce lane point capacity reduced half original
+case
+road point lane opened capacity restored original
+case
+case bottleneck limiting flow traffic increase density cars
+location
+deceleration oncoming cars traveling speed slow speed
+shockwave travel speed slope line fundamental diagram
+wave speed calculated vshock
+line delineates congestion traffic oncoming free flow traffic
+slope fundamental diagram positive congestion continue downstream highway
+negative slope congestion continue upstream
+figure
+deceleration case problem
+figure
+case case problem traffic congestion free flow cars accelerate density drops
+slope shock waves calculated formula
+difference time traffic flow travels fundamental diagram straight line slopes points curved fundamental diagram
+figure
+lines emanating point fan shape
+called rarefaction
+figure
+model implies users time longer accelerate meet lines
+approximation triangular diagram traffic increases abruptly driver sees opening front
+figures
+survey state art traffic flow modelling
+books physical point view

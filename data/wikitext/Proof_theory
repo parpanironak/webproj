@@ -1,0 +1,110 @@
+Proof theory
+
+proof theory
+proof theory branch mathematical logic represents proofs formal mathematical objects
+facilitating analysis mathematical techniques
+proofs typically presented inductively defined data structures plain lists
+boxed lists
+trees
+constructed axioms rules inference logical system
+proof theory syntactic nature
+contrast model theory
+semantic nature
+model theory
+axiomatic set theory
+recursion theory
+proof theory called pillars foundations mathematics
+proof theory important philosophical logic
+primary interest idea proof theoretic semantics
+idea depends technical ideas structural proof theory feasible
+formalisation logic advanced work figures gottlob frege
+giuseppe peano
+bertrand russell
+richard dedekind
+story modern proof theory established david hilbert
+initiated called hilbert program foundations mathematics
+kurt seminal work proof theory advanced
+refuted program
+completeness theorem initially bode hilbert aim reducing mathematics finitist formal system
+incompleteness theorems showed unattainable
+work carried proof calculi called hilbert systems
+parallel
+foundations structural proof theory founded
+jan suggested improve hilbert systems basis axiomatic presentation logic allowed drawing conclusions assumptions inference rules logic
+response
+gerhard gentzen
+independently provided systems
+called calculi natural deduction
+gentzen approach introducing idea symmetry grounds asserting propositions
+expressed introduction rules
+consequences accepting propositions elimination rules
+idea proved important proof theory
+gentzen
+introduced idea sequent calculus
+calculus advanced similar spirit expressed duality logical connectives
+make fundamental advances formalisation intuitionistic logic
+provide combinatorial proof consistency peano arithmetic
+presentation natural deduction sequent calculus introduced fundamental idea analytic proof proof theory
+informal proofs everyday mathematical practice unlike formal proofs proof theory
+high level sketches expert reconstruct formal proof principle
+time patience
+mathematicians
+writing fully formal proof pedantic long winded common
+formal proofs constructed computers interactive theorem proving
+significantly
+proofs checked automatically
+computer
+checking formal proofs simple
+finding proofs
+automated theorem proving
+generally hard
+informal proof mathematics literature
+contrast
+requires weeks peer review checked
+errors
+styles proof calculi
+give complete axiomatic formalization propositional predicate logic classical intuitionistic flavour
+modal logic
+substructural logics
+relevance logic linear logic
+unusual find logic resists represented calculi
+previously mentioned
+spur mathematical investigation proofs formal theories hilbert program
+central idea program give finitary proofs consistency sophisticated formal theories needed mathematicians
+ground theories means metamathematical argument
+shows purely universal assertions
+technically provable image
+math
+png sentences
+finitarily true
+grounded care finitary meaning existential theorems
+pseudo meaningful stipulations existence ideal entities
+failure program induced kurt incompleteness theorems
+showed consistent theory sufficiently strong express simple arithmetic truths
+prove consistency
+formulation image
+math
+png sentence
+investigation carried topic
+led
+mathematical logic
+structural proof theory subdiscipline proof theory studies proof calculi support notion analytic proof
+notion analytic proof introduced gentzen sequent calculus
+analytic proofs cut free
+natural deduction calculus supports notion analytic proof
+shown dag prawitz
+definition slightly complex
+analytic proofs normal forms
+related notion normal form term rewriting
+exotic proof calculi jean yves girard proof nets support notion analytic proof
+structural proof theory connected type theory means curry howard correspondence
+observes structural analogy process normalisation natural deduction calculus beta reduction typed lambda calculus
+foundation intuitionistic type theory developed martin
+extended correspondence
+leg cartesian closed categories
+linguistics
+type logical grammar
+categorial grammar montague grammar apply formalisms based structural proof theory give formal natural language semantics
+analytic tableaux apply central idea analytic proof structural proof theory provide decision procedures semi decision procedures wide range logics
+ordinal analysis powerful technique providing combinatorial consistency proofs theories formalising arithmetic analysis
+important logics insights logical structure arising structural proof theory

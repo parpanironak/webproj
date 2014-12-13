@@ -1,0 +1,391 @@
+Computer animation
+
+computer animation
+computer animation process generating animated images computer graphics
+general term computer generated imagery encompasses static scenes dynamic images
+computer animation refers moving images
+modern computer animation graphics
+graphics stylistic
+low bandwidth
+faster real time renderings
+target animation computer
+target medium
+film
+computer animation essentially digital successor stop motion techniques traditional animation models frame frame animation illustrations
+computer generated animations controllable physically based processes
+constructing miniatures effects shots hiring extras crowd scenes
+creation images feasible technology
+single graphic artist produce content actors
+expensive set pieces
+props
+create illusion movement
+image displayed computer screen repeatedly replaced image similar
+advanced slightly time
+rate frames
+technique identical illusion movement achieved television motion pictures
+animations
+objects
+models
+built computer monitor
+modeled
+figures rigged virtual skeleton
+figure animations
+separate objects
+illustrations
+separate transparent layers
+virtual skeleton
+limbs
+eyes
+mouth
+clothes
+figure moved animator key frames
+differences appearance key frames automatically calculated computer process tweening morphing
+finally
+animation rendered
+animations
+frames rendered modeling complete
+vector animations
+rendering process key frame illustration process
+tweened frames rendered needed
+pre recorded presentations
+rendered frames transferred format medium film digital video
+frames rendered real time presented end user audience
+low bandwidth animations transmitted internet
+software end users computer render real time alternative streaming pre loaded high bandwidth animations
+screen blanked background color
+black
+goat drawn screen
+screen blanked
+goat drawn duplicated slightly left original position
+process repeated
+time moving goat bit left
+process repeated fast
+goat move smoothly left
+basic procedure moving pictures films television
+moving goat shifting location object
+complex transformations object properties size
+shape
+lighting effects require calculations computer rendering simple drawing duplication
+trick eye brain thinking smoothly moving object
+pictures drawn frames
+frame
+faster
+frame complete image
+rates frames
+improvement realism smoothness perceivable due eye brain process images
+rates frame
+people detect jerkiness drawing images detracts illusion realistic movement
+conventional hand drawn cartoon animation frames
+order save number drawings needed
+accepted stylized nature cartoons
+produces realistic imagery computer animation demands higher frame rates reinforce realism
+movie film theaters united states runs frames
+sufficient create illusion continuous movement
+high resolution
+adapters
+earliest animation digital computer bell telephone laboratories half edward
+zajac
+frank
+sinden
+kenneth
+knowlton
+michael noll
+early digital animation lawrence livermore laboratory
+early step history computer animation movie westworld
+science fiction film society robots live work humans
+wireframe imagery sequel
+futureworld
+featured computer generated hand face created university utah graduate students edwin catmull fred parke
+developments cgi technologies reported year siggraph
+annual conference computer graphics interactive techniques
+attended year tens thousands computer professionals
+developers computer games video cards strive achieve visual quality personal computers real time cgi films animation
+rapid advancement real time rendering quality
+artists began game engines render interactive movies
+art form called machinima
+feature length computer animated film movie toy story pixar
+citation needed adventure centered toys owners
+groundbreaking film fully computer animated films
+computer animation helped make blockbuster films toy story
+disney
+pixar
+avatar
+shrek
+dreamworks animation
+cars
+disney
+pixar
+computer animation systems
+animator creates simplified representation character anatomy
+analogous skeleton stick figure
+position segment skeletal model defined animation variables
+avars
+human animal characters
+parts skeletal model correspond actual bones
+skeletal animation animate things
+facial features
+methods facial animation exist
+character
+woody
+toy story
+avars
+including avars face
+computer render skeletal model directly
+invisible
+skeletal model compute exact position orientation character
+eventually rendered image
+changing values avars time
+animator creates motion making character move frame frame
+methods generating avar values obtain realistic motion
+traditionally
+animators manipulate avars directly
+set avars frame
+set avars strategic points
+frames
+time computer interpolate tween
+process called keyframing
+keyframing puts control hands animator
+roots hand drawn traditional animation
+contrast
+newer method called motion capture makes live action
+computer animation driven motion capture
+real performer acts scene character animated
+motion recorded computer video cameras markers
+performance applied animated character
+method advantages
+games films methods productions
+keyframe animation produce motions difficult impossible act
+motion capture reproduce subtleties actor
+film pirates caribbean
+dead man chest
+actor bill nighy provided performance character davy jones
+nighy film
+movie benefited performance recording nuances body language
+posture
+facial expressions
+motion capture situations believable
+realistic behavior action required
+types characters required exceed conventional costuming
+computer animation combines models objects programmed hand
+keyframed
+movement
+models constructed geometrical vertices
+faces
+edges coordinate system
+objects sculpted real clay plaster
+working general forms specific details sculpting tools
+bone
+joint animation system set deform cgi model
+make humanoid model walk
+process called rigging
+virtual marionette controllers handles controlling movement
+animation data created motion capture
+keyframing human animator
+combination
+models rigged animation thousands control points
+character
+woody
+pixar movie toy story
+specialized animation controllers
+rhythm hues studios labored years create aslan movie chronicles narnia
+lion
+witch wardrobe controllers
+face
+film day tomorrow
+designers design forces extreme weather video references accurate meteorological facts
+remake king kong
+actor andy serkis designers pinpoint gorilla prime location shots expressions model
+human
+characteristics creature
+serkis earlier provided voice performance gollum
+tolkien lord rings trilogy
+computer animation created computer animation software
+impressive animation achieved basic programs
+rendering lot time ordinary home computer
+video game animators tend low resolution
+low polygon count renders
+graphics rendered real time home computer
+photorealistic animation impractical context
+professional animators movies
+television
+video sequences computer games make photorealistic animation high detail
+level quality movie animation tens hundreds years create home computer
+powerful workstation computers
+graphics workstation computers processors
+lot powerful home computer
+specialized rendering
+large number workstations
+render farm
+networked effectively act giant computer
+result computer animated movie completed years
+process comprised solely rendering
+workstation typically costs
+expensive stations render faster
+due technologically advanced hardware
+professionals digital movie cameras
+motion capture performance capture
+bluescreens
+film editing software
+props
+tools movie animation
+realistic modeling human facial features challenging sought elements computer generated imagery
+computer facial animation highly complex field models typically include large number animation variables
+historically speaking
+siggraph tutorials state art facial animation proved turning point field bringing consolidating multiple research elements
+sparked interest number researchers
+facial action coding system
+action units
+lip bite
+squint
+developed popular basis systems
+early mpeg included facial animation parameters lips
+jaws
+field made significant progress facial microexpression increased
+cases
+affective space pad emotional state model assign specific emotions faces avatars
+approach pad model high level emotional space
+lower level space mpeg facial animation parameters
+fap
+mid level partial expression parameters
+pep
+space level structure
+pad pep mapping pep fap translation model
+realism computer animation making frame photorealistic
+sense scene rendered resemble photograph
+making animation characters believable lifelike
+article focuses definition
+computer animation realistic photorealistic rendering
+greatest challenges computer animation creating human characters move highest degree realism
+animated films feature characters anthropomorphic animals
+finding nemo
+ice age
+bolt
+madagascar
+hedge
+rio
+kung panda
+fantastic
+fox
+winnie pooh
+machines
+cars
+wall
+robots
+insects
+antz
+bugs life
+ant bully
+bee movie
+fantasy creatures characters
+monsters
+shrek
+tmnt
+brave
+epic
+humans nonrealistic
+cartoon proportions
+incredibles
+despicable
+megamind
+jimmy neutron
+boy genius
+planet
+hotel transylvania
+part difficulty making pleasing
+realistic human characters uncanny valley
+concept
+point
+people increasingly negative emotional response human replica acts human
+materials commonly scene cloth
+foliage
+fluids
+hair proven difficult faithfully recreate animate
+special software techniques developed simulate specific elements
+theory
+realistic computer animation reach point indistinguishable real action captured film
+computer animation achieves level realism
+major repercussions film industry
+citation needed
+goal computer animation emulate live action closely
+computer animation tailored mimic substitute types animation
+traditional stop motion animation
+flushed
+long standing basic principles animation
+squash stretch
+call movement strictly realistic
+principles widespread application computer animation
+cgi short films produced independent animation
+popularity computer animation
+field special effects
+skyrocketed modern era
+animation
+completely computer generated television series reboot
+completely computer generated animated movie toy story
+list computer animated films
+popularity websites members movies view created growing community amateur computer animators
+utilities programs included free modern operating systems
+users make animated movies shorts
+free open source animation software applications exist
+popular amateur approach animation animated gif format
+uploaded web easily
+computer animation
+moving objects referred
+sprite image location
+location sprite changed slightly
+displayed frame
+make sprite move
+pseudocode makes sprite move left
+computer animation techniques produce animations
+frequently
+sophisticated mathematics manipulate complex dimensional polygons
+apply
+lighting effects polygons finally rendering complete image
+sophisticated graphical user interface create animation arrange choreography
+technique called constructive solid geometry defines objects conducting boolean operations regular shapes
+advantage animations accurately produced resolution
+step rendering simple image room flat wood walls grey pyramid center room
+pyramid spotlight shining
+wall
+floor ceiling simple polygon
+case
+rectangle
+corner rectangles defined values referred
+left point
+point
+screen point
+wall nearest defined points
+order
+representation wall defined
+wall
+pyramid made polygons
+rectangular base
+triangular sides
+draw image computer math calculate project image
+defined dimensional data
+dimensional computer screen
+define view point
+vantage point scene drawn
+view point inside room bit floor
+directly front pyramid
+computer calculate polygons visible
+wall displayed
+view point
+side pyramid drawn hidden front pyramid
+point perspective projected screen
+portions walls view point shorter nearer areas due perspective
+make walls wood
+wood pattern
+called texture
+drawn
+accomplish
+technique called
+small drawing wood repeatedly drawn matching tiled pattern
+desktop wallpaper
+stretched drawn walls final shape
+pyramid solid grey surfaces rendered grey
+spotlight
+light falls lighten colors
+objects blocks light darken colors
+render complete scene computer screen
+numbers describing position pyramid changed process repeated
+pyramid move

@@ -1,0 +1,452 @@
+PHP
+
+php
+php open source server side scripting language designed web development produce dynamic web pages
+developed server side scripting languages embedded html source document calling external file process data
+code interpreted web server php processor module generates resulting web page
+evolved include command line interface capability standalone graphical applications
+php deployed web servers standalone shell operating system platform
+free charge
+php competitor microsoft active server pages
+asp
+server side script engine similar languages
+gradually received acceptance installed million web sites million web servers
+notable software php includes drupal
+joomla
+mediawiki
+phpbb
+wordpress
+php originally created rasmus lerdorf
+main implementation php produced php group serves formal reference php language
+php free software released php license
+incompatible gnu general public license
+gpl
+due restrictions usage term php
+php originally stood personal home page
+stand php
+hypertext preprocessor
+recursive acronym
+php development began developer rasmus lerdorf initially created set cgi binaries written programming language called
+personal home page tools
+maintain personal homepage
+tools performed tasks displaying recording web page traffic
+lerdorf initially announced release php comp
+infosystems
+www
+authoring
+cgi usenet discussion group june
+rewrote scripts common gateway interface
+cgi
+binaries
+extending add ability work web forms communicate databases called implementation
+personal home page
+forms interpreter
+php
+php
+build simple
+dynamic web applications
+lerdorf released php
+personal home page tools
+php tools
+version
+publicly june
+accelerate bug location improve code
+release basic functionality php today
+included perl variables
+form handling
+ability embed html
+syntax similar perl limited simpler
+consistent
+development team began form
+months work beta testing
+officially released php
+november
+zeev suraski andi gutmans rewrote parser formed base php
+changing language recursive acronym php
+hypertext preprocessor
+afterward
+public testing php began
+official launch june
+suraski gutmans started rewrite php core
+producing zend engine
+founded zend technologies ramat gan
+israel
+php
+powered zend engine
+released
+august branch version
+php longer development security updates released
+july
+php released
+powered zend engine
+php included features improved support object oriented programming
+php data objects
+pdo
+extension
+defines lightweight consistent interface accessing databases
+numerous performance enhancements
+php stable version development
+late static binding missing php added version
+major version development alongside php years
+version originally planned released php result significant
+included plans full unicode support
+unicode support developers longer implement originally thought
+decision made march move project branch
+features development moved trunk
+code include removal register globals
+magic quotes
+safe mode
+reason removals register globals opened security holes intentionally allowing runtime data injection
+magic quotes unpredictable nature
+escape characters
+magic quotes replaced addslashes
+function
+appropriately escape mechanism specific database vendor mysql real escape string
+mysql
+functions removed future versions deprecated php
+produce warning
+high profile open source projects ceased support php code february
+initiative
+provided consortium php developers promoting transition php php
+version
+php native support unicode multibyte strings
+allowing strings class
+method
+function names ascii characters
+citation needed
+php interpreters bit bit operating systems
+microsoft windows official distribution bit implementation
+requiring windows bit compatibility mode internet information services
+iis
+bit windows platform
+experimental bit versions php
+briefly windows
+removed
+php free software released php license
+insists
+restriction php makes incompatible gnu general public license
+gpl
+beginning june
+php group began timeline versions php released
+timeline
+release occur month
+year
+minor release occur include features
+minor release years security bug fixes
+year security fixes
+total year release process minor release
+features
+small contained
+introduced minor release year release process
+php general purpose scripting language suited server side web development php generally runs web server
+php code requested file executed php runtime
+create dynamic web page content dynamic images web sites
+command line scripting client side graphical user interface
+gui
+applications
+php deployed web servers
+operating systems platforms
+relational database management systems
+rdbms
+web hosting providers support php clients
+free charge
+php group complete source code users build
+customize extend
+php acts primarily filter
+taking input file stream text
+php instructions outputting stream data
+commonly output html
+php
+php parser compiles input produce bytecode processing zend engine
+giving improved performance interpreter predecessor
+originally designed create dynamic web pages
+php focuses server side scripting
+similar server side scripting languages provide dynamic content web server client
+microsoft asp
+net
+sun microsystems javaserver pages
+mod perl
+php attracted development frameworks provide building blocks design structure promote rapid application development
+rad
+include cakephp
+symfony
+codeigniter
+yii framework
+zend framework
+offering features similar web application frameworks
+lamp architecture popular web industry deploying web applications
+php commonly bundle alongside linux
+apache mysql
+refer python
+perl
+mix
+similar packages windows
+called wamp mamp
+letter standing respective operating system
+php apache provided part mac base install
+users packages seek simpler installation mechanism easily date
+april
+million internet domains web services hosted servers php installed mod php recorded popular apache server module
+php server side programming language web sites server side programming language
+php open source software enterprises
+web content management systems written php include mediawiki
+joomla
+publish
+silverstripe
+wordpress
+drupal moodle
+web sites created tools written php
+including user facing portion
+facebook
+digg
+vulnerabilities listed national vulnerability database linked php
+vulnerabilities caused practice programming rules
+technical security flaws language core libraries frequent
+total
+recognizing programmers make mistakes
+languages include taint checking automatically detect lack input validation induces issues
+feature developed php
+inclusion release rejected times past
+advanced protection patches suhosin hardening patch
+designed web hosting environments
+phpids adds security php application defend intrusions
+phpids detects attacks based cross site scripting
+xss
+sql injection
+header injection
+directory traversal
+remote file execution
+remote file inclusion
+denial service
+dos
+php interpreter executes php code delimiters
+delimiters processed php
+php text subject control structures php code
+common delimiters
+php open
+close php sections
+php
+delimiters
+shortened forms
+echo back string variable
+asp style short forms
+short delimiters
+make script files portable support disabled php configuration
+discouraged
+purpose delimiters separate php code php code
+including html
+form delimiters
+php
+xhtml xml documents
+creates correctly formed xml processing instructions
+means resulting mixture php code markup server side file formed xml
+variables prefixed dollar symbol
+type advance
+unlike function class names
+variable names case sensitive
+double quoted
+heredoc strings provide ability interpolate variable string
+php treats newlines whitespace manner free form language
+inside string quotes
+statements terminated semicolon
+php types comment syntax
+marks block inline comments
+line comments
+echo statement facilities php output text
+web browser
+terms keywords language syntax
+php similar high level languages follow style syntax
+conditions
+loops
+function returns similar syntax languages
+java perl
+php stores numbers platform dependent range
+bit bit signed integer equivalent language long type
+unsigned integers converted signed values situations
+behavior programming languages
+integer variables assigned decimal
+positive negative
+octal
+hexadecimal notations
+floating point numbers stored platform specific range
+floating point notation
+forms scientific notation
+php native boolean type similar native boolean types java
+boolean type conversion rules
+values interpreted true false
+perl
+null data type represents variable
+null data type null
+variables
+resource
+type represent references resources external sources
+typically created functions extension
+processed functions extension
+examples include file
+image
+database resources
+arrays elements type php handle
+including resources
+objects
+arrays
+order preserved lists values hashes keys values
+intermingled
+php supports strings
+single quotes
+double quotes
+nowdoc heredoc syntax
+standard php library
+spl
+attempts solve standard problems implements efficient data access interfaces classes
+php hundreds base functions thousands extensions
+functions documented php site
+built library wide variety naming conventions inconsistencies
+php functions thread programming
+support multiprocess programming posix systems
+additional functions defined developer
+functions class functions referenced
+directly dynamically variable function
+user defined functions created time prototyped
+functions defined inside code blocks
+permitting run time decision function defined
+function calls parentheses
+exception argument class constructor functions called php operator
+parentheses optional
+php supports quasi anonymous functions create function
+function
+true anonymous functions anonymous functions nameless
+functions referenced
+indirectly variable
+php
+php gained support closures
+true anonymous functions supported syntax
+getadder
+function creates closure parameter
+keyword imports variable lexical context
+takes additional argument returns caller
+function class object
+meaning stored variable
+passed parameter functions
+details lambda functions closures rfc
+goto flow control statement
+flock
+called
+php opens file lock
+target label retry
+defines point execution return flock
+unsuccessful goto retry
+called
+goto statement restricted requires target label file context
+goto statement supported php
+basic object oriented programming functionality added php improved php
+object handling completely rewritten php
+expanding feature set enhancing performance
+previous versions php
+objects handled types
+drawback method object copied variable assigned passed parameter method
+approach
+objects referenced handle
+php introduced private protected member variables methods
+abstract classes
+final classes
+abstract methods
+final methods
+introduced standard declaring constructors destructors
+similar object oriented languages
+standard exception handling model
+php added interfaces allowed multiple interfaces implemented
+special interfaces objects interact runtime system
+objects implementing arrayaccess array syntax objects implementing iterator iteratoraggregate foreach language construct
+virtual table feature engine
+static variables bound reference compile time
+developer creates copy object reserved word clone
+zend engine check clone
+method defined
+call default clone
+copy object properties
+clone
+method defined
+responsible setting properties created object
+convenience
+engine supply function imports properties source object
+programmer start replica source object override properties changed
+basic object oriented programming
+visibility php properties methods refers visibility php
+defined keywords public
+private
+protected
+default public
+var
+var synonym public
+items declared public accessed
+protected limits access inherited classes
+class defines item
+private limits visibility class defines item
+objects type access private protected members instance
+php member visibility features
+highly
+irrelevant worst positively harmful
+php source code compiled fly internal format executed php engine
+order speed execution time compile php source code time web page accessed
+php scripts deployed executable format php compiler
+code optimizers aim enhance performance compiled code reducing size
+merging redundant instructions making reduce execution time
+php
+opportunities code optimization
+code optimizer eaccelerator php extension
+approach reducing compilation overhead php servers opcode cache
+opcode caches work caching compiled form php script
+opcodes
+shared memory avoid overhead parsing compiling code time script runs
+opcode cache
+apc
+planned built upcoming release php
+previously planned
+opcode caching code optimization combined efficiency
+modifications depend
+happen distinct stages compilation
+php language originally implemented interpreter
+popular implementation
+compilers developed decouple php language interpreter
+advantages compilation include execution speed
+static analysis
+improved interoperability code written languages
+php compilers note include phalanger
+compiles php common intermediate language
+cil
+bytecode
+hiphop
+developed facebook open source
+transforms php script
+compiles
+reducing server load
+php includes free open source libraries core build
+php fundamentally internet aware system modules built accessing file transfer protocol
+ftp
+servers
+database servers
+embedded sql libraries embedded postgresql
+mysql
+microsoft sql server sqlite
+ldap servers
+functions familiar programmers stdio family standard php build
+php developers write extensions add functionality php language
+compiled php loaded dynamically runtime
+extensions written add support windows api
+process management unix operating systems
+multibyte strings
+unicode
+curl
+popular compression formats
+features include integration irc
+dynamic generation images adobe flash content
+speech synthesis
+language core functions dealing strings arrays implemented extension
+php extension community library
+pecl
+project repository extensions php language
+zend certification exam programmers certified php developers
+php fpm
+fastcgi process manager
+php fastcgi implementation
+bundled official php distribution version

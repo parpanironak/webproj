@@ -1,0 +1,458 @@
+Access control
+
+access control
+access control selective restriction access place resource
+act accessing consuming
+entering
+permission access resource called authorization
+locks login credentials analogous mechanisms access control
+geographical access control enforced personnel
+border guard
+bounder
+ticket checker
+device turnstile
+fences avoid circumventing access control
+alternative access control strict sense
+physically controlling access
+system checking authorized presence
+ticket controller
+transportation
+variant exit control
+shop
+checkout
+country
+citation needed
+term access control refers practice restricting entrance property
+building
+room authorized persons
+physical access control achieved human
+guard
+bouncer
+receptionist
+mechanical means locks keys
+technological means access control systems mantrap
+environments
+physical key management employed means managing monitoring access mechanically keyed areas access small assets
+citation needed
+physical access control matter
+access control system determines allowed enter exit
+allowed exit enter
+allowed enter exit
+historically partially accomplished keys locks
+door locked key enter door depending lock configured
+mechanical locks keys restriction key holder specific times dates
+mechanical locks keys provide records key specific door keys easily copied transferred unauthorized person
+mechanical key lost key holder longer authorized protected area
+locks keyed
+citation needed
+electronic access control computers solve limitations mechanical locks keys
+wide range credentials replace mechanical keys
+electronic access control system grants access based credential presented
+access granted
+door unlocked predetermined time transaction recorded
+access refused
+door remains locked attempted access recorded
+system monitor door alarm door forced open held open long unlocked
+citation needed
+credential presented reader
+reader sends information
+number
+control panel
+highly reliable processor
+control panel compares credential number access control list
+grants denies presented request
+sends transaction log database
+access denied based access control list
+door remains locked
+match credential access control list
+control panel operates relay turn unlocks door
+control panel ignores door open signal prevent alarm
+reader feedback
+flashing red led access denied flashing green led access granted
+citation needed
+description illustrates single factor transaction
+credentials passed
+subverting access control list
+alice access rights server room bob
+alice bob credential bob takes
+access server room
+prevent
+factor authentication
+factor transaction
+presented credential factor needed access granted
+factor pin
+credential
+operator intervention
+biometric input
+citation needed
+types
+factors
+authenticating information
+passwords common means verifying user identity access information systems
+addition
+fourth factor authentication recognized
+person provide human element authentication situations systems set scenarios
+user password
+forgotten smart card
+scenario
+user designated cohorts
+cohorts provide smart card password combination extant factor user question provide factors user missing credential
+factors access
+citation needed
+credential physical
+tangible object
+piece knowledge
+facet person physical
+enables individual access physical facility computer based information system
+typically
+credentials
+number pin
+access badge
+biometric feature
+combination items
+typical credential access card
+key fob
+key
+card technologies including magnetic stripe
+bar code
+wiegand
+proximity
+bit card swipe
+contact smart cards
+contactless smart cards
+key fobs compact cards attach key ring
+typical biometric technologies include fingerprint
+facial recognition
+iris recognition
+retinal scan
+voice
+hand geometry
+citation needed
+access control point
+door
+turnstile
+parking gate
+elevator
+physical barrier granting access electronically controlled
+typically access point door
+electronic access control door elements
+basic stand electric lock
+lock unlocked operator switch
+automate
+operator intervention replaced reader
+reader keypad code entered
+card reader
+biometric reader
+readers make access decision send card number access control panel verifies number access list
+monitor door position magnetic door switch
+concept door switch unlike refrigerators car doors
+generally entry controlled exit uncontrolled
+cases exit controlled reader opposite side door
+cases exit controlled
+free exit
+device called request exit
+rte
+request exit devices push button motion detector
+button pushed motion detector detects motion door
+door alarm temporarily door opened
+exiting door electrically unlock door called mechanical free egress
+important safety feature
+cases lock electrically unlocked exit
+request exit device unlocks door
+citation needed
+access control decisions made comparing credential access control list
+lookup host server
+access control panel
+reader
+development access control systems steady push lookup central host edge system
+reader
+predominant topology circa hub spoke control panel hub readers spokes
+lookup control functions control panel
+spokes communicate serial connection
+manufactures pushing decision making edge placing controller door
+controllers enabled connect host database standard networks
+citation needed
+access control readers classified functions performcitation needed
+readers additional features lcd function buttons data collection purposes
+clock
+clock events attendance reports
+camera
+speaker
+microphone intercom
+smart card read
+write support
+citation needed
+access control readers classified type identification technology
+citation needed
+serial controllers
+controllers connected host serial communication line
+current loop older systems
+external
+converters internal cards installed standard pcs communication ports
+citation needed advantagescitation needed
+disadvantagescitation needed
+serial main controllers
+door hardware connected controllers
+door controllers door interfaces
+controllers make access decisions
+forward requests main controllers
+main controllers support controllers
+advantagescitation needed
+disadvantagescitation needed
+serial main controllers intelligent readers
+door hardware connected directly intelligent semi intelligent readers
+readers make access decisions
+forward requests main controller
+connection main controller unavailable
+readers internal database make access decisions record events
+semi intelligent reader database function main controller areas require high security
+main controllers support readers
+advantages disadvantages listed paragraph
+serial controllers terminal servers
+spite rapid development increasing computer networks
+access control manufacturers remained conservative rush introduce network enabled products
+pressed solutions network connectivity
+chose option requiring efforts
+addition terminal server
+device converts serial data transmission lan wan
+advantagescitation needed
+disadvantagescitation needed
+related advantages disadvantages apply
+network enabled main controllers
+topology paragraphs
+advantages disadvantages apply
+board network interface offers couple valuable improvements
+transmission configuration users main controllers faster parallel
+makes system responsive interrupt normal operations
+special hardware required order achieve redundant host setup
+case primary host fails
+secondary host start polling network controllers
+disadvantages introduced terminal servers
+listed fourth paragraph
+eliminated
+controllers
+controllers connected host ethernet lan wan
+advantagescitation needed
+disadvantagescitation needed
+readers
+readers connected host ethernet lan wan
+advantagescitation needed
+disadvantagescitation needed
+advantages disadvantages controllers apply readers
+common security risk intrusion access control system simply legitimate user door
+legitimate user hold door intruder
+risk minimized security awareness training user population active means turnstiles
+high security applications risk minimized sally port
+called security vestibule mantrap operator intervention required assure valid identification
+citation needed
+common risk levering door open
+surprisingly simple effective doors
+lever small screw driver big crow bar
+fully implemented access control systems include forced door monitoring alarms
+vary effectiveness failing high false positive alarms
+poor database configuration
+lack active intrusion monitoring
+citation needed
+similar levering crashing cheap partition walls
+shared tenant spaces divisional wall vulnerability
+lines breaking sidelights
+citation needed
+spoofing locking hardware fairly simple elegant levering
+strong magnet operate solenoid controlling bolts electric locking hardware
+motor locks
+prevalent europe
+susceptible attack donut shaped magnet
+manipulate power lock removing adding current
+citation needed
+access cards proven vulnerable sophisticated attacks
+enterprising hackers built portable readers capture card number proximity card
+hacker simply walks user
+reads card
+presents number reader securing door
+card numbers clear
+encryption
+citation needed
+finally
+electric locking hardware mechanical keys fail
+mechanical key locks vulnerable bumping
+citation needed
+principle enforced user access controls authorization procedures objective ensure authorized individuals gain access information systems undertake duties
+principle privilege
+citation needed
+computer security
+general access control includes authorization
+authentication
+access approval audit
+narrow definition access control cover access approval
+system makes decision grant reject access request authenticated subject
+based subject authorized access
+authentication access control combined single operation
+access approved based successful authentication
+based anonymous access token
+authentication methods tokens include passwords
+biometric scans
+physical keys
+electronic keys devices
+hidden paths
+social barriers
+monitoring humans automated systems
+citation needed
+access control model
+entities perform actions system called subjects
+entities representing resources access controlled called objects
+access control matrix
+subjects objects considered software entities
+human users
+human user effect system software entities control
+citation needed
+systems equate subjects
+processes started user default authority
+level control fine grained satisfy principle privilege
+arguably responsible prevalence malware systems
+computer insecurity
+citation needed
+models
+object capability model
+software entity potentially act subject object
+citation needed
+access control models current systems tend fall classes
+based capabilities based access control lists
+acls
+capability based model
+holding unforgettable reference capability object access object
+roughly analogous possession house key grants access house
+access conveyed party transmitting capability secure channel
+acl based model
+subject access object depends identity list object
+roughly analogous bouncer private party check guest list
+access conveyed editing list
+acl systems variety conventions responsible editing list edited
+citation needed
+capability based acl based models mechanisms access rights granted members group subjects
+group modeled subject
+citation needed
+access control systems provide essential services authorization
+identification authentication
+access approval
+accountability wherecitation needed
+authorization act defining access rights subjects
+authorization policy specifies operations subjects allowed execute system
+citation needed
+modern operating systems implement authorization policies formal sets permissions variations extensions basic types access
+citation needed
+rights permissions implemented differently systems based discretionary access control
+dac
+mandatory access control
+mac
+identification authentication
+process verifying identity bound entity makes assertion claim identity
+process assumes initial validation identity
+commonly called identity proofing
+methods identity proofing ranging person validation government issued identification anonymous methods claimant remain anonymous
+system return
+method identity proofing validation provide assurance level commensurate intended identity system
+subsequently
+entity asserts identity authenticator means validation
+requirements identifier unique security domain
+citation needed
+authenticators commonly based factorscitation needed
+access approval function grants rejects access operations
+access approval system compares formal representation authorization policy access request determine request granted rejected
+accountability system components audit trails
+records
+logs associate subject actions
+information recorded sufficient map subject controlling user
+audit trails logs important forcitation needed
+regularly reviewing logs maintained secure consistent manner
+admissible evidence
+citation needed
+systems generate automated reports based predefined criteria thresholds
+clipping levels
+clipping level set generate report
+citation needed
+reports system administrator security administrator easily identify break attempts
+definition
+clipping level disk ability maintain magnetic properties hold content
+high quality level range
+low quality
+access control models categorized discretionary discretionary
+widely recognized models discretionary access control
+dac
+mandatory access control
+mac
+role based access control
+rbac
+mac discretionary
+citation needed
+attribute based access control
+abac
+access granted based rights subject user authentication
+based attributes user
+user prove called claims attributes access control engine
+attribute based access control policy specifies claims satisfied order grant access object
+instance claim
+older
+user prove claim granted access
+users anonymous authentication identification strictly required
+require means proving claims anonymously
+instance achieved anonymous credentialscitation needed
+xacml
+extensible access control markup language
+standard attribute based access control
+xacml
+standardized january
+discretionary access control
+dac
+policy determined owner object
+owner decides allowed access object privileges
+important concepts dac arecitation needed
+access controls discretionary acl based capability based access control systems
+capability based systems
+explicit concept owner
+creator object similar degree control access policy
+mandatory access control refers allowing access resource rules exist user access resource
+difficult manage justified protect highly sensitive information
+examples include government military information
+management simplified
+required
+information protected hierarchical access control
+implementing sensitivity labels
+makes method
+mandatory
+rules sensitivity labels
+citation needed
+methods commonly applying mandatory access control
+citation needed
+systems implement mac
+xts selinux examples systems
+computer system company film tron prior century
+role based access control
+rbac
+access policy determined system
+owner
+rbac commercial applications military systems
+multi level security requirements exist
+rbac differs dac dac users control access resources
+rbac
+access controlled system level
+user control
+rbac discretionary
+distinguished mac primarily permissions handled
+mac controls read write permissions based user clearance level additional labels
+rbac controls collections permissions include complex operations commerce transaction
+simple read write
+role rbac viewed set permissions
+primary rules defined rbac
+additional constraints applied
+roles combined hierarchy higher level roles subsume permissions owned roles
+vendors offer rbac products
+telecommunication
+term access control defined
+federal standard meanings
+definition depends technical terms federal standard
+public policy
+access control restrict access systems
+authorization
+track monitor behavior systems
+accountability
+implementation feature trusted systems security social control

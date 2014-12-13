@@ -1,0 +1,263 @@
+Variable (computer science)
+
+variable
+computer programming
+variable storage location symbolic
+identifier
+unknown quantity information
+variable usual reference stored
+separation content independently exact information represents
+identifier computer source code bound run time
+variable change program execution
+variables programming directly correspond concept variables mathematics
+computing variable necessarily part equation formula mathematics
+computing
+variable employed repetitive process
+assigned place
+reassigned
+iteration
+variables computer programming frequently long names make descriptive
+variables mathematics terse
+character names brevity transcription manipulation
+variable storage location referred identifiers
+situation aliasing
+assigning variable identifiers change accessed identifiers
+compilers replace variables symbolic names actual locations data
+variable
+type
+location remain fixed
+data stored location changed program execution
+imperative programming languages
+values generally accessed changed time
+pure functional logic languages
+variables bound expressions single entire lifetime due requirements referential transparency
+imperative languages
+behavior exhibited constants
+typically contrasted normal variables
+depending type system programming language
+variables store datatype
+integer string
+alternatively
+datatype current
+allowing single variable store supported programming language
+identifier referencing variable access variable order read
+alter
+edit attributes variable
+access permission
+locks
+semaphores
+instance
+variable referenced identifier
+total count
+variable number
+variable referenced identifier
+identifier
+variable altered
+reading identifier
+total count
+yield result
+variable referenced single identifier simply called variable
+speak names variable
+instance
+previous
+total count
+variable question
+variable
+scope variable describes program text variable
+extent
+lifetime
+describes program execution variable
+meaningful
+scope variable property variable
+extent property variable
+variable scope affects extent
+scope lexical aspect variable
+languages define specific scope variable
+named entity
+differ program
+scope variable portion program code variable meaning variable
+visible
+entrance scope typically begins variable lifetime exit scope typically ends lifetime
+instance
+variable
+lexical scope
+meaningful block statements subroutine
+variables accessible functions termed
+local variables
+global variable
+indefinite scope
+referred program
+extent
+hand
+runtime
+dynamic
+aspect variable
+binding variable extent runtime
+extent binding portion program execution time variable continues refer memory location
+running program enter leave extent times
+case closure
+programming language features garbage collection
+variable extent permanently outlasts scope result memory leak
+memory allocated variable freed variable reference deallocation purposes longer accessible
+permissible variable binding extend scope
+occurs lisp closures static local variables
+execution passes back variable scope
+variable
+variable scope begins extent uninitialized undefined
+arbitrary accessed
+wild pointer
+explicitly
+variable extent ends scope dangling pointer deemed uninitialized destroyed
+variables previous cases extent unbound
+languages
+error variable extent
+languages
+yield unpredictable results
+variable
+assigned
+extent
+space efficiency
+memory space needed variable allocated variable freed longer needed
+variable needed scope
+beginning variable lifetime enters scope give space unused variables
+avoid wasting space
+compilers warn programmers variable declared
+considered good programming practice make scope variables narrow feasible parts program accidentally interact modifying variables
+prevents action distance
+common techniques sections program spaces
+make individual variables
+private
+dynamic variable scoping lexical variable scoping
+programming languages employ reserved
+named null nil
+invalid uninitialized variable
+statically typed languages java
+variable type
+meaning kinds values stored
+variable type
+integer
+prohibited storing text values
+dynamically typed languages python
+values
+variables
+carry type
+common lisp
+situations exist simultaneously
+variable type
+undeclared
+assumed
+universal supertype
+exists compile time
+values types
+checked queried runtime
+typing variables polymorphisms resolved compile time
+polymorphism object oriented function calls
+referred virtual functions
+resolves call based type opposed supertypes variable allowed
+variables store simple data
+integers literal strings
+programming languages variable store values datatypes
+languages enable functions parametric polymorphic
+functions operate variables represent data multiple types
+function named length determine length list
+length function parametric polymorphic including type variable type signature
+amount elements list independent elements types
+formal parameters functions referred variables
+instance
+python code segment
+variable named parameter function called
+integer argument
+languages
+function parameters local scope
+specific variable named referred addtwo function
+functions variables called
+specifics variable allocation representation values vary widely
+programming languages implementations language
+language implementations allocate space local variables
+extent lasts single function call call stack
+memory automatically reclaimed function returns
+generally
+binding
+variable bound address block
+contiguous sequence
+bytes memory
+operations variable manipulate block
+referencing common variables values large unknown sizes code compiled
+variables reference location storing
+allocated pool memory called heap
+bound variables values
+abstraction
+idea
+implementation
+represented data object
+stored computer memory
+program
+runtime environment
+set memory data object
+memory finite
+ensure memory yielded reuse object longer needed represent variable
+objects allocated heap objects longer needed
+garbage collected language
+java
+lisp
+runtime environment automatically reclaims objects extant variables longer refer
+garbage collected languages
+program
+programmer
+explicitly allocate memory
+free
+reclaim memory
+failure leads memory leaks
+heap depleted program runs
+risks eventual failure exhausting memory
+variable refers data structure created dynamically
+components indirectly accessed variable
+circumstances
+garbage collectors
+analogous program features languages lack garbage collectors
+deal case portion memory reachable variable reclaimed
+unlike mathematical counterparts
+programming variables constants commonly multiple character names
+cost total
+single character names commonly auxiliary variables
+instance
+array index variables
+naming conventions enforced language level part language syntax involve format valid identifiers
+languages
+variable names start digit
+whitespace characters
+punctuation marks permitted variable names varies language language
+languages permit underscore
+variable names forbid punctuation
+programming languages
+specific
+punctuation
+characters
+sigils
+prefixed appended variable identifiers variable type
+case sensitivity variable names varies languages languages require case naming entities
+note modern languages case sensitive
+older languages
+languages reserve forms variable names internal
+languages
+names beginning underscores
+fall category
+basic restrictions imposed language
+naming variables largely matter style
+machine code level
+variable names
+exact names chosen matter computer
+names variables identify
+rest tool programmers make programs easier write understand
+poorly chosen variable names make code difficult review descriptive names
+names clear encouraged
+programmers create adhere code style guidelines offer guidance naming variables impose precise naming scheme
+shorter names faster type descriptive
+longer names make programs easier read purpose variables easier understand
+extreme verbosity variable names lead comprehensible code
+spreadsheet
+cell formula references cells
+cell reference kind variable
+referenced cell
+reference
+computer science

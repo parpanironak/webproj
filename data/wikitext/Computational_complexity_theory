@@ -1,0 +1,482 @@
+Computational complexity theory
+
+computational complexity theory
+computational complexity theory branch theory computation theoretical computer science mathematics focuses classifying computational problems inherent difficulty
+relating classes
+context
+computational problem understood task principle amenable solved computer
+problem stated set mathematical instructions
+informally
+computational problem consists problem instances solutions problem instances
+primality testing problem determining number prime
+instances problem natural numbers
+solution instance based number prime
+problem regarded inherently difficult solution requires significant resources
+algorithm
+theory formalizes intuition
+introducing mathematical models computation study problems quantifying amount resources needed solve
+time storage
+complexity measures
+amount communication
+communication complexity
+number gates circuit
+circuit complexity
+number processors
+parallel computing
+roles computational complexity theory determine practical limits computers
+closely related fields theoretical computer science analysis algorithms computability theory
+key distinction analysis algorithms computational complexity theory devoted analyzing amount resources needed algorithm solve problem
+asks general question algorithms solve problem
+precisely
+classify problems solved appropriately restricted resources
+turn
+imposing restrictions resources distinguishes computational complexity computability theory
+theory asks kind problems
+principle
+solved algorithmically
+computational problem viewed infinite collection instances solution instance
+input string computational problem referred problem instance
+confused problem
+computational complexity theory
+problem refers abstract question solved
+contrast
+instance problem concrete utterance
+serve input decision problem
+problem primality testing
+instance number
+solution
+number prime
+case
+stated
+instance input problem
+solution output input
+highlight difference problem instance
+instance decision version traveling salesman problem
+route kilometres length passing germany largest cities
+quantitative answer problem instance solving instances problem
+round trip sites milan total length
+reason
+complexity theory addresses computational problems problem instances
+computational problems
+problem instance string alphabet
+alphabet binary alphabet
+set
+strings bitstrings
+real world computer
+mathematical objects bitstrings suitably encoded
+integers represented binary notation
+graphs encoded directly adjacency matrices
+encoding adjacency lists binary
+proofs complexity theoretic theorems regularly assume concrete choice input encoding
+discussion abstract independent choice encoding
+achieved ensuring representations transformed efficiently
+decision problems central objects study computational complexity theory
+decision problem special type computational problem answer
+alternately
+decision problem viewed formal language
+members language instances answer
+members instances output
+objective decide
+aid algorithm
+input string member formal language consideration
+algorithm deciding problem returns answer
+algorithm accept input string
+reject input
+decision problem
+input arbitrary graph
+problem consists deciding graph connected
+formal language decision problem set connected
+obtain precise definition language
+decide graphs encoded binary strings
+function problem computational problem single output
+total function
+expected input
+output complex decision problem
+notable examples include traveling salesman problem integer factorization problem
+tempting notion function problems richer notion decision problems
+case
+function problems recast decision problems
+multiplication integers expressed set triples
+relation holds
+deciding triple member set corresponds solving problem multiplying numbers
+similarly
+finding minimum mathematical function
+equivalent search problem determining feasible point exists
+measure difficulty solving computational problem
+time algorithm requires solve problem
+running time
+general
+depend instance
+larger instances require time solve
+time required solve problem
+space required
+measure complexity
+calculated function size instance
+size input bits
+complexity theory interested algorithms scale increase input size
+instance
+problem finding graph connected
+time solve problem graph vertices compared time graph vertices
+input size
+time expressed function
+time inputs size
+worst case time complexity
+defined maximum time inputs size
+polynomial
+algorithm polynomial time algorithm
+cobham thesis problem solved feasible amount resources admits polynomial time algorithm
+turing machine mathematical model general computing machine
+theoretical device manipulates symbols contained strip tape
+turing machines intended practical computing technology
+thought experiment representing computing advanced supercomputer mathematician pencil paper
+believed problem solved algorithm
+exists turing machine solves problem
+statement thesis
+computed models computation today
+ram machine
+conway game life
+cellular automata programming language computed turing machine
+turing machines easy analyze mathematically
+believed powerful model computation
+turing machine commonly model complexity theory
+types turing machines define complexity classes
+deterministic turing machines
+probabilistic turing machines
+deterministic turing machines
+quantum turing machines
+symmetric turing machines alternating turing machines
+equally powerful principle
+resources
+time space
+bounded
+powerful
+deterministic turing machine basic turing machine
+fixed set rules determine future actions
+probabilistic turing machine deterministic turing machine extra supply random bits
+ability make probabilistic decisions helps algorithms solve problems efficiently
+algorithms random bits called randomized algorithms
+deterministic turing machine deterministic turing machine added feature determinism
+turing machine multiple future actions state
+view determinism turing machine branches computational paths step
+solves problem branches
+solved problem
+model meant physically realizable model
+theoretically interesting abstract machine rise interesting complexity classes
+examples
+nondeterministic algorithm
+machine models standard multi tape turing machines proposed literature
+random access machines
+surprisingly
+models converted providing extra computational power
+time memory consumption alternate models vary
+models common machines operate deterministically
+computational problems easier analyze terms unusual resources
+nondeterministic turing machine computational model allowed branch check possibilities
+nondeterministic turing machine physically compute algorithms
+branching captures mathematical models analyze
+nondeterministic time important resource analyzing computational problems
+precise definition means solve problem amount time space
+computational model deterministic turing machine
+time required deterministic turing machine input total number state transitions
+steps
+machine makes halts outputs answer
+turing machine operate time
+time required input length
+decision problem solved time
+exists turing machine operating time
+solves problem
+complexity theory interested classifying problems based difficulty
+defines sets problems based criteria
+instance
+set problems solvable time
+deterministic turing machine denoted dtime
+analogous definitions made space requirements
+time space complexity resources
+complexity measure viewed computational resource
+complexity measures generally defined blum complexity axioms
+complexity measures complexity theory include communication complexity
+circuit complexity
+decision tree complexity
+worst average case complexity refer ways measuring time complexity
+complexity measure
+inputs size
+inputs size faster solve
+define complexities
+deterministic sorting algorithm quicksort
+solves problem sorting list integers input
+worst case input sorted sorted reverse order
+algorithm takes time
+case
+assume permutations input list equally
+average time sorting
+log
+case occurs pivoting divides list half
+needing
+log
+time
+classify computation time
+similar resources
+space consumption
+interested proving upper lower bounds minimum amount time required efficient algorithm solving problem
+complexity algorithm worst case complexity
+analyzing algorithm falls field analysis algorithms
+show upper bound
+time complexity problem
+show algorithm running time
+proving lower bounds difficult
+lower bounds make statement algorithms solve problem
+phrase
+algorithms
+includes algorithms today
+algorithm discovered future
+show lower bound
+problem requires showing algorithm time complexity lower
+upper lower bounds stated big notation
+hides constant factors smaller terms
+makes bounds independent specific details computational model
+instance
+big notation write
+complexity class set problems related complexity
+simpler complexity classes defined factors
+complexity classes complex definitions fit framework
+typical complexity class definition
+bounding computation time concrete function
+yields complexity classes depend chosen machine model
+instance
+language binary solved linear time multi tape turing machine
+necessarily requires quadratic time model single tape turing machines
+polynomial variations running time
+cobham edmonds thesis states
+time complexities reasonable general models computation polynomially related
+goldreich
+chapter
+forms basis complexity class
+set decision problems solvable deterministic turing machine polynomial time
+set function problems
+important complexity classes defined bounding time space algorithm
+important complexity classes decision problems defined manner
+turns pspace npspace expspace nexpspace savitch theorem
+important complexity classes include bpp
+zpp
+defined probabilistic turing machines
+defined boolean circuits bqp qma
+defined quantum turing machines
+important complexity class counting problems
+decision problems
+classes defined interactive proof systems
+class decision problems
+complexity classes defined
+desirable prove relaxing requirements
+computation time defines bigger set problems
+dtime
+contained dtime
+interesting inclusion strict
+time space requirements
+answer questions time space hierarchy theorems
+called hierarchy theorems induce proper hierarchy classes defined constraining respective resources
+pairs complexity classes properly included
+deduced proper set inclusions
+proceed make quantitative statements additional time space needed order increase number problems solved
+precisely
+time hierarchy theorem states
+space hierarchy theorem states
+time space hierarchy theorems form basis separation results complexity classes
+instance
+time hierarchy theorem tells strictly contained exptime
+space hierarchy theorem tells strictly contained pspace
+complexity classes defined concept reduction
+reduction transformation problem problem
+captures informal notion problem difficult problem
+instance
+problem solved algorithm
+difficult
+reduces
+types reductions
+based method reduction
+cook reductions
+karp reductions levin reductions
+bound complexity reductions
+polynomial time reductions log space reductions
+commonly reduction polynomial time reduction
+means reduction process takes polynomial time
+problem squaring integer reduced problem multiplying integers
+means algorithm multiplying integers square integer
+giving input inputs multiplication algorithm
+squaring difficult multiplication
+squaring reduced multiplication
+motivates concept problem hard complexity class
+problem hard class problems problem reduced
+problem harder
+algorithm solve problem
+notion hard problems depends type reduction
+complexity classes larger
+polynomial time reductions commonly
+set problems hard set hard problems
+problem hard
+complete
+means hardest problem
+problems equally hard
+hardest problems
+class complete problems difficult problems
+sense
+problem solved
+reduce complete problem
+problem
+polynomial time solution
+polynomial time solution yield polynomial time solution
+similarly
+problems reduced set
+finding complete problem solved polynomial time
+complexity class mathematical abstraction modeling computational tasks admit efficient algorithm
+hypothesis called thesis
+complexity class
+hand
+problems people solve efficiently
+efficient algorithm
+boolean satisfiability problem
+hamiltonian path problem vertex cover problem
+deterministic turing machines special nondeterministic turing machines
+easily observed problem member class
+question equals important open questions theoretical computer science wide implications solution
+answer
+important problems shown efficient solutions
+include types integer programming problems operations research
+problems logistics
+protein structure prediction biology
+ability find formal proofs pure mathematics theorems
+versus problem millennium prize problems proposed clay mathematics institute
+prize resolving problem
+shown ladner exist problems complete
+problems called intermediate problems
+graph isomorphism problem
+discrete logarithm problem integer factorization problem examples problems believed intermediate
+problems complete
+graph isomorphism problem computational problem determining finite graphs isomorphic
+important unsolved problem complexity theory graph isomorphism problem
+complete
+intermediate
+answer
+believed problem complete
+graph isomorphism complete
+polynomial time hierarchy collapses level
+widely believed polynomial hierarchy collapse finite level
+believed graph isomorphism complete
+algorithm problem
+due laszlo babai eugene luks run time
+log
+graphs vertices
+integer factorization problem computational problem determining prime factorization integer
+phrased decision problem
+problem deciding input factor
+efficient integer factorization algorithm
+fact forms basis modern cryptographic systems
+rsa algorithm
+integer factorization problem
+problem complete
+polynomial time hierarchy collapse level
+equal
+algorithm integer factorization general number field sieve
+takes time
+log
+log
+log
+factor bit integer
+quantum algorithm problem
+shor algorithm
+run polynomial time
+fact problem lies respect quantum complexity classes
+complexity classes suspected unequal
+proved
+instance pspace
+pspace
+equal
+equal pspace
+complexity classes pspace
+bpp
+bqp
+complexity classes collapse class
+proving classes unequal major breakthrough complexity theory
+lines
+class complement problems
+problems
+answers reversed
+problems
+believed equal
+proven
+shown complexity classes equal equal
+similarly
+set problems solved logarithmic space
+strictly contained equal
+complexity classes
+distinct equal classes
+suspected bpp equal
+open bpp nexp
+problems solved theory
+infinite time
+practice long solutions
+intractable problems
+complexity theory
+problems lack polynomial time solutions considered intractable smallest inputs
+fact
+thesis states problems solved polynomial time feasibly computed computational device
+problems intractable sense include exptime hard
+complete problems intractable sense
+exponential time algorithms unusable practice
+program makes operations halting
+small
+assuming sake computer operations
+program run years
+roughly age universe
+faster computer
+program small instances sense intractability problem independent technological progress
+polynomial time algorithm practical
+running time
+unreasonable efficient useless small instances
+intractability means practice open debate
+problem imply large cases problem hard
+decision problem presburger arithmetic shown
+algorithms written solve problem reasonable times cases
+similarly
+algorithms solve complete knapsack problem wide range sizes quadratic time sat solvers routinely handle large instances complete boolean satisfiability problem
+continuous complexity theory refer complexity theory problems involve continuous functions approximated discretizations
+studied numerical analysis
+approach complexity theory numerical analysis information based complexity
+continuous complexity theory refer complexity theory analog computation
+continuous dynamical systems differential equations
+control theory considered form computation differential equations modelling continuous time hybrid discrete continuous time systems
+analysis algorithms studied long invention computers
+gabriel gave running time analysis euclidean algorithm
+actual research explicitly devoted complexity algorithmic problems started
+numerous foundations laid researchers
+influential definition turing machines alan turing
+turned robust flexible notion computer
+fortnow homer
+date beginning systematic studies computational complexity seminal paper
+computational complexity algorithms
+juris hartmanis richard stearns
+laid definitions time space complexity proved hierarchy theorems
+edmonds defined
+good
+algorithm running time bounded polynomial input size
+fortnow homer
+earlier papers studying problems solvable turing machines specific bounded resources include john myhill definition linear bounded automata
+myhill
+raymond smullyan study rudimentary sets
+hisao yamada paper real time computations
+earlier
+boris trakhtenbrot
+pioneer field ussr
+studied specific complexity measure
+remembers
+manuel blum developed axiomatic complexity theory based axioms proved important result
+called
+speed theorem
+field began flourish researcher stephen cook
+working independently
+leonid levin ussr
+proved exist practically relevant problems complete
+richard karp idea leap forward landmark paper
+reducibility combinatorial problems
+showed diverse combinatorial graph theoretical problems
+infamous computational intractability
+complete

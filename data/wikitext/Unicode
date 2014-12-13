@@ -1,0 +1,1014 @@
+Unicode
+
+unicode
+unicode computing industry standard consistent encoding
+representation handling text expressed world writing systems
+developed conjunction universal character set standard published book form unicode standard
+latest version unicode repertoire characters covering scripts
+standard consists set code charts visual reference
+encoding methodology set standard character encodings
+set reference data computer files
+number related items
+character properties
+rules normalization
+decomposition
+collation
+rendering
+bidirectional display order
+correct display text left scripts
+arabic hebrew
+left scripts
+september
+recent version unicode
+unicode success unifying character sets led widespread predominant internationalization localization computer software
+standard implemented recent technologies
+including modern operating systems
+xml
+java programming language
+microsoft
+net framework
+unicode implemented character encodings
+commonly encodings utf
+utf obsolete ucs
+utf byte ascii characters
+code values utf ascii encoding
+bytes characters
+ucs bit code unit
+bit bytes
+character encode character current unicode standard
+utf extends ucs
+bit units
+handle additional characters
+unicode explicit aim transcending limitations traditional character encodings
+defined iso standard
+find wide usage countries world
+remain largely incompatible
+traditional character encodings share common problem bilingual computer processing
+latin characters local script
+multilingual computer processing
+computer processing arbitrary scripts mixed
+unicode
+intent
+encodes underlying grapheme variant glyphs
+renderings
+characters
+case chinese characters
+leads controversies distinguishing underlying character variant glyphs
+han unification
+text processing
+unicode takes role providing unique code number
+character
+words
+unicode represents character abstract leaves visual rendering
+size
+shape
+font
+style
+software
+web browser word processor
+simple aim complicated
+concessions made unicode designers hope encouraging rapid adoption unicode
+code points made identical content iso make trivial convert existing western text
+essentially identical characters encoded multiple times code points preserve distinctions legacy encodings
+conversion encodings unicode
+back
+losing information
+fullwidth forms
+section code points encompasses full latin alphabet separate main latin alphabet section
+chinese
+japanese
+korean
+cjk
+fonts
+characters rendered width cjk ideographs
+half width
+examples
+duplicate characters unicode
+origins unicode date back
+joe becker xerox lee collins mark davis apple started investigating practicalities creating universal character set
+august
+joe becker published draft proposal
+international
+multilingual text character encoding system
+tentatively called unicode
+term
+unicode
+previously purposes
+programming language developed univac late
+notably universal telegraphic phrase book published
+becker aware earlier usages
+explained
+unicode intended suggest unique
+unified
+universal encoding
+document
+entitled unicode
+becker outlined bit character model
+unicode intended address workable
+reliable world text encoding
+unicode roughly
+wide body ascii
+stretched bits encompass characters world living languages
+properly engineered design
+bits character sufficient purpose
+original bit design based assumption scripts characters modern encoded
+unicode higher priority ensuring utility future preserving past antiquities
+unicode aims instance characters published modern text
+union newspapers magazines printed world
+number undoubtedly
+modern characters
+defined obsolete rare
+candidates private registration congesting public list generally unicodes
+early
+unicode working group expanded include ken whistler mike kernaghan metaphor
+karen smith yoshimura joan aliprand rlg
+glenn wright sun microsystems
+michel suignard asmus freytag microsoft rick mcgowan joined group
+end
+work mapping existing character encoding standards completed
+final review draft unicode ready
+unicode consortium incorporated january
+state california
+october
+volume unicode standard published
+volume
+covering han ideographs
+published june
+surrogate character mechanism implemented unicode
+unicode longer restricted bits
+increased unicode codespace million code points
+allowed encoding historic scripts
+egyptian hieroglyphs
+thousands rarely obsolete characters anticipated needing encoding
+characters originally intended unicode rarely kanji chinese characters
+part personal place names
+making rarely
+essential envisioned original architecture unicode
+unicode defines codespace
+code points range
+unicode code point referred writing
+hexadecimal number
+code points basic multilingual plane
+bmp
+digits
+character latin capital letter
+code points bmp
+digits
+required
+character language tag character private character
+older versions standard similar notations slightly rules
+unicode
+digits code point
+allowed
+digits code unit
+single byte multibyte utf encoding code point
+unicode codespace divided seventeen planes
+numbered
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+afff
+wikibooks
+unicode
+character reference
+afff
+extiw
+wikibooks
+wiki
+unicode
+character reference
+bfff
+wikibooks
+unicode
+character reference
+bfff
+extiw
+wikibooks
+wiki
+unicode
+character reference
+cfff
+wikibooks
+unicode
+character reference
+cfff
+extiw
+wikibooks
+wiki
+unicode
+character reference
+dfff
+wikibooks
+unicode
+character reference
+dfff
+extiw
+wikibooks
+wiki
+unicode
+character reference
+efff
+wikibooks
+unicode
+character reference
+efff
+extiw
+wikibooks
+wiki
+unicode
+character reference
+ffff
+wikibooks
+unicode
+character reference
+ffff
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+extiw
+wikibooks
+wiki
+unicode
+character reference
+wikibooks
+unicode
+character reference
+pua
+pua
+code points bmp accessed single code unit utf encoding encoded
+bytes utf
+code points planes
+supplementary planes
+informally
+astral planes
+accessed surrogate pairs utf encoded bytes utf
+plane
+characters allocated named blocks related characters
+blocks arbitrary size
+multiple code points multiple code points
+characters required script spread blocks
+code point single general category property
+major categories
+letter
+mark
+number
+punctuation
+symbol
+separator
+categories
+subdivisions
+general category
+legacy encodings multiple characteristics single code point
+line feed
+ascii control formatting separator
+unicode general category
+control
+properties characteristics behaviour code point
+general categories
+code points range
+dbff
+code points
+high surrogate code points
+code points range
+dfff
+code points
+low surrogate code points
+high surrogate code point
+leading surrogate
+low surrogate code point
+trailing surrogate
+form surrogate pair utf represent
+code points bmp
+high low surrogate code points valid
+range code points characters
+code points
+code points
+excluding surrogates
+referred character scalar
+noncharacter code points guaranteed encoding characters
+applications make code points internally
+sixty noncharacters
+fdef code point ending fffe ffff
+fffe
+ffff
+set noncharacters stable
+noncharacters defined
+reserved code points code points encoded characters
+defined characters unicode
+private code points considered assigned characters
+interpretation unicode standard interchange characters requires agreement sender receiver interpretation
+private areas unicode codespace
+graphic characters characters defined unicode semantic
+visible glyph shape represent visible space
+unicode
+graphic characters
+format characters characters visible appearance
+effect appearance behavior neighboring characters
+width joiner width joiner change default shaping behavior adjacent characters
+inhibit ligatures request ligature formation
+format characters unicode
+sixty code points
+reserved control codes
+correspond control codes defined iso
+iec
+tab
+line feed
+carriage return
+widely unicode encoded texts
+graphic characters
+format characters
+control code characters
+private characters collectively assigned characters
+set graphic format characters defined unicode correspond directly repertoire abstract characters representable unicode
+unicode encodes characters associating abstract character code point
+abstract characters encoded single unicode character
+abstract characters represented unicode sequence characters
+latin small letter
+ogonek
+dot
+acute accent
+required lithuanian
+represented character sequence
+unicode maintains list uniquely named character sequences abstract characters directly encoded unicode
+graphic
+format
+private characters unique immutable identified
+immutability guaranteed unicode version
+stability policy
+cases defective misleading
+typographical error
+formal alias defined
+applications encouraged formal alias place official character
+syllable formal alias syllable iteration mark
+presentation form vertical white lenticular brakcet
+sic
+formal alias presentation form vertical white lenticular bracket
+unicode consortium
+based california
+nonprofit organization coordinates unicode development
+levels membership
+company individual pay membership dues join organization
+full members include main computer software hardware companies interest text processing standards
+including adobe systems
+apple
+google
+ibm
+microsoft
+oracle corporation
+sun microsystems
+yahoo
+consortium ambitious goal eventually replacing existing character encoding schemes unicode standard unicode transformation format
+utf
+schemes
+existing schemes limited size scope incompatible multilingual environments
+unicode developed conjunction international organization standardization shares character repertoire iso
+iec
+universal character set
+unicode iso
+iec function equivalently character encodings
+unicode standard information implementers
+bitwise encoding
+collation rendering
+unicode standard enumerates multitude character properties
+including needed supporting bidirectional text
+standards slightly terminology
+consortium published unicode standard
+isbn
+continues develop standards based original work
+latest version standard
+unicode
+released september consortium web site
+major versions
+versions
+published book form unicode
+isbn
+unicode
+full text standard longer published book form
+announced core specification unicode version
+made page print demand paperback
+unlike previous major version printings standard
+print demand core specification include code charts standard annexes
+entire standard
+including core specification
+remain freely unicode website
+major minor versions unicode standard published
+update versions
+include character repertoire
+signified number
+version
+omitted table
+iso
+iec
+iso
+iec
+published version unicode standard planned
+expected release summer
+unicode covers scripts
+writing systems
+current today
+scripts included latest version unicode
+covering alphabets
+abugidas syllabaries
+encoded
+historical
+liturgical
+academic contexts
+additions characters encoded scripts
+symbols
+mathematics music
+form notes rhythmic symbols
+occur
+unicode roadmap committee
+michael everson
+rick mcgowan
+ken whistler
+maintain list scripts candidates potential candidates encoding tentative code block assignments unicode roadmap page unicode consortium web site
+scripts roadmap
+jurchen
+shu
+tangut
+linear
+encoding proposals made working approval process
+scripts
+mayan rongorongo
+proposal made
+await agreement character repertoire details user communities involved
+modern invented scripts included unicode
+tengwar
+qualify inclusion unicode due lack real world
+klingon
+listed conscript unicode registry
+unofficial widely private area code assignments
+script encoding initiative
+project run
+deborah anderson university california
+berkeley founded goal funding proposals scripts encoded standard
+project major source proposed additions standard recent years
+mechanisms implementing unicode
+choice depends storage space
+source code compatibility
+interoperability systems
+unicode defines mapping methods
+unicode transformation format
+utf
+encodings
+universal character set
+ucs
+encodings
+encoding maps
+possibly subset
+range unicode code points sequences values fixed size range
+termed code values
+numbers names encodings number bits code
+utf encodings
+number bytes code
+ucs
+encodings
+utf utf commonly encodings
+ucs obsolete subset utf
+ucs utf functionally equivalent
+utf encodings include
+utf bytes code point
+compact latin scripts ascii compatible
+facto standard encoding interchange unicode text
+recent linux distributions direct replacement legacy encodings general text handling
+ucs utf encodings unicode byte order mark
+bom
+beginnings text files
+byte ordering detection
+byte endianness detection
+software developers adopted encodings
+including utf
+software distinguish utf local bit code pages
+case attempts mark file unicode text
+bom
+code point feff important property unambiguity byte reorder
+unicode encoding
+fffe
+result byte swapping feff
+equate legal character
+feff places
+beginning text
+conveys width break space
+character appearance effect preventing formation ligatures
+units utf
+character converted utf byte sequence
+utf ucs
+bit code serves fairly direct representation character code point
+endianness
+varies platforms
+affects code manifests octet sequence
+cases
+code point represented variable number code values
+utf widely internal representation text programs
+opposed stored transmitted text
+unix operating system gcc compilers generate software standard
+wide character
+encoding
+recent versions python programming language
+beginning
+configured utf representation unicode strings
+effectively disseminating encoding high level coded software
+punycode
+encoding form
+enables encoding unicode strings limited character set supported ascii based domain system
+encoding part idna
+system enabling internationalized domain names scripts supported unicode
+earlier historical proposals include utf utf
+encoding form unicode
+standardization administration china
+official character set people republic china
+prc
+bocu scsu unicode compression schemes
+april fools day rfc parody utf encodings
+utf utf
+unicode includes mechanism modifying character shape greatly extends supported glyph repertoire
+covers combining diacritical marks
+inserted main character
+stack combining diacritics character
+unicode precomposed versions letter
+diacritic combinations normal
+make conversion legacy encodings simpler
+applications unicode internal text format implement combining characters
+represented unicode
+latin small letter
+combining acute accent
+represented precomposed character
+latin small letter acute
+cases
+users ways encoding character
+deal
+unicode mechanism canonical equivalence
+arises hangul
+korean alphabet
+unicode mechanism composing hangul syllables individual subcomponents
+hangul jamo
+combinations precomposed syllables made common jamo
+cjk ideographs codes precomposed form
+ideographs comprise simpler elements
+called radicals english
+principle
+unicode decomposed happened hangul
+greatly reduced number required code points
+allowing display virtually conceivable ideograph
+problems caused han unification
+similar idea covers input methods
+cangjie wubi
+attempts character encoding stumbled fact ideographs decompose simply regularly
+set radicals provided unicode
+cjk radicals
+kangxi radicals
+ideographic description characters
+unicode standard
+unicode
+warns ideographic description sequences alternate representation previously encoded characters
+scripts
+including arabic devanagari
+special orthographic rules require combinations letterforms combined special ligature forms
+rules governing ligature formation complex
+requiring special script shaping technologies ace
+arabic calligraphic engine decotype generate arabic examples printed editions unicode standard
+proof concept opentype
+adobe microsoft
+graphite
+sil international
+aat
+apple
+instructions embedded fonts operating system properly output character sequences
+simple solution placement combining marks diacritics assigning marks width placing glyph left left sidebearing
+depending direction script intended
+mark handled character precedes
+adjust position relative width height base glyph
+visually awkward overlap glyphs
+real stacking impossible
+approximated limited cases
+thai top combining vowels tone marks heights start
+generally approach effective monospaced fonts
+fallback rendering method complex methods fail
+subsets unicode standardized
+microsoft windows windows
+supports wgl characters
+considered support contemporary european languages latin
+greek
+cyrillic script
+standardized subsets unicode include multilingual european subsets
+mes
+latin scripts
+characters
+mes
+latin
+greek cyrillic characters
+mes mes
+larger subsets
+shown
+note mes includes character mes wgl
+rendering software process unicode character appropriately displays open rectangle
+unicode
+replacement character
+fffd
+position unrecognized character
+systems made attempts provide information characters
+apple lastresort font display substitute glyph indicating unicode range character
+sil unicode fallback font display box showing hexadecimal scalar character
+unicode dominant scheme internal processing storage text
+great deal text stored legacy encodings
+unicode exclusively building information processing systems
+early adopters tended ucs moved utf
+disruptive add support bmp characters
+system windows
+descendants
+windows
+windows
+windows vista windows
+utf sole internal character encoding
+java
+net bytecode environments
+mac
+kde internal representation
+unicode windows
+descendants
+windows windows
+microsoft layer unicode
+utf
+originally developed plan
+main storage encoding unix operating systems
+libraries
+easy replacement traditional extended ascii character sets
+utf common unicode encoding html documents world wide web
+multilingual text rendering engines unicode include uniscribe directwrite microsoft windows
+atsui core text mac
+pango gtk gnome desktop
+keyboard layouts simple key combinations characters
+operating systems provide alternative input methods access entire repertoire
+iso
+standardises methods entering unicode characters codepoints
+specifies methods
+basic method
+beginning sequence hexadecimal representation codepoint ending sequence
+screen selection entry method
+characters listed table screen
+character map program
+mime defines mechanisms encoding ascii characters email
+depending characters email headers
+subject
+text body message
+cases
+original character set identified transfer encoding
+email transmission unicode utf character set quoted printable transfer encoding recommended
+depending message consists ascii characters
+details mechanisms mime standards generally hidden users email software
+adoption unicode email slow
+east asian text encoded encodings iso
+devices
+cell telephones
+handle unicode data correctly
+support improving
+major free mail providers yahoo
+google
+gmail
+microsoft
+hotmail
+support
+recommendations unicode document character set html
+web browsers supported unicode
+utf
+years
+display problems result primarily font related issues
+versions microsoft internet explorer render code points explicitly told font
+syntax rules affect order characters allowed
+xml
+including xhtml
+documents
+definition
+comprise characters unicode code points
+exception
+official standard xml characters
+html characters manifest directly bytes document encoding
+encoding supports
+users write numeric character references based character unicode code point
+references
+numeric values expressed hexadecimal
+prefix
+display browsers
+uris
+urls requests
+ascii characters percent encoded
+free retail fonts based unicode widely
+truetype opentype support unicode
+font formats map unicode code points glyphs
+thousands fonts exist market
+fewer dozen
+pan unicode
+support majority unicode character repertoire
+unicode based fonts typically focus supporting basic ascii scripts sets characters symbols
+reasons justify approach
+applications documents rarely render characters writing systems
+fonts tend demand resources computing environments
+operating systems applications show increasing intelligence regard obtaining glyph information separate font files needed
+font substitution
+designing consistent set rendering instructions tens thousands glyphs constitutes monumental task
+venture passes point diminishing returns typefaces
+unicode partially addresses line problem occurs read text file platforms
+unicode defines large number characters conforming applications recognize line terminators
+citation needed
+terms line
+unicode introduce line separator paragraph separator
+attempt provide unicode solution encoding paragraphs lines semantically
+potentially replacing platform solutions
+unicode provide historical platform dependent solutions
+nonetheless
+unicode solutions adopted unicode line paragraph separators sole canonical line ending characters
+common approach solving issue line normalization
+achieved cocoa text system mac xml html recommendations
+approach line character converted internally common line
+matter internal operation rendering
+words
+text system correctly treat character line
+input actual encoding
+han unification
+identification forms east asian languages treat stylistic variations historical character
+controversial aspects unicode
+presence majority experts regions ideographic rapporteur group
+irg
+advises consortium iso additions repertoire han unification
+unicode criticized failing separately encode older alternative forms kanji
+critics argue
+complicates processing ancient japanese uncommon japanese names
+due fact unicode encodes characters glyphs
+visual representations basic character vary language
+unification glyphs leads perception languages
+basic character representation
+merged
+clarification needed attempts create alternative encodings preserve stylistic differences chinese
+japanese
+korean characters opposition unicode policy han unification
+tron
+widely adopted japan
+users handle historical japanese text favor
+repertoire fewer han characters earliest version unicode largely limited characters common modern usage
+unicode includes han characters
+work continuing add thousands historic dialectal characters china
+japan
+korea
+taiwan
+vietnam
+modern font technology means address practical issue needing depict unified han character terms collection alternative glyph representations
+form unicode variation sequences
+advanced typographic tables opentype permit number alternative glyph representations selected performing character glyph mapping process
+case
+information provided plain text designate alternate character form select
+injective mappings provided characters existing legacy character sets characters unicode facilitate conversion unicode interoperability legacy software
+lack consistency mappings earlier japanese encodings shift jis euc unicode led round trip format conversion mismatches
+mapping character jis
+wave dash
+heavily legacy database data
+fullwidth tilde
+microsoft windows
+wave dash
+vendors
+japanese computer programmers objected unicode requires separate reverse solidus
+backslash
+yen sign
+mapped jis
+lot legacy code exists usage
+encoding replaces tilde overline
+separation characters exists iso
+long unicode
+thai alphabet support criticized ordering thai characters
+vowels
+written left preceding consonant visual order phonetic order
+unlike unicode representations indic scripts
+complication due unicode inheriting thai industrial standard
+worked
+thai written keyboards
+ordering problem complicates unicode collation process slightly
+requiring table lookups reorder thai characters collation
+unicode adopted encoding spoken order
+problematic collate words dictionary order
+word
+perform
+starts consonant cluster
+inherent vowel consonant
+vowel
+spoken order
+dictionary
+word collated written
+vowel
+indic scripts tamil devanagari allocated code points
+matching iscii standard
+correct rendering unicode indic text requires transforming stored logical order characters visual order forming ligatures components
+local scholars argued favor assignments unicode codepoints ligatures
+practice writing systems
+unicode arabic ligatures backward compatibility purposes
+encoding ligatures unicode happen
+part set ligatures font dependent
+unicode encoding independent font variations
+kind issue arose tibetan scriptcitation needed
+chinese national standard organization failed achieve similar change
+characters diacritical marks generally represented single precomposed character decomposed sequence base letter spacing marks
+precomposed macron acute
+combining macron combining acute
+rendered identically
+appearing macron acute accent
+practice
+appearance vary depending rendering engine fonts display characters
+similarly
+underdots
+needed romanization indic
+incorrectlycitation needed
+unicode characters map precomposed glyphs cases
+avoiding problem
+precomposed character encoded problem solved specialist unicode font charis sil graphite
+opentype
+aat technologies advanced rendering features

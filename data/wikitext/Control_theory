@@ -1,0 +1,434 @@
+Control theory
+
+control theory
+control theory interdisciplinary branch engineering mathematics deals behavior dynamical systems inputs
+external input system called reference
+output variables system follow reference time
+controller manipulates inputs system obtain desired effect output system
+usual objective control theory calculate solutions proper corrective action controller result system stability
+system hold set point oscillate
+inputs outputs continuous control system generally related differential equations
+linear constant coefficients
+transfer function relating input output obtained taking laplace transform
+differential equations nonlinear solution
+linearize nonlinear differential equations solution
+resulting linear differential equations constant coefficients laplace transform obtain transfer function
+transfer function system function network function
+transfer function mathematical representation
+terms spatial temporal frequency
+relation input output linear time invariant solution nonlinear differential equations describing system
+extensive made diagrammatic style block diagram
+control theory
+control systems thought functions
+measure
+compare
+compute
+correct
+functions completed elements
+detector
+transducer
+transmitter
+controller
+final control element
+measuring function completed detector
+transducer transmitter
+practical applications elements typically contained unit
+standard measuring unit resistance thermometer
+compare compute functions completed controller completed electronically proportional control
+controller
+pid controller
+bistable
+hysteretic control programmable logic controller
+older controller units mechanical
+centrifugal governor carburetor
+correct function completed final control element
+final control element input output control system affect manipulated controlled variable
+car cruise control
+device designed maintain vehicle speed constant desired reference speed provided driver
+controller cruise control
+plant car
+system car cruise control
+system output car speed
+control engine throttle position determines power engine generates
+primitive implement cruise control simply lock throttle position driver engages cruise control
+cruise control engaged stretch flat road
+car travel slower uphill faster downhill
+type controller called open loop controller measurement system output
+car speed
+alter control
+throttle position
+result
+controller compensate acting car
+change slope road
+closed loop control system
+sensor monitors system output
+car speed
+feeds data controller adjusts control
+throttle position
+maintain desired system output
+match car speed reference speed
+car uphill decrease speed measured
+throttle position changed increase engine power
+speeding vehicle
+feedback measuring car speed allowed controller dynamically compensate car speed
+feedback paradigm control loop arises
+control affects system output
+turn measured looped back alter control
+control systems types date back antiquity
+formal analysis field began dynamics analysis centrifugal governor
+conducted physicist james clerk maxwell entitled governors
+analyzed phenomenon
+hunting
+lags system lead overcompensation unstable behavior
+generated flurry interest topic
+maxwell classmate edward john routh generalized maxwell results general class linear systems
+independently
+adolf hurwitz analyzed system stability differential equations
+resulting theorem
+notable application dynamic control area manned flight
+wright brothers made successful test flights december
+distinguished ability control flights substantial periods
+ability produce lift airfoil
+continuous
+reliable control airplane flights lasting longer seconds
+world war
+control theory important part fire control systems
+guidance systems electronics
+mechanical methods improve stability systems
+ship stabilizers fins mounted beneath waterline emerging laterally
+contemporary vessels
+gyroscopically controlled active fins
+capacity change angle attack counteract roll caused wind waves acting ship
+sidewinder missile small control surfaces rear missile spinning disks outer surface
+rollerons
+airflow disk spins high speed
+missile starts roll
+gyroscopic force disk drives control surface airflow
+cancelling motion
+sidewinder team replaced potentially complex control system simple mechanical solution
+space race depended accurate spacecraft control
+control theory increasing fields economics
+active historical figures made significant contribution control theory
+including
+overcome limitations open loop controller
+control theory introduces feedback
+closed loop controller feedback control states outputs dynamical system
+information path system
+process inputs
+voltage applied electric motor
+effect process outputs
+speed torque motor
+measured sensors processed controller
+result
+control signal
+fed back
+input process
+closing loop
+closed loop controllers advantages open loop controllers
+systems
+closed loop open loop control simultaneously
+systems
+open loop control termed feedforward serves improve reference tracking performance
+common closed loop controller architecture pid controller
+output system
+fed back sensor measurement reference
+controller takes error
+difference
+reference output change inputs system control
+shown figure
+kind controller closed loop controller feedback controller
+called single input single output
+siso
+control system
+mimo
+multi input multi output
+systems
+input
+output
+common
+cases variables represented vectors simple scalar values
+distributed parameter systems vectors infinite dimensional
+typically functions
+assume controller
+plant
+sensor linear time invariant
+elements transfer function
+depend time
+systems analysed laplace transform variables
+relations
+solving
+terms
+expression image
+math
+png referred closed loop transfer function system
+numerator forward
+open loop
+gain
+denominator gain feedback loop
+called loop gain
+image
+math
+png
+large norm
+image
+math
+png
+approximately equal
+output closely tracks reference input
+pid controller feedback control design
+pid acronym proportional integral derivative
+referring terms operating error signal produce control signal
+control signal system
+measured output
+desired output
+tracking error image
+math
+png
+pid controller general form
+desired closed loop dynamics obtained adjusting parameters image
+math
+png
+image
+math
+png image
+math
+png
+iteratively
+tuning
+specific knowledge plant model
+stability ensured proportional term
+integral term permits rejection step disturbance
+striking specification process control
+derivative term provide damping shaping response
+pid controllers established class control systems
+complicated cases
+mimo systems considered
+applying laplace transformation results transformed pid controller equation
+pid controller transfer function
+noted practical pid controllers pure differentiator physically realisable desirable due amplification noise resonant modes system
+phase lead compensator type approach
+differentiator low pass roll
+contrast frequency domain analysis classical control theory
+modern control theory utilizes time domain state space representation
+mathematical model physical system set input
+output state variables related order differential equations
+abstract number inputs
+outputs states
+variables expressed vectors differential algebraic equations written matrix form
+dynamical system linear
+state space representation
+time domain approach
+convenient compact model analyze systems multiple inputs outputs
+inputs outputs
+write laplace transforms encode information system
+unlike frequency domain approach
+state space representation limited systems linear components initial conditions
+state space
+refers space axes state variables
+state system represented vector space
+stability general dynamical system input lyapunov stability criteria
+linear system takes input called bounded input bounded output
+bibo
+stable output stay bounded bounded input
+stability nonlinear systems input input state stability
+iss
+combines lyapunov stability notion similar bibo stability
+simplicity
+descriptions focus continuous time discrete time linear systems
+mathematically
+means causal linear system stable poles transfer function negative real values
+real part poles
+practically speaking
+stability requires transfer function complex poles reside
+difference cases simply due traditional method plotting continuous time versus discrete time transfer functions
+continuous laplace transform cartesian coordinates image
+math
+png axis real axis discrete transform circular coordinates image
+math
+png axis real axis
+conditions satisfied system asymptotically stable
+variables asymptotically stable control system decrease initial show permanent oscillations
+permanent oscillations occur pole real part equal
+continuous time case
+modulus equal
+discrete time case
+simply stable system response decays grows time
+oscillations
+marginally stable
+case system transfer function repeated poles complex plane origin
+real complex component continuous time case
+oscillations present poles real part equal imaginary part equal
+system question impulse response
+transform
+pole image
+math
+png
+imaginary part
+system bibo
+asymptotically
+stable pole inside unit circle
+impulse response
+transform
+pole image
+math
+png bibo stable pole modulus strictly greater
+numerous tools exist analysis poles system
+include graphical systems root locus
+bode plots nyquist plots
+mechanical make equipment
+control systems
+stable
+sailors add ballast improve stability ships
+cruise ships antiroll fins extend transversely side ship feet
+continuously rotated axes develop forces oppose roll
+controllability observability main issues analysis system deciding control strategy applied
+control stabilize system
+controllability related possibility forcing system state control signal
+state controllable
+signal control state
+state controllable
+dynamics stable
+state termed stabilizable
+observability related possibility
+observing
+output measurements
+state system
+state observable
+controller determine behaviour unobservable state stabilize system
+similar stabilizability condition
+state observed detectable
+geometrical point view
+states variable system controlled
+bad
+state variables controllable observable ensure good behaviour closed loop system
+eigenvalues system controllable observable
+part dynamics remain untouched closed loop system
+eigenvalue stable
+dynamics eigenvalue present closed loop system unstable
+unobservable poles present transfer function realization state space representation
+preferred dynamical systems analysis
+solutions problems uncontrollable unobservable system include adding actuators sensors
+control strategies devised past years
+vary extremely general
+pid controller
+devoted classes systems
+robotics aircraft cruise control
+control problem specifications
+stability
+present
+controller ensure closed loop system stable
+open loop stability
+poor choice controller worsen stability open loop system
+avoided
+desired obtain dynamics closed loop
+poles image
+math
+png
+image
+math
+png fixed strictly greater
+simply image
+math
+png
+typical specification rejection step disturbance
+including integrator open loop chain
+directly system control
+easily achieves
+classes disturbances types systems included
+classical
+control theory specifications regard time response closed loop system
+include rise time
+time needed control system reach desired perturbation
+peak overshoot
+highest reached response reaching desired
+settling time
+quarter decay
+frequency domain specifications related robustness
+modern performance assessments variation integrated tracking error
+iae
+isa
+cqi
+control system robustness property
+robust controller properties change applied system slightly mathematical synthesis
+specification important
+real physical system behaves series differential equations represent mathematically
+typically simpler mathematical model chosen order simplify calculations
+true system dynamics complicated complete model impossible
+process determining equations govern model dynamics called system identification
+line
+executing series measures calculate approximated mathematical model
+typically transfer function matrix
+identification output
+account unobservable dynamics
+model built directly starting physical equations
+case mass spring damper system image
+math
+png
+assuming
+complete
+model designing controller
+parameters included equations
+called
+nominal parameters
+absolute precision
+control system behave correctly connected physical system true parameter values nominal
+advanced control techniques include
+line
+identification process
+parameters model calculated
+identified
+controller running
+drastic variation parameters ensues
+robot arm releases weight
+controller adjust order ensure correct performance
+analysis robustness siso
+single input single output
+control system performed frequency domain
+system transfer function nyquist bode diagrams
+topics include gain phase margin amplitude margin
+mimo
+multi input multi output
+general
+complicated control systems theoretical results devised control technique
+section
+robustness qualities needed
+engineer shift attention control technique including properties
+robustness issue requirement control system perform properly presence input state constraints
+physical world signal limited
+happen controller send control signals physical system
+rotate valve excessive speed
+produce undesired behavior closed loop system
+damage break actuators subsystems
+specific control techniques solve problem
+model predictive control
+anti wind systems
+consists additional control block ensures control signal exceeds threshold
+mimo systems
+pole placement performed mathematically state space representation open loop system calculating feedback matrix assigning poles desired positions
+complicated systems require computer assisted calculation capabilities
+ensure robustness
+system states general measured observers included incorporated pole placement design
+processes industries robotics aerospace industry typically strong nonlinear dynamics
+control theory linearize classes systems apply linear techniques
+cases devise scratch theories permitting control nonlinear systems
+feedback linearization
+backstepping
+sliding mode control
+trajectory linearization control advantage results based lyapunov theory
+differential geometry widely tool generalizing linear control concepts linear case
+showing subtleties make challenging problem
+system controlled multiple controllers
+problem decentralized control
+decentralization helpful ways
+instance
+helps control systems operate larger geographical area
+agents decentralized control systems interact communication channels coordinate actions
+control system guarantee stability closed loop behavior
+linear systems
+obtained directly placing poles
+linear control systems specific theories
+based aleksandr lyapunov theory
+ensure stability regard dynamics system
+possibility fulfill specifications varies model considered control strategy chosen
+summary list main control techniques shown
+chemical engineering

@@ -1,0 +1,311 @@
+Microwave
+
+microwave
+microwaves radio waves wavelengths ranging long meter short millimeter
+equivalently
+frequencies
+broad definition includes uhf ehf
+millimeter waves
+sources boundaries
+cases
+microwave includes entire shf band
+minimum
+engineering putting lower boundary
+upper
+apparatus techniques qualitatively
+microwave
+wavelengths signals roughly dimensions equipment
+lumped element circuit theory inaccurate
+consequence
+practical microwave technique move discrete resistors
+capacitors
+inductors lower frequency radio waves
+distributed circuit elements transmission line theory methods design analysis
+open wire coaxial transmission lines give waveguides stripline
+lumped element tuned circuits replaced cavity resonators resonant lines
+effects reflection
+polarization
+scattering
+diffraction
+atmospheric absorption visible light practical significance study microwave propagation
+equations electromagnetic theory apply frequencies
+prefix
+micro
+microwave
+meant suggest wavelength micrometer range
+microwaves
+small
+compared waves typical radio broadcasting
+shorter wavelengths
+boundaries infrared light
+terahertz radiation
+microwaves
+ultra high frequency radio waves fairly arbitrary variously fields study
+microwave technology extensively point point telecommunications
+broadcast
+microwaves suitable easily focused narrow beams radio waves
+comparatively higher frequencies broad bandwidth high data flow
+allowing smaller antenna size antenna size inversely proportional transmitted frequency
+higher frequency
+smaller antenna size
+microwaves principal means data
+telephone communications transmitted ground stations satellites
+microwaves employed microwave ovens radar technology
+decreasing microwave transmission air
+due lower frequencies absorption water higher frequencies oxygen
+spectral band structure fluctuations behavior
+graph
+absorption microwave electromagnetic radiation earth atmosphere great effect opaque
+atmosphere transparent called infrared optical window frequency ranges
+high power microwave sources specialized vacuum tubes generate microwaves
+devices operate principles low frequency vacuum tubes
+ballistic motion electrons vacuum influence controlling electric magnetic fields
+include magnetron
+microwave ovens
+klystron
+traveling wave tube
+twt
+gyrotron
+devices work density modulated mode
+current modulated mode
+means work basis clumps electrons flying ballistically
+continuous stream electrons
+low power microwave sources solid state devices field effect transistor
+lower frequencies
+tunnel diodes
+gunn diodes
+impatt diodes
+low power sources benchtop instruments
+rackmount instruments
+embeddable modules card level formats
+maser device similar laser
+amplifies light energy stimulating photons
+maser
+amplifying visible light energy
+amplifies lower frequency
+longer wavelength microwaves radio frequency emissions
+sun emits microwave radiation
+blocked earth atmosphere
+citation
+cosmic microwave background radiation
+cmbr
+source microwaves supports science cosmology big bang theory origin universe
+advent fiber optic transmission
+long distance telephone calls carried networks microwave radio relay links run carriers long lines
+starting early
+frequency division multiplex send telephone channels microwave radio channel
+ten radio channels combined antenna hop site
+wireless lan protocols
+bluetooth ieee
+specifications
+microwaves
+ism band
+ism band nii frequencies range
+licensed long range
+wireless internet access services decade countries
+range
+fcc recentlywhen
+carved spectrum carriers offer services range
+emphasis
+dozens service providers country securing received licenses fcc operate band
+wimax service offerings carried
+band give business customers option connectivity
+metropolitan area network
+man
+protocols
+wimax
+worldwide interoperability microwave access
+based standards ieee
+designed operate
+commercial implementations
+ranges
+mobile broadband wireless access
+mbwa
+protocols based standards specifications ieee
+atis
+ansi sdma
+iburst
+operate
+give mobility building penetration characteristics similar mobile phones vastly greater spectral efficiency
+mobile phone networks
+gsm
+low microwave
+high uhf frequencies
+americas
+dvb dmb
+proprietary
+incompatible satellite radio
+dars
+microwave radio broadcasting telecommunication transmissions
+due short wavelength
+highly directional antennas smaller practical longer wavelengths
+lower frequencies
+bandwidth microwave spectrum rest radio spectrum
+usable bandwidth ghz
+typically
+microwaves television news transmit signal remote location television station specially equipped van
+broadcast auxiliary service
+bas
+remote pickup unit
+rpu
+studio
+transmitter link
+stl
+satellite communications systems operate
+bands microwave spectrum
+frequencies large bandwidth avoiding crowded uhf frequencies staying atmospheric absorption ehf frequencies
+satellite operates band traditional large dish fixed satellite service band direct broadcast satellite
+military communications run primarily band links
+band milstar
+radar microwave radiation detect range
+speed
+characteristics remote objects
+development radar accelerated world war due great military utility
+radar widely applications air traffic control
+weather forecasting
+navigation ships
+speed limit enforcement
+gunn diode oscillator waveguide motion detector automatic door openers
+radio astronomy microwaves
+naturally occurring microwave radiation observed
+active radar experiments objects solar system
+determining distance moon mapping invisible surface venus cloud cover
+global navigation satellite systems
+gnss
+including chinese beidou
+american global positioning system
+gps
+russian glonass broadcast navigational signals bands
+microwave oven passes
+ionizing
+microwave radiation
+frequency
+food
+causing dielectric heating primarily absorption energy water
+microwave ovens common kitchen appliances western countries late
+development inexpensive cavity magnetrons
+water liquid state possesses molecular interactions broaden absorption peak
+vapor phase
+isolated water molecules absorb
+ten times frequency microwave oven
+microwave heating industrial processes drying curing products
+semiconductor processing techniques microwaves generate plasma purposes reactive ion etching plasma enhanced chemical vapor deposition
+pecvd
+microwave frequencies typically ranging stellarators notably tokamak experimental fusion reactors heat fuel plasma state
+upcoming iter thermonuclear reactor expected range employ electron cyclotron resonance heating
+ecrh
+microwaves transmit power long distances
+post world war research examine possibilities
+nasa worked early research possibilities solar power satellite
+sps
+systems large solar arrays beam power earth surface microwaves
+lethal weaponry exists millimeter waves heat thin layer human skin intolerable temperature make targeted person move
+burst focused beam heats skin temperature
+depth
+inch
+united states air force marines type active denial system
+microwave radiation electron paramagnetic resonance
+epr esr
+spectroscopy
+typically band region
+conjunction typically magnetic fields
+technique information unpaired electrons chemical systems
+free radicals transition metal ions
+microwave radiation perform rotational spectroscopy combined electrochemistry microwave enhanced electrochemistry
+microwave spectrum defined electromagnetic energy ranging approximately frequency
+older usage includes lower frequencies
+common applications range
+set microwave frequency bands designations radio society great britain
+rsgb
+tabulated
+elf slf ulf vlf vhf uhf shf ehf thf
+vhf uhf
+band band
+previous
+radar band ranging obsolete ieee std
+radars developed band world war
+realized nearby absorption band
+vapor oxygen atmosphere
+problem
+original band split lower band
+upper band
+microwave frequency measured electronic mechanical techniques
+frequency counters high frequency heterodyne systems
+unknown frequency compared harmonics lower frequency low frequency generator
+harmonic generator mixer
+accuracy measurement limited accuracy stability reference source
+mechanical methods require tunable resonator absorption wavemeter
+relation physical dimension frequency
+laboratory setting
+lecher lines directly measure wavelength transmission line made parallel wires
+frequency calculated
+similar technique slotted waveguide slotted coaxial line directly measure wavelength
+devices consist probe introduced line longitudinal slot
+probe free travel line
+slotted lines primarily intended measurement voltage standing wave ratio line
+provided standing wave present
+measure distance nodes
+equal half wavelength
+precision method limited determination nodal locations
+microwaves sufficient energy chemically change substances ionization
+nonionizing radiation
+word
+radiation
+refers energy radiating source radioactivity
+shown conclusively microwaves
+nonionizing electromagnetic radiation
+significant adverse biological effects low levels
+studies suggest long term exposure carcinogenic effect
+separate risks high intensity exposure
+heating burns heat source
+unique property microwaves specifically
+world war
+observed individuals radiation path radar installations experienced clicks buzzing sounds response microwave radiation
+microwave auditory effect thought caused microwaves inducing electric current hearing centers brain
+research nasa shown caused thermal expansion parts ear
+citation needed
+injury exposure microwaves occurs
+results dielectric heating induced body
+exposure microwave radiation produce cataracts mechanism
+microwave heating denatures proteins crystalline lens eye
+heat turns egg whites white opaque
+lens cornea eye vulnerable blood vessels carry heat
+exposure heavy doses microwave radiation
+oven tampered operation door open
+produce heat damage tissues
+including burns immediately evident tendency microwaves heat deeper tissues higher moisture content
+citation needed
+existence radio waves predicted james clerk maxwell equations
+heinrich hertz demonstrate existence radio waves building spark gap radio transmitter produced microwaves
+uhf region
+equipment primitive
+including horse trough
+wrought iron point spark
+leyden jars
+built parabolic antenna
+zinc gutter sheet
+indian radio pioneer jagdish chandra bose publicly demonstrated radio control bell millimeter wavelengths
+conducted research propagation microwaves
+documented
+formal term microwave occurred
+hungarian engineer bay ultra short radio waves moon
+reflected
+worked radar
+measure distance
+study moon
+word microwave astronomical context occurred article
+microwave radiation sun moon
+robert dicke robert beringer
+article made showing york times issued
+history electromagnetic theory
+significant work specifically area microwaves applications carried researchers including
+elf
+slf
+ulf
+vlf
+vhf
+uhf
+shf
+ehf
+thf
+higher wavelengths

@@ -1,0 +1,639 @@
+Linux
+
+linux
+kernel
+days
+linux
+image
+commons
+thumb
+speakerlink
+svg
+speakerlink
+svg
+pngi
+lin
+lin uuks
+unix computer operating system assembled model free open source software development distribution
+defining component linux linux kernel
+operating system kernel released october linus torvalds
+linux originally developed free operating system intel based personal computers
+ported computer hardware platforms operating system
+leading operating system servers big iron systems mainframe computers supercomputers
+today fastest supercomputers run variant linux
+including fastest
+linux runs embedded systems
+devices operating system typically built firmware highly tailored system
+mobile phones
+tablet computers
+network routers
+televisions video game consoles
+android system wide mobile devices built linux kernel
+development linux prominent examples free open source software collaboration
+underlying source code
+modified
+licenses gnu general public license
+typically linux packaged format linux distribution desktop server
+popular mainstream linux distributions include debian
+derivatives ubuntu linux mint
+fedora
+derivatives red hat enterprise linux centos
+mandriva
+mageia
+opensuse
+arch linux
+linux distributions include linux kernel
+supporting utilities libraries large amount application software fulfill distribution intended
+distribution oriented desktop typically include window system accompanying desktop environment gnome kde plasma
+distributions include resource intensive desktop lxde xfce older powerful computers
+distribution intended run server omit graphical environments standard install include software apache server ssh server openssh
+linux freely redistributable
+create distribution intended
+applications commonly desktop linux systems include mozilla firefox web browser
+libreoffice office application suite
+gimp image editor
+main supporting user space system tools libraries originated gnu project
+initiated richard stallman
+free software foundation prefers gnu
+linux
+unix operating system conceived implemented bell laboratories united states ken thompson
+dennis ritchie
+douglas mcilroy
+joe ossanna
+released initially written assembly language
+common practice time
+key pioneering approach
+unix written programming language dennis ritchie
+exceptions kernel
+availability operating system written high level language allowed easier portability computer platforms
+legal glitch forcing license operating system source code asked
+unix quickly grew widely adopted academic institutions businesses
+divested bell labs
+free legal glitch requiring free licensing
+bell labs began selling unix proprietary product
+gnu project
+started richard stallman
+goal creating
+complete unix compatible software system
+composed free software
+work began
+stallman started free software foundation wrote gnu general public license
+gnu gpl
+early
+programs required operating system
+libraries
+compilers
+text editors
+unix shell
+windowing system
+completed
+low level elements device drivers
+daemons
+kernel stalled incomplete
+linus torvalds gnu kernel time
+decided write
+released due legal complications
+development
+netbsd freebsd descended
+predated linux
+linus torvalds time
+created linux
+minix inexpensive minimal unix operating system
+designed education computer science
+written andrew
+tanenbaum
+starting version
+minix free redesigned
+attending university helsinki
+torvalds curious operating systems frustrated licensing minix
+limited educational
+began work operating system eventually linux kernel
+torvalds began development linux kernel minix
+applications written minix linux
+linux matured linux development place linux systems
+gnu applications replaced minix components
+advantageous freely code gnu project fledgling operating system
+code licensed gnu gpl reused projects long released compatible license
+torvalds initiated switch original license
+prohibited commercial redistribution
+gnu gpl
+developers worked integrate gnu components linux make fully functional free operating system
+today
+linux systems domain
+embedded systems supercomputers
+secured place server installations popular lamp application stack
+linux distributions home enterprise desktops growing
+gained popularity local national governments
+federal government brazil support linux
+news russian military creating linux distribution surfaced
+fruition
+ost project
+indian state kerala extent mandating state high schools run linux computers
+china linux exclusively operating system loongson processor family achieve technology independence
+spain regions developed linux distributions
+widely education official institutions
+gnulinex extremadura guadalinex andalusia
+portugal linux distribution caixa
+netbook escola government program
+france germany steps adoption linux
+linux distributions popular netbook market
+devices asus eee acer aspire shipping customized linux distributions installed
+torvalds continues direct development kernel
+stallman heads free software foundation
+turn supports gnu components
+finally
+individuals corporations develop party gnu components
+party components comprise vast body work include kernel modules user applications libraries
+linux vendors communities combine distribute kernel
+gnu components
+gnu components
+additional package management software form linux distributions
+linux based system modular unix operating system
+derives basic design principles established unix
+system monolithic kernel
+linux kernel
+handles process control
+networking
+peripheral file system access
+device drivers integrated directly kernel added modules loaded system running
+separate projects interface kernel provide system higher level functionality
+gnu userland important part linux based systems
+providing common implementation library
+popular shell
+common unix tools carry basic operating system tasks
+graphical user interface
+gui
+linux systems built top implementation window system
+components installed linux system
+user interface
+shell
+command line interface
+cli
+graphical user interface
+gui
+controls attached hardware
+common embedded systems
+desktop systems
+default mode graphical user interface
+cli terminal emulator windows separate virtual console
+low level linux components
+including gnu userland
+cli exclusively
+cli suited automation repetitive delayed tasks
+simple inter process communication
+desktop systems
+popular user interfaces extensive desktop environments kde plasma desktop
+gnome
+unity xfce
+variety additional user interfaces exist
+popular user interfaces based window system
+simply called
+network transparency permits graphical application running system displayed user interact application
+guis classified simple window managers
+fvwm
+enlightenment
+window maker
+provide minimalist functionality respect desktop environments
+window manager means control placement appearance individual application windows
+interacts window system
+desktop environments include window managers part standard installations
+mutter gnome
+kwin kde
+xfwm xfce january
+users choose window manager preferred
+primary difference linux popular contemporary operating systems linux kernel components free open source software
+linux operating system
+widely
+free open source software licenses based principle copyleft
+kind reciprocity
+work derived copyleft piece software copyleft
+common free software license
+gnu gpl
+form copyleft
+linux kernel components gnu project
+linux based distributions intended developers interoperability operating systems established computing standards
+linux systems adhere posix
+sus
+iso
+ansi standards
+date linux distribution posix
+certified
+linux
+free software projects
+developed collaborative fashion
+produced independently
+fact software licenses explicitly permit redistribution
+basis larger scale projects collect software produced stand projects make form linux distribution
+linux distributions
+distros
+manage remote collection system software application software packages download installation network connection
+users adapt operating system specific
+distributions maintained individuals
+loose knit teams
+volunteer organizations
+commercial entities
+distribution responsible default configuration installed linux kernel
+general system security
+generally integration software packages coherent
+distributions typically package manager dpkg
+synaptic
+yast
+yum
+portage install
+remove update system software central location
+distribution largely driven developer user communities
+vendors develop fund distributions volunteer basis
+debian
+maintain community version commercial distributions
+red hat fedora novell opensuse
+cities regions
+local associations linux user groups
+lugs
+seek promote preferred distribution extension free software
+hold meetings provide free demonstrations
+training
+technical support
+operating system installation users
+internet communities provide support linux users developers
+distributions free software
+open source projects irc chatrooms newsgroups
+online forums means support
+notable examples linuxquestions
+distribution specific support community forums
+ubuntu
+fedora
+gentoo
+linux distributions host mailing lists
+commonly specific topic usage development list
+technology websites linux focus
+print magazines linux include cover disks including software complete linux distributions
+linux distributions generally charge
+large corporations sell
+support
+contribute development components system free software
+analysis linux kernel showed percent code december january developed programmers working corporations
+leaving percent volunteers unclassified
+major corporations contribute include dell
+ibm
+oracle
+sun microsystems
+part oracle
+novell
+nokia
+number corporations
+notably red hat novell
+built significant business linux distributions
+free software licenses
+software packages distribution built linux kernel based
+explicitly accommodate encourage commercialization
+relationship linux distribution individual vendors symbiotic
+common business model commercial suppliers charging support
+business users
+number companies offer specialized business version distribution
+adds proprietary support packages tools administer higher numbers installations simplify administrative tasks
+business model give software order sell hardware
+norm computer industry
+operating systems
+apple dos versions mac prior
+freely copyable
+modifiable
+computer hardware standardized
+difficult hardware manufacturers profit tactic
+run manufacturer computer shared architecture
+linux distributions support dozens programming languages
+original development tools building linux applications operating system programs found gnu toolchain
+includes gnu compiler collection
+gcc
+gnu build system
+gcc compilers ada
+java
+fortran
+released
+low level virtual machine project alternative open source compiler languages
+proprietary compilers linux include intel compiler
+sun studio
+ibm
+compiler
+basic form visual basic supported forms gambas
+freebasic
+xbasic
+terms terminal programming quickbasic turbo basic programming form
+common feature unix systems
+linux includes traditional specific purpose programming languages targeted scripting
+text processing system configuration management general
+linux distributions support shell scripts
+awk
+sed make
+programs embedded programming language support configuring programming
+regular expressions supported programs grep
+locate
+advanced text editors
+gnu emacs complete lisp interpreter built
+distributions include support php
+perl
+ruby
+python dynamic languages
+common
+linux supports
+mono
+vala
+scheme
+number java virtual machines development kits run linux
+including original sun microsystems jvm
+hotspot
+ibm
+open source projects kaffe jikesrvm
+gnome kde popular desktop environments provide framework developing applications
+projects based gtk widget toolkits
+independently larger framework
+support wide variety languages
+number integrated development environments including anjuta
+code
+blocks
+codelite
+eclipse
+geany
+activestate komodo
+kdevelop
+lazarus
+monodevelop
+netbeans
+creator omnis studio
+long established editors vim
+nano emacs remain popular
+designed general purpose desktops servers
+distributions specialized purposes including
+computer architecture support
+embedded systems
+stability
+security
+localization specific region language
+targeting specific user groups
+support real time applications
+commitment desktop environment
+distributions deliberately include free software
+hundred distributions actively developed
+dozen distributions popular general purpose
+linux widely ported operating system kernel
+linux kernel runs highly diverse range computer architectures
+hand held arm based ipaq mainframe ibm system
+system
+devices ranging mobile phones supercomputers
+specialized distributions exist mainstream architectures
+elks kernel fork run intel intel bit microprocessors
+kernel fork run systems memory management unit
+kernel runs architectures intended manufacturer created operating system
+macintosh computers
+powerpc intel processors
+pdas
+video game consoles
+portable music players
+mobile phones
+list linux supported architectures
+industry associations hardware conferences devoted maintaining improving support diverse hardware linux
+freedomhec
+popularity linux standard desktop computers laptops increasing years
+distributions include graphical user environment
+popular environments gnome
+utilize additional shells default gnome shell ubuntu unity
+kde plasma desktop
+citation needed
+performance linux desktop controversial topic
+con kolivas accused linux community favoring performance servers
+quit linux kernel development frustrated lack focus desktop
+gave
+interview topic
+significant amount development undertaken effort improve desktop experience
+projects upstart systemd aim faster boot time
+popular applications wide variety operating systems
+mozilla firefox
+openoffice
+libreoffice blender downloadable versions major operating systems
+applications initially developed linux
+pidgin
+gimp
+ported operating systems including windows mac due popularity
+addition
+growing number proprietary desktop applications supported linux
+list proprietary software linux
+field animation visual effects
+high end software
+autodesk maya
+softimage xsi apple shake
+linux
+windows
+mac
+companies ported companies games linux
+linux supported platform popular steam desura digital distribution services
+types applications microsoft windows mac linux
+commonly
+free software application exist functions application found operating system
+application version works linux
+skype video games
+citation needed
+wine project windows compatibility layer run unmodified windows applications linux
+crossover proprietary solution based open source wine project supports running windows versions microsoft office
+intuit applications quicken quickbooks
+adobe photoshop versions
+popular games world warcraft team fortress
+cases
+linux port software areas desktop publishing professional audio
+equivalent software linux
+collaborative nature free software development distributed teams perform language localization linux distributions locales localizing proprietary systems cost effective
+sinhalese language version knoppix distribution significantly microsoft windows translated sinhalese
+citation needed case lanka linux user group played major part developing localized system combining knowledge university professors
+linguists
+local developers
+installing
+updating removing software linux typically package managers synaptic package manager
+packagekit
+yum extender
+major linux distributions extensive repositories
+tens thousands packages
+software run linux official repositories
+alternatively
+users install packages unofficial repositories
+download pre compiled packages directly websites
+compile source code
+methods degrees difficulty
+compiling source code general considered challenging process linux users
+needed modern distributions method specific linux
+gnome shell
+kde plasma desktop
+unity
+xfce
+lxde
+linux distributions long server operating systems
+risen prominence area
+netcraft reported september ten reliable internet hosting companies ran linux distributions web servers
+june
+linux distributions represented top ten
+freebsd ten
+microsoft ten
+february
+linux distributions represented top ten
+freebsd ten
+microsoft ten
+linux distributions cornerstone lamp server software combination
+linux
+apache
+mysql
+perl
+php
+python
+achieved popularity developers
+common platforms website hosting
+linux distributions increasingly popular mainframes decade partly due pricing open source model
+citation needed december
+computer giant ibm reported predominantly market sell mainframe based enterprise linux server
+linux distributions commonly operating systems supercomputers
+november
+top systems
+run linux distribution
+linux selected operating system world powerful supercomputer
+ibm sequoia scheduled operational
+clarification needed
+due low cost ease customization
+linux embedded systems
+modified version linux major competitor nokia older symbian
+found smartphones
+quarter
+smartphones sold worldwide android
+linux variants forming
+total time
+cell phones pdas running linux open source platforms common
+examples include nokia
+openmoko
+motorola rokr
+continuing trend
+palm
+acquired
+produced linux derived operating system
+webos
+built line palm pre smartphones
+popular tivo digital video recorder customized linux
+network firewalls routers makers cisco
+linksys
+korg oasys
+korg kronos
+yamaha yamaha motif
+motif music workstations
+yamaha
+yamaha
+synthesizers
+yamaha motif rack tone generator module
+roland digital piano run linux
+linux stage lighting control systems
+wholehogiii console
+quantitative studies free
+open source software focus topics including market share reliability
+numerous studies specifically examining linux
+linux market growing rapidly
+revenue servers
+desktops
+packaged software running linux expected exceed
+billion
+idc report linux held
+server market time
+estimate based number linux servers sold companies
+include server hardware purchased separately linux installed
+september microsoft ceo steve ballmer admitted web servers run linux versus run windows server
+primarily based web server statistics
+companies estimated desktop market share linux range
+comparison
+microsoft operating systems hold
+analysts proponents attribute relative success linux security
+reliability
+low cost
+freedom vendor lock
+wine compatibility layer users run programs designed windows linux
+half wine code contributed volunteers half sponsored commercial interests including codeweavers
+produces commercial version software
+google provided funding wine project
+laptop project laptop child creating potentially larger linux community planned reach millions schoolchildren families developing world
+major supporters project include google
+red hat
+ebay
+windows option
+primarily deployed fedora linux sugar desktop environment
+years linux platform choice film industry
+major film produced linux servers titanic
+major studios including dreamworks animation
+pixar
+weta digital
+industrial light magic migrated linux
+linux movies group
+servers desktops large animation visual effects companies linux
+linux gnu software licensed gnu general public license
+gpl
+gpl requires distributes linux make source code
+modifications
+recipient terms
+key components software system licenses
+libraries gnu lesser general public license
+lgpl
+permissive variant gpl
+implementation window system mit license
+torvalds states linux kernel move version gpl version
+specifically dislikes provisions license prohibit software digital rights management
+impractical obtain permission copyright holders
+number thousands
+study red hat linux
+found distribution contained million source lines code
+constructive cost model
+study estimated distribution required thousand man years development time
+study
+software developed conventional proprietary means
+cost
+dollars
+develop united states
+code
+written programming language
+languages
+including
+lisp
+assembly language
+perl
+python
+fortran
+shell scripting languages
+slightly half lines code licensed gpl
+linux kernel
+million lines code
+total
+study
+analysis performed debian gnu
+linux version
+etch
+released
+distribution contained close million source lines code
+study estimated required seventy thousand man years cost
+dollars
+develop conventional means
+united states
+linux trademark registered linus torvalds
+initially
+registered
+august
+william
+della croce
+filed trademark linux
+demanded royalties linux distributors
+torvalds affected organizations sued trademark assigned torvalds
+case settled
+licensing trademark handled linux mark institute
+torvalds stated trademarked prevent
+lmi originally charged nominal sublicensing fee linux part trademarks
+changed favor offering free
+perpetual worldwide sublicense
+free software foundation views linux distributions gnu software gnu variants operating systems referred gnu
+linux linux based gnu system
+media common usage
+refers family operating systems simply linux
+large linux distributions
+suse linux mandriva linux
+distributions
+notably debian
+gnu
+linux
+naming issue remains controversial

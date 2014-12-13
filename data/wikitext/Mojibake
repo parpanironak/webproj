@@ -1,0 +1,347 @@
+Mojibake
+
+mojibake
+mojibake
+ipa
+lit
+character transformation
+japanese
+moji
+character
+bake
+transform
+presentation incorrect
+unreadable characters software fails render text correctly character encoding
+mojibake caused character encoding correctly tagged document
+document moved system default encoding
+incorrect display occurs writing systems character encodings mistagged
+foreign
+user computer system
+computer software required process foreign language characters
+attempt process default language encoding
+resulting gibberish
+transferring messages encodings language result mojibake
+japanese language users
+encodings historically employed
+encounter problem
+intended word
+encoded utf
+incorrectly displayed
+software configured expect text windows iso encodings
+labelled western
+web browser distinguish page coded euc shift jis coding scheme assigned explicitly headers documents
+html document meta tags substitute missing headers server configured send proper headers
+character encodings html
+heuristics applied guess character set
+successful
+mojibake occur appears encodings
+software microsoft eudora windows purportedly encoded output iso encoding
+reality
+windows extra printable characters range
+characters displayed properly software complying iso standard
+affected software running operating systems
+unix
+applications utf default encoding achieve greater degree interoperability due widespread backwards compatibility ascii
+difficulty resolving instance mojibake varies depending application occurs
+common applications mojibake occur web browsers word processors
+modern browsers word processors support wide array character encodings
+browsers user change rendering engine encoding setting fly
+word processors user select encoding opening file
+trial error users find correct encoding
+problem complicated occurs application support wide range character encoding
+unicode computer game
+case
+user change operating system encoding settings match game
+changing system wide encoding settings mojibake pre existing applications
+windows
+user option microsoft applocale
+application changing application locale settings
+changing operating system encoding settings earlier operating systems windows
+resolve issue earlier operating systems
+user party font rendering applications
+mojibake english texts generally occurs punctuation
+dashes
+dashes
+curly quotes
+rarely character text
+encodings agree ascii encoding english alphabet
+pound sign
+encoded sender utf interpreted recipient iso
+iterated
+lead
+japanese
+phenomenon
+mentioned
+called mojibake
+encountered japanese attempting run software written japanese market
+chinese
+phenomenon called
+simplified chinese
+traditional chinese
+pinyin
+meaning chaotic code
+occur computerised text encoded chinese character encoding displayed wrong encoding
+occurs
+fix issue switching character encoding loss data
+situation complicated due existence chinese character encoding systems
+common
+unicode
+guobiao
+versions
+additional problem caused encodings missing characters
+common rare antiquated characters personal place names
+examples taiwanese politicians wang chien shien
+chinese
+pinyin
+shyi kun
+simplified chinese
+traditional chinese
+pinyin
+prc premier zhu rongji
+chinese
+pinyin
+taiwanese singer david tao
+chinese
+pinyin
+newspapers dealt problem ways
+including software combine existing
+similar characters
+picture personality
+simply substituting homophone rare character hope reader make correct inference
+zhu rongji appears correct form
+character
+pinyin
+replaced
+pinyin
+case meaning
+users central eastern european languages affected
+computers connected network mid late
+character encodings language diacritical characters
+mojibake colloquially called krakozyabry
+ipa
+russian
+remains complicated systems encoding cyrillic
+soviet union early russian federation developed koi encodings
+kod obmena informatsiey
+translates
+code information exchange
+began cyrillic bit
+based ascii latin characters replaced cyrillic letters
+bit encoding ascii extension encodes cyrillic letters high bit set octets bit codes
+text
+russian
+remains partially readable stripping eighth bit
+considered major advantage age unaware email systems
+eventually gained flavors russian
+bulgarian
+ukrainian
+belarusian
+tajik
+west
+code page supported ukrainian belarusian russian
+bulgarian dos
+microsoft windows
+code page added support serbian slavic variants cyrillic
+recently
+unicode encoding includes code points practically characters world languages
+including cyrillic characters
+unicode
+match text encoding font encoding system
+failure produced unreadable gibberish specific appearance varied depending exact combination text encoding font encoding
+accented vowels symptomatic view cyrillic encoding font limited latin alphabet
+general
+cyrillic gibberish symptomatic wrong cyrillic font
+bulgarian
+mojibake called maymunitsa
+meaning monkey alphabet
+serbian
+called
+meaning trash
+unlike ussr
+south slavs
+code page dominant cyrillic encoding unicode
+languages experienced fewer encoding incompatibility troubles russian
+bulgarian computers mik encoding
+bit similar
+incompatible
+poland
+company selling early dos computers created encoding
+simply reprogrammed eproms video cards
+typically cga
+ega
+hercules
+needed glyphs polish arbitrarily located reference computer sellers
+additionally
+users popular home computers
+atari
+invented encodings
+incompatible international standards
+iso
+vendor standards
+ibm
+windows
+locally agreed
+dos standards
+mazovia
+situation began improve
+pressure academic user groups
+iso succeeded
+internet standard
+limited support dominant vendors software
+today largely replaced unicode
+numerous problems caused variety encodings
+today users tend refer polish diacritical characters krzaczki ksha chkee
+bushes
+nordic languages
+mojibake uncommon
+annoyance problem
+finnish swedish letters english alphabet characters
+typically corrupted
+situation similar norwegian danish
+affected letters
+german
+affected letters
+swedish
+norwegian
+danish german
+vowels rarely repeated
+obvious character corrupted
+letter
+love
+reader guess
+texts remain perfectly readable
+finnish repeating vowels words
+wedding night
+render text hard read
+word
+icelandic worse
+ten possibly confounding characters
+type mojibake occurs text erroneously parsed multi byte encoding
+east asian encodings
+kind mojibake
+typically
+characters corrupted
+swedish
+parsed
+compared mojibake
+harder read
+letters unrelated problematic
+missing
+problematic short words starting
+letters combined
+mojibake random
+variants compared normal
+counting rarer capitals
+rare cases
+entire text string include pattern word lengths
+sentence
+bush hid facts
+misinterpreted
+slavic languages yugoslavia
+croatian
+bosnian
+serbian
+add basic latin alphabet letters
+capital counterparts
+letters defined latin windows
+exist usual default western
+languages
+exist extended western ascii
+windows
+immune errors
+prone errors
+nowadays
+interpreted
+making users
+confined basic ascii
+user names
+common replacements
+capital forms analogously
+depending word case
+replacements introduce ambiguities
+reconstructing original form manually required
+importance windows encoding high english versions operating systems widespread
+localized
+reasons
+drive differentiating croatian serbian
+bosnian croatian serbian
+montenegrin
+serbian dialect dominant yugoslavia
+creates problems
+localizations
+standards
+quality
+common translations vast computer terminology originating english
+end
+people adopted english words
+kompjuter computer
+kompajlirati compile
+unaccustomed translated terms understand option menu supposed based translated phrase
+people understand english
+accustomed english terminology
+english terminology taught schools due problems
+regularly choose original english versions specialist software
+cyrillic script
+macedonian partially serbian language
+problem similar cyrillic based scripts
+newer versions english windows ansi codepage changed
+older versions require special english versions support
+setting incorrectly set
+windows
+set rtl sbcs codepages including
+install time
+hungarian affected language
+basic english characters
+accented forms
+present latin character set
+characters
+latin
+characters correctly encoded latin
+windows unicode
+unicode common mail clients
+mails hungarian text letters corrupted
+point unrecognizability
+common respond mail rendered unreadable character mangling
+referred
+meaning
+garbage lettering
+phrase
+nonsense phrase
+literally
+flood resistant mirror drilling machine
+accented characters hungarian
+similar effect occur indic text
+character set properly recognized application
+indic scripts
+rules individual letter symbols combine create symbols syllables properly understood computer missing software
+glyphs individual letter forms
+notable logo
+attempts show character analogous
+letter syllable
+puzzle pieces
+puzzle piece meant bear devanagari character
+show nonsensical scribble dangling line end
+easily recognizable mojibake generated computer configured display indic text
+occurred venerable front page logo corrected years humorously emblematic alleged accuracy reliability problems
+recently redesigned logo fixed errors
+indic indic derived scripts
+notably lao
+officially supported windows release vista
+sites made free download fonts
+spanish affected language
+literally deformation
+problems mojibake similar nordic languages
+spanish latin letters
+acute accents vowels
+rarely
+accented vowels regularly corrupted
+ascii
+german
+buchstabensalat
+letter salad
+common term phenomenon
+affected language arabic
+commodore brand bit computers petscii encoding
+notable inverting upper lower case compared standard ascii
+petscii printers worked fine computers era
+flipped case letters

@@ -1,0 +1,250 @@
+Graph theory
+
+graph theory
+mathematics computer science
+graph theory study graphs
+mathematical structures model pairwise relations objects collection
+graph
+context collection
+vertices
+nodes
+collection edges connect pairs vertices
+graph undirected
+meaning distinction vertices edge
+edges directed vertex
+graph
+mathematics
+detailed definitions variations types graph commonly considered
+graphs prime objects study discrete mathematics
+graphs studied graph theory confused graphs functions kinds graphs
+refer glossary graph theory basic definitions graph theory
+graphs ubiquitous models natural human made structures
+model types relations process dynamics physical
+biological social systems
+problems practical interest represented graphs
+computer science
+graphs represent networks communication
+data organization
+computational devices
+flow computation
+practical
+link structure website represented directed graph
+vertices web pages website directed edge page page exists link
+similar approach problems travel
+biology
+computer chip design
+fields
+development algorithms handle graphs major interest computer science
+transformation graphs formalized represented graph rewrite systems
+directly properties rewrite systems
+confluence
+studied
+complementary graph transformation systems focussing rule based memory manipulation graphs graph databases geared transaction safe
+persistent storing querying graph structured data
+graph theoretic methods
+forms
+proven linguistics
+natural language lends discrete structure
+traditionally
+syntax compositional semantics follow tree based structures
+expressive power lies principle compositionality
+modeled hierarchical graph
+contemporary approaches head driven phrase structure grammar
+hpsg
+model syntactic constructions unification typed feature structures
+directed acyclic graphs
+lexical semantics
+applied computers
+modeling word meaning easier word understood terms related words
+semantic networks important computational linguistics
+methods phonology
+optimality theory
+lattice graphs
+morphology
+finite state morphology
+finite state transducers
+common analysis language graph
+usefulness area mathematics linguistics borne organizations textgraphs
+net projects
+wordnet
+verbnet
+graph theory study molecules chemistry physics
+condensed matter physics
+dimensional structure complicated simulated atomic structures studied quantitatively gathering statistics graph theoretic properties related topology atoms
+franzblau shortest path
+rings
+chemistry graph makes natural model molecule
+vertices represent atoms edges bonds
+approach computer processing molecular structures
+ranging chemical editors database searching
+statistical physics
+graphs represent local connections interacting parts system
+dynamics physical process systems
+graph theory widely sociology
+measure actors prestige explore diffusion mechanisms
+notably social network analysis software
+umbrella social network graphs types
+starting acquaintanceship friendship graphs
+graphs representing people
+influence graph
+graph model people influence behavior
+finally collaboration graph models people work
+measure actors prestige mentioned
+popular examples include number degrees separation
+likewise
+graph theory biology conservation efforts vertex represent regions species exist
+habitats
+edges represent migration paths
+movement regions
+information important breeding patterns tracking spread disease
+parasites movement affect species
+mathematics
+graphs geometry parts topology
+knot theory
+algebraic graph theory close links group theory
+graph structure extended assigning weight edge graph
+graphs weights
+weighted graphs
+represent structures pairwise connections numerical values
+graph represents road network
+weights represent length road
+digraph weighted edges context graph theory called network
+network analysis practical applications
+model analyze traffic networks
+applications network analysis split broadly categories
+paper written leonhard euler bridges published regarded paper history graph theory
+paper
+written vandermonde knight problem
+carried analysis situs initiated leibniz
+euler formula relating number edges
+vertices
+faces convex polyhedron studied generalized cauchy lhuillier
+origin topology
+century euler paper bridges listing introduced topology
+cayley led study analytical forms arising differential calculus study class graphs
+trees
+study implications theoretical chemistry
+involved techniques concerned enumeration graphs properties
+enumerative graph theory rose results cayley fundamental results published generalization bruijn
+cayley linked results trees contemporary studies chemical composition
+fusion ideas coming mathematics coming chemistry origin part standard terminology graph theory
+term
+graph
+introduced sylvester paper published nature
+draws analogy
+quantic invariants
+variants
+algebra molecular diagrams
+textbook graph theory written
+published
+textbook frank harary
+published
+enormously popular
+citation needed enabled mathematicians
+chemists
+electrical engineers social scientists talk
+harary donated royalties fund prize
+famous productive problems graph theory color problem
+true map drawn plane regions colored colors
+regions common border colors
+problem posed francis guthrie written record letter morgan addressed hamilton year
+incorrect proofs proposed
+including cayley
+kempe
+study generalization problem tait
+heawood
+ramsey hadwiger led study colorings graphs embedded surfaces arbitrary genus
+tait reformulation generated class problems
+factorization problems
+studied petersen
+works ramsey colorations specially results obtained origin branch graph theory
+extremal graph theory
+color problem remained unsolved century
+heinrich heesch published method solving problem computers
+computer aided proof produced kenneth appel wolfgang haken makes fundamental notion
+discharging
+developed heesch
+proof involved checking properties configurations computer
+fully accepted time due complexity
+simpler proof configurations twenty years robertson
+seymour
+sanders thomas
+autonomous development topology fertilized graph theory back works jordan
+kuratowski whitney
+important factor common development graph theory topology techniques modern algebra
+work physicist gustav kirchhoff
+published kirchhoff circuit laws calculating voltage current electric circuits
+introduction probabilistic methods graph theory
+study asymptotic probability graph connectivity
+gave rise branch
+random graph theory
+fruitful source graph theoretic results
+graphs represented graphically drawing dot circle vertex
+drawing arc vertices connected edge
+graph directed
+direction drawing arrow
+graph drawing confused graph
+abstract
+visual structure
+ways structure graph drawing
+matters vertices connected edges exact layout
+practice difficult decide drawings represent graph
+depending problem domain layouts suited easier understand
+pioneering work
+tutte influential subject graph drawing
+achievements
+introduced linear algebraic methods obtain graph drawings
+graph drawing encompass problems deal crossing number generalizations
+crossing number graph minimum number intersections edges drawing graph plane
+planar graph
+crossing number definition
+drawings surfaces plane studied
+ways store graphs computer system
+data structure depends graph structure algorithm manipulating graph
+theoretically distinguish list matrix structures concrete applications structure combination
+list structures preferred sparse graphs smaller memory requirements
+matrix structures hand provide faster access applications consume huge amounts memory
+large literature graphical enumeration
+problem counting graphs meeting conditions
+work found harary palmer
+common problem
+called subgraph isomorphism problem
+finding fixed graph subgraph graph
+reason interested question graph properties hereditary subgraphs
+means graph property subgraphs
+finding maximal subgraphs kind complete problem
+similar problem finding induced subgraphs graph
+important graph properties hereditary respect induced subgraphs
+means graph property induced subgraphs
+finding maximal induced subgraphs kind complete
+problem
+minor containment problem
+find fixed graph minor graph
+minor subcontraction graph graph obtained taking subgraph contracting
+edges
+graph properties hereditary minors
+means graph property minors
+famous
+class problems extent species generalizations graphs determined point deleted subgraphs
+problems ways coloring graphs
+constraint modeling theories concern families directed graphs related partial order
+applications
+graphs ordered specificity
+meaning constrained specific greater amount subsumed general
+operations graphs include evaluating direction subsumption relationship graphs
+computing graph unification
+unification argument graphs defined general graph
+computation thereof
+consistent
+information
+inputs
+graph exists
+efficient unification algorithms
+constraint frameworks strictly compositional
+graph unification sufficient satisfiability combination function
+applications include automatic theorem proving modeling elaboration linguistic structure
+numerous problems arising applications notions flows networks
+covering problems specific instances subgraph finding problems
+tend closely related clique problem independent set problem
+problems involve characterizing members classes graphs
+examples questions

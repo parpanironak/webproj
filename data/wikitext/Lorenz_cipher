@@ -1,0 +1,238 @@
+Lorenz cipher
+
+lorenz cipher
+lorenz
+meaning
+cipher attachment
+german rotor stream cipher machines german army world war
+developed
+lorenz berlin
+implemented vernam stream cipher
+british cryptographers
+referred encrypted german teleprinter traffic fish
+dubbed machine traffic tunny
+machines line attachments standard lorenz teleprinters
+experimental link machines started june
+enhanced machines brought substantial mid onwards high level communications german high command berlin
+army commands occupied europe
+advanced routine february june
+wireless telegraphy
+land line circuits traffic
+morse
+nomo
+messages picked britain stations knockholt denmark hill government code cypher school bletchley park
+deciphered hand methods process partially automated
+robinson machines colossus computers
+deciphered messages made important contribution ultra military intelligence
+gilbert vernam bell labs research engineer
+invented cipher system boolean
+exclusive
+xor
+function
+symbolised
+represented
+truth table
+represents
+true
+represents
+false
+names function
+equal
+neq
+modulo addition
+carry
+modulo subtraction
+borrow
+vernam cipher symmetric key algorithm
+key encipher plaintext produce ciphertext decipher ciphertext yield original plaintext
+produces essential reciprocity machine settings enciphering deciphering
+vernam idea conventional telegraphy practice paper tape plaintext combined paper tape key
+key tape unique
+time tape
+generating distributing tapes presented considerable practical difficulties
+men countries invented rotor cipher machines produce key stream act tape
+lorenz
+logical functioning tunny system worked bletchley park cryptanalysts happened
+shortly allied victory europe
+machine served line attachment standard lorenz teleprinter
+metal base
+high
+teleprinter characters consisted data bits
+encoded international telegraphy alphabet
+enciphering machine generated pseudorandom character character key xor input characters form output characters
+bits
+impulses
+key character generated relevant wheels parts machine
+bletchley park analysts called image
+math
+png
+chi
+wheels
+image
+math
+png
+psi
+wheels
+wheel series cams
+pins
+cams set raised
+active
+lowered
+inactive
+position
+raised position generated
+lowered position generated
+chi wheels moved position character
+psi wheels moved
+character
+movement controlled image
+math
+png
+motor
+wheels
+image
+math
+wheel moved position character
+image
+math
+wheel moved cam image
+math
+wheel active position
+cam image
+math
+wheel active position
+psi wheels moved
+models additional complexity mechanism
+bletchley park limitations
+key stream generated machines chi component psi component combined xor function
+symbolically
+key combined plaintext ciphertext represented
+number cams wheel equalled number impulses needed complete full rotation
+noted numbers prime
+giving longest time pattern repeated
+total cams equals approximately
+astronomically large number
+impulses considered independently
+numbers manageable
+product rotation period pair chi wheels numbers
+tunny
+link machines transmitting receiving teleprinter end
+enciphering deciphering work
+transmitting receiving machines set identically
+components
+setting patterns cams wheels rotating wheels start enciphering message
+cam settings changed frequently summer
+psi wheel cams initially changed quarterly
+monthly
+chi wheels changed monthly motor wheel patterns changed daily
+august
+wheel patterns changed daily
+initially wheel settings message receiving end means letter indicator enciphered
+letters wheel positions book
+october changed book single settings qep book
+digits qep book entry receiving operator copy qep book set machine wheels
+book contained hundred combinations
+combinations qep book replaced
+message settings
+occasion
+providing
+depth
+utilised cryptanalyst
+normal telegraphy practice
+messages length keyed teleprinter paper tape perforator
+typical sequence operations sending operator punch message
+make contact receiving operator
+ein
+aus switch machine connect circuit
+run tape reader
+receiving end
+operator similarly connect machine circuit output printed continuous sticky tape
+practice
+plaintext characters
+carriage return
+line feed
+null
+blank tape
+character
+british cryptographers bletchley park deduced operation machine january lorenz machine
+feat made mistake made german operator
+tunny traffic station operators listening morse code transmission
+music
+interception originally concentrated foreign office station operated metropolitan police denmark hill camberwell
+london
+due lack resources time
+low priority
+station
+knockholt kent
+constructed specifically intercept tunny traffic messages efficiently recorded bletchley park
+head station
+harold kenworthy
+moved head knockholt
+promoted head foreign office research development establishment
+august
+message characters transmitted athens vienna
+message received correctly end
+recipient unencoded request retransmission
+codebreakers happening
+message retransmitted key settings
+hqibpexezmug
+forbidden practice
+time operator made number small alterations message
+abbreviations
+making message shorter
+related ciphertexts
+cryptanalysts depth
+veteran cryptanalyst brigadier john tiltman research section teased plaintexts keystream
+months research section failing diagnose machine characters key
+task handed mathematician bill tutte
+applied technique taught cryptographic training
+writing key hand repetitions
+tutte original teleprinter bit baudot codes
+led initial breakthrough recognising character repetition
+months january
+tutte colleagues worked complete logical structure cipher machine
+remarkable piece reverse engineering
+greatest intellectual feats world war
+cracking tunny
+special team code breakers set ralph tester
+initially transferred alan turing hut
+team testery
+performed bulk subsequent work breaking tunny messages
+aided machines complementary section max newman newmanry
+complex machines built british aid attack tunny
+british tunny
+machine designed bletchley park
+based reverse engineering work tiltman team testery
+emulate lorenz cipher machine
+pin wheel settings found testery
+tunny machine set run messages printed
+family machines
+robinsons
+built newmanry
+paper tapes
+logic circuitry
+find settings chi pin wheels lorenz machine
+robinsons major problems keeping paper tapes synchronized slow
+reading characters
+important machine colossus ten war end
+world large scale programmable electronic digital computers
+operational december
+developed senior engineer tommy flowers post office research station dollis hill london
+eniac
+colossus stored program
+programmed plugboards jumper cables
+faster
+reliable capable robinsons
+speeding process finding lorenz chi pin wheel settings
+colossus generated putative keys electronically
+read tape
+optical reader
+characters
+driven faster robinsons meant tape travelled miles hour
+kph
+clocking electronics optically read paper tape sprocket holes
+completely eliminated robinsons synchronisation problems
+end war
+testery grown cryptographers
+ats girls total staff
+organised shifts working round clock

@@ -1,0 +1,761 @@
+Cryptography
+
+cryptography
+cryptography
+cryptology
+greek
+hidden
+secret
+graphein
+writing
+logia
+study
+practice study techniques secure communication presence parties
+called adversaries
+generally
+constructing analyzing protocols overcome influence adversaries related aspects information security data confidentiality
+data integrity
+authentication
+repudiation
+modern cryptography intersects disciplines mathematics
+computer science
+electrical engineering
+applications cryptography include atm cards
+computer passwords
+electronic commerce
+cryptography prior modern age effectively synonymous encryption
+conversion information readable state apparent nonsense
+originator encrypted message shared decoding technique needed recover original information intended recipients
+precluding unwanted persons
+world advent computer
+methods carry cryptology increasingly complex application widespread
+modern cryptography heavily based mathematical theory computer science practice
+cryptographic algorithms designed computational hardness assumptions
+making algorithms hard break practice adversary
+theoretically break system infeasible practical means
+schemes termed computationally secure
+theoretical advances
+improvements integer factorization algorithms
+faster computing technology require solutions continually adapted
+exist information theoretically secure schemes provably broken unlimited computing time schemes difficult implement theoretically breakable computationally secure mechanisms
+cryptology related technology raised number legal issues
+united kingdom
+additions regulation investigatory powers act require suspected criminal hand encryption key asked law enforcement
+user face criminal charge
+electronic frontier foundation
+eff
+involved case supreme court united states
+determine requiring suspected criminals provide encryption keys law enforcement unconstitutional
+eff arguing violation forced incriminate oneself
+amendment
+modern times cryptography referred exclusively encryption
+process converting ordinary information
+called plaintext
+unintelligible gibberish
+called ciphertext
+decryption reverse
+words
+moving unintelligible ciphertext back plaintext
+cipher
+cypher
+pair algorithms create encryption reversing decryption
+detailed operation cipher controlled algorithm instance
+key
+secret
+ideally communicants
+short string characters
+needed decrypt ciphertext
+cryptosystem
+ordered list elements finite plaintexts
+finite cyphertexts
+finite keys
+encryption decryption algorithms correspond key
+keys important
+ciphers variable keys trivially broken knowledge cipher useless
+counter productive
+purposes
+historically
+ciphers directly encryption decryption additional procedures authentication integrity checks
+colloquial
+term
+code
+method encryption concealment meaning
+cryptography
+code specific meaning
+means replacement unit plaintext
+meaningful word phrase
+code word
+wallaby replaces attack dawn
+codes longer incidentally things unit designations
+bronco flight operation overlord
+properly chosen ciphers practical secure codes adapted computers
+cryptanalysis term study methods obtaining meaning encrypted information access key required
+study crack encryption algorithms implementations
+terms cryptography cryptology interchangeably english
+including military practice generally
+cryptography refer specifically practice cryptographic techniques cryptology refer combined study cryptography cryptanalysis
+english flexible languages cryptology
+cryptologists
+sense
+english general term entire field cryptography
+cryptographers
+study characteristics languages application cryptography
+cryptology
+frequency data
+letter combinations
+universal patterns
+called cryptolinguistics
+modern era
+cryptography concerned solely message confidentiality
+encryption
+messages comprehensible form incomprehensible back end
+rendering unreadable interceptors eavesdroppers secret knowledge
+key needed decryption message
+encryption
+attempt
+ensure secrecy communications
+spies
+military leaders
+diplomats
+recent decades
+field expanded confidentiality concerns include techniques message integrity checking
+sender
+receiver identity authentication
+digital signatures
+interactive proofs secure computation
+earliest forms secret writing required local pen paper analogs
+people read
+literacy
+literate opponents
+required actual cryptography
+main classical cipher types transposition ciphers
+rearrange order letters message
+world ehlol owrdl trivially simple rearrangement scheme
+substitution ciphers
+systematically replace letters groups letters letters groups letters
+fly gmz podf replacing letter latin alphabet
+simple versions offered confidentiality enterprising opponents
+early substitution cipher caesar cipher
+letter plaintext replaced letter fixed number positions alphabet
+suetonius reports julius caesar shift communicate generals
+atbash early hebrew cipher
+earliest cryptography carved ciphertext stone egypt
+bce
+amusement literate observers concealing information
+cryptography recommended kama sutra
+bce
+lovers communicate inconvenient discovery
+greeks classical times ciphers
+scytale transposition cipher claimed spartan military
+steganography
+hiding existence message confidential
+developed ancient times
+early
+herodotus
+concealed tattoo slave shaved regrown hair
+greek method developed polybius
+called
+polybius square
+modern examples steganography include invisible ink
+microdots
+digital watermarks conceal information
+ciphertexts produced classical cipher
+modern ciphers
+reveal statistical information plaintext
+break
+discovery frequency analysis arab mathematician polymath
+kindi
+alkindus
+century
+citation needed ciphers readily breakable informed attacker
+classical ciphers enjoy popularity today
+puzzles
+cryptogram
+kindi wrote book cryptography entitled risalah istikhraj muamma
+manuscript deciphering cryptographic messages
+cryptanalysis techniques
+essentially ciphers remained vulnerable cryptanalysis frequency analysis technique development polyalphabetic cipher
+leon battista alberti year
+indication kindi
+alberti innovation ciphers
+substitution alphabets
+parts message
+successive plaintext letter limit
+invented automatic cipher device
+wheel implemented partial realization invention
+polyalphabetic cipher
+encryption key word
+controls letter substitution depending letter key word
+mid century charles babbage showed cipher vulnerable kasiski examination
+published ten years friedrich kasiski
+frequency analysis powerful general technique ciphers
+encryption effective practice
+cryptanalyst unaware technique
+breaking message frequency analysis essentially required knowledge cipher key involved
+making espionage
+bribery
+burglary
+defection
+attractive approaches cryptanalytically uninformed
+finally explicitly recognized century secrecy cipher algorithm practical safeguard message security
+fact
+realized adequate cryptographic scheme
+including ciphers
+remain secure adversary fully understands cipher algorithm
+security key sufficient good cipher maintain confidentiality attack
+fundamental principle explicitly stated auguste kerckhoffs generally called kerckhoffs principle
+alternatively bluntly
+restated claude shannon
+inventor information theory fundamentals theoretical cryptography
+shannon enemy system
+physical devices aids assist ciphers
+earliest scytale ancient greece
+rod supposedly spartans aid transposition cipher
+image
+medieval times
+aids invented cipher grille
+kind steganography
+invention polyalphabetic ciphers sophisticated aids alberti cipher disk
+johannes trithemius tabula recta scheme
+thomas jefferson multi cylinder
+publicly
+reinvented independently bazeries
+mechanical encryption
+decryption devices invented early century
+patented
+rotor including enigma machine german government military late world war
+ciphers implemented quality examples machine designs brought substantial increase cryptanalytic difficulty wwi
+cryptanalysis mechanical devices proved difficult laborious
+united kingdom
+cryptanalytic efforts bletchley park wwii spurred development efficient means carrying repetitious tasks
+culminated development colossus
+world fully electronic
+digital
+programmable computer
+assisted decryption ciphers generated german army lorenz
+machine
+development digital computers electronics helped cryptanalysis
+made complex ciphers
+computers allowed encryption kind data representable binary format
+unlike classical ciphers encrypted written language texts
+significant
+computer supplanted linguistic cryptography
+cipher design cryptanalysis
+computer ciphers characterized operation binary bit sequences
+groups blocks
+unlike classical mechanical schemes
+generally manipulate traditional characters
+letters digits
+directly
+computers assisted cryptanalysis
+compensated extent increased cipher complexity
+nonetheless
+good modern ciphers stayed ahead cryptanalysis
+typically case quality cipher efficient
+fast requiring resources
+memory cpu capability
+breaking requires effort orders magnitude larger
+vastly larger required classical cipher
+making cryptanalysis inefficient impractical effectively impossible
+extensive open academic research cryptography recent
+began mid
+recent times
+ibm personnel designed algorithm federal
+data encryption standard
+whitfield diffie martin hellman published key agreement algorithm
+rsa algorithm published martin gardner scientific american column
+cryptography widely tool communications
+computer networks
+computer security generally
+modern cryptographic techniques keys secret mathematical problems intractable
+integer factorization discrete logarithm problems
+deep connections abstract mathematics
+absolute proofs cryptographic technique secure
+time pad
+proofs techniques secure computational problem difficult solve
+assumption implementation practical met
+aware cryptographic history
+cryptographic algorithm system designers sensibly probable future developments working designs
+instance
+continuous improvements computer processing power increased scope brute force attacks
+key lengths
+required key lengths similarly advancing
+potential effects quantum computing considered cryptographic system designers
+announced imminence small implementations machines making preemptive caution speculative
+essentially
+prior early century
+cryptography chiefly concerned linguistic lexicographic patterns
+emphasis shifted
+cryptography makes extensive mathematics
+including aspects information theory
+computational complexity
+statistics
+combinatorics
+abstract algebra
+number theory
+finite mathematics generally
+cryptography
+branch engineering
+unusual deals active
+intelligent
+malevolent opposition
+cryptographic engineering security engineering
+kinds engineering
+civil chemical engineering
+deal neutral natural forces
+active research examining relationship cryptographic problems quantum physics
+quantum cryptography quantum computer
+modern field cryptography divided areas study
+chief discussed
+topics cryptography
+symmetric key cryptography refers encryption methods sender receiver share key
+commonly
+keys
+related easily computable
+kind encryption publicly june
+symmetric key ciphers implemented block ciphers stream ciphers
+block cipher enciphers input blocks plaintext opposed individual characters
+input form stream cipher
+data encryption standard
+des
+advanced encryption standard
+aes
+block cipher designs designated cryptography standards government
+des designation finally withdrawn aes adopted
+deprecation official standard
+des
+approved secure triple des variant
+remains popular
+wide range applications
+atm encryption mail privacy secure remote access
+block ciphers designed released
+considerable variation quality
+broken
+feal
+stream ciphers
+contrast block type
+create arbitrarily long stream key material
+combined plaintext bit bit character character
+time pad
+stream cipher
+output stream created based hidden internal state cipher operates
+internal state initially set secret key material
+widely stream cipher
+category
+stream ciphers
+block ciphers stream ciphers
+block cipher modes operation
+cryptographic hash functions type cryptographic algorithm
+message length input
+output short
+fixed length hash
+digital signature
+good hash functions
+attacker find messages produce hash
+long hash function broken
+strengthened variant
+widely broken practice
+national security agency developed secure hash algorithm series hash functions
+sha flawed algorithm agency withdrew
+sha widely deployed secure
+cryptanalysts identified attacks
+sha family improves sha
+widely deployed
+standards authority thought
+prudent
+security perspective develop standard
+significantly improve robustness nist hash algorithm toolkit
+hash function design competition meant select
+national standard
+called sha
+competition ended october
+nist announced keccak sha hash algorithm
+message authentication codes
+macs
+cryptographic hash functions
+secret key authenticate hash receipt
+symmetric key cryptosystems key encryption decryption message
+message group messages key
+significant disadvantage symmetric ciphers key management securely
+distinct pair communicating parties
+ideally
+share key
+ciphertext exchanged
+number keys required increases square number network members
+quickly requires complex key management schemes straight secret
+difficulty securely establishing secret key communicating parties
+secure channel exist
+presents chicken egg problem considerable practical obstacle cryptography users real world
+groundbreaking paper
+whitfield diffie martin hellman proposed notion public key
+generally
+called asymmetric key
+cryptography mathematically related keys public key private key
+public key system constructed calculation key
+private key
+computationally infeasible
+public key
+necessarily related
+keys generated secretly
+interrelated pair
+historian david kahn public key cryptography
+revolutionary concept field polyalphabetic substitution emerged renaissance
+public key cryptosystems
+public key freely distributed
+paired private key remain secret
+public key encryption system
+public key encryption
+private secret key decryption
+diffie hellman find system
+showed public key cryptography presenting key exchange protocol
+solution widely secure communications parties secretly agree shared encryption key
+diffie hellman publication sparked widespread academic efforts finding practical public key encryption system
+race finally won ronald rivest
+adi shamir
+len adleman
+solution rsa algorithm
+rsa algorithms
+addition publicly examples high quality public key algorithms
+widely
+include cryptosystem
+elgamal encryption
+elliptic curve techniques
+category
+asymmetric key cryptosystems
+surprise
+document published government communications headquarters
+gchq
+british intelligence organization
+revealed cryptographers gchq anticipated academic developments
+reportedly
+james
+ellis conceived principles asymmetric key cryptography
+clifford cocks invented solution essentially resembles rsa algorithm
+malcolm
+williamson claimed developed diffie hellman key exchange
+public key cryptography implementing digital signature schemes
+digital signature reminiscent ordinary signature
+characteristic easy user produce
+difficult forge
+digital signatures permanently tied content message signed
+oved document
+attempt detectable
+digital signature schemes
+algorithms
+signing
+secret key process message
+hash message
+verification
+matching public key message check validity signature
+rsa dsa popular digital signature schemes
+digital signatures central operation public key infrastructures network security schemes
+ssl
+tls
+vpns
+public key algorithms based computational complexity
+hard
+problems
+number theory
+hardness rsa related integer factorization problem
+dsa related discrete logarithm problem
+recently
+elliptic curve cryptography developed security based number theoretic problems involving elliptic curves
+difficulty underlying problems
+public key algorithms involve operations modular multiplication exponentiation
+computationally expensive techniques block ciphers
+typical key sizes
+result
+public key cryptosystems commonly hybrid cryptosystems
+fast high quality symmetric key encryption algorithm message
+relevant symmetric key message
+encrypted public key algorithm
+similarly
+hybrid signature schemes
+cryptographic hash function computed
+resulting hash digitally signed
+goal cryptanalysis find weakness insecurity cryptographic scheme
+permitting subversion evasion
+common misconception encryption method broken
+connection wwii work bell labs
+claude shannon proved time pad cipher unbreakable
+provided key material random
+reused
+secret attackers
+equal greater length message
+ciphers
+time pad
+broken computational effort brute force attack
+amount effort needed exponentially dependent key size
+compared effort needed make cipher
+cases
+effective security achieved proven effort required
+work factor
+shannon terms
+ability adversary
+means shown efficient method
+opposed time consuming brute force method
+found break cipher
+proof found date
+time pad remains theoretically unbreakable cipher
+wide variety cryptanalytic attacks
+classified ways
+common distinction turns attacker capabilities
+ciphertext attack
+cryptanalyst access ciphertext
+good modern cryptosystems effectively immune ciphertext attacks
+plaintext attack
+cryptanalyst access ciphertext plaintext
+pairs
+chosen plaintext attack
+cryptanalyst choose plaintext learn ciphertext
+times
+gardening
+british wwii
+finally
+chosen ciphertext attack
+cryptanalyst choose ciphertexts learn plaintexts
+important
+overwhelmingly
+mistakes
+generally design protocols involved
+cryptanalysis enigma historical examples
+cryptanalysis symmetric key ciphers typically involves attacks block ciphers stream ciphers efficient attack perfect cipher
+simple brute force attack des requires plaintext decryptions
+approximately half keys
+reach point chances key sought found
+assurance
+linear cryptanalysis attack des requires plaintexts approximately des operations
+considerable improvement brute force attacks
+public key algorithms based computational difficulty problems
+famous integer factorization
+rsa algorithm based problem related integer factoring
+discrete logarithm problem important
+public key cryptanalysis concerns numerical algorithms solving computational problems
+efficiently
+practical time
+instance
+algorithms solving elliptic curve based version discrete logarithm time consuming algorithms factoring
+problems equivalent size
+things equal
+achieve equivalent strength attack resistance
+factoring based encryption techniques larger keys elliptic curve techniques
+reason
+public key cryptosystems based elliptic curves popular invention mid
+pure cryptanalysis weaknesses algorithms
+attacks cryptosystems based actual algorithms real devices
+called side channel attacks
+cryptanalyst access
+amount time device encrypt number plaintexts report error password pin character
+timing attack break cipher resistant analysis
+attacker study pattern length messages derive valuable information
+traffic analysis
+alert adversary
+poor administration cryptosystem
+permitting short keys
+make system vulnerable
+virtues
+social engineering
+attacks personnel work cryptosystems messages handle
+bribery
+extortion
+blackmail
+espionage
+torture
+productive attacks
+theoretical work cryptography concerns cryptographic basic cryptographic relationship cryptographic problems
+complicated cryptographic tools built basic primitives
+primitives provide fundamental properties
+develop complex tools called cryptosystems cryptographic protocols
+guarantee high level security properties
+note
+distinction cryptographic primitives cryptosystems
+arbitrary
+rsa algorithm considered cryptosystem
+primitive
+typical examples cryptographic primitives include pseudorandom functions
+functions
+cryptographic primitives develop complex algorithm
+called cryptographic system
+cryptosystem
+cryptosystems
+gamal encryption
+designed provide functionality
+public key encryption
+guaranteeing security properties
+chosen plaintext attack
+cpa
+security random oracle model
+cryptosystems properties underlying cryptographic primitives support system security properties
+distinction primitives cryptosystems arbitrary
+sophisticated cryptosystem derived combination primitive cryptosystems
+cases
+cryptosystem structure involves back communication parties space
+sender secure message receiver
+time
+cryptographically protected backup data
+cryptosystems called cryptographic protocols
+widely cryptosystems include rsa encryption
+schnorr signature
+gamal encryption
+pgp
+complex cryptosystems include electronic cash systems
+signcryption systems
+theoretical cryptosystems include interactive proof systems
+knowledge proofs
+systems secret sharing
+recentlytimeframe
+security properties cryptosystems demonstrated empirical techniques
+hoc reasoning
+recentlytimeframe
+considerable effort develop formal techniques establishing security cryptosystems
+generally called provable security
+general idea provable security give arguments computational difficulty needed compromise security aspect cryptosystem
+adversary
+study implement integrate cryptography software applications distinct field
+cryptographic engineering security engineering
+cryptography long interest intelligence gathering law enforcement agencies
+secret communications criminal treasonous
+facilitation privacy
+diminution privacy attendant prohibition
+cryptography considerable interest civil rights supporters
+history controversial legal issues surrounding cryptography
+advent inexpensive computers made widespread access high quality cryptography
+countries
+domestic cryptography
+restricted
+france significantly restricted cryptography domestically
+relaxed rules
+china
+license required cryptography
+countries tight restrictions cryptography
+restrictive laws belarus
+kazakhstan
+mongolia
+pakistan
+singapore
+tunisia
+vietnam
+united states
+cryptography legal domestic
+conflict legal issues related cryptography
+important issue export cryptography cryptographic software hardware
+importance cryptanalysis world war expectation cryptography continue important national security
+western governments
+point
+strictly regulated export cryptography
+world war
+illegal sell distribute encryption technology overseas
+fact
+encryption designated auxiliary military equipment put united states munitions list
+development personal computer
+asymmetric key algorithms
+public key techniques
+internet
+problematic
+internet grew computers widely
+high quality encryption techniques globe
+result
+export controls impediment commerce research
+challenges export regulations cryptography
+involved philip zimmermann pretty good privacy
+pgp
+encryption program
+released
+source code
+found internet june
+complaint rsa security
+called rsa data security
+rsadsi
+zimmermann criminally investigated customs service fbi years
+charges filed
+daniel
+bernstein
+graduate student berkeley
+brought lawsuit government challenging aspects restrictions based free speech grounds
+case bernstein
+united states ultimately resulted decision printed source code cryptographic algorithms systems protected free speech united states constitution
+thirty countries signed wassenaar arrangement
+arms control treaty deals export arms
+dual
+technologies cryptography
+treaty stipulated cryptography short key lengths
+bit symmetric encryption
+bit rsa
+longer export controlled
+cryptography exports strictly regulated past consequence major relaxation
+longer restrictions key sizes exported mass market software
+practice today
+relaxation export restrictions
+personal computer connected internet
+world
+includes sourced web browsers firefox internet explorer
+internet user worldwide access quality cryptography
+sufficiently long keys properly operating unsubverted software
+browsers
+examples transport layer security ssl stack
+mozilla thunderbird microsoft outlook mail client programs similarly connect imap pop servers tls
+send receive email encrypted
+mime
+internet users realize basic application software extensive cryptosystems
+browsers email programs ubiquitous governments intent regulate civilian cryptography generally find practical control distribution cryptography quality
+laws force
+actual enforcement effectively impossible
+contentious issue connected cryptography united states influence national security agency cipher development policy
+nsa involved design des development ibm consideration national bureau standards federal standard cryptography
+des designed resistant differential cryptanalysis
+powerful general cryptanalytic technique nsa ibm
+publicly rediscovered late
+steven levy
+ibm discovered differential cryptanalysis
+technique secret nsa request
+technique publicly biham shamir discovered announced years
+entire affair illustrates difficulty determining resources knowledge attacker
+instance nsa involvement clipper chip affair
+encryption microchip intended part capstone cryptography control initiative
+clipper widely criticized cryptographers reasons
+cipher algorithm
+called skipjack
+classified
+declassified
+long clipper initiative lapsed
+classified cipher caused concerns nsa deliberately made cipher weak order assist intelligence efforts
+initiative criticized based violation kerckhoffs principle
+scheme included special escrow key held government law enforcement
+wiretaps
+cryptography central digital rights management
+drm
+group techniques technologically controlling copyrighted material
+widely implemented deployed behest copyright holders
+american president bill clinton signed digital millennium copyright act
+dmca
+criminalized production
+dissemination
+cryptanalytic techniques technology
+discovered
+specifically
+circumvent drm technological schemes
+noticeable impact cryptography research community argument made cryptanalytic research violated
+violate
+dmca
+similar statutes enacted countries regions
+including implementation copyright directive
+similar restrictions called treaties signed world intellectual property organization member states
+united states department justice fbi enforced dmca rigorously feared
+law
+nonetheless
+remains controversial
+niels ferguson
+respected cryptography researcher
+publicly stated release research intel security design fear prosecution dmca
+alan cox
+longtime number linux kernel development
+professor edward felten
+students princeton
+encountered problems related act
+dmitry sklyarov arrested visit russia
+jailed months pending trial alleged violations dmca arising work russia
+work legal
+cryptographic keys responsible blu ray dvd content scrambling discovered released internet
+cases
+mpaa numerous dmca takedown notices
+massive internet backlash triggered perceived impact notices fair free speech

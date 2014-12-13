@@ -1,0 +1,609 @@
+Mathematical logic
+
+mathematical logic
+mathematical logic
+symbolic logic
+subfield mathematics close connections foundations mathematics
+theoretical computer science philosophical logic
+field includes mathematical study logic applications formal logic areas mathematics
+unifying themes mathematical logic include study expressive power formal systems deductive power formal proof systems
+mathematical logic divided fields set theory
+model theory
+recursion theory
+proof theory
+areas share basic results logic
+order logic
+definability
+computer science
+acm classification
+mathematical logic encompasses additional topics detailed article
+logic computer science
+inception
+mathematical logic contributed
+motivated
+study foundations mathematics
+study began late century development axiomatic frameworks geometry
+arithmetic
+analysis
+early century shaped david hilbert program prove consistency foundational theories
+results kurt
+gerhard gentzen
+provided partial resolution program
+clarified issues involved proving consistency
+work set theory showed ordinary mathematics formalized terms sets
+theorems proven common axiom systems set theory
+contemporary work foundations mathematics focuses establishing parts mathematics formalized formal systems
+reverse mathematics
+find theories mathematics developed
+handbook mathematical logic makes rough division contemporary mathematical logic areas
+area distinct focus
+techniques results shared multiple areas
+borderlines fields
+lines separating mathematical logic fields mathematics
+sharp
+incompleteness theorem marks milestone recursion theory proof theory
+led theorem modal logic
+method forcing employed set theory
+model theory
+recursion theory
+study intuitionistic mathematics
+mathematical field category theory formal axiomatic methods
+includes study categorical logic
+category theory ordinarily considered subfield mathematical logic
+applicability diverse fields mathematics
+mathematicians including saunders mac lane proposed category theory foundational system mathematics
+independent set theory
+foundations toposes
+resemble generalized models set theory employ classical nonclassical logic
+mathematical logic emerged mid century subfield mathematics independent traditional study logic
+emergence
+logic studied rhetoric
+syllogism
+philosophy
+half century explosion fundamental results
+accompanied vigorous debate foundations mathematics
+theories logic developed cultures history
+including china
+india
+greece islamic world
+century europe
+attempts treat operations formal logic symbolic algebraic made philosophical mathematicians including leibniz lambert
+labors remained isolated
+middle nineteenth century
+george boole augustus morgan presented systematic mathematical treatments logic
+work
+building work algebraists george peacock
+extended traditional aristotelian doctrine logic sufficient framework study foundations
+katz
+charles sanders peirce built work boole develop logical system relations quantifiers
+published papers
+gottlob frege presented independent development logic quantifiers begriffsschrift
+published
+work generally considered marking turning point history logic
+frege work remained obscure
+bertrand russell began promote turn century
+dimensional notation frege developed widely adopted unused contemporary texts
+ernst published vorlesungen die algebra der logik volumes
+work summarized extended work boole
+morgan
+peirce
+comprehensive reference symbolic logic understood end century
+concerns mathematics built proper foundation led development axiomatic systems fundamental areas mathematics arithmetic
+analysis
+geometry
+logic
+term arithmetic refers theory natural numbers
+giuseppe peano
+published set axioms arithmetic bear
+peano axioms
+variation logical system boole adding quantifiers
+peano unaware frege work time
+time richard dedekind showed natural numbers uniquely characterized induction properties
+dedekind
+proposed characterization
+lacked formal logical character peano axioms
+dedekind work
+proved theorems inaccessible peano system
+including uniqueness set natural numbers
+isomorphism
+recursive definitions addition multiplication successor function mathematical induction
+mid century
+flaws euclid axioms geometry
+katz
+addition independence parallel postulate
+established nikolai lobachevsky
+lobachevsky
+mathematicians discovered theorems granted euclid fact provable axioms
+theorem line points
+circles radius centers separated radius intersect
+hilbert
+developed complete set axioms geometry
+building previous work pasch
+success axiomatizing geometry motivated hilbert seek complete axiomatizations areas mathematics
+natural numbers real line
+prove major area research half century
+century great advances theory real analysis
+including theories convergence functions fourier series
+mathematicians karl weierstrass began construct functions stretched intuition
+differentiable continuous functions
+previous conceptions function rule computation
+smooth graph
+longer adequate
+weierstrass began advocate arithmetization analysis
+sought axiomatize analysis properties natural numbers
+modern
+definition limit continuous functions developed bolzano
+felscher
+remained unknown
+cauchy defined continuity terms infinitesimals
+cours danalyse
+page
+dedekind proposed definition real numbers terms dedekind cuts rational numbers
+dedekind
+definition employed contemporary texts
+georg cantor developed fundamental concepts infinite set theory
+early results developed theory cardinality proved reals natural numbers cardinalities
+cantor
+twenty years
+cantor developed theory transfinite numbers series publications
+published proof uncountability real numbers introduced diagonal argument
+method prove cantor theorem set cardinality powerset
+cantor believed set ordered
+unable produce proof result
+leaving open problem
+katz
+early decades century
+main areas study set theory formal logic
+discovery paradoxes informal set theory caused mathematics inconsistent
+proofs consistency
+hilbert posed famous list problems century
+resolve continuum hypothesis prove consistency elementary arithmetic
+tenth produce method decide multivariate polynomial equation integers solution
+subsequent work resolve problems shaped direction mathematical logic
+effort resolve hilbert entscheidungsproblem
+posed
+problem asked procedure decide
+formalized mathematical statement
+statement true false
+ernst zermelo
+gave proof set ordered
+result georg cantor unable obtain
+achieve proof
+zermelo introduced axiom choice
+drew heated debate research mathematicians pioneers set theory
+criticism method led zermelo publish exposition result
+directly addressing criticisms proof
+zermelo
+paper led general acceptance axiom choice mathematics community
+skepticism axiom choice reinforced recently discovered paradoxes naive set theory
+cesare burali forti
+state paradox
+burali forti paradox shows collection ordinal numbers form set
+bertrand russell discovered russell paradox
+jules richard
+discovered richard paradox
+zermelo
+provided set axioms set theory
+axioms
+additional axiom replacement proposed abraham fraenkel
+called set theory
+zermelo axioms incorporated principle limitation size avoid russell paradox
+volume principia mathematica russell alfred north whitehead published
+seminal work developed theory functions cardinality completely formal framework type theory
+russell whitehead developed effort avoid paradoxes
+principia mathematica considered influential works century
+framework type theory prove popular foundational theory mathematics
+fraenkel
+proved axiom choice proved remaining axioms zermelo set theory urelements
+work paul cohen
+showed addition urelements needed
+axiom choice unprovable
+cohen proof developed method forcing
+important tool establishing independence results set theory
+leopold
+thoralf skolem
+obtained theorem
+order logic control cardinalities infinite structures
+skolem realized theorem apply order formalizations set theory
+implies formalization countable model
+counterintuitive fact skolem paradox
+doctoral thesis
+kurt
+proved completeness theorem
+establishes correspondence syntax semantics order logic
+completeness theorem prove compactness theorem
+demonstrating finitary nature order logical consequence
+results helped establish order logic dominant logic mathematicians
+published formally undecidable propositions principia mathematica related systems
+proved incompleteness
+meaning word
+sufficiently strong
+effective order theories
+result
+incompleteness theorem
+establishes severe limitations axiomatic foundations mathematics
+striking strong blow hilbert program
+showed impossibility providing consistency proof arithmetic formal theory arithmetic
+hilbert
+acknowledge importance incompleteness theorem time
+theorem shows consistency proof sufficiently strong
+effective axiom system obtained system
+system consistent
+weaker system
+leaves open possibility consistency proofs formalized system
+gentzen
+proved consistency arithmetic finitistic system principle transfinite induction
+gentzen result introduced ideas cut elimination proof theoretic ordinals
+key tools proof theory
+gave consistency proof
+reduces consistency classical arithmetic intutitionistic arithmetic higher types
+alfred tarski developed basics model theory
+beginning
+group prominent mathematicians collaborated pseudonym nicolas bourbaki publish series encyclopedic mathematics texts
+texts
+written austere axiomatic style
+emphasized rigorous presentation set theoretic foundations
+terminology coined texts
+words bijection
+injection
+surjection
+set theoretic foundations texts employed
+widely adopted mathematics
+study computability recursion theory
+early formalizations kleene relied recursive definitions functions
+definitions shown equivalent turing formalization involving turing machines
+clear concept computable function discovered
+definition robust admit numerous independent characterizations
+work incompleteness theorems
+lacked rigorous concept effective formal system
+immediately realized definitions computability purpose
+allowing state incompleteness theorems generality implied original paper
+numerous results recursion theory obtained stephen cole kleene emil leon post
+kleene
+introduced concepts relative computability
+foreshadowed turing
+arithmetical hierarchy
+kleene generalized recursion theory higher order functionals
+kleene kreisel studied formal versions intuitionistic mathematics
+context proof theory
+core
+mathematical logic deals mathematical concepts expressed formal logical systems
+systems
+differ details
+share common property expressions fixed formal language
+signature
+systems propositional logic order logic widely studied today
+applicability foundations mathematics desirable proof theoretic properties
+stronger classical logics order logic infinitary logic studied
+nonclassical logics intuitionistic logic
+order logic formal system logic
+syntax involves finite expressions formed formulas
+semantics characterized limitation quantifiers fixed domain discourse
+early results formal logic established limitations order logic
+theorem
+showed set sentences countable order language infinite model model infinite cardinality
+shows impossible set order axioms characterize natural numbers
+real numbers
+infinite structure isomorphism
+goal early foundational studies produce axiomatic theories parts mathematics
+limitation stark
+completeness theorem
+established equivalence semantic syntactic definitions logical consequence order logic
+shows sentence true model satisfies set axioms
+finite deduction sentence axioms
+compactness theorem appeared lemma proof completeness theorem
+years logicians grasped significance began apply routinely
+set sentences model finite subset model
+words inconsistent set formulas finite inconsistent subset
+completeness compactness theorems sophisticated analysis logical consequence order logic development model theory
+key reason prominence order logic mathematics
+incompleteness theorems
+establish additional limits order axiomatizations
+incompleteness theorem states sufficiently strong
+effectively logical system exists statement true provable system
+logical system effectively decide
+formula language system
+formula axiom
+logical system sufficiently strong express peano axioms
+applied order logic
+incompleteness theorem implies sufficiently strong
+consistent
+effective order theory models elementarily equivalent
+stronger limitation established theorem
+incompleteness theorem states sufficiently strong
+consistent
+effective axiom system arithmetic prove consistency
+interpreted show hilbert program completed
+logics order logic studied
+include infinitary logics
+formulas provide infinite amount information
+higher order logics
+include portion set theory directly semantics
+studied infinitary logic image
+math
+png
+logic
+quantifiers nested finite depths
+order logic
+formulas finite countably infinite conjunctions disjunctions
+object number formula image
+math
+png
+higher order logics quantification elements domain discourse
+subsets domain discourse
+sets subsets
+objects higher type
+semantics defined
+separate domain higher type quantifier range
+quantifiers range objects type
+logics studied development order logic
+frege logic
+similar set theoretic aspects
+higher order logics expressive
+allowing complete axiomatizations structures natural numbers
+satisfy analogues completeness compactness theorems order logic
+amenable proof theoretic analysis
+type logics fixed point logics inductive definitions
+writes primitive recursive functions
+formally define extension order logic notion encompasses logics section behave order logic fundamental ways
+encompass logics general
+encompass intuitionistic
+modal fuzzy logic
+theorem implies extension order logic satisfying compactness theorem downward theorem order logic
+modal logics include additional modal operators
+operator states formula true
+necessarily true
+modal logic axiomatize mathematics
+study properties order provability
+solovay
+set theoretic forcing
+hamkins
+intuitionistic logic developed heyting study brouwer program intuitionism
+brouwer avoided formalization
+intuitionistic logic specifically include law excluded middle
+states sentence true negation true
+kleene work proof theory intuitionistic logic showed constructive information recovered intuitionistic proofs
+provably total function intuitionistic arithmetic computable
+true classical theories arithmetic peano arithmetic
+algebraic logic methods abstract algebra study semantics formal logics
+fundamental boolean algebras represent truth values classical propositional logic
+heyting algebras represent truth values intuitionistic propositional logic
+stronger logics
+order logic higher order logic
+studied complicated algebraic structures cylindric algebras
+set theory study sets
+abstract collections objects
+basic notions
+ordinal cardinal numbers
+developed informally cantor formal axiomatizations set theory developed
+axiomatization
+due zermelo
+extended slightly set theory
+widely foundational theory mathematics
+formalizations set theory proposed
+including von set theory
+nbg
+set theory
+foundations
+nbg
+similar describing cumulative hierarchy sets
+foundations takes approach
+objects set sets cost restrictions set existence axioms
+system set theory closely related generalized recursion theory
+famous statements set theory axiom choice continuum hypothesis
+axiom choice
+stated zermelo
+proved independent fraenkel
+widely accepted mathematicians
+states collection nonempty sets single set element set collection
+set
+choose
+element set collection
+ability make choice considered obvious
+set collection nonempty
+lack general
+concrete rule choice made renders axiom nonconstructive
+stefan banach alfred tarski
+showed axiom choice decompose solid ball finite number pieces rearranged
+scaling
+make solid balls original size
+theorem
+paradox
+counterintuitive results axiom choice
+continuum hypothesis
+proposed conjecture cantor
+listed david hilbert problems
+showed continuum hypothesis disproven axioms set theory
+axiom choice
+developing constructible universe set theory continuum hypothesis hold
+paul cohen showed continuum hypothesis proven axioms set theory
+cohen
+independence result completely settle hilbert question
+axioms set theory resolve hypothesis
+recent work lines conducted
+hugh woodin
+importance clear
+woodin
+contemporary research set theory includes study large cardinals determinacy
+large cardinals cardinal numbers properties strong existence cardinals proved zfc
+existence smallest large cardinal typically studied
+inaccessible cardinal
+implies consistency zfc
+fact large cardinals extremely high cardinality
+existence ramifications structure real line
+determinacy refers existence winning strategies player games
+games determined
+existence strategies implies structural properties real line polish spaces
+model theory studies models formal theories
+theory set formulas formal logic signature
+model structure concrete interpretation theory
+model theory closely related universal algebra algebraic geometry
+methods model theory focus logical considerations fields
+set models theory called elementary class
+classical model theory seeks determine properties models elementary class
+determine classes structures form elementary classes
+method quantifier elimination show definable sets theories complicated
+tarski
+established quantifier elimination real closed fields
+result shows theory field real numbers decidable
+noted methods equally applicable algebraically closed fields arbitrary characteristic
+modern subfield developing concerned minimal structures
+morley categoricity theorem
+proved michael
+morley
+states order theory countable language categorical uncountable cardinality
+models cardinality isomorphic
+categorical uncountable cardinalities
+trivial consequence continuum hypothesis complete theory continuum nonisomorphic countable models countably
+vaught conjecture
+named robert lawson vaught
+true independently continuum hypothesis
+special cases conjecture established
+recursion theory
+called computability theory
+studies properties computable functions turing degrees
+divide uncomputable functions sets level uncomputability
+recursion theory includes study generalized computability definability
+recursion theory grew work alonzo church alan turing
+greatly extended kleene post
+classical recursion theory focuses computability functions natural numbers natural numbers
+fundamental results establish robust
+canonical class computable functions numerous independent
+equivalent characterizations turing machines
+calculus
+systems
+advanced results concern structure turing degrees lattice recursively enumerable sets
+generalized recursion theory extends ideas recursion theory computations longer necessarily finite
+includes study computability higher types areas hyperarithmetical theory recursion theory
+contemporary research recursion theory includes study applications algorithmic randomness
+computable model theory
+reverse mathematics
+results pure recursion theory
+important subfield recursion theory studies algorithmic unsolvability
+decision problem function problem algorithmically unsolvable computable algorithm returns correct answer legal inputs problem
+results unsolvability
+obtained independently church turing
+showed entscheidungsproblem algorithmically unsolvable
+turing proved establishing unsolvability halting problem
+result ranging implications recursion theory computer science
+examples undecidable problems ordinary mathematics
+word problem groups proved algorithmically unsolvable pyotr novikov independently
+boone
+busy beaver problem
+developed tibor
+hilbert tenth problem asked algorithm determine multivariate polynomial equation integer coefficients solution integers
+partial progress made julia robinson
+martin davis hilary putnam
+algorithmic unsolvability problem proved yuri matiyasevich
+davis
+proof theory study formal proofs logical deduction systems
+proofs represented formal mathematical objects
+facilitating analysis mathematical techniques
+deduction systems commonly considered
+including hilbert style deduction systems
+systems natural deduction
+sequent calculus developed gentzen
+study constructive mathematics
+context mathematical logic
+includes study systems classical logic intuitionistic logic
+study predicative systems
+early proponent predicativism hermann weyl
+showed develop large part real analysis predicative methods
+weyl
+proofs finitary
+truth structure
+common work constructive mathematics emphasize provability
+relationship provability classical
+nonconstructive
+systems provability intuitionistic
+constructive
+systems interest
+results negative translation show embed
+translate
+classical logic intuitionistic logic
+allowing properties intuitionistic proofs transferred back classical proofs
+recent developments proof theory include study proof mining ulrich kohlenbach study proof theoretic ordinals michael rathjen
+study computability theory computer science closely related study computability mathematical logic
+difference emphasis
+computer scientists focus concrete programming languages feasible computability
+researchers mathematical logic focus computability theoretical concept noncomputability
+theory semantics programming languages related model theory
+program verification
+model checking
+isomorphism proofs programs relates proof theory
+intuitionistic logic
+formal calculi lambda calculus combinatory logic studied idealized programming languages
+computer science contributes mathematics developing techniques automatic checking finding proofs
+automated theorem proving logic programming
+descriptive complexity theory relates logics computational complexity
+significant result area
+fagin theorem
+established precisely set languages expressible sentences existential order logic
+century
+mathematicians aware logical gaps inconsistencies field
+shown euclid axioms geometry
+taught centuries axiomatic method
+incomplete
+infinitesimals
+definition function
+question analysis
+pathological examples weierstrass differentiable continuous function discovered
+cantor study arbitrary infinite sets drew criticism
+leopold kronecker famously stated
+god made integers
+work man
+endorsing return study finite
+concrete objects mathematics
+kronecker argument carried forward constructivists century
+mathematical community rejected
+david hilbert argued favor study infinite
+expel paradise cantor created
+mathematicians began search axiom systems formalize large parts mathematics
+addition removing ambiguity previously naive terms function
+hoped axiomatization consistency proofs
+century
+main method proving consistency set axioms provide model
+euclidean geometry proved consistent defining point point fixed sphere line great circle sphere
+resulting structure
+model elliptic geometry
+satisfies axioms plane geometry parallel postulate
+development formal logic
+hilbert asked prove axiom system consistent analyzing structure proofs system
+showing analysis impossible prove contradiction
+idea led study proof theory
+hilbert proposed analysis concrete
+term finitary refer methods precisely defining
+project
+hilbert program
+affected incompleteness theorems
+show consistency formal theories arithmetic established methods formalizable theories
+gentzen showed produce proof consistency arithmetic finitary system augmented axioms transfinite induction
+techniques developed seminal proof theory
+thread history foundations mathematics involves nonclassical logics constructive mathematics
+study constructive mathematics includes programs definitions constructive
+accommodating end
+proofs set theory axiom choice called constructive mathematicians
+limited versions constructivism limit natural numbers
+number theoretic functions
+sets natural numbers
+represent real numbers
+facilitating study mathematical analysis
+common idea concrete means computing values function function exist
+early century
+luitzen egbertus jan brouwer founded intuitionism philosophy mathematics
+philosophy
+poorly understood
+stated order mathematical statement true mathematician
+person intuit statement
+truth understand reason truth
+consequence definition truth rejection law excluded middle
+statements
+brouwer
+claimed true negations claimed true
+brouwer philosophy influential
+bitter disputes prominent mathematicians
+kleene kreisel study formalized versions intuitionistic logic
+brouwer rejected formalization
+presented work unformalized natural language
+advent bhk interpretation kripke models
+intuitionism easier reconcile classical mathematics
