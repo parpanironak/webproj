@@ -192,3 +192,11 @@ body{
 	margin-left: 10px;
 	width: 60%;
 }
+
+.fixhead
+{
+	background-color:#E6F5FA; 
+	position:fixed; 
+	background:url(whale.PNG) no-repeat #E6F5FA 190px
+	
+}
