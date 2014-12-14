@@ -18,26 +18,30 @@
 
 .autocomplete ul{
   position: absolute;
-  left: 0;
-  width: 100%;
-  border-left: 1px solid #888;
-  border-right: 1px solid #888;
-  border-bottom: 1px solid #888;
-  z-index: 1;
+  left: 1;
+  width: 91.5%;
+  border-left: 1px solid #C0C0C0;
+  border-right: 1px solid #C0C0C0;
+  border-bottom: 1px solid #C0C0C0;
+  z-index: 1000;
 }
 
 .autocomplete li{
   text-align: left;
   list-style:none;
   width: 100%;
-  padding:0.4em;
+  padding:0.8em;
   background-color: #fff;
   cursor:pointer;
+  z-index:1001
 }
 
 .autocomplete li.active{
   width: 100%;
-  background-color: #4bf;
+  background-color: #305978;
+  color:#FFF;
+  box-shadow: 0px 0px 3px #0CF;
+  z-index:1005
 }
 
 .autocomplete .highlight {
