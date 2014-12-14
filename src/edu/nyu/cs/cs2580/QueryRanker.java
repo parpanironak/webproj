@@ -3,6 +3,7 @@ package edu.nyu.cs.cs2580;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Map;
@@ -17,10 +18,11 @@ public class QueryRanker {
   private QIndexerInvertedCompressed qindexer;
   private int numSuggestionsFromTrie = 10;
   private double lambda1 = 0.3;
-  private double lambda2 = 9000;
-  private double lambda3 = 998;
-  private double lambda4 = 1.1;
-  private double lambda5 = 0.6;
+  private double lambda2 = 8993.8;
+  private double lambda3 = 997.0999;
+  private double lambda4 = 8.0;
+  private double lambda5 = 0.8;
+  private double lambda6 = 0.0001;
   
   protected QueryRanker(QIndexerInvertedCompressed qindexer) {
     this.qindexer = qindexer;
@@ -31,17 +33,25 @@ public class QueryRanker {
     Vector<ScoredQueryDocument> results = new Vector<ScoredQueryDocument>();
     String lastWord = query._tokens.get(query._tokens.size()-1);
     Map<String,Double> possibleCompletions = qindexer.trie.prefixMap(lastWord);
+    
+    final Map<String,Double> coOccurrenceVals = new HashMap<String,Double>();
+    for(String possibleCompletion:possibleCompletions.keySet()) {
+      double coOcc = 1.0;
+      for(int k=0;k<query._tokens.size()-1;k++) {
+        String tok = query._tokens.get(k);
+        if(!tok.equals(possibleCompletion)) {
+          coOcc *= qindexer.getCoOccurrence(tok,possibleCompletion);
+        }
+      }
+      coOccurrenceVals.put(possibleCompletion, coOcc);
+    }
+    
     Comparator<Map.Entry<String,Double>> cmp = new Comparator<Map.Entry<String,Double>>() {
       @Override
       public int compare(Entry<String, Double> entry1,
           Entry<String, Double> entry2) {
-        double coOcc1 = 1.0;
-        double coOcc2 = 1.0;
-        for(int k=0;k<query._tokens.size()-1;k++) {
-          String tok = query._tokens.get(k);
-          coOcc1 *= qindexer.getCoOccurrence(tok,entry1.getKey());
-          coOcc2 *= qindexer.getCoOccurrence(tok,entry2.getKey());
-        }
+        double coOcc1 = coOccurrenceVals.get(entry1.getKey());
+        double coOcc2 = coOccurrenceVals.get(entry2.getKey());
         if(coOcc1 > coOcc2) {
           return -1;
         }
@@ -143,7 +153,7 @@ public class QueryRanker {
   }
   
   private double getScore(QDocument doc,boolean isPhrase,boolean startsWithPhrase,CgiArguments cgiArgs) {
-    double score = lambda2 * doc.getFrequency() / qindexer._totalTermFrequency + lambda3 * doc.getNumViews() / qindexer.totalnumviews;
+    double score = lambda2 * doc.getFrequency() / qindexer._totalTermFrequency + lambda3 * doc.getNumViews() / qindexer.totalnumviews + lambda6 * doc.getIdf();
     if(isPhrase) {
       score += lambda1;
     }

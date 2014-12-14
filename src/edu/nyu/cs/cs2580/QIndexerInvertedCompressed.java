@@ -413,6 +413,7 @@ public class QIndexerInvertedCompressed implements Serializable{
     di.setNumViews(d.getNumViews());
     di.setContent(d.getContent());
     di.setFrequency(d.getFrequency());
+    di.setIdf(d.getIdf());
     return di;
   }
 
