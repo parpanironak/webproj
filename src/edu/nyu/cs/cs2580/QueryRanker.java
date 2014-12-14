@@ -153,7 +153,7 @@ public class QueryRanker {
   }
   
   private double getScore(QDocument doc,boolean isPhrase,boolean startsWithPhrase,CgiArguments cgiArgs) {
-    double score = lambda2 * doc.getFrequency() / qindexer._totalTermFrequency + lambda3 * doc.getNumViews() / qindexer.totalnumviews + lambda6 * doc.getIdf();
+    double score = lambda2 * doc.getFrequency() / qindexer._totalTermFrequency + lambda3 * doc.getNumViews() / qindexer.totalnumviews;// + lambda6 * doc.getIdf();
     if(isPhrase) {
       score += lambda1;
     }
