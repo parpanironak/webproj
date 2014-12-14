@@ -291,7 +291,7 @@ app.directive('autocomplete', function() {
 				</button>\
       	  	</span>\
 		  </div>\
-          <ul ng-show="completing && suggestions.length>0">\
+          <ul class = "dropdown-menu" ng-show="completing && suggestions.length>0">\
             <li\
               suggestion\
               ng-repeat="suggestion in suggestions"\
