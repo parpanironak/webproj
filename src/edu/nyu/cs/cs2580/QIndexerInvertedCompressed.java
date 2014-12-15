@@ -41,8 +41,8 @@ public class QIndexerInvertedCompressed implements Serializable{
   /**
    * 
    */
-  private static final long serialVersionUID = -3454178520283822976L;
-
+  private static final long serialVersionUID = 2060560581902510128L;
+  
   protected Options _options = null;
   protected int _numDocs = 0;
   protected long _totalTermFrequency = 0;

@@ -32,4 +32,4 @@ Steps to run code:
 7. To run the server in index mode, run
 		java -cp lib/patricia-trie-0.6.jar:src/ edu.nyu.cs.cs2580.SearchEngine --mode=index --options=conf/engine.conf
 8. To run the server in serve mode, run
-		java -cp lib/patricia-trie-0.6.jar:lijson-simple-1.1.1.jar:src/ edu.nyu.cs.cs2580.SearchEngine --mode=serve --options=conf/engine.conf --port=25809
+		java -cp lib/patricia-trie-0.6.jar:lib/json-simple-1.1.1.jar:src/ edu.nyu.cs.cs2580.SearchEngine --mode=serve --options=conf/engine.conf --port=25809

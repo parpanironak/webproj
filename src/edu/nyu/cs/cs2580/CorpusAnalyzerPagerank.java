@@ -66,7 +66,7 @@ public class CorpusAnalyzerPagerank extends CorpusAnalyzer {
     System.out.println("done....");
     
     HeuristicLinkExtractor le = null;
-    final File corpusDirectory = new File(_options._corpusPrefix);
+    final File corpusDirectory = new File(_options._originalCorpusPrefix);
     for (final File fileEntry : corpusDirectory.listFiles()) {
     	int docid = linkdocid_map.get(fileEntry.getName());
     	HashSet<Integer> outlinks = new HashSet<Integer>();
@@ -338,7 +338,7 @@ public class CorpusAnalyzerPagerank extends CorpusAnalyzer {
 			
 	public String getRedirectLink(String outlinktitle) throws IOException
 	{
-		File f = new File(_options._corpusPrefix +"/"+ outlinktitle);		
+		File f = new File(_options._originalCorpusPrefix +"/"+ outlinktitle);		
 		if(f.exists())
 		{
 			Scanner sc = new Scanner(f, "UTF8");
@@ -381,7 +381,7 @@ public class CorpusAnalyzerPagerank extends CorpusAnalyzer {
 	private Map<String, String> generateRedirectMap() throws IOException
 	{
 		Map<String, String> redirectmap = new HashMap<String, String>();
-		final File corpusDirectory = new File(_options._corpusPrefix);
+		final File corpusDirectory = new File(_options._originalCorpusPrefix);
 		for (final File fileEntry : corpusDirectory.listFiles())
 		{
 			String fname = fileEntry.getName();

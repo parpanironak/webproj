@@ -91,6 +91,7 @@ public class SearchEngine {
     public String _query_log_file=null;
     public String qindexdocsplitprefix = null;
     public int qindexdocsplit = 1000000;
+    public String _originalCorpusPrefix = null;
     
     /**
      * Constructor for options.
@@ -153,6 +154,7 @@ public class SearchEngine {
       _query_log_file = options.get("query_log_file");
       qindexdocsplit = Integer.parseInt(options.get("qindexdoclevelsplit"));
       qindexdocsplitprefix = options.get("qindexdocsplitprefix");
+      _originalCorpusPrefix = options.get("original_corpus_prefix");
     }
   }
   public static Options OPTIONS = null;

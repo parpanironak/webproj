@@ -247,7 +247,9 @@ class QueryHandler implements HttpHandler {
 	      else {
 	        HashMap<String,Integer> userQueryDetails = qindexer.userData.get(userName);
 	        if(userQueryDetails.containsKey(processedQuery._query)) {
-	          userQueryDetails.put(processedQuery._query, userQueryDetails.get(processedQuery._query) + 1);
+	          if(userQueryDetails.get(processedQuery._query) < 10) {
+	            userQueryDetails.put(processedQuery._query, userQueryDetails.get(processedQuery._query) + 1);
+	          }
 	        }
 	        else {
 	          userQueryDetails.put(processedQuery._query, 1);
